@@ -1,0 +1,340 @@
+.graph-legend {
+margin-top: 1em;	
+display: flex;
+justify-content: space-around;
+align-items: center;
+flex-direction: column;
+	@include media(small-up) {
+	margin-top: 1.5em;	
+	flex-direction: column;	
+	}
+	@include media(medium-up) {
+	margin-top: 1em;
+	flex-direction: column;	
+	}
+	@include media(large-up) {
+	margin-top: 1em;	
+	flex-direction: row;	
+	}
+	@include media(xlarge-up) {
+	margin-top: 1em;	
+	flex-direction: row;
+	}
+	.graph-legend-content,
+	.graph-legend-values,
+	.graph-legend-interaction {
+	display: flex;
+    justify-content: space-around;
+    align-items: flex-start;			
+	border-left: none;
+	border-top: 1px solid $black;
+		@include media(small-up) {
+		border-left: none;
+		border-top: 1px solid $black;
+		}
+		@include media(medium-up) {
+		border-left: none;
+		border-top: 1px solid $black;		
+		}
+		@include media(large-up) {
+		border-top: none;	
+		border-left: 1px solid $black;
+		}
+		@include media(xlarge-up) {
+		border-top: none;	
+		border-left: 1px solid $black;
+		} 	
+	}
+
+
+
+	.graph-legend-content {
+	padding: 0.5em 0.5em;	
+		@include media(small-up) {
+		padding: 1em 1em;
+		}
+		@include media(medium-up) {
+		padding: 1em 1em;	
+		}
+		@include media(large-up) {
+		padding: 1em 3em;
+		}
+		@include media(xlarge-up) {
+		padding: 1em 5em;
+		}
+		@media only screen and (min-width: 1366px) {
+		padding: 1em 6em;   
+		}  
+		@media only screen and (min-width: 1440px) {
+		padding: 1em 5em;    
+		}  
+		@media only screen and (min-width: 1600px) {
+		padding: 1em 6.5em;     
+		}
+		@media only screen and (min-width: 1680px) {
+		padding: 1em 7em;     
+		}
+		@media only screen and (min-width: 1870px) {
+		padding: 1em 8.5em;       
+		}				
+		@media only screen and (min-width: 1920px) {
+		padding: 1em 8.5em;       
+		}		 			
+		.graph-legend-content-item {	
+		text-align: center;				
+			.graph-legend-content-item-value {
+			font-family: $platform-bold;				
+			color: $black;    											
+			line-height: 1;
+			font-size: 17px;
+			letter-spacing: 2px;
+			margin-bottom: 5px;
+				@include media(small-up) {
+				font-size: 23px;	
+				}
+				@include media(medium-up) {
+				font-size: 25px;	
+				}
+				@include media(large-up) {
+				font-size: 30px;	
+				}
+				@include media(xlarge-up) {
+				font-size: 30px;	
+				}			
+			}
+			.graph-legend-content-item-label	{
+			font-family: $simplon-medium;	
+			color: $black;    											
+			line-height: 1;
+			font-size: 9px;
+			text-transform: uppercase;
+			margin-bottom: 0px;
+				@include media(small-up) {
+				font-size: 12px;
+				margin-bottom: 0px;	
+				}
+				@include media(medium-up) {
+				font-size: 12px;
+				margin-bottom: 10px;	
+				}
+				@include media(large-up) {
+				font-size: 13px;
+				margin-bottom: 10px;	
+				}
+				@include media(xlarge-up) {
+				font-size: 12px;
+				margin-bottom: 10px;	
+				} 				
+			}
+		}
+		.graph-legend-content-item + .graph-legend-content-item {
+		margin-left: 1em;	
+			@include media(small-up) {
+			margin-left: 2em;	
+			}
+			@include media(medium-up) {
+			margin-left: 3em;	
+			}
+			@include media(large-up) {
+			margin-left: 1em;	
+			}
+			@include media(xlarge-up) {
+			margin-left: 2.5em;	
+			} 
+		}
+	}
+	.graph-legend-values {
+	padding: 0.5em 0.5em;	
+		@include media(small-up) {
+		padding: 1em 1em;
+		}
+		@include media(medium-up) {
+		padding: 1em 1em;	
+		}
+		@include media(large-up) {
+		padding: 1em 3em;
+		}
+		@include media(xlarge-up) {
+		padding: 1em 4em;
+		} 
+		@media only screen and (min-width: 1366px) {
+		padding: 1em 4em;   
+		}  
+		@media only screen and (min-width: 1440px) {
+		padding: 1em 3em;    
+		}  
+		@media only screen and (min-width: 1600px) {
+		padding: 1em 5em;     
+		}
+		@media only screen and (min-width: 1680px) {
+		padding: 1em 6em;     
+		}		
+		@media only screen and (min-width: 1870px) {
+		padding: 1em 7.5em;       
+		}
+		@media only screen and (min-width: 1920px) {
+		padding: 1em 7.5em;       
+		}						
+		.graph-legend-values-item {	
+			.graph-legend-values-label {
+			font-family: $simplon-medium;	
+			color: $black;    											
+			line-height: 1;
+			font-size: 11px;
+			text-transform: uppercase;
+			margin-bottom: 5px;
+				@include media(small-up) {
+				font-size: 13px;
+				margin-bottom: 5px;	
+				}
+				@include media(medium-up) {
+				font-size: 14px;
+				margin-bottom: 5px;	
+				}
+				@include media(large-up) {
+				font-size: 14px;
+				margin-bottom: 10px;	
+				}
+				@include media(xlarge-up) {
+				font-size: 14px;
+				margin-bottom: 10px;		
+				}  			
+			}				
+			.graph-legend-values-value {					
+			font-family: $simplon-light;				
+			color: $black;    											
+			line-height: 1;
+			font-size: 10px;
+			letter-spacing: 1px;
+			text-transform: uppercase;
+				@include media(small-up) {
+				font-size: 12px;
+				}
+				@include media(medium-up) {
+				font-size: 12px;
+				}
+				@include media(large-up) {
+				font-size: 13px;
+				}
+				@include media(xlarge-up) {
+				font-size: 13px;
+				} 				
+				i {
+				font-size: 10px;    											
+				line-height: 1;
+    			text-align: center;
+					@include media(small-up) {
+					font-size: 11px;
+					}
+					@include media(medium-up) {
+					font-size: 12px;
+					}
+					@include media(large-up) {
+					font-size: 13px;
+					}
+					@include media(xlarge-up) {
+					font-size: 13px;
+					}    				
+				}				
+				&.internet-and-mobile-companies {
+					i {
+					color: $red;	
+					}
+				}
+		        &.telecommunications-companies {
+		        	i {
+		        	color: $orange;  
+		            }         
+		        }
+		        &.rank {
+		        	i {
+		        	color: $gray;
+		        	}	
+		        }
+		        .graph-legend-values-value-bar {
+		        display: inline-block;	
+		        width: 10em;
+		        height: 1em;
+		        background-color: $base-color;  	
+		        }					
+			}
+			.graph-legend-values-value + .graph-legend-values-value {
+			margin-top: 5px;	
+			}
+		}
+		.graph-legend-values-item + .graph-legend-values-item {
+		margin-left: 1em;
+			@include media(small-up) {
+			margin-left: 1em;	
+			}
+			@include media(medium-up) {
+			margin-left: 2.5em;	
+			}
+			@include media(large-up) {
+			margin-left: 1.5em;	
+			}
+			@include media(xlarge-up) {
+			margin-left: 2em;
+			}				
+		}			
+	}
+	.graph-legend-interaction {
+	padding: 0.5em 0.5em;	
+		@include media(small-up) {
+		padding: 1em 1em;
+		}
+		@include media(medium-up) {
+		padding: 1em 1em;	
+		}
+		@include media(large-up) {
+		padding: 1em 3em;
+		}
+		@include media(xlarge-up) {
+		padding: 1em 5em;
+		}
+		@media only screen and (min-width: 1366px) {
+		padding: 1em 5em;   
+		}  
+		@media only screen and (min-width: 1440px) {
+		padding: 1em 5em;    
+		}  
+		@media only screen and (min-width: 1600px) {
+		padding: 1em 5.5em;     
+		}
+		@media only screen and (min-width: 1680px) {
+		padding: 1em 6em;     
+		}		
+		@media only screen and (min-width: 1870px) {
+		padding: 1em 7.5em;       
+		}
+		@media only screen and (min-width: 1920px) {
+		padding: 1em 7.5em;       
+		}				 		
+		.graph-legend-interaction-item {
+		display: flex;	
+		background-color: $black;	
+			i {
+			color: $white-pure;	
+			font-size: 17px;    											
+			line-height: 1;
+			padding: 5px 7px;
+			text-align: center;
+				@include media(small-up) {
+				font-size: 18px;
+				}
+				@include media(medium-up) {
+				font-size: 18px;
+				}
+				@include media(large-up) {
+				font-size: 20px;
+				}
+				@include media(xlarge-up) {
+				font-size: 20px;
+				}    				
+			}
+		}
+		.graph-legend-interaction-item + .graph-legend-interaction-item {
+		margin-left: 1em;		
+		}	
+	}
+}	

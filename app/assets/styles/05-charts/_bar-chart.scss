@@ -1,0 +1,73 @@
+.bar--axis_y path,
+.bar--axis_y line,
+.bar--axis_x path,
+.bar--axis_x line,
+.bar--axis_x_service path,
+.bar--axis_x_service line {
+  fill: none;
+  shape-rendering: crispEdges;
+  stroke: $gray;
+}
+
+.bar--default { fill: $cat-total; }
+.bar--commitment { fill: $cat-commitment; }
+.bar--freedom { fill: $cat-freedom; }
+.bar--privacy { fill: $cat-privacy; }
+
+.bar--zero {
+  fill: $primary-color !important;
+}
+
+.bar--tip {
+  @include tooltip;
+  transition: opacity .2s ease-out;
+}
+
+.bar--tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 1em;
+  width: 100%;
+  line-height: 1;
+  color: $black;
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+.G {
+  .bar {
+    fill: $cat-commitment;
+  }
+}
+.F {
+  .bar {
+    fill: $cat-freedom;
+  }
+}
+.P {
+    .bar {
+    fill: $cat-privacy;
+  }
+}
+
+
+.bar--tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+
+.bar--axis_y {
+  font-size: .8em;
+  fill: $black;
+}
+
+.bar--axis_x_company text {
+  font-size: .8em;
+  cursor: pointer;
+  fill: $base-color;
+  &:hover {
+    text-decoration: underline;
+  }
+}

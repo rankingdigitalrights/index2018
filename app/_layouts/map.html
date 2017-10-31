@@ -1,0 +1,145 @@
+<!doctype html>
+
+<!--[if lt IE 10]> <html class="lt-ie10 no-js"  lang=""> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+
+{% include head.html %}
+
+<body id="page--index">
+
+  <!--[if lt IE 10]>
+         <div id="nocando">
+           <p>You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+         </div>
+      <![endif]-->
+
+  <!-- Header -->
+  {% include banner.html %}
+
+  <!-- Page itro -->
+  <div class="page--intro non-highlihted-bg">
+    <div class="row contain">
+      <p>{{ page.intro }}</p>
+    </div>
+  </div>
+
+    <div id="site-canvas" data-type="{{ page.visualization }}" data-id="{{ page.entity }}">
+
+      <div class="contain row">
+        <h1 class="page--title">
+          {{ page.header }}
+        </h1>
+        <section id="map" class="world-map non-highlihted-bg">
+          <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>
+          <script src="//cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
+          <script src="{{ site.baseurl }}/node_modules/datamaps/dist/datamaps.all.min.js"></script>
+          <div id="container"></div>
+          <script>
+              var map = new Datamap({
+                  element: document.getElementById('container'),
+                  scope: 'usa', // Currently supports 'usa' and 'world', however with custom map data you can specify your own
+                  //setProjection: setProjection, // Returns a d3 path and projection functions
+                  projection: 'marcator', // Style of projection to be used. try "mercator"
+                  height: null, // If not null, datamaps will grab the height of 'element'
+                  width: null, // If not null, datamaps will grab the width of 'element',
+                  responsive: true, // If true, call `resize()` on the map object when it should adjust it's size
+                  done: function() {}, // Callback when the map is done drawing
+                  fills: {
+                    defaultFill: '#ABDDA4' // The keys in this object map to the "fillKey" of [data] or [bubbles]
+                  },
+                  dataType: 'json', // For use with dataUrl, currently 'json' or 'csv'. CSV should have an `id` column
+                  dataUrl: null, // If not null, datamaps will attempt to fetch this based on dataType ( default: json )
+              });
+
+              // Pure JavaScript
+              window.addEventListener('resize', function() {
+                  map.resize();
+              });
+
+              // Alternatively with d3
+              d3.select(window).on('resize', function() {
+                  map.resize();
+              });
+              
+              // Alternatively with jQuery
+              $(window).on('resize', function() {
+                 map.resize();
+              });
+          </script>
+        </section>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    {% include footer.html %}
+    
+    <!-- Go to top HTML -->
+    <a href="#" class="go-to-top">Top</a>
+
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+    <!-- JS -->
+    <script src="{{ site.baseurl }}/assets/scripts/bundle.js"></script>
+
+    <!-- Tabs JS -->
+    <script type="text/javascript">
+      // Equal heghts
+      var tabsFn = (function () {
+        function init() {
+          setHeight();
+        }
+        function setHeight() {
+          var $tabPane = $('.tab-pane-wrapper'),
+            tabsHeight = $('.nav-tabs').height();
+          $tabPane.css({
+            height: tabsHeight
+          });
+        }
+        $(init);
+      })();
+
+      // Current tab
+      $(document).ready(function () {
+        $('ul.nav-tabs li').click(function () {
+          var tab_id = $(this).attr('data-tab');
+          $('ul.nav-tabs li').removeClass('current');
+          $('.tab-pane-wrapper').removeClass('current');
+          $(this).addClass('current');
+          $("#" + tab_id).addClass('current');
+        })
+      })
+    </script>
+    
+    <!-- Go to top JS -->
+    <script type="text/javascript">
+      jQuery(document).ready(function($){
+        // browser window scroll (in pixels) after which the "back to top" link is shown
+        var offset = 300,
+          //browser window scroll (in pixels) after which the "back to top" link opacity is reduced
+          offset_opacity = 1200,
+          //duration of the top scrolling animation (in ms)
+          scroll_top_duration = 700,
+          //grab the "back to top" link
+          $back_to_top = $('.go-to-top');
+        //hide or show the "back to top" link
+        $(window).scroll(function(){
+          ( $(this).scrollTop() > offset ) ? $back_to_top.addClass('is-visible') : $back_to_top.removeClass('is-visible fade-out');
+          if( $(this).scrollTop() > offset_opacity ) { 
+            $back_to_top.addClass('fade-out');
+          }
+        });
+        //smooth scroll to top
+        $back_to_top.on('click', function(event){
+          event.preventDefault();
+          $('body,html').animate({
+            scrollTop: 0 ,
+            }, scroll_top_duration
+          );
+        });
+      });      
+    </script>
+
+</body>
+
+</html>

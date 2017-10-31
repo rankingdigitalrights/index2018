@@ -1,0 +1,81 @@
+@mixin tablespan($width) {
+  thead tr th:first-child,
+  tbody tr td:first-child { width: $width; }
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  empty-cells: show;
+
+  th,
+  td { text-align: center; }
+
+  thead tr th:first-child,
+  tbody tr td:first-child {
+    text-align: left;
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+
+  th, td {
+    padding-top: 1.5em;
+    padding-bottom: .1em;
+    vertical-align: middle;
+  }
+
+  th {
+    font-weight: normal;
+    padding-bottom: .5em;
+    font-size: .8em;
+    line-height: 1em;
+    text-transform: uppercase;
+    vertical-align: bottom;
+  }
+
+  thead {
+    border-bottom: 1px solid $beige;
+  }
+
+  .col_0 {
+    background: $beige;
+  }
+
+  .thead--end .col_0 {
+    border-bottom: 1px solid $white;
+  }
+}
+
+.table--service_label {
+  display: block;
+  color: $dark;
+  margin-bottom: .3em;
+}
+
+
+.table--scores {
+  line-height: 1.4em;
+  table-layout: fixed;
+  @include tablespan(250px);
+  @include media(large-up) {
+    @include tablespan(300px);
+  }
+
+}
+
+.table--span_3, .table--span_4 {
+  @include tablespan(350px);
+  @include media(large-up) {
+    @include tablespan(400px);
+  }
+}
+
+.table--span_1, .table--span_2 {
+  @include tablespan(500px);
+}
+
+.table--footer {
+  td:first-child {
+    text-transform: uppercase;
+  }
+}

@@ -1,0 +1,113 @@
+// IE < 10
+// Don't delete.
+.lt-ie10 {
+  #site-canvas {
+    display: none;
+  }
+  #nocando {
+    margin: 200px auto;
+    padding: 32px;
+    max-width: 440px;
+    background: #fff;
+    h1 {
+      font-size: 24px;
+      line-height: 1.1;
+      margin-bottom: 32px;
+    }
+  }
+}
+
+.row {
+  @extend .clearfix;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  @include media(small-up) {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
+
+.row-centered {
+  max-width: $row-max-width;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.row-contained {
+  @extend .row;
+  max-width: $prose-width;
+}
+
+.data {
+  margin-top: .5em;
+  text-align: right;
+  @extend .contain;
+}
+
+.outbound {
+  margin-bottom: .725em;
+  display: inline-block;
+}
+
+
+
+.inverted {
+  background: $beige;
+  padding-top: 3em;
+  padding-bottom: 2em;
+  @extend .clearfix;
+}
+
+.spaced-row {
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+}
+
+.label {
+  color: $dark;
+  margin-bottom: .5em;
+  font-style: italic;
+}
+
+.blocklabel {
+  color: $dark;
+  text-transform: uppercase;
+  font-size: .8em;
+  line-height: 1em;
+  margin-top: 1.5em;
+  margin-bottom: .5em;
+  display: block;
+}
+
+.inlinelabel {
+  @extend .blocklabel;
+  display: inline-block;
+  margin-left: .5em;
+}
+
+.breadcrumbs {
+  text-transform: uppercase;
+  font-size: .9em;
+  display: flex;
+  align-items: flex-end;
+
+  .collecticon {
+    color: $base-color;
+    line-height: 1.8em;
+  }
+}
+
+.trigger {
+  .js--collapse { display: none; }
+  .js--expand { display: block; }
+  &.expanded {
+    .js--collapse { display: block; }
+    .js--expand { display: none; }
+  }
+  @include noselect;
+  cursor: pointer;
+}
+
+.collapse--target {
+  display: none;
+}

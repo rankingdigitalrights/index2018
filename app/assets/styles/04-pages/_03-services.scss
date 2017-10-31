@@ -1,0 +1,64 @@
+#page--services {
+	.services--list {
+	padding: 0;
+		@include media(small-up) {
+		padding: 0;
+		}
+		@include media(medium-up) {
+		padding: 0;
+		}
+		@include media(large-up) {
+		padding: 0;
+		}
+		@include media(xlarge-up) {
+		padding: 1.5em 0 8em 2em;	
+		}		
+		#index--services {
+			li {
+				i {
+				color: $violet;	
+				font-size: 17px;    							
+				margin-right: 5px;
+				line-height: 1;
+    			text-align: center;
+					@include media(small-up) {
+					font-size: 18px;    							
+					margin-right: 5px;
+					}
+					@include media(medium-up) {
+					font-size: 18px;    							
+					margin-right: 5px;
+					}
+					@include media(large-up) {
+					font-size: 20px;    							
+					margin-right: 5px;
+					}
+					@include media(xlarge-up) {
+					font-size: 20px;
+					margin-right: 5px;	
+					}    				
+				}
+				a {
+				color: $black;
+				font-family: $platform-bold;
+				text-transform: uppercase;
+	    		font-size: 17px;
+	    		line-height: 1.5;	
+	    		letter-spacing: 1px;
+					@include media(small-up) {
+					font-size: 18px;
+					}
+					@include media(medium-up) {
+					font-size: 18px;
+					}
+					@include media(large-up) {
+					font-size: 20px;
+					}
+					@include media(xlarge-up) {
+					font-size: 23px;
+					}	    		
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,77 @@
+/* Platform - H1 font */
+
+@font-face {
+  font-family: 'Platform-Hairline';
+  src: url('../graphics/fonts/platform/Platform-Hairline.otf');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Platform-Light';
+  src: url('../graphics/fonts/platform/Platform-Light.otf');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Platform-Medium';
+  src: url('../graphics/fonts/platform/Platform-Medium.woff'),
+       url('../graphics/fonts/platform/Platform-Medium.ttf')
+       url('../graphics/fonts/platform/Platform-Medium.otf');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Platform-Regular';
+  src: url('../graphics/fonts/platform/Platform-Regular.woff'),
+       url('../graphics/fonts/platform/Platform-Regular.ttf'),
+       url('../graphics/fonts/platform/Platform-Regular.otf');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Platform-Bold';
+  src: url('../graphics/fonts/platform/Platform-Bold.otf');
+  font-weight: 900;
+  font-style: normal;
+}
+
+
+/* Simplon - Body font */
+
+@font-face {
+  font-family: 'Simplon-Light';
+  src: url('../graphics/fonts/simplon/Simplon_BP_Light_1.ttf'),
+       url('../graphics/fonts/simplon/Simplon_BP_Light_1.otf');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Simplon-Regular';
+  src: url('../graphics/fonts/simplon/Simplon_BP_Regular_1.ttf'),
+       url('../graphics/fonts/simplon/Simplon_BP_Regular_1.otf');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Simplon-Medium';
+  src: url('../graphics/fonts/simplon/Simplon_BP_Medium_1.woff'),
+       url('../graphics/fonts/simplon/Simplon_BP_Medium_1.ttf'),
+       url('../graphics/fonts/simplon/Simplon_BP_Medium_1.otf');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Simplon-Bold';
+  src: url('../graphics/fonts/simplon/Simplon_BP_Bold_2.woff'),
+       url('../graphics/fonts/simplon/Simplon_BP_Bold_2.ttf'),
+       url('../graphics/fonts/simplon/Simplon_BP_Bold_2.otf');
+  font-weight: 900;
+  font-style: normal;
+}

@@ -1,0 +1,59 @@
+// PRINT STYLES
+
+.small-only {
+  display: block;
+  @include media(medium-up) { display: none; }
+}
+
+.not-small {
+  @include media(small) { display: none; }
+}
+
+.medium-only {
+  display: none;
+  @include media(medium-only) { display: block; }
+}
+
+.medium-up {
+  display: none;
+  @include media(medium-up) { display: block; }
+}
+
+.medium-down {
+  display: block;
+  @include media(large-up) { display: none; }
+}
+
+.large-up {
+  display: none;
+  @include media(large-up) { display: block; }
+}
+
+@page {
+  margin: 1cm 1.5cm;
+}
+
+@media print {
+  * {
+    color: $base-color;
+  }
+  a, a:visited {
+    color: $base-color;
+  }
+  .no-print {
+    display: none;
+  }
+  .page-body {
+    padding-top: 1rem;
+  }
+  .modal.destroyed {
+    position: static;
+    display: block;
+    opacity: 1;
+    .modal-content {
+      width: 90%;
+      margin: 2rem 0 0 0;
+      padding: 0;
+    }
+  }
+}

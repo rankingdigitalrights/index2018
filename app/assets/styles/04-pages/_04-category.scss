@@ -1,0 +1,247 @@
+#page--category {
+
+	&.governance {
+		.page--title,
+		.page--subtitle,
+		h3 {
+			color: $cat-commitment !important;
+			a {
+				color: $cat-commitment !important;
+			}
+		}	
+	}
+	&.freedom-of-expression {
+		.page--title,
+		.page--subtitle,
+		h3 {
+			color: $cat-freedom !important;
+			a {
+				color: $cat-freedom !important;
+			}
+		}	
+	}
+	&.privacy {
+		.page--title,
+		.page--subtitle,
+		h3 {
+			color: $cat-privacy !important;
+			a {
+				color: $cat-privacy !important;
+			}
+		}	
+	}
+
+	.page-content-dynamic {
+
+		.page-introduction {
+
+		}
+
+		.category-graph {
+			.category-chart {
+				#category--overview_chart_left,
+				#category--overview_chart_right {
+					@include media(medium-up) {
+					@include span-columns(6);
+					}
+				}
+				#category--overview_chart_left {
+					i {
+					color: $red;	
+					}
+				}
+				#category--overview_chart_right {
+					i {
+					color: $orange;	
+					}					
+				}				
+				.graph-title {
+					p {
+					font-family: $simplon-light;
+				    color: $black;
+				    font-size: 11px;
+				    line-height: 1.3; 
+				    letter-spacing: 1px;
+				    text-transform: uppercase;
+				      @include media(small-up) {
+				      font-size: 11px;  
+				      }
+				      @include media(medium-up) {
+				      font-size: 12px;  
+				      }
+				      @include media(large-up) {
+				      font-size: 13px;
+				      }
+				      @include media(xlarge-up) {
+				      font-size: 13px;  
+				      }
+					}
+			    }   
+				.bar--chart {
+				height: 260px;
+			        @include media(small-up) {
+					height: 300px;
+			        }
+			        @include media(medium-up) {
+					height: 300px;
+			        }
+			        @include media(large-up) {
+					height: 300px;
+			        }
+			        @include media(xlarge-up) {
+					height: 300px;			 
+			        }				
+
+					.bar--axis_x {
+						.tick {
+						cursor: pointer;	
+						text-align: center;
+						line-height: 2;               
+						fill: $black;
+						font-weight: 600;
+						font-family: $simplon-regular;
+						text-transform: uppercase;                 
+						font-size: 9px;
+							@include media(small-up) {
+							font-size: 9px;
+							}
+							@include media(medium-up) {
+							font-size: 10px;  
+							}
+							@include media(large-up) {
+							font-size: 11px;
+							}
+							@include media(xlarge-up) {
+							font-size: 13px;  
+							}
+							&:hover {
+							text-decoration: underline; 	
+							}
+							text {
+							transform: rotate(-90deg);
+						        @include media(small-up) {
+						        transform: rotate(-90deg);	
+						        }
+						        @include media(medium-up) {
+								transform: none;				  
+						        }
+						        @include media(large-up) {
+								transform: none;
+						        }
+						        @include media(xlarge-up) {
+								transform: none;				 
+						        }						
+							} 														
+						}						
+					}
+					.bar--axis_x_rank {
+						.tick {
+						text-align: center;
+						line-height: 2;               
+						fill: $white-pure;
+						font-weight: 600;
+						font-family: $simplon-bold;						                 
+						font-size: 14px;
+							@include media(small-up) {
+							font-size: 14px;
+							}
+							@include media(medium-up) {
+							font-size: 14px;  
+							}
+							@include media(large-up) {
+							font-size: 14px;
+							}
+							@include media(xlarge-up) {
+							font-size: 14px;  
+							} 							
+						}
+					}
+					.bar {
+						&.bar--governance {
+						fill: $cat-commitment !important;
+						  &:hover {
+						  fill: $cat-commitment-hover !important;
+						  }								
+						}
+						&.bar--freedom {
+						fill: $cat-freedom !important;
+						  &:hover {
+						  fill: $cat-freedom-hover !important;
+						  }								
+						}
+						&.bar--privacy {
+						fill: $cat-privacy !important;
+						  &:hover {
+						  fill: $cat-privacy-hover !important;
+						  }								
+						}
+					}						
+				}
+			}
+			.graph-legend {
+			clear: both;	
+			justify-content: flex-end;
+				.service-rank {	
+					i {
+					color: $gray;
+					font-size: 20px;	
+					}
+				}
+				.graph-legend-values-value {					
+				font-family: $simplon-medium;
+				}				
+			}			
+		}
+
+
+		.category-indicators {
+			.container--left + .container--right {
+			/*border-left: 1px solid $light-grey;*/
+			}
+			.container--left {
+				@include media(medium-up) {
+				@include span-columns(6);
+				}
+			}
+			.container--right {
+				@include media(medium-up) {
+				@include span-columns(6);
+				}
+				.indicator-item {
+					&:first-child {				
+						margin-top: 1em;			
+				        @include media(small-up) {
+				        margin-top: 1em;	        	
+				        }
+				        @include media(medium-up) {
+						margin-top: 0em;						  
+				        }
+				        @include media(large-up) {
+						margin-top: 0em;
+				        }
+				        @include media(xlarge-up) {
+						margin-top: 0em;		 
+				        }
+				    }    				
+				}				
+			}			
+			.indicator-item + .indicator-item {
+			margin-top: 1em;			
+		        @include media(small-up) {
+		        margin-top: 1em;	        	
+		        }
+		        @include media(medium-up) {
+				margin-top: 2em;						  
+		        }
+		        @include media(large-up) {
+				margin-top: 2em;
+		        }
+		        @include media(xlarge-up) {
+				margin-top: 2em;		 
+		        }				
+			}			
+		}
+
+	}
+
+}

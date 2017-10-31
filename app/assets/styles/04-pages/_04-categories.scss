@@ -1,0 +1,5 @@
+.col-6 {
+	@include media(medium-up) {
+    	@include span-columns(6);
+  	}
+}

@@ -1,0 +1,1975 @@
+{
+   "id":"P16",
+   "name":"P16. ENCRYPTION OF USER COMMUNICATION AND PRIVATE CONTENT (INTERNET, SOFTWARE, AND DEVICE COMPANIES)",
+   "paragraph_1":"The company should encrypt user communication and private content so users can control who has access to it.",
+   "companies":[
+      {
+         "name":"América Móvil",
+         "id":"americaMovil",
+         "headers":[
+            {
+               "text":"Prepaid Mobile"
+            },
+            {
+               "text":"Postpaid Mobile"
+            }
+         ],
+         "average":[
+            {
+               "value":"N/A"
+            },
+            {
+               "value":"N/A"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that the transmission of user communications is encrypted by default?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that transmissions of user communications are encrypted using unique keys?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                 {
+      "value": "Does the company clearly disclose that users can secure their private content using end-to-end encryption?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that end-to-end encryption is enabled by default?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Apple",
+         "id":"apple",
+         "headers":[
+            {
+               "text":"iOS mobile ecosystem"
+            },
+            {
+               "text":"iMessage"
+            },
+            {
+               "text":"iCloud"
+            }
+         ],
+         "average":[
+            {
+               "value":"75"
+            },
+            {
+               "value":"75"
+            },
+            {
+               "value":"50"
+            }
+         ],
+          "rows":[
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that the transmission of user communications is encrypted by default?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that transmissions of user communications are encrypted using unique keys?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that users can secure their private content using end-to-end encryption?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }, {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that end-to-end encryption is enabled by default?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }, {
+      "value": "exclude"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"AT&T",
+         "id":"att",
+         "headers":[
+            {
+               "text":"Prepaid Mobile"
+            },
+            {
+               "text":"Postpaid Mobile"
+            },
+            {
+               "text":"Fixed Line Broadband"
+            }
+         ],
+         "average":[
+            {
+               "value":"N/A"
+            },
+            {
+               "value":"N/A"
+            },
+            {
+               "value":"N/A"
+            }
+         ],
+          "rows":[
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that the transmission of user communications is encrypted by default?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that transmissions of user communications are encrypted using unique keys?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that users can secure their private content using end-to-end encryption?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that end-to-end encryption is enabled by default?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Axiata",
+         "id":"axiata",
+         "headers":[
+            {
+               "text":"Prepaid Mobile"
+            },
+            {
+               "text":"Postpaid Mobile"
+            }
+         ],
+         "average":[
+            {
+               "value":"N/A"
+            },
+            {
+               "value":"N/A"
+            }
+         ],
+          "rows":[
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that the transmission of user communications is encrypted by default?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that transmissions of user communications are encrypted using unique keys?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that users can secure their private content using end-to-end encryption?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that end-to-end encryption is enabled by default?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Baidu",
+         "id":"baidu",
+         "headers":[
+            {
+               "text":"Baidu Search"
+            },
+            {
+               "text":"Baidu Cloud"
+            },
+            {
+               "text":"Baidu PostBar"
+            }
+         ],
+         "average":[
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            }
+         ],
+          "rows":[
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that the transmission of user communications is encrypted by default?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that transmissions of user communications are encrypted using unique keys?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that users can secure their private content using end-to-end encryption?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that end-to-end encryption is enabled by default?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Bharti Airtel",
+         "id":"bhartiairtel",
+         "headers":[
+            {
+               "text":"Prepaid Mobile"
+            },
+            {
+               "text":"Postpaid Mobile"
+            },
+            {
+               "text":"Fixed Line Broadband"
+            }
+         ],
+         "average":[
+            {
+               "value":"N/A"
+            },
+            {
+               "value":"N/A"
+            },
+            {
+               "value":"N/A"
+            }
+         ],
+          "rows":[
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that the transmission of user communications is encrypted by default?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that transmissions of user communications are encrypted using unique keys?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that users can secure their private content using end-to-end encryption?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that end-to-end encryption is enabled by default?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Etisalat",
+         "id":"etisalat",
+         "headers":[
+            {
+               "text":"Prepaid Mobile"
+            },
+            {
+               "text":"Postpaid Mobile"
+            },
+            {
+               "text":"Fixed Line Broadband"
+            }
+         ],
+         "average":[
+            {
+               "value":"N/A"
+            },
+            {
+               "value":"N/A"
+            },
+            {
+               "value":"N/A"
+            }
+         ],
+          "rows":[
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that the transmission of user communications is encrypted by default?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that transmissions of user communications are encrypted using unique keys?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that users can secure their private content using end-to-end encryption?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that end-to-end encryption is enabled by default?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Facebook",
+         "id":"facebook",
+         "headers":[
+            {
+               "text":"Facebook"
+            },
+            {
+               "text":"Instagram"
+            },
+            {
+               "text":"WhatsApp"
+            },
+            {
+               "text":"Messenger"
+            }
+         ],
+         "average":[
+            {
+               "value":"50"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"100"
+            },
+            {
+               "value":"75"
+            }
+         ],
+          "rows":[
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that the transmission of user communications is encrypted by default?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that transmissions of user communications are encrypted using unique keys?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that users can secure their private content using end-to-end encryption?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that end-to-end encryption is enabled by default?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Google",
+         "id":"google",
+         "headers":[
+            {
+               "text":"Search"
+            },
+            {
+               "text":"Gmail"
+            },
+            {
+               "text":"Youtube"
+            },
+            {
+               "text":"Android mobile ecosystem"
+            }
+         ],
+         "average":[
+            {
+               "value":"100"
+            },
+            {
+               "value":"50"
+            },
+            {
+               "value":"100"
+            },
+            {
+               "value":"75"
+            }
+         ],
+          "rows":[
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that the transmission of user communications is encrypted by default?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that transmissions of user communications are encrypted using unique keys?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that users can secure their private content using end-to-end encryption?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that end-to-end encryption is enabled by default?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Kakao",
+         "id":"kakao",
+         "headers":[
+            {
+               "text":"Daum Search"
+            },
+            {
+               "text":"Daum Mail"
+            },
+            {
+               "text":"Kakao Talk"
+            }
+         ],
+         "average":[
+            {
+               "value":"25"
+            },
+            {
+               "value":"25"
+            },
+            {
+               "value":"50"
+            }
+         ],
+          "rows":[
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that the transmission of user communications is encrypted by default?"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that transmissions of user communications are encrypted using unique keys?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that users can secure their private content using end-to-end encryption?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that end-to-end encryption is enabled by default?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Mail.ru",
+         "id":"mailru",
+         "headers":[
+            {
+               "text":"Vkontakte"
+            },
+            {
+               "text":"Mail.Ru"
+            },
+            {
+               "text":"Mail.Ru Agent"
+            }
+         ],
+         "average":[
+            {
+               "value":"25"
+            },
+            {
+               "value":"25"
+            },
+            {
+               "value":"25"
+            }
+         ],
+          "rows":[
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that the transmission of user communications is encrypted by default?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that transmissions of user communications are encrypted using unique keys?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that users can secure their private content using end-to-end encryption?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that end-to-end encryption is enabled by default?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Microsoft",
+         "id":"microsoft",
+         "headers":[
+            {
+               "text":"Bing"
+            },
+            {
+               "text":"Outlook.com"
+            },
+            {
+               "text":"Skype"
+            }
+         ],
+         "average":[
+            {
+               "value":"50"
+            },
+            {
+               "value":"50"
+            },
+            {
+               "value":"25"
+            }
+         ],
+          "rows":[
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that the transmission of user communications is encrypted by default?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that transmissions of user communications are encrypted using unique keys?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that users can secure their private content using end-to-end encryption?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that end-to-end encryption is enabled by default?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"MTN",
+         "id":"mtn",
+         "headers":[
+            {
+               "text":"Prepaid Mobile"
+            },
+            {
+               "text":"Postpaid Mobile"
+            }
+         ],
+         "average":[
+            {
+               "value":"N/A"
+            },
+            {
+               "value":"N/A"
+            }
+         ],
+          "rows":[
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that the transmission of user communications is encrypted by default?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that transmissions of user communications are encrypted using unique keys?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that users can secure their private content using end-to-end encryption?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that end-to-end encryption is enabled by default?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Ooredoo",
+         "id":"ooredoo",
+         "headers":[
+            {
+               "text":"Prepaid Mobile"
+            },
+            {
+               "text":"Postpaid Mobile"
+            },
+            {
+               "text":"Fixed Line Broadband"
+            }
+         ],
+         "average":[
+            {
+               "value":"N/A"
+            },
+            {
+               "value":"N/A"
+            },
+            {
+               "value":"N/A"
+            }
+         ],
+          "rows":[
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that the transmission of user communications is encrypted by default?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that transmissions of user communications are encrypted using unique keys?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that users can secure their private content using end-to-end encryption?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that users can secure their private content using end-to-end encryption?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Orange",
+         "id":"orange",
+         "headers":[
+            {
+               "text":"Prepaid Mobile"
+            },
+            {
+               "text":"Postpaid Mobile"
+            },
+            {
+               "text":"Fixed Line Broadband"
+            }
+         ],
+         "average":[
+            {
+               "value":"N/A"
+            },
+            {
+               "value":"N/A"
+            },
+            {
+               "value":"N/A"
+            }
+         ],
+          "rows":[
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that the transmission of user communications is encrypted by default?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that transmissions of user communications are encrypted using unique keys?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that users can secure their private content using end-to-end encryption?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that end-to-end encryption is enabled by default?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Samsung",
+         "id":"samsung",
+         "headers":[
+            {
+               "text":"Samsung implementation of Android"
+            }
+         ],
+         "average":[
+            {
+               "value":"0"
+            }
+         ],
+          "rows":[
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that the transmission of user communications is encrypted by default?"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                {
+      "value": "Does the company clearly disclose that transmissions of user communications are encrypted using unique keys?"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that users can secure their private content using end-to-end encryption?"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that end-to-end encryption is enabled by default?"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Telefónica",
+         "id":"telefonica",
+         "headers":[
+            {
+               "text":"Prepaid Mobile"
+            },
+            {
+               "text":"Postpaid Mobile"
+            },
+            {
+               "text":"Fixed Line Broadband"
+            }
+         ],
+         "average":[
+            {
+               "value":"N/A"
+            },
+            {
+               "value":"N/A"
+            },
+            {
+               "value":"N/A"
+            }
+         ],
+          "rows":[
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that the transmission of user communications is encrypted by default?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                 {
+      "value": "Does the company clearly disclose that transmissions of user communications are encrypted using unique keys?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that users can secure their private content using end-to-end encryption?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that end-to-end encryption is enabled by default?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Tencent",
+         "id":"tencent",
+         "headers":[
+            {
+               "text":"QZone"
+            },
+            {
+               "text":"QQ"
+            },
+            {
+               "text":"WeChat"
+            }
+         ],
+         "average":[
+            {
+               "value":"0"
+            },
+            {
+               "value":"25"
+            },
+            {
+               "value":"0"
+            }
+         ],
+          "rows":[
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that the transmission of user communications is encrypted by default?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that transmissions of user communications are encrypted using unique keys?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that users can secure their private content using end-to-end encryption?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                 {
+      "value": "Does the company clearly disclose that end-to-end encryption is enabled by default?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Twitter",
+         "id":"twitter",
+         "headers":[
+            {
+               "text":"Twitter"
+            },
+            {
+               "text":"Vine"
+            },
+            {
+               "text":"Periscope"
+            }
+         ],
+         "average":[
+            {
+               "value":"50"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            }
+         ],
+          "rows":[
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that the transmission of user communications is encrypted by default?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that transmissions of user communications are encrypted using unique keys?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that users can secure their private content using end-to-end encryption?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that end-to-end encryption is enabled by default?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Vodafone",
+         "id":"vodafone",
+         "headers":[
+            {
+               "text":"Prepaid Mobile"
+            },
+            {
+               "text":"Postpaid Mobile"
+            },
+            {
+               "text":"Fixed Line Broadband"
+            }
+         ],
+         "average":[
+            {
+               "value":"N/A"
+            },
+            {
+               "value":"N/A"
+            },
+            {
+               "value":"N/A"
+            }
+         ],
+          "rows":[
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that the transmission of user communications is encrypted by default?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that transmissions of user communications are encrypted using unique keys?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that users can secure their private content using end-to-end encryption?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that end-to-end encryption is enabled by default?"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Yahoo",
+         "id":"yahoo",
+         "headers":[
+            {
+               "text":"Yahoo Mail"
+            },
+            {
+               "text":"Flickr"
+            },
+            {
+               "text":"Tumblr"
+            }
+         ],
+         "average":[
+            {
+               "value":"75"
+            },
+            {
+               "value":"50"
+            },
+            {
+               "value":"25"
+            }
+         ],
+          "rows":[
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that the transmission of user communications is encrypted by default?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "50"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that transmissions of user communications are encrypted using unique keys?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that users can secure their private content using end-to-end encryption?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that end-to-end encryption is enabled by default?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Yandex",
+         "id":"yandex",
+         "headers":[
+            {
+               "text":"Yandex Mail"
+            },
+            {
+               "text":"Yandex Search"
+            },
+            {
+               "text":"Yandex Disk (cloud storage)"
+            }
+         ],
+         "average":[
+            {
+               "value":"50"
+            },
+            {
+               "value":"100"
+            },
+            {
+               "value":"50"
+            }
+         ],
+          "rows":[
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that the transmission of user communications is encrypted by default?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that transmissions of user communications are encrypted using unique keys?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company clearly disclose that users can secure their private content using end-to-end encryption?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company clearly disclose that end-to-end encryption is enabled by default?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "exclude"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      }
+   ]
+}

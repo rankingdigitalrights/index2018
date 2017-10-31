@@ -1,0 +1,62 @@
+[
+ {
+   "Company": "Twitter",
+   "Service ": "Twitter",
+   "text": "Twitter is an online news and social networking service where users post and interact with \"tweets,\" restricted to 140 characters.",
+   "rank": "1",
+   "Total": "63",
+   "G": "30",
+   "FoE": "72",
+   "P": "70"
+ },
+ {
+   "Company": "Yahoo",
+   "Service ": "Tumblr",
+   "text": "Tumblr is a microblogging and social networking service owned by Yahoo! since 2013. The service allows users to post multimedia and other content to a short-form blog.",
+   "rank": "2",
+   "Total": "60",
+   "G": "89",
+   "FoE": "59",
+   "P": "50"
+ },
+ {
+   "Company": "Facebook",
+   "Service ": "Facebook",
+   "text": "Facebook is the social networking service operated by Facebook Inc. ",
+   "rank": "3",
+   "Total": "54",
+   "G": "81",
+   "FoE": "36",
+   "P": "54"
+ },
+ {
+   "Company": "Mail.Ru",
+   "Service ": "Vkontakte",
+   "text": "VKontakte is an online social media and social networking service based in St Petersburg, owned by the Russian internet company Mail.Ru since 2014. ",
+   "rank": "4",
+   "Total": "25",
+   "G": "7",
+   "FoE": "15",
+   "P": "36"
+ },
+ {
+   "Company": "Tencent",
+   "Service ": "QZone",
+   "text": "Qzone is a social networking service created by Tencent Holding Limited in 2005. It allows users to write blogs, keep diaries, send photos, listen to music, and watch videos. ",
+   "rank": "5",
+   "Total": "21",
+   "G": "8",
+   "FoE": "13",
+   "P": "29"
+ },
+ {
+   "Company": "Baidu",
+   "Service ": "Baidu PostBar",
+   "text": "Baidu PostBar is a communication platform tied to search results operated by the Chinese search engine company, Baidu. ",
+   "rank": "6",
+   "Total": "14",
+   "G": "0",
+   "FoE": "14",
+   "P": "18"
+ }
+]

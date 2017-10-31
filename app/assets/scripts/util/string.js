@@ -1,0 +1,6 @@
+module.exports = {
+  // Capitalize first letter of string
+  capitalize: function (string) {
+    return string.charAt(0).toUpperCase() + string.slice(1);
+  }
+};

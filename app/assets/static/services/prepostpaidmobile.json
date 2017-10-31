@@ -1,0 +1,102 @@
+[
+    {
+        "Company": "AT&T",
+        "Service ": "AT&T",
+        "text": "AT&T offers pre-paid and post-paid mobile services in the United States through its Wireless segment. AT&T, Inc. provides telecommunications services in the United States and internationally.",
+        "rank": "1",
+        "Total": "49",
+        "G": "67",
+        "FoE": "41",
+        "P": "48"
+    },
+    {
+        "Company": "Vodafone",
+        "Service ": "Vodafone UK",
+        "text": "Vodafone UK offers pre-paid and post-paid mobile services in the United Kingdom. Vodafone UK is a subsidiary of the multimational telecommunications company Vodafone Group Plc, with a significant footprint in Europe, Asia, Middle East, and Africa.",
+        "rank": "2",
+        "Total": "48",
+        "G": "81",
+        "FoE": "45",
+        "P": "37"
+    },
+    {
+        "Company": "Telefónica",
+        "Service ": "Movistar",
+        "text": "Movistar is a fixed broadband service operated in Spain by Telefónica de Espa¤a, a subsidiary company of Telefónica, a multinational telecommunications company that also operates in many Latin American countries. ",
+        "rank": "3",
+        "Total": "34",
+        "G": "58",
+        "FoE": "29",
+        "P": "29"
+    },
+    {
+        "Company": "Orange",
+        "Service ": "Orange France",
+        "text": "Orange France offers pre-paid and post-paid mobile services in France. Orange France is a subsidiary of Orange S.A., (formerly France T‚l‚com S.A.), a French multinational telecommunications corporation. ",
+        "rank": "4",
+        "Total": "31",
+        "G": "74",
+        "FoE": "15",
+        "P": "26"
+    },
+    {
+        "Company": "América Móvil",
+        "Service ": "Telcel",
+        "text": "Telcel is a Mexican wireless telecommunications company offering pre-paid and post-paid mobile services in Mexico. Telcel is owned by América Móvil, S.A.B. de C.V., a multinational telecommunications company also headquartered in Mexico which operates in 18 countries in the Americas and seven in Europe.",
+        "rank": "5",
+        "Total": "21",
+        "G": "21",
+        "FoE": "16",
+        "P": "24"
+    },
+    {
+        "Company": "MTN",
+        "Service ": "MTN South Africa",
+        "text": "MTN South Africa offers pre-paid and post-paid mobile services in South Africa. It is a subsidiary of MTN Group, a South Africa-based multinational mobile telecommunications company, operating in many African, European and Asian countries.",
+        "rank": "6",
+        "Total": "15",
+        "G": "31",
+        "FoE": "13",
+        "P": "11"
+    },
+    {
+        "Company": "Bharti Airtel",
+        "Service ": "Airtel India",
+        "text": "Airtel India offers pre-paid and post-paid mobile services across India. Airtel India is a subsidiary of Bharti Airtel Limited, a global telecommunications services company based in New Delhi that operates in 18 countries across South Asia and Africa.",
+        "rank": "7",
+        "Total": "13",
+        "G": "14",
+        "FoE": "8",
+        "P": "17"
+    },
+    {
+        "Company": "Axiata",
+        "Service ": "Celcom",
+        "text": "Celcom offers pre-paid and post-paid mobile services in Malaysia.  It is a subsidiary of Axiata Group Berhad, a multinational telecommunications conglomerate operating across Asia.",
+        "rank": "7",
+        "Total": "13",
+        "G": "3",
+        "FoE": "13",
+        "P": "18"
+    },
+    {
+        "Company": "Etisalat",
+        "Service ": "Etisalat UAE",
+        "text": "Etisalat UAE offers pre-paid and post-paid mobile services in the United Arab Emirates. Etisalat UAE is a subsidiary of Emirates Telecommunications Corporation, a multinational UAE based telecommunications services provider. ",
+        "rank": "9",
+        "Total": "8",
+        "G": "8",
+        "FoE": "16",
+        "P": "2"
+    },
+    {
+        "Company": "Ooredoo",
+        "Service ": "Ooredoo Qatar",
+        "text": "Ooredoo Qatar offers pre-paid and post-paid mobile services in Qatar. It is a subsidiary of Ooredoo Q.S.C. (formerly Qtel), an international telecommunications company headquartered in Doha, Qatar with operations across the Middle East, North Africa, and Asia..",
+        "rank": "10",
+        "Total": "5",
+        "G": "2",
+        "FoE": "14",
+        "P": "0"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "Company": "Google",
+        "Service ": "YouTube",
+        "text": "YouTube is a video-sharing website created in February 2005 and bought by Google in November 2006. The site allows users to upload, view, rate, share, add to favorites, report, and comment on videos.",
+        "rank": "1",
+        "Total": "68",
+        "G": "73",
+        "FoE": "61",
+        "P": "69"
+    },
+    {
+        "Company": "Yahoo",
+        "Service ": "Flickr",
+        "text": "Flickr is an image hosting and video hosting website and web services suite created by Ludicorp in 2004 and acquired by Yahoo in 2005.",
+        "rank": "2",
+        "Total": "57",
+        "G": "87",
+        "FoE": "35",
+        "P": "58"
+    },
+    {
+        "Company": "Facebook",
+        "Service ": "Instagram",
+        "text": "Instagram is an online mobile photo-sharing site that allows users to share pictures and videos either publicly or privately on the app, as well as through a variety of other social networking platforms, such as Facebook, Twitter, Tumblr, and Flickr. Launched in 2010, it was acquired by Facebook in 2012.",
+        "rank": "3",
+        "Total": "47",
+        "G": "83",
+        "FoE": "46",
+        "P": "36"
+    },
+    {
+        "Company": "Twitter",
+        "Service ": "Periscope",
+        "text": "Periscope is a live video streaming mobile app for iOS and Android acquired by Twitter before it launched in 2015. In December 2016, some of Periscope's features were integrated into the main Twitter app.",
+        "rank": "5",
+        "Total": "39",
+        "G": "30",
+        "FoE": "33",
+        "P": "46"
+    },
+    {
+        "Company": "Twitter",
+        "Service ": "Vine",
+        "text": "Vine, acquired by Twitter shortly after it was launched in 2012, was a download-only short-form video hosting service where users could share six-second-long looping video clips. On October 27, 2016, Twitter announced it would disable uploads, but viewing and download would continue to work. Users' videos were published through Vine's social network and could be shared on other services such as Facebook and Twitter.",
+        "rank": "4",
+        "Total": "41",
+        "G": "30",
+        "FoE": "43",
+        "P": "43"
+    }
+]

@@ -1,0 +1,344 @@
+/* Html */
+
+html {
+width: 100%;
+overflow-x: hidden;
+}
+
+/* Body */
+
+body {
+font-family: $simplon-light;  
+position: relative;  
+@extend .antialiased;
+width: 100%;
+overflow-x: hidden;
+}
+
+
+/* Headlines */
+
+h1, h2, h3, h4, h5, h6 {
+font-family: $platform-bold;  
+line-height: 1.2;
+text-transform: uppercase;
+letter-spacing: .05em;
+margin-top: 0em;
+margin-bottom: .5em;
+padding: 0;
+}
+
+h1 {
+color: $black;  
+font-size: 26px; 
+  @include media(small-up) {
+  font-size: 26px;   
+  }
+  @include media(medium-up) { 
+  font-size: 28px;  
+  }
+  @include media(large-up) {
+  font-size: 35px;   
+  }
+  @include media(xlarge-up) {
+  font-size: 41px;  
+  }    
+}
+
+h2 {
+color: $black;
+font-size: 16px; 
+  @include media(small-up) {
+  font-size: 20px;  
+  }
+  @include media(medium-up) {
+  font-size: 19px;   
+  }
+  @include media(large-up) { 
+  font-size: 25px;  
+  }
+  @include media(xlarge-up) {
+  font-size: 32px;  
+  }   
+}
+
+h3 {
+color: $black;  
+font-size: 14px; 
+  @include media(small-up) {
+  font-size: 18px; 
+  }
+  @include media(medium-up) {
+  font-size: 17px;  
+  }
+  @include media(large-up) {
+  font-size: 19px; 
+  }
+  @include media(xlarge-up) {
+  font-size: 23px;  
+  }   
+}
+
+
+/* Paragraphs */
+
+p {
+font-family: $simplon-regular; 
+color: $black;
+font-size: 13px;
+line-height: 1.3; 
+letter-spacing: 1px;
+margin-bottom: 5px;
+  @include media(small-up) {
+  font-size: 14px;
+  margin-bottom: 5px;  
+  }
+  @include media(medium-up) {
+  font-size: 15px;
+  margin-bottom: 5px;  
+  }
+  @include media(large-up) {
+  font-size: 16px;
+  margin-bottom: 10px;
+  }
+  @include media(xlarge-up) {
+  font-size: 16px; 
+  margin-bottom: 10px; 
+  }   
+}
+
+
+/* Spans */
+
+span {
+color: $black;
+font-size: 13px;
+line-height: 1.3; 
+  @include media(small-up) {
+  font-size: 14px;
+  }
+  @include media(medium-up) {
+  font-size: 15px;  
+  }
+  @include media(large-up) {
+  font-size: 16px;
+  }
+  @include media(xlarge-up) {
+  font-size: 16px;  
+  }   
+}
+
+
+/* Strong */
+
+strong {
+font-family: $simplon-medium;
+font-weight: 600; 
+}
+
+
+/* Labels */
+
+label {
+color: $black;
+line-height: 1.3;
+letter-spacing: 0px;  
+}
+
+
+/* Links */
+
+a {
+  &:link,
+  &:visited,  
+  &:hover,
+  &:active {      
+  color: $link-color;
+  /*
+  font-family: $simplon-light;
+  font-size: 13px;
+  line-height: 1.3; 
+  letter-spacing: 1px;*/  
+  text-decoration: none;
+  cursor: pointer;
+    /*@include media(small-up) {
+    font-size: 14px;  
+    }  
+    @include media(medium-up) {
+    font-size: 15px;  
+    }
+    @include media(large-up) {
+    font-size: 16px;
+    }
+    @include media(xlarge-up) {
+    font-size: 16px;  
+    }*/       
+  }
+  &:hover {
+  text-decoration: underline;
+  }  
+} 
+
+
+/* Selects & Options */
+select, option {
+font-family: $simplon-light;
+color: $black;
+font-size: 13px;
+line-height: 1.3; 
+letter-spacing: 1px;
+  @include media(small-up) {
+  font-size: 14px;  
+  }
+  @include media(medium-up) {
+  font-size: 15px;  
+  }
+  @include media(large-up) {
+  font-size: 16px;
+  }
+  @include media(xlarge-up) {
+  font-size: 16px;  
+  }   
+}
+
+
+/* Inputs & Textareas */
+input, textarea {
+font-family: $simplon-light;
+color: $black;
+font-size: 13px;
+line-height: 1.3; 
+letter-spacing: 1px;
+  @include media(small-up) {
+  font-size: 14px;  
+  }
+  @include media(medium-up) {
+  font-size: 15px;  
+  }
+  @include media(large-up) {
+  font-size: 16px;
+  }
+  @include media(xlarge-up) {
+  font-size: 16px;  
+  }   
+}
+
+
+/* Lists */
+
+ul {}
+
+li {
+list-style: none;
+margin: 0;
+padding: 0;
+font-family: $simplon-light;
+color: $black;
+line-height: 1.5; 
+letter-spacing: 1px;   
+}
+
+
+/* Images */
+.img-responsive {
+display: block;
+max-width: 100%;
+height: auto;
+}
+
+
+/* Sections */
+section {
+padding-top: 0.75em;
+padding-bottom: 0.5em;
+  @include media(small-up) {
+  padding-top: 1.5em;
+  padding-bottom: 1em;
+  }
+  @include media(medium-up) {
+  padding-top: 1.5em;
+  padding-bottom: 1em;
+  }
+  @include media(large-up) {
+  padding-top: 1.5em;
+  padding-bottom: 1em;
+  }
+  @include media(xlarge-up) {
+  padding-top: 1.5em;
+  padding-bottom: 1em;
+  }   
+}
+
+/* Spaced row */
+.spaced-row {
+margin-top: 0.75em !important;
+margin-bottom: 0.5em !important;
+  @include media(small-up) {
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  }
+  @include media(medium-up) {
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  }
+  @include media(large-up) {
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  }
+  @include media(xlarge-up) {
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  } 
+}
+
+
+
+/* Section Backgrounds */
+.non-highlihted-bg {
+background-color: $white-pure; 
+}
+.highlihted-bg {
+background-color: $white; 
+}
+.highlihted-bg-colored {
+background-color: $base-color;
+padding-bottom: 2em;
+}
+
+/* Categories */
+.total {
+color: $cat-total !important;
+  &:hover {
+  color: $cat-total-hover !important;
+  }
+  .collecticon {
+  color: $cat-total !important;  
+  }
+}   
+.governance {
+color: $cat-commitment !important;
+  &:hover {
+  color: $cat-commitment-hover !important;
+  }
+  .collecticon {
+  color: $cat-commitment !important;  
+  }
+}   
+.freedom {
+color: $cat-freedom !important;
+  &:hover {
+  color: $cat-freedom-hover !important;
+  }
+  .collecticon {
+  color: $cat-freedom !important;  
+  }
+}   
+.privacy {
+color: $cat-privacy !important;
+  &:hover {
+  color: $cat-privacy-hover !important;
+  }
+  .collecticon {
+  color: $cat-privacy !important;  
+  }
+}

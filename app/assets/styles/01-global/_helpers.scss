@@ -1,0 +1,121 @@
+// Font smoothing
+// Apply to single elements instead of globally to body.
+// Only applies to webkit desktop, and FF 25 + on Mac.
+
+.antialiased {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+// Truncate text
+.truncated {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+// Hide from both screenreaders and browsers
+.hidden {
+  display: none !important;
+  visibility: hidden;
+}
+
+// Hide only visually, but have it available for screenreaders
+.visually-hidden {
+  border: 0 none;
+  clip: rect(0px, 0px, 0px, 0px);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
+// Extends .visually-hidden to allow keyboard focus
+.visually-hidden.focusable:active,
+.visually-hidden.focusable:focus {
+  clip: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  width: auto;
+}
+
+// Undo visually-hidden
+.visually-hidden-undo {
+  position: inherit;
+  overflow: visible;
+  height: auto;
+  width: auto;
+  margin: auto;
+}
+
+// Hide visually and from screenreaders, but maintain layout
+.invisible {
+  visibility: hidden;
+}
+
+// Clearfix for modern browsers
+.clearfix {
+  &:before,
+  &:after {
+    content: " ";
+    display: table;
+  }
+  &:after {
+    clear: both;
+  }
+}
+
+// Disabled
+.disabled {
+  opacity: 0.48;
+  pointer-events: none;
+  cursor: not-allowed;
+}
+
+// Debugged
+// For debugging purposes only
+.debugged {
+  background: red !important;
+}
+
+/*.contain {
+  @include media(xlarge-up) {
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+}*/
+
+.contain {
+  @media only screen and (min-width: 1366px) {
+    margin-left: 5%;
+    margin-right: 5%;    
+  }  
+  @media only screen and (min-width: 1440px) {
+    margin-left: 10%;
+    margin-right: 10%;    
+  }  
+  @media only screen and (min-width: 1600px) {
+   /* margin-left: 15%;
+    margin-right: 15%;*/
+    margin-left: 10%;
+    margin-right: 10%;     
+  }
+  @media only screen and (min-width: 1920px) {
+    /*margin-left: 17%;
+    margin-right: 17%;*/
+    margin-left: 10%;
+    margin-right: 10%;       
+  }  
+}
+
+.contain-full {
+  @include media(xlarge-up) {
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+  }
+}

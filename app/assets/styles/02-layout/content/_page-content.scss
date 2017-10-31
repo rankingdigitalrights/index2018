@@ -1,0 +1,224 @@
+/* Secondary navigation - current page */
+
+#page--index {
+	.secondary-navigation {
+		.nav--item {
+			&.index {
+				a {
+				text-decoration: underline;	
+				}
+			}
+		}
+	}
+}
+#page--companies,
+#page--company {
+	.secondary-navigation {
+		.nav--item {
+			&.companies{
+				a {
+				text-decoration: underline;	
+				}
+			}
+		}
+	}
+}
+#page--services,
+#page--service {
+	.secondary-navigation {
+		.nav--item {
+			&.services {
+				a {
+				text-decoration: underline;	
+				}
+			}
+		}
+	}
+}
+#page--category {
+	.secondary-navigation {
+		.nav--item {
+			&.categories {
+				a {
+				text-decoration: underline;	
+				}
+			}
+		}
+	}
+}
+#page--indicators,
+#page--indicator {
+	.secondary-navigation {
+		.nav--item {
+			&.indicators {
+				a {
+				text-decoration: underline;	
+				}
+			}
+		}
+	}
+}
+#page--stories {
+	.secondary-navigation {
+		.nav--item {
+			&.findings {
+				a {
+				text-decoration: underline;	
+				}
+			}
+		}
+	}
+}
+#page--download {
+	.secondary-navigation {
+		.nav--item {
+			&.download {
+				a {
+				text-decoration: underline;	
+				}
+			}
+		}
+	}
+}
+
+
+.page--intro {
+padding: 1.5em 0 0.5em 0;
+	@include media(small-up) {
+	padding: 1.5em 0;
+	}
+	@include media(medium-up) {
+	padding: 1.5em 0;
+	}
+	@include media(large-up) {
+	padding: 2em 0;
+	}
+	@include media(xlarge-up) {
+	padding: 3em 0;	
+	} 
+}
+
+.page-introduction {
+
+	@include media(small-up) {
+
+	}
+	@include media(medium-up) {
+
+	}
+	@include media(large-up) {
+
+	}
+	@include media(xlarge-up) {
+
+	} 	
+}
+
+.page-title-overtext {
+font-family: $simplon-light; 
+color: $black;
+font-size: 13px;
+line-height: 1.3; 
+margin-bottom: 0px;
+text-transform: uppercase;
+  @include media(small-up) {
+  font-size: 14px;  
+  }
+  @include media(medium-up) {
+  font-size: 15px;  
+  }
+  @include media(large-up) {
+  font-size: 16px;
+  }
+  @include media(xlarge-up) {
+  font-size: 16px;  
+  } 
+}
+
+.page--title, 
+.page--subtitle {
+margin-top: 0em;
+margin-bottom: .325em;		
+	@include media(small-up) {
+
+	}
+	@include media(medium-up) {
+
+	}
+	@include media(large-up) {
+
+	}
+	@include media(xlarge-up) {
+
+	} 
+}
+
+.page--subtitle--undertext {
+width: 100%;			
+font-family: $simplon-regular; 
+color: $black;
+font-size: 13px;
+line-height: 1.3; 
+letter-spacing: 1px;
+margin-bottom: 1.5em; 
+	@include media(small-up) {
+	width: 100%;		
+	font-size: 14px;
+	margin-bottom: 1.5em;  
+	}
+	@include media(medium-up) {
+	width: 100%;		
+	font-size: 15px;
+	margin-bottom: 1.5em;  
+	}
+	@include media(large-up) {
+	width: 100%;		
+	font-size: 16px;
+	margin-bottom: 1.5em;
+	}
+	@include media(xlarge-up) {
+	width: 60%;		
+	font-size: 16px;
+	margin-bottom: 1.5em;  
+	}		
+}
+
+
+.highlihted-bg-colored {
+	.page--subtitle,
+	.page--subtitle--undertext {
+	color: $white-pure;
+	}	
+}
+
+.page-dynamic-content {
+}
+
+.action-links {
+margin-top: 1em;
+	@include media(small-up) {
+	margin-top: 1em;	
+	}
+	@include media(medium-up) {
+	margin-top: 0em;	
+	}
+	@include media(large-up) {
+	margin-top: 0em;
+	}
+	@include media(xlarge-up) {
+	margin-top: 0em;
+	}
+	a {
+	display: block;	
+	color: $black;
+	line-height: 1.5;		
+		span {
+		text-transform: uppercase;
+		font-family: $simplon-medium;
+		}
+		i {
+		color: $black;
+		margin-left: 5px;
+		}
+	}
+}

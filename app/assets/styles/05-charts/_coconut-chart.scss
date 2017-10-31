@@ -1,0 +1,71 @@
+.service--circle--chart {
+	.circle--container {
+		.circle--label_service {
+		text-anchor: middle;	
+		fill: $white-pure;
+		font-size: 13px;
+		line-height: 1.3;
+		font-weight: 600;
+		font-family: $simplon-regular; 
+		text-transform: uppercase;
+		  @include media(small-up) {
+		  font-size: 13px;  
+		  }
+		  @include media(medium-up) {
+		  font-size: 11px;  
+		  }
+		  @include media(large-up) {
+		  font-size: 12px;
+		  }
+		  @include media(xlarge-up) {
+		  font-size: 13px;  
+		  }				
+		}
+		.circle--label_name {
+		text-anchor: middle;	
+		fill: $white-pure;
+		font-size: 12px;
+		line-height: 1.3; 
+		text-transform: uppercase;
+		  @include media(small-up) {
+		  font-size: 12px;  
+		  }
+		  @include media(medium-up) {
+		  font-size: 10px;  
+		  }
+		  @include media(large-up) {
+		  font-size: 11px;
+		  }
+		  @include media(xlarge-up) {
+		  font-size: 12px;  
+		  }			
+		}
+		.circle--label_val {
+		text-anchor: middle;	
+		fill: $white-pure;
+		font-family: $simplon-bold;
+		font-size: 16px;
+		line-height: 1.3; 
+		  @include media(small-up) {
+		  font-size: 16px;  
+		  }
+		  @include media(medium-up) {
+		  font-size: 17px;  
+		  }
+		  @include media(large-up) {
+		  font-size: 20px;
+		  }
+		  @include media(xlarge-up) {
+		  font-size: 20px;  
+		  }			
+		}		
+		.circle--arc {
+			.circle--arc_remainder {
+			fill: $light-blue !important;	
+			}
+			.circle--arc--chart--val {
+			fill: $violet;	
+			}
+		}
+	}
+}

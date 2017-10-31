@@ -1,0 +1,33 @@
+source: app
+collections:
+  companies:
+    output: true
+    permalink: /companies/:path/
+  indicators:
+    output: true
+    permalink: /indicators/:path/
+  topics:
+    output: true
+    permalink: /categories/:path/
+  services:
+    output: true
+    permalink: /services/:path/
+exclude:
+  - assets/scripts
+  - assets/styles
+  - assets/templates
+  - bundle/cache
+  - bin
+highlighter: pygments
+baseurl: https://rankingdigitalrights.org/index2015
+paginate: 40
+kramdown:
+  input: GFM
+
+# SEO defaults:
+name: Ranking digital rights
+description: The 2015 Ranking Digital Rights survey site
+
+prose:
+  rooturl: app
+  siteurl: https://rankingdigitalrights.org/index2015

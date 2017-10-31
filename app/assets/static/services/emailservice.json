@@ -1,0 +1,62 @@
+[
+    {
+        "Company": "Google",
+        "Service ": "Gmail",
+        "text": "Gmail is an email service developed for limited release in 2004 and fully launched in 2009 by Google.",
+        "rank": "1",
+        "Total": "65",
+        "G": "70",
+        "FoE": "58",
+        "P": "67"
+    },
+    {
+        "Company": "Microsoft",
+        "Service ": "Outlook.com",
+        "text": "Outlook.com is an email service connected to a web-based suite of contacts, tasks, and calendaring services. One of the world's first webmail services, it was founded in 1996 as Hotmail, then re-launched as MSN Hotmail after Microsoft acquired it in 1997. It was later rebranded to Windows Live Hotmail, then re-launched as Outlook.com in 2013. ",
+        "rank": "1",
+        "Total": "65",
+        "G": "88",
+        "FoE": "55",
+        "P": "60"
+    },
+    {
+        "Company": "Yahoo",
+        "Service ": "Yahoo Mail",
+        "text": "Yahoo Mail is a web-based email service launched by Yahoo! Inc. in 1997.",
+        "rank": "3",
+        "Total": "59",
+        "G": "87",
+        "FoE": "28",
+        "P": "60"
+    },
+    {
+        "Company": "Kakao",
+        "Service ": "Daum Mail ",
+        "text": "Daum Mail is the main email service of Kakao, a South Korean internet company established in 2014 following the merger of Daum Communications and Kakao. ",
+        "rank": "4",
+        "Total": "54",
+        "G": "36",
+        "FoE": "71",
+        "P": "54"
+    },
+    {
+        "Company": "Yandex",
+        "Service ": "Yandex Mail",
+        "text": "Yandex.mail is an email service offered by the Russian company Yandex N.V. .",
+        "rank": "5",
+        "Total": "28",
+        "G": "10",
+        "FoE": "25",
+        "P": "36"
+    },
+    {
+        "Company": "Mail.Ru",
+        "Service ": "Mail.Ru",
+        "text": "Mail.Ru is an email service started in 1998 by the Russian Internet company also named Mail.Ru.",
+        "rank": "6",
+        "Total": "23",
+        "G": "7",
+        "FoE": "36",
+        "P": "24"
+    }
+]

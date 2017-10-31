@@ -1,0 +1,93 @@
+.page {
+  position: relative;
+  padding-bottom: 4rem;
+  margin: 0 1rem;
+  @include media(medium-up) {
+    margin: 0 2rem;
+  }
+  > * {
+    position: relative;
+    z-index: 2;
+  }
+}
+
+.page .prose {
+  @include span-columns(12 of 12);
+  @include media(small-up) {
+    @include span-columns(10 of 12);
+    @include shift(1);
+  }
+  @include media(large-up) {
+    @include span-columns(8 of 12);
+    @include shift(2);
+  }
+}
+
+.page--body {
+  padding-top: 4rem;
+  @include animation(fade-in 0.8s ease 0s 1);
+  > .inner {
+    @extend .row;
+    @extend .row-centered;
+    @extend .clearfix;
+  }
+}
+
+.page--footer {
+  margin-top: 3rem;
+  padding-top: 3rem;
+  > .inner {
+    @extend .row;
+    @extend .clearfix;
+  }
+  @extend .no-print;
+}
+
+.displaytext {
+
+  max-width: $prose-width;
+
+  ul,
+  ol,
+  h3,
+  p {
+    line-height: 1.8em;
+    margin-bottom: 1.4em;
+    cursor: text;
+  }
+
+  h3 {
+    display: inline-block;
+    margin-top: 2em;
+    border-bottom: .125em solid $beige;
+    text-transform: uppercase;
+  }
+
+  li {
+    margin-left: 2em;
+    margin-bottom: .6em;
+  }
+
+  ul li { list-style: initial; }
+  ol li { list-style: decimal; }
+
+  .js--collapse_trigger {
+    display: block;
+  }
+
+  img {
+    width: 100%;
+    @include media(large-up) {
+      width: auto;
+    }
+  }
+
+}
+
+blockquote {
+  background: $beige;
+  padding: 1em;
+  @include media(medium-up) {
+    padding: 2em;
+  }
+}

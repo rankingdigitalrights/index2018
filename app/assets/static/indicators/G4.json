@@ -1,0 +1,7673 @@
+{
+   "id":"G4",
+   "name":"G4. IMPACT ASSESSMENT",
+   "paragraph_1":"The company should conduct regular, comprehensive, and credible due diligence, such as human rights impact assessments, to identify how all aspects of its business affect freedom of expression and privacy and to mitigate any risks posed by those impacts.",
+
+   "companies":[
+      {
+         "name":"América Móvil",
+         "id":"americaMovil",
+         "headers":[
+            {
+               "text":"Group - América Móvil - Freedom of Expression"
+            },
+            {
+               "text":"Group - América Móvil - Privacy"
+            },
+            {
+               "text":"OperatingCo - Telcel - Freedom of Expression"
+            },
+            {
+               "text":"OperatingCo - Telcel - Privacy"
+            },
+            {
+               "text":"Prepaid Mobile (Telcel)- Freedom of Expression"
+            },
+            {
+               "text":"Prepaid Mobile (Telcel)- Privacy"
+            },
+            {
+               "text":"Postpaid Mobile (Telcel)- Freedom of Expression"
+            },
+            {
+               "text":"Postpaid Mobile (Telcel)- Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"As part of its decision-making"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company regularly assess freedom of expression and privacy risks associated with existing products and services?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company assess freedom of expression and privacy risks associated with a new activity"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company assess freedom of expression and privacy risks associated with the processes and mechanisms used to enforce its terms of service?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company conduct assessments on a regular schedule?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+            {
+      "value": "Are the company’s assessments assured by an external third party?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Is the external third party that assures the assessment accredited to a relevant and reputable human rights standard by a credible organization?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Apple",
+         "id":"apple",
+         "headers":[
+            {
+               "text":"Group - Apple - Freedom of Expression"
+            },
+            {
+               "text":"Group - Apple - Privacy"
+            },
+            {
+               "text":"iOS mobile ecosystem - Freedom of Expression"
+            },
+            {
+               "text":"iOS mobile ecosystem - Privacy"
+            },
+            {
+               "text":"iMessage - Freedom of Expression"
+            },
+            {
+               "text":"iMessage - Privacy"
+            },
+            {
+               "text":"iCloud - Freedom of Expression"
+            },
+            {
+               "text":"iCloud - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"As part of its decision-making"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company regularly assess freedom of expression and privacy risks associated with existing products and services?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company assess freedom of expression and privacy risks associated with a new activity"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company assess freedom of expression and privacy risks associated with the processes and mechanisms used to enforce its terms of service?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                 {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct assessments on a regular schedule?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Are the company’s assessments assured by an external third party?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Is the external third party that assures the assessment accredited to a relevant and reputable human rights standard by a credible organization?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"AT&T",
+         "id":"att",
+         "headers":[
+            {
+               "text":"Group - AT&T - Freedom of Expression"
+            },
+            {
+               "text":"Group - AT&T - Privacy"
+            },
+            {
+               "text":"Prepaid Mobile - Freedom of Expression"
+            },
+            {
+               "text":"Prepaid Mobile - Privacy"
+            },
+            {
+               "text":"Postpaid Mobile - Freedom of Expression"
+            },
+            {
+               "text":"Postpaid Mobile - Privacy"
+            },
+            {
+               "text":"Fixed Line Broadband - Freedom of Expression"
+            },
+            {
+               "text":"Fixed Line Broadband - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"11.11"
+            },
+            {
+               "value":"11.11"
+            },
+            {
+               "value":"11.11"
+            },
+            {
+               "value":"11.11"
+            },
+            {
+               "value":"11.11"
+            },
+            {
+               "value":"11.11"
+            },
+            {
+               "value":"11.11"
+            },
+            {
+               "value":"11.11"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"As part of its decision-making"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company regularly assess freedom of expression and privacy risks associated with existing products and services?"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company assess freedom of expression and privacy risks associated with a new activity"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company assess freedom of expression and privacy risks associated with the processes and mechanisms used to enforce its terms of service?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+         {
+      "value": "Does the company conduct assessments on a regular schedule?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Are the company’s assessments assured by an external third party?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Is the external third party that assures the assessment accredited to a relevant and reputable human rights standard by a credible organization?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Axiata",
+         "id":"axiata",
+         "headers":[
+            {
+               "text":"Group - Axiata - Freedom of Expression"
+            },
+            {
+               "text":"Group - Axiata - Privacy"
+            },
+            {
+               "text":"OperatingCo - Celcom - Freedom of Expression"
+            },
+            {
+               "text":"OperatingCo - Celcom - Privacy"
+            },
+            {
+               "text":"Prepaid Mobile - - Freedom of Expression"
+            },
+            {
+               "text":"Prepaid Mobile - - Privacy"
+            },
+            {
+               "text":"Postpaid Mobile (Celcom)- Freedom of Expression"
+            },
+            {
+               "text":"Postpaid Mobile (Celcom)- Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"As part of its decision-making"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company regularly assess freedom of expression and privacy risks associated with existing products and services?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company assess freedom of expression and privacy risks associated with a new activity"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company assess freedom of expression and privacy risks associated with the processes and mechanisms used to enforce its terms of service?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+               {
+      "value": "Does the company conduct assessments on a regular schedule?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Are the company’s assessments assured by an external third party?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Is the external third party that assures the assessment accredited to a relevant and reputable human rights standard by a credible organization?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Baidu",
+         "id":"baidu",
+         "headers":[
+            {
+               "text":"Group - Baidu - Freedom of Expression"
+            },
+            {
+               "text":"Group - Baidu - Privacy"
+            },
+            {
+               "text":"Baidu Search - Freedom of Expression"
+            },
+            {
+               "text":"Baidu Search - Privacy"
+            },
+            {
+               "text":"Baidu Cloud - Freedom of Expression"
+            },
+            {
+               "text":"Baidu Cloud - Privacy"
+            },
+            {
+               "text":"Baidu PostBar - Freedom of Expression"
+            },
+            {
+               "text":"Baidu PostBar - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"As part of its decision-making"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company regularly assess freedom of expression and privacy risks associated with existing products and services?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company assess freedom of expression and privacy risks associated with a new activity"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company assess freedom of expression and privacy risks associated with the processes and mechanisms used to enforce its terms of service?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct assessments on a regular schedule?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Are the company’s assessments assured by an external third party?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Is the external third party that assures the assessment accredited to a relevant and reputable human rights standard by a credible organization?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Bharti Airtel",
+         "id":"bhartiairtel",
+         "headers":[
+            {
+               "text":"Group - Bharti Airtel - Freedom of Expression"
+            },
+            {
+               "text":"Group - Bharti Airtel - Privacy"
+            },
+            {
+               "text":"OperatingCo - Airtel India - Freedom of Expression"
+            },
+            {
+               "text":"OperatingCo - Airtel India - Privacy"
+            },
+            {
+               "text":"Prepaid Mobile - Freedom of Expression"
+            },
+            {
+               "text":"Prepaid Mobile - Privacy"
+            },
+            {
+               "text":"Postpaid Mobile - Freedom of Expression"
+            },
+            {
+               "text":"Postpaid Mobile - Privacy"
+            },
+            {
+               "text":"Fixed Line Broadband - Freedom of Expression"
+            },
+            {
+               "text":"Fixed Line Broadband - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"As part of its decision-making"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company regularly assess freedom of expression and privacy risks associated with existing products and services?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company assess freedom of expression and privacy risks associated with a new activity"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company assess freedom of expression and privacy risks associated with the processes and mechanisms used to enforce its terms of service?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct assessments on a regular schedule?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Are the company’s assessments assured by an external third party?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Is the external third party that assures the assessment accredited to a relevant and reputable human rights standard by a credible organization?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Etisalat",
+         "id":"etisalat",
+         "headers":[
+            {
+               "text":"Group - Etisalat - Freedom of Expression"
+            },
+            {
+               "text":"Group - Etisalat - Privacy"
+            },
+            {
+               "text":"OperatingCo - Etisalat UAE - Freedom of Expression"
+            },
+            {
+               "text":"OperatingCo - Etisalat UAE - Privacy"
+            },
+            {
+               "text":"Prepaid Mobile - Freedom of Expression"
+            },
+            {
+               "text":"Prepaid Mobile - Privacy"
+            },
+            {
+               "text":"Postpaid Mobile - Freedom of Expression"
+            },
+            {
+               "text":"Postpaid Mobile - Privacy"
+            },
+            {
+               "text":"Fixed Line Broadband - Freedom of Expression"
+            },
+            {
+               "text":"Fixed Line Broadband - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"As part of its decision-making"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company regularly assess freedom of expression and privacy risks associated with existing products and services?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company assess freedom of expression and privacy risks associated with a new activity"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company assess freedom of expression and privacy risks associated with the processes and mechanisms used to enforce its terms of service?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+               {
+      "value": "Does the company conduct assessments on a regular schedule?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Are the company’s assessments assured by an external third party?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Is the external third party that assures the assessment accredited to a relevant and reputable human rights standard by a credible organization?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Facebook",
+         "id":"facebook",
+         "headers":[
+            {
+               "text":"Group - Facebook - Freedom of Expression"
+            },
+            {
+               "text":"Group - Facebook - Privacy"
+            },
+            {
+               "text":"Facebook - Freedom of Expression"
+            },
+            {
+               "text":"Facebook - Privacy"
+            },
+            {
+               "text":"Instagram - Freedom of Expression"
+            },
+            {
+               "text":"Instagram - Privacy"
+            },
+            {
+               "text":"WhatsApp - Freedom of Expression"
+            },
+            {
+               "text":"WhatsApp - Privacy"
+            },
+            {
+               "text":"Messenger - Freedom of Expression"
+            },
+            {
+               "text":"Messenger - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"77.78"
+            },
+            {
+               "value":"77.78"
+            },
+            {
+               "value":"77.78"
+            },
+            {
+               "value":"77.78"
+            },
+            {
+               "value":"77.78"
+            },
+            {
+               "value":"77.78"
+            },
+            {
+               "value":"77.78"
+            },
+            {
+               "value":"77.78"
+            },
+            {
+               "value":"77.78"
+            },
+            {
+               "value":"77.78"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"As part of its decision-making"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company regularly assess freedom of expression and privacy risks associated with existing products and services?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company assess freedom of expression and privacy risks associated with a new activity"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+               {
+      "value": "Does the company assess freedom of expression and privacy risks associated with the processes and mechanisms used to enforce its terms of service?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+               {
+      "value": "Does the company conduct assessments on a regular schedule?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Are the company’s assessments assured by an external third party?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {
+               "cells":[
+                 {
+      "value": "Is the external third party that assures the assessment accredited to a relevant and reputable human rights standard by a credible organization?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Google",
+         "id":"google",
+         "headers":[
+            {
+               "text":"Group - Google - Freedom of Expression"
+            },
+            {
+               "text":"Group - Google - Privacy"
+            },
+            {
+               "text":"Search - Freedom of Expression"
+            },
+            {
+               "text":"Search - Privacy"
+            },
+            {
+               "text":"Gmail - Freedom of Expression"
+            },
+            {
+               "text":"Gmail - Privacy"
+            },
+            {
+               "text":"Youtube - Freedom of Expression"
+            },
+            {
+               "text":"Youtube - Privacy"
+            },
+            {
+               "text":"Android mobile ecosystem - Freedom of Expression"
+            },
+            {
+               "text":"Android mobile ecosystem - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"61.11"
+            },
+            {
+               "value":"72.22"
+            },
+            {
+               "value":"61.11"
+            },
+            {
+               "value":"72.22"
+            },
+            {
+               "value":"61.11"
+            },
+            {
+               "value":"72.22"
+            },
+            {
+               "value":"61.11"
+            },
+            {
+               "value":"72.22"
+            },
+            {
+               "value":"61.11"
+            },
+            {
+               "value":"72.22"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"As part of its decision-making"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company regularly assess freedom of expression and privacy risks associated with existing products and services?"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company assess freedom of expression and privacy risks associated with a new activity"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company assess freedom of expression and privacy risks associated with the processes and mechanisms used to enforce its terms of service?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct assessments on a regular schedule?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Are the company’s assessments assured by an external third party?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {
+               "cells":[
+                {
+      "value": "Is the external third party that assures the assessment accredited to a relevant and reputable human rights standard by a credible organization?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Kakao",
+         "id":"kakao",
+         "headers":[
+            {
+               "text":"Group - Kakao - Freedom of Expression"
+            },
+            {
+               "text":"Group - Kakao - Privacy"
+            },
+            {
+               "text":"Daum Search - Freedom of Expression"
+            },
+            {
+               "text":"Daum Search - Privacy"
+            },
+            {
+               "text":"Daum Mail - Freedom of Expression"
+            },
+            {
+               "text":"Daum Mail - Privacy"
+            },
+            {
+               "text":"Kakao Talk - Freedom of Expression"
+            },
+            {
+               "text":"Kakao Talk - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"0"
+            },
+            {
+               "value":"27.78"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"27.78"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"27.78"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"27.78"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"As part of its decision-making"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company regularly assess freedom of expression and privacy risks associated with existing products and services?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company assess freedom of expression and privacy risks associated with a new activity"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company assess freedom of expression and privacy risks associated with the processes and mechanisms used to enforce its terms of service?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                 {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "50"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct assessments on a regular schedule?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Are the company’s assessments assured by an external third party?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Is the external third party that assures the assessment accredited to a relevant and reputable human rights standard by a credible organization?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Mail.ru",
+         "id":"mailru",
+         "headers":[
+            {
+               "text":"Group - Mail.Ru - Freedom of Expression"
+            },
+            {
+               "text":"Group - Mail.Ru - Privacy"
+            },
+            {
+               "text":"Vkontakte - Freedom of Expression"
+            },
+            {
+               "text":"Vkontakte - Privacy"
+            },
+            {
+               "text":"Mail.Ru - Freedom of Expression"
+            },
+            {
+               "text":"Mail.Ru - Privacy"
+            },
+            {
+               "text":"Mail.Ru Agent - Freedom of Expression"
+            },
+            {
+               "text":"Mail.Ru Agent - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"As part of its decision-making"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company regularly assess freedom of expression and privacy risks associated with existing products and services?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company assess freedom of expression and privacy risks associated with a new activity"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company assess freedom of expression and privacy risks associated with the processes and mechanisms used to enforce its terms of service?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                 {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+   {
+      "value": "Does the company conduct assessments on a regular schedule?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+         {
+      "value": "Are the company’s assessments assured by an external third party?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+               {
+      "value": "Is the external third party that assures the assessment accredited to a relevant and reputable human rights standard by a credible organization?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Microsoft",
+         "id":"microsoft",
+         "headers":[
+            {
+               "text":"Group - Microsoft - Freedom of Expression"
+            },
+            {
+               "text":"Group - Microsoft - Privacy"
+            },
+            {
+               "text":"Bing - Freedom of Expression"
+            },
+            {
+               "text":"Bing - Privacy"
+            },
+            {
+               "text":"Outlook.com - Freedom of Expression"
+            },
+            {
+               "text":"Outlook.com - Privacy"
+            },
+            {
+               "text":"Skype - Freedom of Expression"
+            },
+            {
+               "text":"Skype - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"88.89"
+            },
+            {
+               "value":"83.33"
+            },
+            {
+               "value":"88.89"
+            },
+            {
+               "value":"83.33"
+            },
+            {
+               "value":"88.89"
+            },
+            {
+               "value":"83.33"
+            },
+            {
+               "value":"88.89"
+            },
+            {
+               "value":"83.33"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"As part of its decision-making"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company regularly assess freedom of expression and privacy risks associated with existing products and services?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company assess freedom of expression and privacy risks associated with a new activity"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company assess freedom of expression and privacy risks associated with the processes and mechanisms used to enforce its terms of service?"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct assessments on a regular schedule?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Are the company’s assessments assured by an external third party?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Is the external third party that assures the assessment accredited to a relevant and reputable human rights standard by a credible organization?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"MTN",
+         "id":"mtn",
+         "headers":[
+            {
+               "text":"Group - MTN - Freedom of Expression"
+            },
+            {
+               "text":"Group - MTN - Privacy"
+            },
+            {
+               "text":"OperatingCo - MTN South Africa - Freedom of Expression"
+            },
+            {
+               "text":"OperatingCo - MTN South Africa - Privacy"
+            },
+            {
+               "text":"Prepaid Mobile - - Freedom of Expression"
+            },
+            {
+               "text":"Prepaid Mobile - - Privacy"
+            },
+            {
+               "text":"Postpaid Mobile - Freedom of Expression"
+            },
+            {
+               "text":"Postpaid Mobile - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"As part of its decision-making"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company regularly assess freedom of expression and privacy risks associated with existing products and services?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company assess freedom of expression and privacy risks associated with a new activity"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company assess freedom of expression and privacy risks associated with the processes and mechanisms used to enforce its terms of service?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct assessments on a regular schedule?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Are the company’s assessments assured by an external third party?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Is the external third party that assures the assessment accredited to a relevant and reputable human rights standard by a credible organization?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Ooredoo",
+         "id":"ooredoo",
+         "headers":[
+            {
+               "text":"Group - Ooredoo - Freedom of Expression"
+            },
+            {
+               "text":"Group - Ooredoo - Privacy"
+            },
+            {
+               "text":"OperatingCo - Ooredoo Qatar - Freedom of Expression"
+            },
+            {
+               "text":"OperatingCo - Ooredoo Qatar - Privacy"
+            },
+            {
+               "text":"Prepaid Mobile - Freedom of Expression"
+            },
+            {
+               "text":"Prepaid Mobile - Privacy"
+            },
+            {
+               "text":"Postpaid Mobile - Freedom of Expression"
+            },
+            {
+               "text":"Postpaid Mobile - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"As part of its decision-making"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company regularly assess freedom of expression and privacy risks associated with existing products and services?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company assess freedom of expression and privacy risks associated with a new activity"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company assess freedom of expression and privacy risks associated with the processes and mechanisms used to enforce its terms of service?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct assessments on a regular schedule?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Are the company’s assessments assured by an external third party?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Is the external third party that assures the assessment accredited to a relevant and reputable human rights standard by a credible organization?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Orange",
+         "id":"orange",
+         "headers":[
+            {
+               "text":"Group - Orange - Freedom of Expression"
+            },
+            {
+               "text":"Group - Orange - Privacy"
+            },
+            {
+               "text":"OperatingCo - Orange France - Freedom of Expression"
+            },
+            {
+               "text":"OperatingCo - Orange France - Privacy"
+            },
+            {
+               "text":"Prepaid Mobile - Freedom of Expression"
+            },
+            {
+               "text":"Prepaid Mobile - Privacy"
+            },
+            {
+               "text":"Postpaid Mobile - Freedom of Expression"
+            },
+            {
+               "text":"Postpaid Mobile - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"50"
+            },
+            {
+               "value":"50"
+            },
+            {
+               "value":"50"
+            },
+            {
+               "value":"50"
+            },
+            {
+               "value":"50"
+            },
+            {
+               "value":"50"
+            },
+            {
+               "value":"50"
+            },
+            {
+               "value":"50"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"As part of its decision-making"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company regularly assess freedom of expression and privacy risks associated with existing products and services?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company assess freedom of expression and privacy risks associated with a new activity"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company assess freedom of expression and privacy risks associated with the processes and mechanisms used to enforce its terms of service?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct assessments on a regular schedule?"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Are the company’s assessments assured by an external third party?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Is the external third party that assures the assessment accredited to a relevant and reputable human rights standard by a credible organization?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Samsung",
+         "id":"samsung",
+         "headers":[
+            {
+               "text":"Group - Samsung - Freedom of Expression"
+            },
+            {
+               "text":"Group - Samsung - Privacy"
+            },
+            {
+               "text":"Samsung implementation of Android - Freedom of Expression"
+            },
+            {
+               "text":"Samsung implementation of Android - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"0"
+            },
+            {
+               "value":"11.11"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"11.11"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"As part of its decision-making"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company regularly assess freedom of expression and privacy risks associated with existing products and services?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company assess freedom of expression and privacy risks associated with a new activity"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company assess freedom of expression and privacy risks associated with the processes and mechanisms used to enforce its terms of service?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct assessments on a regular schedule?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Are the company’s assessments assured by an external third party?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Is the external third party that assures the assessment accredited to a relevant and reputable human rights standard by a credible organization?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Telefónica",
+         "id":"telefonica",
+         "headers":[
+            {
+               "text":"Group - Telefónicaa - Freedom of Expression"
+            },
+            {
+               "text":"Group - Telefónica - Privacy"
+            },
+            {
+               "text":"OperatingCo - Telefónica de España - Freedom of Expression"
+            },
+            {
+               "text":"OperatingCo - Telefónica de España - Privacy"
+            },
+            {
+               "text":"Prepaid Mobile - Freedom of Expression"
+            },
+            {
+               "text":"Prepaid Mobile - Privacy"
+            },
+            {
+               "text":"Postpaid Mobile - Freedom of Expression"
+            },
+            {
+               "text":"Postpaid Mobile - Privacy"
+            },
+            {
+               "text":"Fixed Line Broadband - Freedom of Expression"
+            },
+            {
+               "text":"Fixed Line Broadband - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"16.67"
+            },
+            {
+               "value":"33.33"
+            },
+            {
+               "value":"16.67"
+            },
+            {
+               "value":"33.33"
+            },
+            {
+               "value":"16.67"
+            },
+            {
+               "value":"33.33"
+            },
+            {
+               "value":"16.67"
+            },
+            {
+               "value":"33.33"
+            },
+            {
+               "value":"16.67"
+            },
+            {
+               "value":"33.33"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"As part of its decision-making"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company regularly assess freedom of expression and privacy risks associated with existing products and services?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company assess freedom of expression and privacy risks associated with a new activity"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company assess freedom of expression and privacy risks associated with the processes and mechanisms used to enforce its terms of service?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "50"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct assessments on a regular schedule?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Are the company’s assessments assured by an external third party?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Is the external third party that assures the assessment accredited to a relevant and reputable human rights standard by a credible organization?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Tencent",
+         "id":"tencent",
+         "headers":[
+            {
+               "text":"Group - TenCent - Freedom of Expression"
+            },
+            {
+               "text":"Group - TenCent - Privacy"
+            },
+            {
+               "text":"QZone - Freedom of Expression"
+            },
+            {
+               "text":"QZone - Privacy"
+            },
+            {
+               "text":"QQ - Freedom of Expression"
+            },
+            {
+               "text":"QQ - Privacy"
+            },
+            {
+               "text":"WeChat - Freedom of Expression"
+            },
+            {
+               "text":"WeChat - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"As part of its decision-making"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company regularly assess freedom of expression and privacy risks associated with existing products and services?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company assess freedom of expression and privacy risks associated with a new activity"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company assess freedom of expression and privacy risks associated with the processes and mechanisms used to enforce its terms of service?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"}
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct assessments on a regular schedule?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Are the company’s assessments assured by an external third party?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Is the external third party that assures the assessment accredited to a relevant and reputable human rights standard by a credible organization?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Twitter",
+         "id":"twitter",
+         "headers":[
+            {
+               "text":"Group - Twitter - Freedom of Expression"
+            },
+            {
+               "text":"Group - Twitter - Privacy"
+            },
+            {
+               "text":"Twitter - Freedom of Expression"
+            },
+            {
+               "text":"Twitter - Privacy"
+            },
+            {
+               "text":"Vine - Freedom of Expression"
+            },
+            {
+               "text":"Vine - Privacy"
+            },
+            {
+               "text":"Periscope - Freedom of Expression"
+            },
+            {
+               "text":"Periscope - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"0"
+            },
+            {
+               "value":"5.56"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"5.56"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"5.56"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"5.56"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"As part of its decision-making"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company regularly assess freedom of expression and privacy risks associated with existing products and services?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company assess freedom of expression and privacy risks associated with a new activity"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company assess freedom of expression and privacy risks associated with the processes and mechanisms used to enforce its terms of service?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct assessments on a regular schedule?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Are the company’s assessments assured by an external third party?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Is the external third party that assures the assessment accredited to a relevant and reputable human rights standard by a credible organization?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Vodafone",
+         "id":"vodafone",
+         "headers":[
+            {
+               "text":"Group - Vodafone - Freedom of Expression"
+            },
+            {
+               "text":"Group - Vodafone - Privacy"
+            },
+            {
+               "text":"OperatingCo - Vodafone UK - Freedom of Expression"
+            },
+            {
+               "text":"OperatingCo - Vodafone UK - Privacy"
+            },
+            {
+               "text":"Prepaid Mobile - Freedom of Expression"
+            },
+            {
+               "text":"Prepaid Mobile - Privacy"
+            },
+            {
+               "text":"Postpaid Mobile - Freedom of Expression"
+            },
+            {
+               "text":"Postpaid Mobile - Privacy"
+            },
+            {
+               "text":"Fixed Line Broadband - Freedom of Expression"
+            },
+            {
+               "text":"Fixed Line Broadband - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"33.33"
+            },
+            {
+               "value":"55.56"
+            },
+            {
+               "value":"33.33"
+            },
+            {
+               "value":"55.56"
+            },
+            {
+               "value":"33.33"
+            },
+            {
+               "value":"55.56"
+            },
+            {
+               "value":"33.33"
+            },
+            {
+               "value":"55.56"
+            },
+            {
+               "value":"33.33"
+            },
+            {
+               "value":"55.56"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"As part of its decision-making"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company regularly assess freedom of expression and privacy risks associated with existing products and services?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company assess freedom of expression and privacy risks associated with a new activity"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company assess freedom of expression and privacy risks associated with the processes and mechanisms used to enforce its terms of service?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {
+               "cells":[
+                 {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct assessments on a regular schedule?"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   },
+   {
+      "value": "50"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Are the company’s assessments assured by an external third party?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Is the external third party that assures the assessment accredited to a relevant and reputable human rights standard by a credible organization?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Yahoo",
+         "id":"yahoo",
+         "headers":[
+            {
+               "text":"Group - Yahoo - Freedom of Expression"
+            },
+            {
+               "text":"Group - Yahoo - Privacy"
+            },
+            {
+               "text":"Yahoo Mail - Freedom of Expression"
+            },
+            {
+               "text":"Yahoo Mail - Privacy"
+            },
+            {
+               "text":"Flickr - Freedom of Expression"
+            },
+            {
+               "text":"Flickr - Privacy"
+            },
+            {
+               "text":"Tumblr - Freedom of Expression"
+            },
+            {
+               "text":"Tumblr - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"As part of its decision-making"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company regularly assess freedom of expression and privacy risks associated with existing products and services?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company assess freedom of expression and privacy risks associated with a new activity"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company assess freedom of expression and privacy risks associated with the processes and mechanisms used to enforce its terms of service?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct assessments on a regular schedule?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Are the company’s assessments assured by an external third party?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Is the external third party that assures the assessment accredited to a relevant and reputable human rights standard by a credible organization?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Yandex",
+         "id":"yandex",
+         "headers":[
+            {
+               "text":"Group - Yandex - Freedom of Expression"
+            },
+            {
+               "text":"Group - Yandex - Privacy"
+            },
+            {
+               "text":"Yandex Mail - Freedom of Expression"
+            },
+            {
+               "text":"Yandex Mail - Privacy"
+            },
+            {
+               "text":"Yandex Search - Freedom of Expression"
+            },
+            {
+               "text":"Yandex Search - Privacy"
+            },
+            {
+               "text":"Yandex Disk (cloud storage) - Freedom of Expression"
+            },
+            {
+               "text":"Yandex Disk (cloud storage) - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"0"
+            },
+            {
+               "value":"11.11"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"11.11"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"11.11"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"As part of its decision-making"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company regularly assess freedom of expression and privacy risks associated with existing products and services?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company assess freedom of expression and privacy risks associated with a new activity"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company assess freedom of expression and privacy risks associated with the processes and mechanisms used to enforce its terms of service?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Does the company conduct additional evaluation wherever the company’s risk assessments identify concerns?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Does the company conduct assessments on a regular schedule?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                     {
+      "value": "Are the company’s assessments assured by an external third party?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {
+               "cells":[
+                  {
+      "value": "Is the external third party that assures the assessment accredited to a relevant and reputable human rights standard by a credible organization?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      }
+   ]
+}

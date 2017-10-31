@@ -1,0 +1,197 @@
+/* FONTS */
+
+/* Platform - H1 font */
+$platform-hairline: 'Platform-Hairline', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$platform-light: 'Platform-Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$platform-medium: 'Platform-Medium', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$platform-regular: 'Platform-Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$platform-bold: 'Platform-Bold', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+/* Simplon - Body font */
+$simplon-light: 'Simplon-Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$simplon-medium: 'Simplon-Medium', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$simplon-regular: 'Simplon-Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$simplon-bold: 'Simplon-Bold', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+
+
+/* COLORS */
+
+
+/* Categories */
+
+// Blue Total 
+$cat-total: #457CA4;
+$cat-total-hover: #27465c;
+
+// Blue Governance 
+$cat-commitment: #57A8D5;
+$cat-commitment-hover: #28749e;
+
+// Green Freedom 
+$cat-freedom: #21BCB3;
+$cat-freedom-hover: #126560;
+
+// Green Privacy 
+$cat-privacy: #238E88;
+$cat-privacy-hover: #0F3C3A;
+
+
+/* Alerts */
+$red: #ed1b24;
+$orange: #f8931f;
+$violet: #74557e;
+
+/* Links */
+$link-color: #4D9ECF;
+
+
+
+// GRAYSCALES
+
+$black-pure: #000;
+$black: #313131;
+$black-lighter: #515151;
+
+$dark: lighten($black, 15%);
+$gray: lighten($black, 50%);
+$light: lighten($black, 70%);
+
+
+$white: #F7F7F7;
+$white-pure: #FFF;
+
+// Grey
+$light-grey: #D4D2C9;
+
+// Dark grey
+$dark-grey: #E5DCD2; 
+
+$dropdown-bg: #F5F5F5;
+
+$beige: #E5DCD2;
+
+
+
+
+// Light blue
+$base-color: #4D9ECF;
+$base-color-darken: #3185b8;
+
+// Deep orange
+$primary-color: #9B2523;
+
+// Light red
+$secondary-color: #FFD0BF;
+
+// Light green
+$tertiary-color: #C3D500;
+
+// Green
+$success-color: #77bc1f;
+
+
+// Circle chart
+$light-blue: #a7cae1;
+$violet: #73557d;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* LAYOUT */
+
+// We use these to make sure border radius matches unless we want it different.
+$global-radius: 0.5em;
+$semi-radius: $global-radius/2;
+$global-rounded: 60rem;
+
+// We use this set site row's min and max width
+$row-min-width: 768px;
+$row-max-width: 1280px;
+
+// Media query ranges
+$xsmall-range: (0, 543px);
+$small-range: (544px, 767px);
+$medium-range: (768px, 991px);
+$large-range: (992px, 1199px);
+$xlarge-range: (1200px);
+
+$screen: "only screen";
+
+$prose-width: 860px;
+
+
+
+
+/* Horizontal Bar Chart */
+
+$bar-height-xs: 1.5em;
+$bar-height-sm: 1.5em;
+$bar-height-md: 1.5em;
+$bar-height-lg: 2em;
+$bar-height-xlg: 2em;
+
+$title-width-xs: 25%;
+$title-width-sm: 20%;
+$title-width-md: 20%;
+$title-width-lg: 20%;
+$title-width-xlg: 20%;
+
+$score-width-xs: 15%;
+$score-width-sm: 10%;
+$score-width-md: 10%;
+$score-width-lg: 10%;
+$score-width-xlg: 10%;
+
+$bar-width-xs: 100% - $title-width-xs - $score-width-xs;
+$bar-width-sm: 100% - $title-width-sm - $score-width-sm;
+$bar-width-md: 100% - $title-width-md - $score-width-md;
+$bar-width-lg: 100% - $title-width-lg - $score-width-lg;
+$bar-width-xlg: 100% - $title-width-xlg - $score-width-xlg;
+
+
+/* Horizontal Bar Chart - Index page*/
+
+$index-bar-height-xs: 1.2em;
+$index-bar-height-sm: 1.2em;
+$index-bar-height-md: 1.2em;
+$index-bar-height-lg: 1.2em;
+$index-bar-height-xlg: 1.2em;
+
+$index-title-width-xs: 23%;
+$index-title-width-sm: 20%;
+$index-title-width-md: 10%;
+$index-title-width-lg: 10%;
+$index-title-width-xlg: 10%;
+
+$index-score-width-xs: 17%;
+$index-score-width-sm: 15%;
+$index-score-width-md: 10%;
+$index-score-width-lg: 10%;
+$index-score-width-xlg: 10%;
+
+$index-bar-width-xs: 100% - $index-title-width-xs - $index-score-width-xs;
+$index-bar-width-sm: 100% - $index-title-width-sm - $index-score-width-sm;
+$index-bar-width-md: 100% - $index-title-width-md - $index-score-width-md;
+$index-bar-width-lg: 100% - $index-title-width-lg - $index-score-width-lg;
+$index-bar-width-xlg: 100% - $index-title-width-xlg -$index-score-width-xlg;

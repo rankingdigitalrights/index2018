@@ -1,0 +1,56 @@
+.footer {
+  background: $beige;
+  padding-top: 1.25em;
+  padding-bottom: 1em;
+
+  position: relative;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+
+  margin-top: 2em;   
+    @include media(small-up) {
+    margin-top: 3em;  
+    }
+    @include media(medium-up) {
+    margin-top: 4em;  
+    }
+    @include media(large-up) {
+    margin-top: 5em;  
+    }
+    @include media(xlarge-up) {
+    margin-top: 6em;  
+    }    
+}
+
+.footer--links {
+  @include media(medium-up) {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+.footer--link {
+  padding: .5em;
+  display: flex;
+  align-items: center;
+  @include media(medium-up) {
+    display: inline-flex;
+    margin-left: .75em;
+    margin-right: .75em;
+  }
+
+  .collecticon {
+    margin-right: .25em;
+    color: $base-color;
+  }
+}
+
+.commons {
+  width: 100px;
+  display: inline-block;
+  > img {
+    width: 100%;
+  }
+}

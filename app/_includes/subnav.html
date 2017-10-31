@@ -1,0 +1,48 @@
+<div id="subnav" class="subnav">
+  <div class="subnav--links">
+    {% if page.layout == "category" or page.layout == "indicator" or page.layout == "company" %}
+      {% assign reverse = true %}
+    {% else %}
+      {% assign reverse = false %}
+    {% endif %}
+    <span class="subnav--item dropdown--trigger subnav--dropdown" data-dropdown="dropdown-survey" data-reverse="{{ reverse }}">
+      Explore the Index <span class="collecticon collecticon-sm-triangle-down"></span>
+      <ul class="dropdown" id="dropdown-survey">
+        <li class="dropdown--item"><a href="{{ site.baseurl }}/download">Download</a></li>
+        <li class="dropdown--item"><a href="{{ site.baseurl }}/whatwhy">What &amp; Why?</a></li>
+        <li class="dropdown--item"><a href="{{ site.baseurl }}/findings">Findings</a></li>
+        <li class="dropdown--item"><a href="{{ site.baseurl }}/recommendations">Recommendations</a></li>
+        <li class="dropdown--item"><a href="{{ site.baseurl }}/methodology">Methodology</a></li>
+        <li class="dropdown--item"><a href="{{ site.baseurl }}">Companies</a></li>
+        <li class="dropdown--item"><a href="{{ site.baseurl }}/indicators">Indicators</a></li>
+        <li class="dropdown--item dropdown--category">Categories</li>
+        <li class="dropdown--item dropdown--category dropdown--category_child"><a href="{{ site.baseurl }}/categories/governance">- Governance</a></li>
+        <li class="dropdown--item dropdown--category dropdown--category_child"><a href="{{ site.baseurl }}/categories/freedom-of-expression">- Freedom of Expression</a></li>
+        <li class="dropdown--item dropdown--category dropdown--category_child"><a href="{{ site.baseurl }}/categories/privacy">- Privacy</a></li>
+      </ul>
+    </span>
+    <span class="subnav--item subnav--search"><form>
+        <input class="search supersearch" type="text" placeholder="Search for a topic"/>
+    </form></span>
+  </div>
+
+  <div class="hidden" id="search--data">
+    <div id="search--data_categories">
+      {% for topic in site.topics %}
+      <span>{{ topic.display }}</span>
+      {% endfor %}
+    </div>
+
+    <div id="search--data_companies">
+      {% for company in site.companies %}
+      <span>{{ company.next }}</span>
+      {% endfor %}
+    </div>
+
+    <div id="search--data_indicators">
+      {% for indicator in site.indicators %}
+      <span>{{ indicator.id }}</span>
+      {% endfor %}
+    </div>
+  </div>
+</div>

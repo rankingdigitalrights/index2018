@@ -1,0 +1,20 @@
+# System files
+.project
+.DS_Store
+.sass-cache
+.vscode
+node_modules
+app/assets/bower_components
+_site
+.tmp
+npm-debug.log
+_config-dev.yml
+
+# Local
+.resources
+.bundle
+bundle
+
+# Python scripting resources
+bin/raw
+*.pyc

@@ -1,0 +1,283 @@
+
+
+#index--viz_container {
+  @extend .contain;
+}
+
+#category--internet,
+#category--telco {
+  @include noselect;
+}
+
+.vis--row {
+width: 100%;
+display: inline-flex;
+align-items: center;
+padding-top: 0em;
+padding-bottom: 0;
+line-height: 1.4em;
+cursor: default;
+}
+
+.vis--row + .vis--row {
+padding-top: .7em;
+}
+
+.vis--row_title {
+width: $title-width-xs;
+  @include media(small-up) {
+  width: $title-width-sm;  
+  }
+  @include media(medium-up) {
+  width: $title-width-md;
+  }
+  @include media(large-up) {
+  width: $title-width-lg;  
+  }
+  @include media(xlarge-up) {
+  width: $title-width-xlg; 
+  }  
+
+}
+
+.vis--category_score {
+font-family: $simplon-light;
+color: $black;
+text-align: center;  
+width: $score-width-xs;
+  @include media(small-up) {
+  width: $score-width-sm;
+  }
+  @include media(medium-up) {
+  width: $score-width-md;
+  }
+  @include media(large-up) {
+  width: $score-width-lg;  
+  }
+  @include media(xlarge-up) {
+  width: $score-width-xlg;  
+  }    
+}
+
+.vis--type {
+  text-transform: uppercase;
+  color: $gray;
+}
+
+
+/* Horizontal chart (index)*/
+.vis--header {
+border-bottom: .1em solid $light;
+font-size: .75em;
+margin-top: 1em;
+align-items: flex-end;  
+}
+
+#category--internet .vis--header {
+margin-top: 0;
+}
+
+.vis--header_item {
+font-family: $simplon-regular; 
+color: $black;
+font-size: 14px;
+line-height: 1.3; 
+letter-spacing: 1px;
+text-transform: uppercase;
+overflow: hidden;
+
+background: transparent;
+
+padding-top: .5em;
+padding-bottom: .5em;
+
+  > a {
+  font-family: $simplon-regular;  
+  font-size: 14px;
+  color: $black;
+  line-height: 1.3; 
+  letter-spacing: 1px;    
+  text-decoration: none;
+  transition: color .2s ease-out;
+  display: block;
+  }
+
+  &.vis--row_title {
+  font-size: 14px;
+  font-weight: 500;
+    > a { 
+    font-size: 14px;
+    font-weight: 500;
+    }    
+  }  
+
+}
+
+.vis--row_title {
+font-family: $simplon-regular; 
+color: $black;
+font-size: 13px;
+line-height: 1.3;
+font-weight: 600; 
+letter-spacing: 1px;
+text-transform: uppercase;
+overflow: hidden;
+
+background: transparent;
+
+padding-top: .5em;
+padding-bottom: .5em;
+
+  > a {
+  font-family: $simplon-regular;  
+  font-size: 13px;
+  color: $black;
+  font-weight: 600;
+  line-height: 1.3; 
+  letter-spacing: 1px;    
+  text-decoration: none;
+  transition: color .2s ease-out;
+  display: block;
+  }
+
+}
+
+
+
+.sort > .collecticon { margin-left: .25em; }
+.sort-asc > .collecticon:before { content: "\EA73"; }
+.sort-desc > .collecticon:before { content: "\EA74"; }
+.sort-none > .collecticon:before { content: "\EA75"; }
+.sort-sort > .collecticon:before { content: "\EA76"; }
+
+.vis--header_score {
+text-align: center;  
+width: $score-width-xs;
+  @include media(small-up) {
+  width: $score-width-sm;    
+  }
+  @include media(medium-up) {
+  width: $score-width-md;
+  }
+  @include media(large-up) {
+  width: $score-width-lg;
+  }
+  @include media(xlarge-up) {
+  width: $score-width-xlg;
+  }   
+}
+
+.vis--row_bars {
+display: inline-flex;
+align-items: flex-end;
+justify-content: space-between;  
+width: $bar-width-xs;
+  @include media(small-up) {
+  width: $bar-width-sm;  
+  }
+  @include media(medium-up) {
+  width: $bar-width-md;  
+  }
+  @include media(large-up) {
+  width: $bar-width-lg;  
+  }
+  @include media(xlarge-up) {
+  width: $bar-width-xlg;  
+  }
+}
+
+.vis--row_bar {
+  width: 100%;
+  text-align: center;
+  @include media(medium-up) {
+    width: 22%;
+  }
+}
+
+.bar--count_1,
+.bar--count_2,
+.bar--count_3 {
+  display: none;
+  @include media(medium-up) {
+    display: block;
+  }
+}
+
+.vis--horiz_bar_container {
+  position: relative;
+  height: $bar-height-xs;
+  background: $beige;
+  overflow: hidden;
+  transition: background .2s ease-in;
+    @include media(small-up) {
+    height: $bar-height-sm;  
+    }
+    @include media(medium-up) {
+    height: $bar-height-md;
+    }
+    @include media(large-up) {
+    height: $bar-height-lg;      
+    }
+    @include media(large-up) {
+    height: $bar-height-xlg;      
+    }    
+}
+
+.vis--horiz_bar {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: $bar-height-xs;
+  height: 2em;
+  display: block;
+  background: black;
+    @include media(small-up) {
+    height: $bar-height-sm;  
+    }
+    @include media(medium-up) {
+    height: $bar-height-md;
+    }
+    @include media(large-up) {
+    height: $bar-height-lg;      
+    }
+    @include media(large-up) {
+    height: $bar-height-xlg;      
+    }   
+}
+
+// Colors
+
+.vis--bar_total {
+background: $cat-total;
+transition: background .2s ease-in;
+  &:hover {
+  background: $cat-total-hover;  
+  }
+}
+.vis--bar_commitment {
+background: $cat-commitment;
+transition: background .2s ease-in;
+  &:hover {
+  background: $cat-commitment-hover;  
+  }
+}
+.vis--bar_freedom {
+background: $cat-freedom;
+transition: background .2s ease-in;
+  &:hover {
+  background: $cat-freedom-hover;  
+  }
+}
+.vis--bar_privacy {
+background: $cat-privacy;
+transition: background .2s ease-in;
+  &:hover {
+  background: $cat-privacy-hover;  
+  }
+}
+
+.vis--horiz_bar_container:hover {
+  &:hover {
+  background: darken($beige, 3%);  
+  }
+}

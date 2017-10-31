@@ -1,0 +1,177 @@
+[
+	{
+		"text": "The company should publicly commit to respect users' human rights to freedom of expression and privacy.",
+		"id": "G1",
+		"name": " G1. Policy Commitment"
+	},
+	{
+		"text": "The company's senior leadership should exercise oversight over how its policies and practices affect freedom of expression and privacy.",
+		"id": "G2",
+		"name": "G2. Governance and management oversight"
+	},
+	{
+		"text": "The company should have mechanisms in place to implement its commitments to freedom of expression and privacy within the company.",
+		"id": "G3",
+		"name": "G3. Internal implementation"
+	},
+	{
+		"text": "The company should conduct regular, comprehensive, and credible due diligence, such as human rights impact assessments, to identify how all aspects of its business affect freedom of expression and privacy and to mitigate any risks posed by those impacts.",
+		"id": "G4",
+		"name": "G4. Impact assessment"
+	},
+	{
+		"text": "The company should engage with a range of stakeholders on freedom of expression and privacy issues.",
+		"id": "G5",
+		"name": "G5. Stakeholder engagement"
+	},
+	{
+		"text": "The company should have grievance and remedy mechanisms to address users' freedom of expression and privacy concerns.",
+		"id": "G6",
+		"name": "G6. Remedy"
+	},
+	{
+		"text": "The company should offer terms of service that are easy to find and easy to understand.",
+		"id": "F1",
+		"name": "F1. Access to terms of service"
+	},
+	{
+		"text": "The company should clearly disclose that it provides notice and documentation to users when it changes its terms of service.",
+		"id": "F2",
+		"name": "F2. Changes to terms of service"
+	},
+	{
+		"text": "The company should clearly disclose the circumstances under which it may restrict content or user accounts.",
+		"id": "F3",
+		"name": "F3. Process for terms of service enforcement"
+	},
+	{
+		"text": "The company should clearly disclose and regularly publish data about the volume and nature of actions taken to restrict content or accounts that violate the company's rules.",
+		"id": "F4",
+		"name": "F4. Data about terms of service enforcement"
+	},
+	{
+		"text": "The company should clearly disclose its process for responding to government requests (including judicial orders) and private requests to remove, filter, or restrict content or accounts.",
+		"id": "F5",
+		"name": "F5. Process for responding to third-party requests for content or account restriction"
+	},
+	{
+		"text": "The company should regularly publish data about government requests (including judicial orders) to remove, filter, or restrict content or accounts.",
+		"id": "F6",
+		"name": "F6. Data about government requests for content or account restriction"
+	},
+	{
+		"text": "The company should regularly publish data about private requests to remove, filter, or restrict access to content or accounts.",
+		"id": "F7",
+		"name": "F7. Data about private requests for content or account restriction"
+	},
+	{
+		"text": "The company should clearly disclose that it notifies users when it restricts content or accounts.",
+		"id": "F8",
+		"name": "F8. User notification about content and account restriction"
+	},
+	{
+		"text": "The company should clearly disclose that it does not prioritize, block, or delay certain types of traffic, applications, protocols, or content for any reason beyond assuring quality of service and reliability of the network.",
+		"id": "F9",
+		"name": "F9. Network management (telecommunications companies)"
+	},
+	{
+		"text": "The company should clearly explain the circumstances under which it may shut down or restrict access to the network or to specific protocols, services, or applications on the network.",
+		"id": "F10",
+		"name": "F10. Network shutdown (telecommunications companies)"
+	},
+	{
+		"text": "The company should not require users to verify their identity with their government-issued identification, or other forms of identification that could be connected to their offline identity.",
+		"id": "F11",
+		"name": "F11. Identity policy"
+	},
+	{
+		"text": "The company should offer privacy policies that are easy to find and easy to understand.",
+		"id": "P1",
+		"name": "P1. Access to privacy policies"
+	},
+	{
+		"text": "The company should clearly disclose that it provides notice and documentation to users when it changes its privacy policies.",
+		"id": "P2",
+		"name": "P2. Changes to privacy policies"
+	},
+	{
+		"text": "The company should clearly disclose what user information it collects and how.",
+		"id": "P3",
+		"name": "P3. Collection of user information"
+	},
+	{
+		"text": "The company should clearly disclose what user information it shares and with whom.",
+		"id": "P4",
+		"name": "P4. Sharing of user information"
+	},
+	{
+		"text": "The company should clearly disclose why it collects and shares user information.",
+		"id": "P5",
+		"name": "P5. Purpose for collecting and sharing user information"
+	},
+	{
+		"text": "The company should clearly disclose how long it retains user information.",
+		"id": "P6",
+		"name": "P6. Retention of user information"
+	},
+	{
+		"text": "The company should clearly disclose to users what options they have to control the company's collection, retention and use of their user information.",
+		"id": "P7",
+		"name": "P7. Users' control over their own user information"
+	},
+	{
+		"text": "Companies should allow users to obtain all of their user information the company holds.",
+		"id": "P8",
+		"name": "P8. Users' access to their own user information"
+	},
+	{
+		"text": "The company should clearly disclose its practices with regard to user information it collects from third-party websites or apps through technical means.",
+		"id": "P9",
+		"name": "P9. Collection of user information from third parties (Internet companies)"
+	},
+	{
+		"text": "The company should clearly disclose its process for responding to requests from governments and other third parties for user information.",
+		"id": "P10",
+		"name": "P10. Process for responding to third-party requests for user information"
+	},
+	{
+		"text": "The company should regularly publish data about government and other third-party requests for user information.",
+		"id": "P11",
+		"name": "P11. Data about third-party requests for user information"
+	},
+	{
+		"text": "The company should notify users to the extent legally possible when their user information has been requested by governments and other third parties.",
+		"id": "P12",
+		"name": "P12. User notification about third-party requests for user information"
+	},
+	{
+		"text": "The company should clearly disclose information about its institutional processes to ensure the security of its products and services.",
+		"id": "P13",
+		"name": "P13. Security oversight"
+	},
+	{
+		"text": "The company should address security vulnerabilities when they are discovered.",
+		"id": "P14",
+		"name": "P14. Addressing security vulnerabilities"
+	},
+	{
+		"text": "The company should publicly disclose information about its processes for responding to data breaches.",
+		"id": "P15",
+		"name": "P15. Data breaches"
+	},
+	{
+		"text": "The company should encrypt user communication and private content so users can control who has access to it.",
+		"id": "P16",
+		"name": "P16. Encryption of user communication and private content (Internet, software, and device companies)"
+	},
+	{
+		"text": "The company should help users keep their accounts secure.",
+		"id": "P17",
+		"name": "P17. Account Security (Internet, software, and device companies)"
+	},
+	{
+		"text": "The company should publish information to help users defend themselves against cyber risks.",
+		"id": "P18",
+		"name": "P18. Inform and educate users about potential risks"
+	}
+]

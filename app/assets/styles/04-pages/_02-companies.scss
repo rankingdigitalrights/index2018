@@ -1,0 +1,149 @@
+#page--companies {
+
+  .page--companies--content--row {
+
+    .page--companies--content--column {
+
+      @include media(medium-up) {
+      @include span-columns(6);
+      }
+
+      .category--title {
+      margin-bottom: 1em;
+        @include media(small-up) {
+        margin-bottom: 1em;  
+        }
+        @include media(medium-up) {
+        margin-bottom: 1em;
+        }
+        @include media(large-up) {
+        margin-bottom: 1em;  
+        }
+        @include media(xlarge-up) {
+        margin-bottom: 1em;  
+        }                                 
+      }
+
+      .category--graph {
+
+        .vis--row {
+
+          .vis--row_title {
+          text-align: right; 
+            a {
+            font-family: $simplon-bold;
+            color: $black;
+            font-size: 12px;
+            line-height: 1;
+            text-transform: uppercase;
+            vertical-align: middle;
+              @include media(small-up) {
+              font-size: 12px;  
+              }
+              @include media(medium-up) {
+              font-size: 13px;
+              } 
+              @include media(large-up) {
+              font-size: 15px;  
+              }
+              @include media(xlarge-up) {
+              font-size: 16px;   
+              }
+              &:hover {
+              text-decoration: underline;
+              }                            
+            }
+          }
+
+          .vis--category_score { 
+            .vis--category_score_value {
+            width: 1.6em;
+            height: 1.6em;
+            display: inline-block;          
+            @include border-radius (50%);
+              @include media(small-up) {
+              width: 1.6em;
+              height: 1.6em;  
+              }
+              @include media(medium-up) {
+              width: 1.4em;
+              height: 1.4em;                
+              } 
+              @include media(large-up) {
+              width: 1.5em;  
+              height: 1.5em;                
+              }            
+              @include media(xlarge-up) {
+              width: 1.5em;  
+              height: 1.5em;                
+              }               
+              span {
+              font-family: $simplon-bold;
+              color: $white-pure;
+              font-size: 10px;
+              line-height: 2.4;
+                @include media(small-up) {
+                font-size: 10px;
+                line-height: 2.4;
+                }
+                @include media(medium-up) {
+                font-size: 10px;
+                line-height: 2.4;  
+                }
+                @include media(large-up) {
+                font-size: 13px;
+                line-height: 2.2; 
+                }
+                @include media(xlarge-up) {
+                font-size: 13px;
+                line-height: 2.2; 
+                }                                              
+              }                           
+            } 
+          }
+
+          .vis--row_bars {
+          }
+
+          .vis--row_bar {
+          width: 100%;
+          }        
+
+        }
+
+        &.internet-and-mobile-companies {
+          .vis--category_score {
+            .vis--category_score_value {
+            background-color: $red;
+            }   
+          }
+        }
+
+        &.telecommunications-companies {
+          .vis--category_score {
+            .vis--category_score_value {
+            background-color: $orange;  
+            }  
+          }        
+        }        
+
+      }
+  
+    }
+
+    .page--companies--content--column + .page--companies--content--column {
+    margin-top: 2em;
+      @include media(small-up) {
+      margin-top: 2em;  
+      }
+      @include media(medium-up) {
+      margin-top: 0em;  
+      }
+      @include media(large-up) {
+      margin-top: 0em;  
+      }         
+    }
+
+  }
+
+}

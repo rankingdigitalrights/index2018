@@ -1,0 +1,270 @@
+.banner {
+  background: $base-color;
+  color: $white;
+  text-transform: uppercase;
+  position: relative;
+  z-index: 2;
+  padding-top: 1em;
+  padding-bottom: 1em;
+    .medium-up {
+    margin-top: 7px !important;
+        .nav {
+            .nav--item {
+                a {
+                font-size: 16px;
+                font-weight: 600;
+                font-family: $simplon-medium;
+                letter-spacing: 0;    
+                }
+            }    
+        }
+    }
+}
+
+.nav--mobile a,
+.nav--mobile a:link,
+.nav--mobile a:hover,
+.nav--mobile a:active,
+.nav--mobile a:visited,
+.banner a,
+.banner a:link,
+.banner a:hover,
+.banner a:active,
+.banner a:visited {
+  color: $white;
+}
+
+.banner--internal {
+  width: 100%;
+  display: inline-flex;
+  align-items: center;
+}
+
+.logo {
+  width: 32px;
+  height: 32px;
+  @include media(medium-up) {
+    width: 3em;
+    height: 3em;
+  }
+}
+
+.rdr {
+  margin-left: .75em;
+  width: 180px;
+  @include media(medium-only) { width: 320px; }
+  @include media(large-up) { width: 400px; }
+}
+
+.nav {
+  display: inline-flex;
+  align-items: center;
+  width: 100%;
+  margin-left: 3.05em;
+}
+
+.nav--item {
+  margin: 0 .72em;
+  display: inline-block;
+  line-height: 1.2em;
+  font-weight: 600;
+}
+
+.nav--item_active > a {
+  text-decoration: underline;
+}
+
+.nav--gear_icon {
+  width: 1.6em;
+  height: 1.6em;
+}
+
+/* Mobile menu */
+.nav--mobile {
+  /*background: darken($base-color, 10%);*/
+  width: 100%;
+  display: none;
+  /*padding: .5 1em .3;*/
+  &.active { display: block; }
+  .nav { padding: .5em; }
+  @include media(medium-up) {
+  }
+}
+
+.nav--vertical {
+  text-align: left;
+  /*padding-bottom: 1em;*/
+}
+
+
+.blue-nav-bg {
+background-color: $base-color-darken;
+padding-bottom: 1em;
+  a,
+  a:link,
+  a:hover,
+  a:active,
+  a:visited { 
+  color: $white;
+  line-height: 1;
+  font-family: $simplon-regular;
+  font-weight: 600;
+  font-size: 15px;  
+  }
+  a:hover,
+  a:active {
+  text-decoration: underline !important;  
+  }
+  .dropdown--mobile {
+  background-color: $white-pure;  
+  }
+  .dropdown--trigger_mobile {
+    .collecticon {
+    color: $white-pure !important;
+    }
+  }
+  .dropdown--mobile {
+    a, 
+    a:link, 
+    a:hover, 
+    a:active, 
+    a:visited {
+    font-family: $simplon-light;
+    font-weight: 600;
+    line-height: 1;
+    font-size: 13px;
+    padding: 0.75em 1em;
+    }
+  }          
+}
+
+.gray-nav-bg {
+background-color: $dark-grey;
+padding-bottom: 1em;
+  a,
+  a:link,
+  a:hover,
+  a:active,
+  a:visited {  
+  color: $black;
+  font-family: $simplon-regular;
+  font-weight: 500;
+  line-height: 1;
+  font-size: 15px;
+  }
+  a:hover,
+  a:active {
+  text-decoration: underline !important;  
+  }
+  .dropdown--mobile {
+  background-color: $white-pure; 
+  }  
+  .dropdown--trigger_mobile {
+    .collecticon {
+    color: $black !important;
+    }
+  }
+  .dropdown--mobile {
+    a, 
+    a:link, 
+    a:hover, 
+    a:active, 
+    a:visited {
+    color: $black;
+    font-family: $simplon-light;
+    font-weight: 600;
+    line-height: 1;
+    font-size: 13px;
+    padding: 0.75em 1em;
+    }
+  }    
+}
+
+
+
+
+.nav--item_vertical {
+  line-height: 1.2em;
+  padding-top: 1em;
+  margin-left: 1em;
+  margin-right: 1em;
+
+  > a {
+    display: inline-block;
+  }
+
+  > .collecticon {
+    float: right;
+  }
+}
+
+
+.bttn--hamburger {
+  margin: -4px 0 0 auto;
+  position: relative;
+  overflow: hidden;
+  width: 36px;
+  height: 30px;
+  font-size: 0;
+  text-indent: -9999px;
+  border: none;
+  cursor: pointer;
+  transition: background 0.4s ease-out;
+  background-color: transparent;
+
+  ::focus { outline: none; }
+
+  span {
+    display: block;
+    position: absolute;
+    top: 14px;
+    left: 3px;
+    right: 3px;
+    height: 5px;
+    background: #fefded;
+    transition: background 0s 0.15s;
+  }
+
+  ::before, ::after {
+    position: absolute;
+    display: block;
+    left: 0;
+    width: 100%;
+    height: 5px;
+    background-color: #fefded;
+    content: "";
+    transition-duration: 0.15s, 0.15s;
+    transition-delay: 0.15s, 0s;
+  }
+
+  ::before {
+    top: -10px;
+    transition-property: top, transform;
+  }
+
+  ::after {
+    bottom: -10px;
+    transition-property: bottom, transform;
+  }
+
+  @include media(medium-up) {
+    display: none;
+    visibility: hidden;
+  }
+}
+
+.bttn--hamburger.active {
+  span {
+    background: none;
+    &::before {
+      top: 0;
+      transform: rotate(45deg);
+      transition-delay: 0s, 0.15s
+    }
+    &::after {
+      bottom: 0;
+      transform: rotate(-45deg);
+      transition-delay: 0s, 0.15s
+    }
+  }
+}

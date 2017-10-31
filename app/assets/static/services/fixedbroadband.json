@@ -1,0 +1,72 @@
+[
+    {
+        "Company": "Vodafone",
+        "Service ": "Vodafone UK",
+        "text": "Vodafone UK offers fixed broadband services in the United Kingdom. Vodafone UK is a subsidiary of the multinational telecommunications company Vodafone Group Plc, which operates worldwide with a significant footprint in Europe, Asia, Middle East, and Africa.",
+        "rank": "1",
+        "Total": "47",
+        "G": "81",
+        "FoE": "41",
+        "P": "37"
+    },
+    {
+        "Company": "AT&T",
+        "Service ": "AT&T",
+        "text": "AT&T?s fixed broadband service is offered as part of its  Wireline service which provides telephony, Internet access, and network integration. ",
+        "rank": "2",
+        "Total": "46",
+        "G": "67",
+        "FoE": "34",
+        "P": "45"
+    },
+    {
+        "Company": "Telefónica",
+        "Service ": "Movistar",
+        "text": "Movistar is a fixed broadband service operated in Spain by Telefónica de Espa¤a, a subsidiary company of Telefónica, a multinational telecommunications company that also operates in many Latin American countries.",
+        "rank": "3",
+        "Total": "34",
+        "G": "58",
+        "FoE": "27",
+        "P": "29"
+    },
+    {
+        "Company": "Orange",
+        "Service ": "Orange France",
+        "text": "Orange France offers fixed line broadband service in France. Orange France is a subsidiary of Orange S.A. (formerly France T‚l‚com S.A.), a French multinational telecommunications corporation.",
+        "rank": "4",
+        "Total": "33",
+        "G": "74",
+        "FoE": "19",
+        "P": "26"
+    },
+    {
+        "Company": "Bharti Airtel",
+        "Service ": "Airtel India",
+        "text": "Airtel India offers fixed line broadband service across India. Airtel India is a subsidiary of Bharti Airtel Limited, a global telecommunications services company based in New Delhi that operates in 18 countries across South Asia and Africa.",
+        "rank": "5",
+        "Total": "15",
+        "G": "14",
+        "FoE": "12",
+        "P": "17"
+    },
+    {
+        "Company": "Etisalat",
+        "Service ": "Etisalat UAE",
+        "text": "Etisalat UAE offers fixed line broadband service in the United Arab Emirates. Etisalat UAE is a subsidiary of Emirates Telecommunications Corporation, a multinational UAE based telecommunications services provider.",
+        "rank": "6",
+        "Total": "8",
+        "G": "8",
+        "FoE": "16",
+        "P": "2"
+    },
+    {
+        "Company": "Ooredoo",
+        "Service ": "Ooredoo Qatar",
+        "text": "Ooredoo Qatar offers fixed-line broadband services in Qatar. It is a subsidiary of Ooredoo Q.S.C. (formerly Qtel), an international telecommunications company headquartered in Doha, Qatar with operations across the Middle East, North Africa, and Asia.",
+        "rank": "7",
+        "Total": "5",
+        "G": "2",
+        "FoE": "15",
+        "P": "0"
+    }
+]

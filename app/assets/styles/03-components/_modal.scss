@@ -1,0 +1,137 @@
+.modal {
+display: none; /* Hidden by default */
+position: fixed; /* Stay in place */
+z-index: 1050; /* Sit on top */
+left: 0;
+top: 0;
+width: 100%; /* Full width */
+height: 100%; /* Full height */
+overflow: auto; /* Enable scroll if needed */
+background-color: rgb(0,0,0); /* Fallback color */
+background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+
+    /* Modal Content/Box */
+    .modal-content {
+    margin-top: 7.5em;
+    margin-bottom: 7.5em;    
+    background-color: $white;
+    /*margin: 15% auto;*/ /* 15% from the top and centered */
+    padding:15px;
+    border: 1px solid #888;
+    /*position: absolute;
+    top: 20%;
+    left: 2%;
+    width: 90%; 
+    width: 96%; /* Could be more or less, depending on screen size */
+
+        /* The Close Button */
+        .close {
+        color: $gray;
+        float: right;
+        font-size: 23px;
+        line-height: 1;
+        font-weight: bold;
+        margin-top: -3px;
+            @include media(small-up) {
+            font-size: 23px;
+            margin-top: -3px;
+            }
+            @include media(medium-up) {
+            font-size: 24px;
+            margin-top: -3px;
+            }
+            @include media(large-up) {
+            font-size: 25px;
+            margin-top: -3px;
+            }
+            @include media(xlarge-up) {
+            font-size: 28px;
+            margin-top: -3px;  
+            }        
+            &:hover,
+            &:focus {
+            color: $black;
+            text-decoration: none;
+            cursor: pointer;
+            }        
+        }
+
+        h3 {
+            &.indicator--name {
+            color: $black;
+            }
+        }
+
+        table {
+        width: 100%;
+
+            tr {
+                &.header {
+                    th {
+                    font-weight: normal;
+                    line-height: 1.2;
+                    text-transform: uppercase;    
+                        &.cell--first {
+                        text-align: left;
+                        font-weight: bold;
+                        }
+                        &.cell--0 {
+                        text-align: center;
+                        }                                                
+                    }
+                }
+            }
+
+            tr {
+            border-bottom: 1px solid $beige;
+                th, td {
+                font-size: 10px;
+                line-height: 1.2;
+                font-weight: bold;
+                padding: 10px 5px;
+                text-align: center;
+                  @include media(small-up) {
+                  font-size: 11px;
+                  }
+                  @include media(medium-up) {
+                  font-size: 13px;
+                  }
+                  @include media(large-up) {
+                  font-size: 14px;
+                  }
+                  @include media(xlarge-up) {
+                  font-size: 16px;   
+                  }
+
+                }
+                th, td {
+                    &.cell--0 {
+                    text-align: left;
+                    font-weight: normal;
+                    }
+                }               
+            }
+
+            tr {
+                &.average {
+                background-color: $beige;
+                    td {
+                    line-height: 1.2;    
+                        &.cell--first {
+                        text-align: left;
+                        font-weight: bold;
+                        text-transform: uppercase;
+                        }
+                        &.cell--0 {
+                        text-align: center;
+                        font-weight: bold;
+                        }                                                 
+                    }
+                }
+            }
+
+        }        
+
+    }
+
+}
