@@ -1,2 +1,2 @@
 module.exports = process.env.NODE_ENV === 'development'
-  ? 'http://rdrbackup.cloudtech.company:3000' : 'https://rankingdigitalrights.org/index2017';
+  ? 'http://rdr2018.cloudtech.company:3000' : 'https://rankingdigitalrights.org/index2017';
