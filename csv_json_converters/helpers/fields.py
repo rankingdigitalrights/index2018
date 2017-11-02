@@ -1,4 +1,27 @@
 # coding=utf-8
+ORDERED_SERVICE_ROWS = ['Category', 'Company', 'Service', 'Total', 'G', 'FoE', 'P']
+
+
+class ServiceCSVFields(object):
+    category = ORDERED_SERVICE_ROWS[0]
+    company = ORDERED_SERVICE_ROWS[1]
+    service = ORDERED_SERVICE_ROWS[2]
+    total = ORDERED_SERVICE_ROWS[3]
+    g = ORDERED_SERVICE_ROWS[4]
+    foe = ORDERED_SERVICE_ROWS[5]
+    p = ORDERED_SERVICE_ROWS[6]
+
+
+class ServiceJSONFields(object):
+    company = ServiceCSVFields.company
+    service = ServiceCSVFields.service
+    rank = 'rank'
+    total = ServiceCSVFields.total
+    g = ServiceCSVFields.g
+    foe = ServiceCSVFields.foe
+    p = ServiceCSVFields.p
+
+
 SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS = [
     u'G1. Policy Commitment', u'G2. Governance and management oversight', u'G3. Internal implementation',
     u'G4. Impact assessment', u'G5. Stakeholder engagement', u'G6. Remedy', u'F1. Access to terms of service',
@@ -21,11 +44,32 @@ INDICATOR_IDS = [
     u'F9.', u'F10.', u'F11.', u'P1.', u'P2.', u'P3.', u'P4.', u'P5.', u'P6.', u'P7.', u'P8.', u'P9.', u'P10.', u'P11.',
     u'P12.', u'P13.', u'P14.', u'P15.', u'P16.', u'P17.', u'P18.']
 
+COMMITMENT_INDICATORS = [indicator for indicator in SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS if indicator.startswith('G')]
+FREEDOM_INDICATORS = [indicator for indicator in SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS if indicator.startswith('F')]
+PRIVACY_INDICATORS = [indicator for indicator in SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS if indicator.startswith('P')]
+
 COMPANIES_COLUMNS = [
     'América Móvil', 'Apple', 'AT&T', 'Axiata', 'Baidu', 'Bharti Airtel', 'Etisalat', 'Facebook', 'Google', 'Kakao',
     'Mail.Ru', 'Microsoft', 'MTN', 'Ooredoo', 'Orange', 'Samsung', 'Telefónica', 'Tencent', 'Twitter', 'Vodafone',
     'Yahoo', 'Yandex'
-]  # order is not important
+]
+
+COMPANIES_IDS = [
+    'americamovil', 'apple', 'att', 'axiata', 'baidu', 'bhartiairtel', 'etisalat', 'facebook', 'google', 'kakao',
+    'mailru', 'microsoft', 'mtn', 'ooredoo', 'orange', 'samsung', 'telefonica', 'tencent', 'twitter', 'vodafone',
+    'yahoo', 'yandex'
+]
+# COMPANIES_COLUMNS AND COMPANIES_IDS MUST BE CHANGED AT SAME TIME IF ONE IS MODIFIED WITHOUT OTHER IT WILL CREATE
+# A LOT OF ERRORS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+_COMPANIES_ID_NAME_PAIRS = zip(COMPANIES_IDS, COMPANIES_COLUMNS)
+
+
+class CompanyData(object):
+    def __init__(self, company_id, company_name):
+        self.id, self.name = company_id, company_name
+
+
+COMPANIES_DATA = [CompanyData(company_id, company_name) for company_id, company_name in _COMPANIES_ID_NAME_PAIRS]
 
 
 class IndicatorOverviewJsonFields(object):

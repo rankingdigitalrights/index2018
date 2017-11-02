@@ -1,46 +1,16 @@
 # coding=utf-8
-from helpers.fields import SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS, INDICATOR_IDS, COMPANIES_COLUMNS, \
-    IndicatorOverviewJsonFields
-from helpers.core_classes import BaseChecker
-from helpers.command_line_parser import parse_and_check
-from helpers.csv_json_rw import load_rows_as_list_of_lists, create_json_file
-from helpers.errors import InvalidRowStructure, InvalidColumnNames
-
-
-class ScoresOverviewTypeCsvChecker(BaseChecker):
-    INVALID_BASE_STRUCTURE_ERR_MSG = BaseChecker.INVALID_BASE_STRUCTURE_ERR_MSG.format(
-        ordered_rows=u', '.join(SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS))
-    COMPLEX_ERROR_MSG = BaseChecker.COMPLEX_ERROR_MSG.format(invalid_base_structure_err_msg=INVALID_BASE_STRUCTURE_ERR_MSG)
-    # INVALID_BASE_STRUCTURE_ERR_MSG = INVALID_BASE_STRUCTURE_ERR_MSG.encode('utf-8')
-    MISSING_REQUIRED_COLUMN = BaseChecker.MISSING_REQUIRED_COLUMN.format(all_columns=', '.join(COMPANIES_COLUMNS))
-
-    def __init__(self, csv_location):
-        self.rows = load_rows_as_list_of_lists(csv_location)
-
-    def _check_indicator_rows(self):
-        first_columns = [row[0] for row in self.rows]
-        if SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS[0] not in first_columns:
-            raise InvalidRowStructure(self.INVALID_BASE_STRUCTURE_ERR_MSG)
-        first_indicator_index = first_columns.index(SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS[0])
-        for proper_index, csv_index in enumerate(
-                range(first_indicator_index, first_indicator_index + len(SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS))):
-            if first_columns[csv_index] != SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS[proper_index]:
-                complex_error_msg = self.COMPLEX_ERROR_MSG % (
-                    SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS[proper_index], first_columns[csv_index],
-                    first_indicator_index + csv_index
-                )
-                raise InvalidRowStructure(complex_error_msg.encode('utf-8'))
-
-    def _check_companies_columns(self):
-        first_row = self.rows[0]  # all column names are in first row
-        for required_column in COMPANIES_COLUMNS:
-            if required_column not in first_row:
-                raise InvalidColumnNames(self.MISSING_REQUIRED_COLUMN % required_column)
-
-    def check(self):
-        super(ScoresOverviewTypeCsvChecker, self).check()
-        self._check_indicator_rows()
-        self._check_companies_columns()
+try:
+    from .helpers.fields import SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS, INDICATOR_IDS, COMPANIES_COLUMNS, \
+        IndicatorOverviewJsonFields
+    from .helpers.command_line_parser import parse_and_check
+    from .helpers.csv_json_rw import load_rows_as_list_of_lists, create_json_file
+    from .csv_structure_checkers import ScoresOverviewTypeCsvChecker
+except SystemError:
+    from helpers.fields import SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS, INDICATOR_IDS, COMPANIES_COLUMNS, \
+        IndicatorOverviewJsonFields
+    from helpers.command_line_parser import parse_and_check
+    from helpers.csv_json_rw import load_rows_as_list_of_lists, create_json_file
+    from csv_structure_checkers import ScoresOverviewTypeCsvChecker
 
 
 class CompanyCSVData(object):

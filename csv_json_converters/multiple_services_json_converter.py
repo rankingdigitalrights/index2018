@@ -1,60 +1,14 @@
-import re
 import os
-import helpers
-
-ORDERED_SERVICE_ROWS = ['Category', 'Company', 'Service', 'Total', 'G', 'FoE', 'P']
-BaseChecker = helpers.core_classes.BaseChecker
-
-
-class ServiceCSVFields(object):
-    category = ORDERED_SERVICE_ROWS[0]
-    company = ORDERED_SERVICE_ROWS[1]
-    service = ORDERED_SERVICE_ROWS[2]
-    total = ORDERED_SERVICE_ROWS[3]
-    g = ORDERED_SERVICE_ROWS[4]
-    foe = ORDERED_SERVICE_ROWS[5]
-    p = ORDERED_SERVICE_ROWS[6]
-
-
-class ServiceJSONFields(object):
-    company = ServiceCSVFields.company
-    service = ServiceCSVFields.service
-    rank = 'rank'
-    total = ServiceCSVFields.total
-    g = ServiceCSVFields.g
-    foe = ServiceCSVFields.foe
-    p = ServiceCSVFields.p
-
-
-class _MultipleServicesTypeCsvChecker(BaseChecker):
-    INVALID_BASE_STRUCTURE_ERR_MSG = BaseChecker.INVALID_BASE_STRUCTURE_ERR_MSG.format(ordered_rows=', '.join(ORDERED_SERVICE_ROWS))
-    COMPLEX_ERROR_MSG = BaseChecker.COMPLEX_ERROR_MSG.format(invalid_base_structure_err_msg=INVALID_BASE_STRUCTURE_ERR_MSG)
-
-    def __init__(self, csv_location):
-        self.rows = helpers.csv_json_rw.load_rows_as_list_of_lists(csv_location)
-
-    def _check_service_start_row(self):
-        first_row = ORDERED_SERVICE_ROWS[0]
-        start_row_pattern = re.compile(first_row)
-        for ind, row in enumerate(self.rows):
-            if start_row_pattern.findall(row[0]) and row[0] != first_row:
-                raise helpers.errors.InvalidRowStructure(self.COMPLEX_ERROR_MSG % (first_row, row[0], ind))
-
-    def _check_service_row_order(self, service_start_index):
-        for correct_index, service_index in enumerate(range(service_start_index, service_start_index + len(ORDERED_SERVICE_ROWS))):
-            row = self.rows[service_index]
-            if row[0] != ORDERED_SERVICE_ROWS[correct_index]:
-                raise helpers.errors.InvalidRowStructure(self.COMPLEX_ERROR_MSG % (
-                    ORDERED_SERVICE_ROWS[correct_index], row[0], service_start_index + service_index - 1
-                ))
-
-    def check(self):
-        self._check_service_start_row()
-        service_starts_indexes = [index for index, row in enumerate(self.rows) if row[0] == ORDERED_SERVICE_ROWS[0]]
-        if len(service_starts_indexes) == 0:
-            raise helpers.errors.InvalidRowStructure(self.INVALID_BASE_STRUCTURE_ERR_MSG)
-        for service_start_index in service_starts_indexes:
-            self._check_service_row_order(service_start_index)
+try:
+    from .helpers.fields import ORDERED_SERVICE_ROWS, ServiceCSVFields, ServiceJSONFields
+    from .helpers.command_line_parser import parse_and_check
+    from .helpers.csv_json_rw import load_rows_as_list_of_lists, create_json_file
+    from .csv_structure_checkers import MultipleServicesTypeCsvChecker
+except SystemError:
+    from helpers.fields import ORDERED_SERVICE_ROWS, ServiceCSVFields, ServiceJSONFields
+    from helpers.command_line_parser import parse_and_check
+    from helpers.csv_json_rw import load_rows_as_list_of_lists, create_json_file
+    from csv_structure_checkers import MultipleServicesTypeCsvChecker
 
 
 def _separate_service_related_rows(all_rows):
@@ -133,16 +87,16 @@ class _ServiceJsonFilesCreator(object):
     def create(self):
         service_filename = self._parse_service_filename()
         service_objects = self.service_objects_creator.create()
-        helpers.csv_json_rw.create_json_file(service_objects, service_filename)
+        create_json_file(service_objects, service_filename)
 
 
 def convert_multiple_services_type_csv_to_json(csv_location, output_directory):
     # check structure of multiple_services_type
-    multiple_services_csv_type_checker = _MultipleServicesTypeCsvChecker(csv_location)
+    multiple_services_csv_type_checker = MultipleServicesTypeCsvChecker(csv_location)
     multiple_services_csv_type_checker.check()
 
     # parse services
-    rows = helpers.csv_json_rw.load_rows_as_list_of_lists(csv_location)
+    rows = load_rows_as_list_of_lists(csv_location)
     service_related_rows = _separate_service_related_rows(rows)
     for service_rows in service_related_rows:
         services_json_files_creator = _ServiceJsonFilesCreator(service_rows, output_directory)
@@ -150,5 +104,5 @@ def convert_multiple_services_type_csv_to_json(csv_location, output_directory):
 
 
 if __name__ == '__main__':
-    args = helpers.command_line_parser.parse_and_check()
+    args = parse_and_check()
     convert_multiple_services_type_csv_to_json(args.csv_location, args.output_directory)
