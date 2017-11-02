@@ -8,7 +8,6 @@ app/assets/bower_components
 _site
 .tmp
 npm-debug.log
-_config-dev.yml
 
 # Local
 .resources

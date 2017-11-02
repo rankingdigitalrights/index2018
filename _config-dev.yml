@@ -1,0 +1,8 @@
+# Dev environment overrides.
+baseurl: http://rdr2018.cloudtech.company:3000
+
+exclude:
+  - assets/scripts
+  - assets/styles
+  - assets/templates
+  - bin
