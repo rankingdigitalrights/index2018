@@ -1,7 +1,9 @@
+import re
 import os
 import helpers
 
 ORDERED_SERVICE_ROWS = ['Category', 'Company', 'Service', 'Total', 'G', 'FoE', 'P']
+BaseChecker = helpers.core_classes.BaseChecker
 
 
 class ServiceCSVFields(object):
@@ -24,28 +26,30 @@ class ServiceJSONFields(object):
     p = ServiceCSVFields.p
 
 
-class _MultipleServicesTypeCsvChecker(object):
-    INVALID_BASE_STRUCTURE_ERR_MSG = 'Invalid file structure it should have rows next first ' \
-                                     'columns (order must be same as presented here): %s.' % \
-                                     ', '.join(ORDERED_SERVICE_ROWS)
-    FIELD_WHERE_IT_WENT_WRONG_ERR_MSG = 'It broke on field %s instead it got field with name %s.'
-    ROW_NUMBER_ERR_MSG = 'Error happened on row %s.'
+class _MultipleServicesTypeCsvChecker(BaseChecker):
+    INVALID_BASE_STRUCTURE_ERR_MSG = BaseChecker.INVALID_BASE_STRUCTURE_ERR_MSG.format(ordered_rows=', '.join(ORDERED_SERVICE_ROWS))
+    COMPLEX_ERROR_MSG = BaseChecker.COMPLEX_ERROR_MSG.format(invalid_base_structure_err_msg=INVALID_BASE_STRUCTURE_ERR_MSG)
 
     def __init__(self, csv_location):
         self.rows = helpers.csv_json_rw.load_rows_as_list_of_lists(csv_location)
+
+    def _check_service_start_row(self):
+        first_row = ORDERED_SERVICE_ROWS[0]
+        start_row_pattern = re.compile(first_row)
+        for ind, row in enumerate(self.rows):
+            if start_row_pattern.findall(row[0]) and row[0] != first_row:
+                raise helpers.errors.InvalidRowStructure(self.COMPLEX_ERROR_MSG % (first_row, row[0], ind))
 
     def _check_service_row_order(self, service_start_index):
         for correct_index, service_index in enumerate(range(service_start_index, service_start_index + len(ORDERED_SERVICE_ROWS))):
             row = self.rows[service_index]
             if row[0] != ORDERED_SERVICE_ROWS[correct_index]:
-                field_where_it_went_wrong_err_msg = self.FIELD_WHERE_IT_WENT_WRONG_ERR_MSG % (
-                    ORDERED_SERVICE_ROWS[correct_index], row[0])
-                raise helpers.errors.InvalidRowStructure(' \n'.join([
-                    self.INVALID_BASE_STRUCTURE_ERR_MSG, field_where_it_went_wrong_err_msg,
-                    self.ROW_NUMBER_ERR_MSG % (service_start_index + service_index + 1)
-                ]))
+                raise helpers.errors.InvalidRowStructure(self.COMPLEX_ERROR_MSG % (
+                    ORDERED_SERVICE_ROWS[correct_index], row[0], service_start_index + service_index - 1
+                ))
 
     def check(self):
+        self._check_service_start_row()
         service_starts_indexes = [index for index, row in enumerate(self.rows) if row[0] == ORDERED_SERVICE_ROWS[0]]
         if len(service_starts_indexes) == 0:
             raise helpers.errors.InvalidRowStructure(self.INVALID_BASE_STRUCTURE_ERR_MSG)
