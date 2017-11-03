@@ -76,3 +76,15 @@ class IndicatorOverviewJsonFields(object):
     id = 'id'
     name = 'name'
     scores = 'scores'
+
+
+class AllIndicatorsJsonFields(object):
+    id = 'id'
+    commitment = 'commitment'
+    freedom = 'freedom'
+    privacy = 'privacy'
+
+
+class IndicatorSubObjectJsonFields(object):
+    name = 'name'
+    value = 'value'
