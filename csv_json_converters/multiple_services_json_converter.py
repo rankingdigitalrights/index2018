@@ -4,22 +4,13 @@ try:
     from .helpers.command_line_parser import parse_and_check
     from .helpers.csv_json_rw import load_rows_as_list_of_lists, create_json_file
     from .csv_structure_checkers import MultipleServicesTypeCsvChecker
+    from .row_parsers import separate_service_related_rows
 except SystemError:
     from helpers.fields import ORDERED_SERVICE_ROWS, ServiceCSVFields, ServiceJSONFields
     from helpers.command_line_parser import parse_and_check
     from helpers.csv_json_rw import load_rows_as_list_of_lists, create_json_file
     from csv_structure_checkers import MultipleServicesTypeCsvChecker
-
-
-def _separate_service_related_rows(all_rows):
-    service_related_rows, skip_indexes = [], []
-    for index, row in enumerate(all_rows):
-        if index in skip_indexes:
-            continue
-        elif row[0] == ORDERED_SERVICE_ROWS[0]:
-            service_related_rows.append(all_rows[index:index+len(ORDERED_SERVICE_ROWS)])
-            skip_indexes.extend([ind for ind in range(index, index+len(ORDERED_SERVICE_ROWS))])
-    return service_related_rows
+    from row_parsers import separate_service_related_rows
 
 
 class _ServiceObjectsCreator(object):
@@ -97,7 +88,7 @@ def convert_multiple_services_type_csv_to_json(csv_location, output_directory):
 
     # parse services
     rows = load_rows_as_list_of_lists(csv_location)
-    service_related_rows = _separate_service_related_rows(rows)
+    service_related_rows = separate_service_related_rows(rows)
     for service_rows in service_related_rows:
         services_json_files_creator = _ServiceJsonFilesCreator(service_rows, output_directory)
         services_json_files_creator.create()
