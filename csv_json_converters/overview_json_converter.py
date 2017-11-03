@@ -1,5 +1,12 @@
 import csv
-import helpers
+try:
+    from .helpers.command_line_parser import parse_and_check
+    from .helpers.csv_json_rw import load_rows_as_list_of_dicts, create_json_file
+    from .helpers.errors import InvalidColumnNames
+except SystemError:
+    from helpers.command_line_parser import parse_and_check
+    from helpers.csv_json_rw import load_rows_as_list_of_dicts, create_json_file
+    from helpers.errors import InvalidColumnNames
 
 REQUIRED_COLUMN_NAMES = ['', 'type', 'Total', 'Governance', 'Freedom of Expression', 'Privacy']  # order is important
 
@@ -22,7 +29,7 @@ def check_overview_type_csv_structure(csv_file_location):
     with open(csv_file_location, 'r') as overview_csv_file:
         quick_overview_dict_reader = csv.DictReader(overview_csv_file)
         if quick_overview_dict_reader.fieldnames != REQUIRED_COLUMN_NAMES:
-            raise helpers.errors.InvalidColumnNames(
+            raise InvalidColumnNames(
                 'First rows in columns should have been: %s' % ', '.join(REQUIRED_COLUMN_NAMES))
         rows = list(quick_overview_dict_reader)
         if any([row[CSVMappings.type] not in [CSVTypeFieldValues.internet, CSVTypeFieldValues.telco] for row in rows]):
@@ -46,10 +53,10 @@ def convert_rows_to_json_objects(rows):
 
 def convert_overview_type_csv_to_json(csv_location, output_directory):
     check_overview_type_csv_structure(csv_location)
-    rows = helpers.csv_json_rw.load_rows_as_list_of_dicts(csv_location)
+    rows = load_rows_as_list_of_dicts(csv_location)
     json_objects = convert_rows_to_json_objects(rows)
-    helpers.csv_json_rw.create_json_file(json_objects, output_directory + 'overview.json')
+    create_json_file(json_objects, output_directory + 'overview.json')
 
 if __name__ == '__main__':
-    args = helpers.command_line_parser.parse_and_check()
+    args = parse_and_check()
     convert_overview_type_csv_to_json(args.csv_location, args.output_directory)

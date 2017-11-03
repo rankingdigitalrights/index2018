@@ -15,6 +15,7 @@ def load_rows_as_list_of_lists(csv_file_location):
     return rows
 
 
-def create_json_file(json_objects, json_file_name):
+def create_json_file(json_objects, json_file_name, json_objects_already_sorted=False):
     with open(json_file_name, 'w') as overview_json_file:
-        json.dump(json_objects, overview_json_file, sort_keys=True, indent=4, ensure_ascii=False)
+        json.dump(json_objects, overview_json_file, sort_keys=not json_objects_already_sorted, indent=4,
+                  ensure_ascii=False)
