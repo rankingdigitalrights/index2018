@@ -1,6 +1,36 @@
 # coding=utf-8
 from collections import OrderedDict
 
+QUICK_OVERVIEW_COLUMN_NAMES = ['', 'type', 'Total', 'Governance', 'Freedom of Expression', 'Privacy']  # order is important
+
+
+class QuickOverviewCSVMappings(object):
+    company = QUICK_OVERVIEW_COLUMN_NAMES[0]
+    type = QUICK_OVERVIEW_COLUMN_NAMES[1]
+    total = QUICK_OVERVIEW_COLUMN_NAMES[2]
+    governance = QUICK_OVERVIEW_COLUMN_NAMES[3]
+    freedom_of_expression = QUICK_OVERVIEW_COLUMN_NAMES[4]
+    privacy = QUICK_OVERVIEW_COLUMN_NAMES[5]
+
+
+class QuickOverviewCSVTypeFieldValues(object):
+    internet = 'Internet'
+    telco = 'Telco'
+
+
+TELCO_TRUE, TELCO_FALSE = 'true', 'false'
+
+
+class OverviewJsonFields(object):
+    commitment = 'commitment'
+    display = 'display'
+    freedom = 'freedom'
+    id = 'id'
+    name = 'name'
+    privacy = 'privacy'
+    telco = 'telco'
+
+
 ORDERED_SERVICE_ROWS = ['Category', 'Company', 'Service', 'Total', 'G', 'FoE', 'P']
 
 
@@ -111,3 +141,17 @@ class IndexServiceJsonFields(object):
     total = 'total'
     service = 'service'
     company = 'company'
+
+
+PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES = OrderedDict([
+    ('Google', 'google'), ('Microsoft', 'microsoft'), ('Yahoo', 'yahoo'), ('Twitter', 'twitter'), ('Kakao', 'kakao'),
+    ('Facebook', 'facebook'), ('Apple', 'apple'), ('AT&T', 'att'), ('Vodafone', 'vodafone'), ('Yandex', 'yandex'),
+    ('Tencent', 'tencent'), ('Samsung', 'samsung'), ('Telefónica', 'telefonica'), ('Mail.Ru', 'mailru'),
+    ('Orange', 'orange'), ('América Móvil', 'americamovil'), ('Axiata', 'axiata'), ('Baidu', 'baidu'),
+    ('Bharti Airtel', 'bhartiairtel'), ('MTN', 'mtn'), ('Etisalat', 'etisalat'), ('Ooredoo', 'ooredoo')
+])
+
+if sorted(PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES.keys()) != sorted(COMPANIES_COLUMNS):
+    raise RuntimeError('Someone messed with values of variables: %s.' % ' and '.join(
+        [name for name, val in locals().items() if val in [PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES, COMPANIES_COLUMNS]]
+    ))

@@ -1,15 +1,38 @@
 import re
+import csv
 
 try:
     from .helpers.fields import SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS, COMPANIES_COLUMNS, ORDERED_SERVICE_ROWS, \
-        ServiceCSVFields, PREDEFINED_SERVICE_IDS_BY_THEIR_NAMES
+        ServiceCSVFields, PREDEFINED_SERVICE_IDS_BY_THEIR_NAMES, QUICK_OVERVIEW_COLUMN_NAMES, QuickOverviewCSVMappings,\
+        QuickOverviewCSVTypeFieldValues, PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES
     from .helpers.csv_json_rw import load_rows_as_list_of_lists
     from .helpers.errors import InvalidRowStructure, InvalidColumnNames
 except SystemError:
     from helpers.fields import SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS, COMPANIES_COLUMNS, ORDERED_SERVICE_ROWS, \
-        ServiceCSVFields, PREDEFINED_SERVICE_IDS_BY_THEIR_NAMES
+        ServiceCSVFields, PREDEFINED_SERVICE_IDS_BY_THEIR_NAMES, QUICK_OVERVIEW_COLUMN_NAMES, QuickOverviewCSVMappings,\
+        QuickOverviewCSVTypeFieldValues, PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES
     from helpers.csv_json_rw import load_rows_as_list_of_lists
     from helpers.errors import InvalidRowStructure, InvalidColumnNames
+
+
+def check_overview_type_csv_structure(csv_file_location):
+    with open(csv_file_location, 'r') as overview_csv_file:
+        quick_overview_dict_reader = csv.DictReader(overview_csv_file)
+        if quick_overview_dict_reader.fieldnames != QUICK_OVERVIEW_COLUMN_NAMES:
+            raise InvalidColumnNames(
+                'First rows in columns should have been: %s' % ', '.join(QUICK_OVERVIEW_COLUMN_NAMES))
+        rows = list(quick_overview_dict_reader)
+        type_field_values = [QuickOverviewCSVTypeFieldValues.internet, QuickOverviewCSVTypeFieldValues.telco]
+        if any([row[QuickOverviewCSVMappings.type] not in type_field_values for row in rows]):
+            raise ValueError('In column %s there is unrecognized value. Allowed values for column: %s' % (
+                QuickOverviewCSVMappings.type, ', '.join(type_field_values)
+            ))
+        companies = [row[QuickOverviewCSVMappings.company] for row in rows]
+        required_companies = PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES.keys()
+        for required_company in required_companies:
+            if required_company not in companies:
+                raise InvalidColumnNames('File not containing required company %s.\nRequired Companies are: %s.' % (
+                    required_company, ', '.join(required_companies)))
 
 
 class BaseChecker(object):

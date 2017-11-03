@@ -1,60 +1,41 @@
-import csv
 try:
     from .helpers.command_line_parser import parse_and_check
+    from .helpers.fields import QUICK_OVERVIEW_COLUMN_NAMES, QuickOverviewCSVMappings, \
+        QuickOverviewCSVTypeFieldValues, OverviewJsonFields, PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES, TELCO_TRUE,\
+        TELCO_FALSE
     from .helpers.csv_json_rw import load_rows_as_list_of_dicts, create_json_file
-    from .helpers.errors import InvalidColumnNames
+    from .csv_structure_checkers import check_overview_type_csv_structure
 except SystemError:
     from helpers.command_line_parser import parse_and_check
+    from helpers.fields import QUICK_OVERVIEW_COLUMN_NAMES, QuickOverviewCSVMappings, \
+        QuickOverviewCSVTypeFieldValues, OverviewJsonFields, PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES, TELCO_TRUE,\
+        TELCO_FALSE
     from helpers.csv_json_rw import load_rows_as_list_of_dicts, create_json_file
-    from helpers.errors import InvalidColumnNames
-
-REQUIRED_COLUMN_NAMES = ['', 'type', 'Total', 'Governance', 'Freedom of Expression', 'Privacy']  # order is important
+    from csv_structure_checkers import check_overview_type_csv_structure
 
 
-class CSVMappings(object):
-    company = REQUIRED_COLUMN_NAMES[0]
-    type = REQUIRED_COLUMN_NAMES[1]
-    total = REQUIRED_COLUMN_NAMES[2]
-    governance = REQUIRED_COLUMN_NAMES[3]
-    freedom_of_expression = REQUIRED_COLUMN_NAMES[4]
-    privacy = REQUIRED_COLUMN_NAMES[5]
+def _convert_to_json_object(row):
+    same_values_json_field_csv_mapping_pairs = zip(
+        [OverviewJsonFields.commitment, OverviewJsonFields.display, OverviewJsonFields.freedom, OverviewJsonFields.privacy],
+        [QuickOverviewCSVMappings.governance, QuickOverviewCSVMappings.company, QuickOverviewCSVMappings.freedom_of_expression, QuickOverviewCSVMappings.privacy],
+    )
+    result = {json_field: row[csv_mapping] for json_field, csv_mapping in same_values_json_field_csv_mapping_pairs}
+    result.update({
+        OverviewJsonFields.name: row[QuickOverviewCSVMappings.company].lower(),
+        OverviewJsonFields.id: PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES[row[QuickOverviewCSVMappings.company]],
+        OverviewJsonFields.telco: TELCO_TRUE if row[QuickOverviewCSVMappings.type] == QuickOverviewCSVTypeFieldValues.telco else TELCO_FALSE
+    })
+    return result
 
 
-class CSVTypeFieldValues(object):
-    internet = 'Internet'
-    telco = 'Telco'
-
-
-def check_overview_type_csv_structure(csv_file_location):
-    with open(csv_file_location, 'r') as overview_csv_file:
-        quick_overview_dict_reader = csv.DictReader(overview_csv_file)
-        if quick_overview_dict_reader.fieldnames != REQUIRED_COLUMN_NAMES:
-            raise InvalidColumnNames(
-                'First rows in columns should have been: %s' % ', '.join(REQUIRED_COLUMN_NAMES))
-        rows = list(quick_overview_dict_reader)
-        if any([row[CSVMappings.type] not in [CSVTypeFieldValues.internet, CSVTypeFieldValues.telco] for row in rows]):
-            raise ValueError('In column %s there is unrecognized value. Allowed values for column: %s' % (
-                CSVMappings.type, ', '.join([CSVTypeFieldValues.internet, CSVTypeFieldValues.telco])
-            ))
-
-
-def convert_to_json_object(row):
-    return {
-        'commitment': row[CSVMappings.governance], 'display': row[CSVMappings.company],
-        'freedom': row[CSVMappings.freedom_of_expression], 'id': row[CSVMappings.company].lower(),
-        'name': row[CSVMappings.company].lower(), 'privacy': row[CSVMappings.privacy],
-        'telco': 'true' if row[CSVMappings.type] == CSVTypeFieldValues.telco else 'false'
-    }
-
-
-def convert_rows_to_json_objects(rows):
-    return [convert_to_json_object(row) for row in rows]
+def _convert_rows_to_json_objects(rows):
+    return [_convert_to_json_object(row) for row in rows]
 
 
 def convert_overview_type_csv_to_json(csv_location, output_directory):
     check_overview_type_csv_structure(csv_location)
     rows = load_rows_as_list_of_dicts(csv_location)
-    json_objects = convert_rows_to_json_objects(rows)
+    json_objects = _convert_rows_to_json_objects(rows)
     create_json_file(json_objects, output_directory + 'overview.json')
 
 if __name__ == '__main__':
