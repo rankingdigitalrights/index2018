@@ -1,4 +1,6 @@
 # coding=utf-8
+from collections import OrderedDict
+
 ORDERED_SERVICE_ROWS = ['Category', 'Company', 'Service', 'Total', 'G', 'FoE', 'P']
 
 
@@ -88,3 +90,24 @@ class AllIndicatorsJsonFields(object):
 class IndicatorSubObjectJsonFields(object):
     name = 'name'
     value = 'value'
+
+
+PREDEFINED_SERVICE_IDS_BY_THEIR_NAMES = OrderedDict([
+    ('Baidu Cloud', '1'), ('Yandex Disk', '2'), ('iCloud', '3'), ('Daum Mail ', '4'), ('Mail.Ru', '5'),
+    ('Outlook.com', '6'), ('Yahoo Mail', '7'), ('Yandex Mail', '8'), ('Gmail', '9'), ('WhatsApp', '17'),
+    ('Messenger', '18'), ('KakaoTalk', '19'), ('Mail.Ru Agent', '20'), ('Skype', '21'), ('iMessage', '22'),
+    ('WeChat', '23'), ('QQ', '24'), ('iOS', '25'), ('Google Android', '26'), ('Samsung Android', '27'),
+    ('Telcel', '28'), ('AT&T', '29'), ('Celcom', '30'), ('Airtel India', '31'), ('Etisalat UAE', '32'),
+    ('MTN South Africa', '33'), ('Ooredoo Qatar', '34'), ('Orange France', '35'), ('Movistar', '36'),
+    ('Vodafone UK', '37'), ('Baidu Search', '38'), ('Daum Search ', '39'), ('Bing', '40'), ('Yandex Search', '41'),
+    ('Google Search', '42'), ('Baidu PostBar', '43'), ('Facebook', '44'), ('VKontakte', '45'), ('Twitter', '46'),
+    ('Tumblr', '47'), ('QZone', '48'), ('Instagram', '49'), ('Vine', '50'), ('Periscope', '51'), ('Flickr', '52'),
+    ('YouTube', '53')
+])
+
+
+class IndexServiceJsonFields(object):
+    id = 'id'
+    total = 'total'
+    service = 'service'
+    company = 'company'

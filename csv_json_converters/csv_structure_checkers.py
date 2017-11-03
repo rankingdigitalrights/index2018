@@ -1,10 +1,13 @@
 import re
+
 try:
-    from .helpers.fields import SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS, COMPANIES_COLUMNS, ORDERED_SERVICE_ROWS
+    from .helpers.fields import SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS, COMPANIES_COLUMNS, ORDERED_SERVICE_ROWS, \
+        ServiceCSVFields, PREDEFINED_SERVICE_IDS_BY_THEIR_NAMES
     from .helpers.csv_json_rw import load_rows_as_list_of_lists
     from .helpers.errors import InvalidRowStructure, InvalidColumnNames
 except SystemError:
-    from helpers.fields import SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS, COMPANIES_COLUMNS, ORDERED_SERVICE_ROWS
+    from helpers.fields import SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS, COMPANIES_COLUMNS, ORDERED_SERVICE_ROWS, \
+        ServiceCSVFields, PREDEFINED_SERVICE_IDS_BY_THEIR_NAMES
     from helpers.csv_json_rw import load_rows_as_list_of_lists
     from helpers.errors import InvalidRowStructure, InvalidColumnNames
 
@@ -27,8 +30,10 @@ class BaseChecker(object):
 
 
 class MultipleServicesTypeCsvChecker(BaseChecker):
-    INVALID_BASE_STRUCTURE_ERR_MSG = BaseChecker.INVALID_BASE_STRUCTURE_ERR_MSG.format(ordered_rows=', '.join(ORDERED_SERVICE_ROWS))
-    COMPLEX_ERROR_MSG = BaseChecker.COMPLEX_ERROR_MSG.format(invalid_base_structure_err_msg=INVALID_BASE_STRUCTURE_ERR_MSG)
+    INVALID_BASE_STRUCTURE_ERR_MSG = BaseChecker.INVALID_BASE_STRUCTURE_ERR_MSG.format(
+        ordered_rows=', '.join(ORDERED_SERVICE_ROWS))
+    COMPLEX_ERROR_MSG = BaseChecker.COMPLEX_ERROR_MSG.format(
+        invalid_base_structure_err_msg=INVALID_BASE_STRUCTURE_ERR_MSG)
 
     def _check_service_start_row(self):
         first_row = ORDERED_SERVICE_ROWS[0]
@@ -38,7 +43,8 @@ class MultipleServicesTypeCsvChecker(BaseChecker):
                 raise InvalidRowStructure(self.COMPLEX_ERROR_MSG % (first_row, row[0], ind))
 
     def _check_service_row_order(self, service_start_index):
-        for correct_index, service_index in enumerate(range(service_start_index, service_start_index + len(ORDERED_SERVICE_ROWS))):
+        for correct_index, service_index in enumerate(
+                range(service_start_index, service_start_index + len(ORDERED_SERVICE_ROWS))):
             row = self.rows[service_index]
             if row[0] != ORDERED_SERVICE_ROWS[correct_index]:
                 raise InvalidRowStructure(self.COMPLEX_ERROR_MSG % (
@@ -54,10 +60,35 @@ class MultipleServicesTypeCsvChecker(BaseChecker):
             self._check_service_row_order(service_start_index)
 
 
+class MultipleServicesTypeCsvCheckerForIndexServiceJsonConversion(MultipleServicesTypeCsvChecker):
+    NO_PREDEFINED_SERVICES_ERR_MSG = 'Could not find required service %s in csv.\n' \
+                                     'Required services are {required_services}.' \
+                                     '\nServices contained in this csv are: %s.'\
+        .format(required_services=', '.join(PREDEFINED_SERVICE_IDS_BY_THEIR_NAMES.keys()))
+
+    def _required_check_predefined_service_names(self):
+        service_names_rows = [list(filter(lambda clmn: len(clmn) > 0 and clmn != ServiceCSVFields.service, row))
+                              for row in self.rows if row[0] == ServiceCSVFields.service]
+        all_services_in_current_csv = []
+        for service_names_row in service_names_rows:
+            all_services_in_current_csv += service_names_row
+
+        for predefined_service_name in PREDEFINED_SERVICE_IDS_BY_THEIR_NAMES.keys():
+            if predefined_service_name not in all_services_in_current_csv:
+                raise InvalidRowStructure(self.NO_PREDEFINED_SERVICES_ERR_MSG % (
+                    predefined_service_name, ', '.join(all_services_in_current_csv)
+                ))
+
+    def check(self):
+        super(MultipleServicesTypeCsvCheckerForIndexServiceJsonConversion, self).check()
+        self._required_check_predefined_service_names()
+
+
 class ScoresOverviewTypeCsvChecker(BaseChecker):
     INVALID_BASE_STRUCTURE_ERR_MSG = BaseChecker.INVALID_BASE_STRUCTURE_ERR_MSG.format(
         ordered_rows=u', '.join(SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS))
-    COMPLEX_ERROR_MSG = BaseChecker.COMPLEX_ERROR_MSG.format(invalid_base_structure_err_msg=INVALID_BASE_STRUCTURE_ERR_MSG)
+    COMPLEX_ERROR_MSG = BaseChecker.COMPLEX_ERROR_MSG.format(
+        invalid_base_structure_err_msg=INVALID_BASE_STRUCTURE_ERR_MSG)
     # INVALID_BASE_STRUCTURE_ERR_MSG = INVALID_BASE_STRUCTURE_ERR_MSG.encode('utf-8')
     MISSING_REQUIRED_COLUMN = BaseChecker.MISSING_REQUIRED_COLUMN.format(all_columns=', '.join(COMPANIES_COLUMNS))
 
@@ -67,7 +98,8 @@ class ScoresOverviewTypeCsvChecker(BaseChecker):
             raise InvalidRowStructure(self.INVALID_BASE_STRUCTURE_ERR_MSG)
         first_indicator_index = first_columns.index(SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS[0])
         for proper_index, csv_index in enumerate(
-                range(first_indicator_index, first_indicator_index + len(SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS))):
+                range(first_indicator_index,
+                      first_indicator_index + len(SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS))):
             if first_columns[csv_index] != SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS[proper_index]:
                 complex_error_msg = self.COMPLEX_ERROR_MSG % (
                     SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS[proper_index], first_columns[csv_index],
