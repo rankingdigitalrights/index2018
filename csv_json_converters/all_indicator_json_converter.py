@@ -1,5 +1,6 @@
 import os
 from copy import deepcopy
+from collections import OrderedDict
 try:
     from .csv_structure_checkers import ScoresOverviewTypeCsvChecker
     from .helpers.command_line_parser import parse_and_check
@@ -61,9 +62,9 @@ def _create_all_indicators_objects(rows):
     indicators_csv_data_by_name = {indicator_data.indicator_name: indicator_data
                                    for indicator_data in indicators_csv_data}
     for company_csv_data in companies_csv_data:
-        company_indicators_object = {AllIndicatorsJsonFields.id: company_csv_data.id}
+        company_indicators_object = OrderedDict([(AllIndicatorsJsonFields.id, company_csv_data.id)])
         for indicators_subtype_list, json_field in INDICATORS_SUBTYPE_LIST_JSON_FIELD_PAIRS:
-            company_indicators_object.update({json_field: []})
+            company_indicators_object[json_field] = []
             for indicator_field in indicators_subtype_list:
                 indicator_data = indicators_csv_data_by_name[indicator_field]
                 indicator_row = rows[indicator_data.row_index]
@@ -72,7 +73,7 @@ def _create_all_indicators_objects(rows):
                     IndicatorSubObjectJsonFields.name: indicator_data.indicator_name,
                     IndicatorSubObjectJsonFields.value: company_indicator_value
                 })
-        result.append(deepcopy(company_indicators_object))
+        result.append(company_indicators_object)
     return result
 
 
@@ -83,7 +84,8 @@ def convert_scores_overview_type_csv_to_all_indicator_json(csv_location, output_
     _create_on_non_existent_all_indicators_subdirectory(output_directory)
     rows = load_rows_as_list_of_lists(csv_location)
     all_indicators_objects = _create_all_indicators_objects(rows)
-    create_json_file(all_indicators_objects, output_directory + ALL_INDICATORS_SUBDIRECTORY + 'all-indicators.json')
+    create_json_file(all_indicators_objects, output_directory + ALL_INDICATORS_SUBDIRECTORY + 'all-indicators.json',
+                     json_objects_already_sorted=True)
 
 if __name__ == '__main__':
     args = parse_and_check()
