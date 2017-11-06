@@ -82,7 +82,7 @@ PRIVACY_INDICATORS = [indicator for indicator in SCORES_OVERVIEW_CSV_INDICATOR_F
 
 COMPANIES_COLUMNS = [
     'América Móvil', 'Apple', 'AT&T', 'Axiata', 'Baidu', 'Bharti Airtel', 'Etisalat', 'Facebook', 'Google', 'Kakao',
-    'Mail.Ru', 'Microsoft', 'MTN', 'Ooredoo', 'Orange', 'Samsung', 'Telefónica', 'Tencent', 'Twitter', 'Vodafone',
+    'Mail.Ru', 'Microsoft', 'MTN', 'Ooredoo', 'Orange', 'Samsung', 'Telefónica', 'TenCent', 'Twitter', 'Vodafone',
     'Yahoo', 'Yandex'
 ]
 
@@ -146,14 +146,14 @@ class IndexServiceJsonFields(object):
 PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES = OrderedDict([
     ('Google', 'google'), ('Microsoft', 'microsoft'), ('Yahoo', 'yahoo'), ('Twitter', 'twitter'), ('Kakao', 'kakao'),
     ('Facebook', 'facebook'), ('Apple', 'apple'), ('AT&T', 'att'), ('Vodafone', 'vodafone'), ('Yandex', 'yandex'),
-    ('Tencent', 'tencent'), ('Samsung', 'samsung'), ('Telefónica', 'telefonica'), ('Mail.Ru', 'mailru'),
+    ('TenCent', 'tencent'), ('Samsung', 'samsung'), ('Telefónica', 'telefonica'), ('Mail.Ru', 'mailru'),
     ('Orange', 'orange'), ('América Móvil', 'americamovil'), ('Axiata', 'axiata'), ('Baidu', 'baidu'),
     ('Bharti Airtel', 'bhartiairtel'), ('MTN', 'mtn'), ('Etisalat', 'etisalat'), ('Ooredoo', 'ooredoo')
 ])
 PREDEFINED_COMPANY_NAMES_BY_THEIR_DISPLAY_NAMES = OrderedDict([
     ('Google', 'google'), ('Microsoft', 'microsoft'), ('Yahoo', 'yahoo'), ('Twitter', 'twitter'), ('Kakao', 'kakao'),
     ('Facebook', 'facebook'), ('Apple', 'apple'), ('AT&T', 'at&t'), ('Vodafone', 'vodafone'), ('Yandex', 'yandex'),
-    ('Tencent', 'tencent'), ('Samsung', 'samsung'), ('Telefónica', 'telefonica'), ('Mail.Ru', 'mailRu'),
+    ('TenCent', 'tencent'), ('Samsung', 'samsung'), ('Telefónica', 'telefonica'), ('Mail.Ru', 'mailRu'),
     ('Orange', 'orange'), ('América Móvil', 'americaMovil'), ('Axiata', 'axiata'), ('Baidu', 'baidu'),
     ('Bharti Airtel', 'bhartiAirtel'), ('MTN', 'mtn'), ('Etisalat', 'etisalat'), ('Ooredoo', 'ooredoo')
 ])
