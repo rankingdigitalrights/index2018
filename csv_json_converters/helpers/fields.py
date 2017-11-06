@@ -150,8 +150,47 @@ PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES = OrderedDict([
     ('Orange', 'orange'), ('América Móvil', 'americamovil'), ('Axiata', 'axiata'), ('Baidu', 'baidu'),
     ('Bharti Airtel', 'bhartiairtel'), ('MTN', 'mtn'), ('Etisalat', 'etisalat'), ('Ooredoo', 'ooredoo')
 ])
+PREDEFINED_COMPANY_NAMES_BY_THEIR_DISPLAY_NAMES = OrderedDict([
+    ('Google', 'google'), ('Microsoft', 'microsoft'), ('Yahoo', 'yahoo'), ('Twitter', 'twitter'), ('Kakao', 'kakao'),
+    ('Facebook', 'facebook'), ('Apple', 'apple'), ('AT&T', 'at&t'), ('Vodafone', 'vodafone'), ('Yandex', 'yandex'),
+    ('Tencent', 'tencent'), ('Samsung', 'samsung'), ('Telefónica', 'telefonica'), ('Mail.Ru', 'mailRu'),
+    ('Orange', 'orange'), ('América Móvil', 'americaMovil'), ('Axiata', 'axiata'), ('Baidu', 'baidu'),
+    ('Bharti Airtel', 'bhartiAirtel'), ('MTN', 'mtn'), ('Etisalat', 'etisalat'), ('Ooredoo', 'ooredoo')
+])
 
 if sorted(PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES.keys()) != sorted(COMPANIES_COLUMNS):
     raise RuntimeError('Someone messed with values of variables: %s.' % ' and '.join(
         [name for name, val in locals().items() if val in [PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES, COMPANIES_COLUMNS]]
     ))
+
+if sorted(PREDEFINED_COMPANY_NAMES_BY_THEIR_DISPLAY_NAMES.keys()) != sorted(PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES.keys()):
+    raise RuntimeError('Someone messed with values of variables: %s.' % ' and '.join(
+        [name for name, val in locals().items() if
+         val in [PREDEFINED_COMPANY_NAMES_BY_THEIR_DISPLAY_NAMES, PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES]]
+    ))
+
+SCORES_OVERVIEW_CSV_SUMMED_INDICATORS_NAMES = ['Total', 'Governance', 'Freedom of Expression', 'Privacy']
+
+
+class CategoriesOverviewJsonFields(object):
+    display = 'display'
+    freedom = 'freedom'
+    id = 'id'
+    name = 'name'
+    governance = 'governance'
+    privacy = 'privacy'
+    telco = 'telco'
+    total = 'total'
+
+
+SUMMED_INDICATORS_JSON_FIELDS_BY_NAMES = {
+    SCORES_OVERVIEW_CSV_SUMMED_INDICATORS_NAMES[0]: CategoriesOverviewJsonFields.total,
+    SCORES_OVERVIEW_CSV_SUMMED_INDICATORS_NAMES[1]: CategoriesOverviewJsonFields.governance,
+    SCORES_OVERVIEW_CSV_SUMMED_INDICATORS_NAMES[2]: CategoriesOverviewJsonFields.freedom,
+    SCORES_OVERVIEW_CSV_SUMMED_INDICATORS_NAMES[3]: CategoriesOverviewJsonFields.privacy
+}
+
+
+class CategoriesOverviewJsonIndicatorSubFields(object):
+    val = 'val'
+    rank = 'rank'

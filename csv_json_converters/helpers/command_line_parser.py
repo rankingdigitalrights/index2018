@@ -49,8 +49,10 @@ def parse_and_check():
 
 def parse_and_check_for_categories_overview_conversion():
     parser = argparse.ArgumentParser()
-    parser.add_argument('-scores_csv_location', action=CSVLocationCheckAction, help=CSV_LOCATION_HELP, required=True)
-    parser.add_argument('-quick_overview_csv_location', action=CSVLocationCheckAction, help=CSV_LOCATION_HELP, required=True)
+    parser.add_argument('-scores_csv_location', action=CSVLocationCheckAction, help=SCORES_CSV_LOCATION_HELP,
+                        required=True)
+    parser.add_argument('-quick_overview_csv_location', action=CSVLocationCheckAction,
+                        help=QUICK_OVERVIEW_CSV_LOCATION_HELP, required=True)
     parser.add_argument('--output_directory', action=OutputDirectoryCheckAction, help=OUTPUT_DIRECTORY_HELP,
                         required=False, default='')
     return parser.parse_args()
