@@ -4,13 +4,15 @@ import csv
 try:
     from .helpers.fields import SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS, COMPANIES_COLUMNS, ORDERED_SERVICE_ROWS, \
         ServiceCSVFields, PREDEFINED_SERVICE_IDS_BY_THEIR_NAMES, QUICK_OVERVIEW_COLUMN_NAMES, QuickOverviewCSVMappings,\
-        QuickOverviewCSVTypeFieldValues, PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES
+        QuickOverviewCSVTypeFieldValues, PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES, \
+        SCORES_OVERVIEW_CSV_SUMMED_INDICATORS_NAMES
     from .helpers.csv_json_rw import load_rows_as_list_of_lists
     from .helpers.errors import InvalidRowStructure, InvalidColumnNames
 except SystemError:
     from helpers.fields import SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS, COMPANIES_COLUMNS, ORDERED_SERVICE_ROWS, \
         ServiceCSVFields, PREDEFINED_SERVICE_IDS_BY_THEIR_NAMES, QUICK_OVERVIEW_COLUMN_NAMES, QuickOverviewCSVMappings,\
-        QuickOverviewCSVTypeFieldValues, PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES
+        QuickOverviewCSVTypeFieldValues, PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES, \
+        SCORES_OVERVIEW_CSV_SUMMED_INDICATORS_NAMES
     from helpers.csv_json_rw import load_rows_as_list_of_lists
     from helpers.errors import InvalidRowStructure, InvalidColumnNames
 
@@ -128,7 +130,7 @@ class ScoresOverviewTypeCsvChecker(BaseChecker):
                     SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS[proper_index], first_columns[csv_index],
                     first_indicator_index + csv_index
                 )
-                raise InvalidRowStructure(complex_error_msg.encode('utf-8'))
+                raise InvalidRowStructure(complex_error_msg)
 
     def _check_companies_columns(self):
         first_row = self.rows[0]  # all column names are in first row
@@ -139,3 +141,24 @@ class ScoresOverviewTypeCsvChecker(BaseChecker):
     def check(self):
         self._check_indicator_rows()
         self._check_companies_columns()
+
+
+class ScoresOverviewTypeCsvCheckerForCategoryOverviewConversion(ScoresOverviewTypeCsvChecker):
+    INVALID_BASE_STRUCTURE_ERR_MSG = BaseChecker.INVALID_BASE_STRUCTURE_ERR_MSG.format(
+        ordered_rows=u', '.join(SCORES_OVERVIEW_CSV_SUMMED_INDICATORS_NAMES))
+    COMPLEX_ERROR_MSG = BaseChecker.COMPLEX_ERROR_MSG.format(
+        invalid_base_structure_err_msg=INVALID_BASE_STRUCTURE_ERR_MSG)
+
+    def _check_indicator_rows(self):  # it  checks different indicators so it overrides this method
+        first_columns = [row[0] for row in self.rows]
+        if SCORES_OVERVIEW_CSV_SUMMED_INDICATORS_NAMES[0] not in first_columns:
+            raise InvalidRowStructure(self.INVALID_BASE_STRUCTURE_ERR_MSG)
+        first_indicator_index = first_columns.index(SCORES_OVERVIEW_CSV_SUMMED_INDICATORS_NAMES[0])
+        last_indicator_index = first_indicator_index + len(SCORES_OVERVIEW_CSV_SUMMED_INDICATORS_NAMES)
+        for proper_index, csv_index in enumerate(range(first_indicator_index, last_indicator_index)):
+            if first_columns[csv_index] != SCORES_OVERVIEW_CSV_SUMMED_INDICATORS_NAMES[proper_index]:
+                complex_error_msg = self.COMPLEX_ERROR_MSG % (
+                    SCORES_OVERVIEW_CSV_SUMMED_INDICATORS_NAMES[proper_index], first_columns[csv_index],
+                    first_indicator_index + csv_index
+                )
+                raise InvalidRowStructure(complex_error_msg)

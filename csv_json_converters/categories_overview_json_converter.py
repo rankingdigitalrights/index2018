@@ -3,7 +3,8 @@ from collections import OrderedDict
 from copy import deepcopy
 try:
     from .helpers.command_line_parser import parse_and_check_for_categories_overview_conversion
-    from .csv_structure_checkers import ScoresOverviewTypeCsvChecker, check_overview_type_csv_structure
+    from .csv_structure_checkers import ScoresOverviewTypeCsvCheckerForCategoryOverviewConversion,\
+        check_overview_type_csv_structure
     from .helpers.csv_json_rw import load_rows_as_list_of_lists, load_rows_as_list_of_dicts, create_json_file
     from .helpers.fields import PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES, QuickOverviewCSVMappings, \
         COMPANIES_COLUMNS, SCORES_OVERVIEW_CSV_SUMMED_INDICATORS_NAMES, CategoriesOverviewJsonFields, \
@@ -11,7 +12,8 @@ try:
         CategoriesOverviewJsonIndicatorSubFields, PREDEFINED_COMPANY_NAMES_BY_THEIR_DISPLAY_NAMES
 except SystemError:
     from helpers.command_line_parser import parse_and_check_for_categories_overview_conversion
-    from csv_structure_checkers import ScoresOverviewTypeCsvChecker, check_overview_type_csv_structure
+    from csv_structure_checkers import ScoresOverviewTypeCsvCheckerForCategoryOverviewConversion, \
+        check_overview_type_csv_structure
     from helpers.csv_json_rw import load_rows_as_list_of_lists, load_rows_as_list_of_dicts, create_json_file
     from helpers.fields import PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES, QuickOverviewCSVMappings, \
         COMPANIES_COLUMNS, SCORES_OVERVIEW_CSV_SUMMED_INDICATORS_NAMES, CategoriesOverviewJsonFields, \
@@ -115,7 +117,7 @@ def _add_ranks(categories_overview_init_objs):
 def convert_scores_overview_type_csv_to_categories_overview_json(scores_csv_location, quick_overview_csv_location,
                                                                  output_directory, check_csv_structure=True):
     if check_csv_structure:
-        checker = ScoresOverviewTypeCsvChecker(scores_csv_location)  # THIS CHECKER NEEDS TO CHANGE
+        checker = ScoresOverviewTypeCsvCheckerForCategoryOverviewConversion(scores_csv_location)
         checker.check()
         check_overview_type_csv_structure(quick_overview_csv_location)
     _create_on_non_existent_categories_overview_subdirectory(output_directory)
