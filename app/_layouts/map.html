@@ -5,6 +5,102 @@
 
 {% include head.html %}
 
+
+
+<style>
+  .names {
+    fill: none;
+    stroke: #fff;
+    stroke-linejoin: round;
+  }
+  
+  /* Tooltip CSS */
+  .d3-tip {
+    line-height: 1.5;
+    font-weight: 400;
+    padding: 8px;
+    background: rgba(0, 0, 0, 1);
+    color: #FFF;
+    border-radius: 1px;
+    pointer-events: none;
+    font-family: "Simplon-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+
+  .d3-tip .country {
+    color: #F2F2F2;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+  }
+  .d3-tip ul li {
+    color: #FFF;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  .d3-tip ul li .fa {
+    color: #EC2227;
+    font-size: 11px;
+    margin-right: 5px;
+  }
+
+  /* Creates a small triangle extender for the tooltip */
+  .d3-tip:after {      
+    box-sizing: border-box;
+    display: inline;
+    font-size: 8px;
+    width: 100%;
+    line-height: 1.5;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    pointer-events: none;
+    
+  }
+
+  /* Northward tooltips */
+  .d3-tip.n:after {
+    content: "\25BC";
+    margin: -1px 0 0 0;
+    top: 100%;
+    left: 0;
+    text-align: center;
+  }
+
+  /* Eastward tooltips */
+  .d3-tip.e:after {
+    content: "\25C0";
+    margin: -4px 0 0 0;
+    top: 50%;
+    left: -8px;
+  }
+
+  /* Southward tooltips */
+  .d3-tip.s:after {
+    content: "\25B2";
+    margin: 0 0 1px 0;
+    top: -10px;
+    left: 0;
+    text-align: center;
+  }
+
+  /* Westward tooltips */
+  .d3-tip.w:after {
+    content: "\25B6";
+    margin: -4px 0 0 -1px;
+    top: 50%;
+    left: 100%;
+  }
+
+  /*    
+  text{
+    pointer-events:none;
+  }
+  */
+
+  .details{
+    color: white;
+  }
+</style>
+
+
 <body id="page--index">
 
   <!--[if lt IE 10]>
@@ -30,16 +126,31 @@
           {{ page.header }}
         </h1>
         <section id="map" class="world-map non-highlihted-bg">
-          <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>
-          <script src="//cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
+          <script src="https://d3js.org/d3.v3.min.js"></script>
+          <script src="https://d3js.org/topojson.v1.min.js"></script>
+          <script src="https://d3js.org/d3-array.v1.min.js"></script>
+          <script src="https://d3js.org/d3-geo.v1.min.js"></script>
+          <script src="https://d3js.org/d3.geo.projection.v0.min.js"></script>
           <script src="{{ site.baseurl }}/node_modules/datamaps/dist/datamaps.all.min.js"></script>
+
           <div id="container"></div>
           
           <script>
             // example data from server
             var series = [
-                ["USA", 70],["MEX",80],["GBR",14],["FRA",54],["ESP",54],["RUS",50],
-                ["CHN",50],["KOR",50],["MYS",50],["IND",50],["QAT",50],["ARE",50],["ZAF",50]
+                ["USA", ["Apple", "Facebook", "Google", "Microsoft", "Twitter", "Yahoo", "AT&T"]],
+                ["MEX", ["América Móvil"]],
+                ["GBR", ["Vodafone"]],
+                ["FRA", ["Orange"]],
+                ["ESP", ["Telefónica"]],
+                ["RUS", ["Yandex", "Mail.ru"]],
+                ["CHN", ["Tencent", "Baidu"]],
+                ["KOR", ["Kakao", "Samsung"]],
+                ["MYS", ["Axiata"]],
+                ["IND", ["Bharti Airtel"]],
+                ["QAT", ["Ooredoo"]],
+                ["ARE", ["Etisalat"]],
+                ["ZAF", ["MTN"]]
             ];
 
 
@@ -48,36 +159,26 @@
             //   "FRA": { "fillColor": "#8dc386", numberOfWhatever: 43 } }
             var dataset = {};
 
-            // We need to colorize every country based on "numberOfWhatever"
-            // colors should be uniq for every value.
-            // For this purpose we create palette(using min/max series-value)
-            var onlyValues = series.map(function(obj){ return obj[1]; });
-            var minValue = Math.min.apply(null, onlyValues),
-                    maxValue = Math.max.apply(null, onlyValues);
-
-            // create color palette function
-            // color can be whatever you wish
-            var paletteScale = d3.scale.linear()
-                    .domain([minValue,maxValue])
-                    .range(["#EFEFFF","#02386F"]); // blue color
-
             // fill dataset in appropriate format
             series.forEach(function(item){ //
                 // item example value ["USA", 70]
                 var iso = item[0],
                         value = item[1];
                 // dataset[iso] = { numberOfThings: value, fillColor: paletteScale(value) };
-                dataset[iso] = { numberOfThings: 'Apple', fillColor: "#5DA0CA" };
+                dataset[iso] = { companies: value, fillColor: "#5DA0CA" };
             });
 
             // render map
-            new Datamap({
+            var mar = new Datamap({
                 element: document.getElementById('container'),
-                
-                //projection: 'mercator', // big world map
-
-                height: null, // If not null, datamaps will grab the height of 'element'
-                width: null, // If not null, datamaps will grab the width of 'element',
+                setProjection: function (element) {
+                  var projection = d3.geo.robinson()
+                    .scale(element.offsetWidth / 6)
+                    .rotate([350, 0, 0])
+                    .translate([element.offsetWidth / 2, element.offsetHeight / 2]);
+                  var path = d3.geo.path().projection(projection);
+                  return { path: path, projection: projection };
+                },
                 responsive: true, // If true, call `resize()` on the map object when it should adjust it's size
 
                 // countries don't listed in dataset will be painted with this color
@@ -99,18 +200,18 @@
                         // don't show tooltip if country don't present in dataset
                         if (!data) { return ; }
                         // tooltip content
-                        return ['<div class="hoverinfo">',
-                            '<strong>', geo.properties.name, '</strong>',
-                            '<br>Company: <strong>', data.numberOfThings, '</strong>',
+
+                        var retval = '';
+                        data.companies.forEach(function(item){
+                          retval += '<li><i class="fa fa-circle"></i>'+item+'</li>';
+                        });
+
+                        return ['<div class="d3-tip s"><div class="country">',geo.properties.name,'</div>',
+                            '<ul>', retval, '</ul>',
                             '</div>'].join('');
                     }
                 }
             });
-
-            window.addEventListener('resize', function(event){
-              map.resize();
-            });
-
           </script>
         </section>
       </div>
