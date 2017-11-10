@@ -4,6 +4,7 @@ from csv_json_converters.multiple_services_json_converter import convert_multipl
 from csv_json_converters.indicator_overview_json_converter import convert_scores_overview_type_csv_to_indicator_overview_json
 from csv_json_converters.all_indicator_json_converter import convert_scores_overview_type_csv_to_all_indicator_json
 from csv_json_converters.index_service_json_converter import convert_multiple_services_type_csv_to_index_service_json
+from csv_json_converters.categories_overview_json_converter import convert_scores_overview_type_csv_to_categories_overview_json
 
 if __name__ == '__main__':
     quick_overview_csv_location = '/home/filip/Downloads/RDRindex2017data/RDR2017 - Quick overview.csv'
@@ -20,3 +21,5 @@ if __name__ == '__main__':
     convert_multiple_services_type_csv_to_index_service_json(services_list_csv_location, output_directory,
                                                              check_csv_structure=True)
     # it has additional checks for multiple services csv
+    convert_scores_overview_type_csv_to_categories_overview_json(
+        scores_overview_csv_location, quick_overview_csv_location, output_directory, check_csv_structure=True)
