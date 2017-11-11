@@ -169,7 +169,7 @@
             });
 
             // render map
-            var mar = new Datamap({
+            var map = new Datamap({
                 element: document.getElementById('container'),
                 setProjection: function (element) {
                   var projection = d3.geo.robinson()
@@ -212,6 +212,12 @@
                     }
                 }
             });
+
+            // Pure JavaScript
+            window.addEventListener('resize', function() {
+              map.resize();
+            });
+
           </script>
         </section>
       </div>
