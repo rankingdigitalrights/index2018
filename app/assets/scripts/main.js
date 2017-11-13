@@ -8,7 +8,6 @@ var renderServicePage = require('./services');
 var renderIndexPage = require('./index');
 
 var renderMapPage = require('./map');
-var renderMap1Page = require('./map-1');
 
 var baseurl = require('./util/base-url');
 var dropdownFn = require('./util/dropdown');
@@ -45,10 +44,6 @@ resize.start();
   else if (type === 'map') {
     renderMapPage();
   }
-  else if (type === 'map-1') {
-    renderMap1Page();
-  }
-
   // Companies page
   else if (type === 'companies') {
     renderCompaniesPage();
