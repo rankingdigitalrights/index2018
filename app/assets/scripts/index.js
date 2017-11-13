@@ -3,9 +3,8 @@ var $ = require('jquery');
 var Overview = require('./collections/overview');
 var IndexService = require('./collections/index-service');
 var Companies = require('./views/index');
-
 var VIndexService = require('./views/index-service');
-
+var Map = require('./views/map');
 
 module.exports = function () {
   var $parent = $('#site-canvas');
@@ -38,4 +37,8 @@ module.exports = function () {
       Telco.render();
     }
   });
+
+  var map = new Map();
+  //map.render();
+
 };
