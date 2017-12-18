@@ -44,7 +44,6 @@ resize.start();
   else if (type === 'map') {
     renderMapPage();
   }
-
   // Companies page
   else if (type === 'companies') {
     renderCompaniesPage();
