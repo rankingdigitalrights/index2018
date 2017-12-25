@@ -29,80 +29,159 @@ module.exports = Backbone.View.extend({
                   defaultFill: '#E7E6E6' 
                 },
                 data: {
-                  'USA':{companies:
-                    [
-                    {name:'Apple', type:'internet'}, 
-                    {name:'Facebook', type:'internet'},
-                    {name:'Google', type:'internet'},
-                    {name:'Microsoft', type:'internet'},
-                    {name:'Twitter', type:'internet'},
-                    {name:'Yahoo', type:'internet'},
-                    {name:'AT&T', type:'telco'}
-                    ], 
-                    fillColor:'#5DA0CA'},
-                  'MEX':{companies:
-                    [
-                    {name:'América Móvil', type:'telco'}
-                    ], 
-                    fillColor:'#5DA0CA'},
-                  'GBR':{companies:
-                    [
-                    {name:'Vodafone', type:'telco'}
-                    ], 
-                    fillColor:'#5DA0CA'},
-                  'FRA':{companies:
-                    [
-                    {name:'Orange', type:'telco'}
-                    ], 
-                    fillColor:'#5DA0CA'},
-                  'ESP':{companies:
-                    [
-                    {name:'Telefónica', type:'telco'}
-                    ], 
-                    fillColor:'#5DA0CA'},
-                  'RUS':{companies:
-                    [
-                    {name:'Yandex', type:'internet'}, 
-                    {name:'Mail.ru', type:'internet'}
-                    ], 
-                    fillColor:'#5DA0CA'},
-                  'CHN':{companies:
-                    [
-                    {name:'Tencent', type:'internet'}, 
-                    {name:'Baidu', type:'internet'}
-                    ], 
-                    fillColor:'#5DA0CA'},
-                  'KOR':{companies:
-                    [
-                    {name:'Kakao', type:'internet'}, 
-                    {name:'Samsung', type:'internet'}
-                    ], 
-                    fillColor:'#5DA0CA'},
-                  'MYS':{companies:
-                    [
-                    {name:'Axiata', type:'telco'}
-                    ], 
-                    fillColor:'#5DA0CA'},
-                  'IND':{companies:
-                    [
-                    {name:'Bharti Airtel', type:'telco'}
-                    ], 
-                    fillColor:'#5DA0CA'},
-                  'QAT':{companies:
-                    [
-                    {name:'Ooredoo', type:'telco'}
-                    ], 
-                    fillColor:'#5DA0CA'},
-                  'ARE':{companies:
-                    [
-                    {name:'Etisalat', type:'telco'}
-                    ], 
-                    fillColor:'#5DA0CA'},
-                  'ZAF':{companies:
-                    [
-                    {name:'MTN', type:'telco'}
-                    ], 
-                    fillColor:'#5DA0CA'},
+                   "USA":{
+                      "companies":[
+                         {
+                            "name":"Apple",
+                            "type":"internet"
+                         },
+                         {
+                            "name":"Facebook",
+                            "type":"internet"
+                         },
+                         {
+                            "name":"Google",
+                            "type":"internet"
+                         },
+                         {
+                            "name":"Microsoft",
+                            "type":"internet"
+                         },
+                         {
+                            "name":"Twitter",
+                            "type":"internet"
+                         },
+                         {
+                            "name":"Yahoo",
+                            "type":"internet"
+                         },
+                         {
+                            "name":"AT&T",
+                            "type":"telco"
+                         }
+                      ],
+                      "fillColor":"#5DA0CA"
+                   },
+                   "MEX":{
+                      "companies":[
+                         {
+                            "name":"América Móvil",
+                            "type":"telco"
+                         }
+                      ],
+                      "fillColor":"#5DA0CA"
+                   },
+                   "GBR":{
+                      "companies":[
+                         {
+                            "name":"Vodafone",
+                            "type":"telco"
+                         }
+                      ],
+                      "fillColor":"#5DA0CA"
+                   },
+                   "FRA":{
+                      "companies":[
+                         {
+                            "name":"Orange",
+                            "type":"telco"
+                         }
+                      ],
+                      "fillColor":"#5DA0CA"
+                   },
+                   "ESP":{
+                      "companies":[
+                         {
+                            "name":"Telefónica",
+                            "type":"telco"
+                         }
+                      ],
+                      "fillColor":"#5DA0CA"
+                   },
+                   "RUS":{
+                      "companies":[
+                         {
+                            "name":"Yandex",
+                            "type":"internet"
+                         },
+                         {
+                            "name":"Mail.ru",
+                            "type":"internet"
+                         }
+                      ],
+                      "fillColor":"#5DA0CA"
+                   },
+                   "CHN":{
+                      "companies":[
+                         {
+                            "name":"Tencent",
+                            "type":"internet"
+                         },
+                         {
+                            "name":"Baidu",
+                            "type":"internet"
+                         }
+                      ],
+                      "fillColor":"#5DA0CA"
+                   },
+                   "KOR":{
+                      "companies":[
+                         {
+                            "name":"Kakao",
+                            "type":"internet"
+                         },
+                         {
+                            "name":"Samsung",
+                            "type":"internet"
+                         }
+                      ],
+                      "fillColor":"#5DA0CA"
+                   },
+                   "MYS":{
+                      "companies":[
+                         {
+                            "name":"Axiata",
+                            "type":"telco"
+                         }
+                      ],
+                      "fillColor":"#5DA0CA"
+                   },
+                   "IND":{
+                      "companies":[
+                         {
+                            "name":"Bharti Airtel",
+                            "type":"telco"
+                         }
+                      ],
+                      "fillColor":"#5DA0CA"
+                   },
+                   "QAT":{
+                      "companies":[
+                         {
+                            "name":"Ooredoo",
+                            "type":"telco"
+                         }
+                      ],
+                      "fillColor":"#5DA0CA"
+                   },
+                   "ARE":{
+                      "companies":[
+                         {
+                            "name":"Etisalat",
+                            "type":"telco"
+                         }
+                      ],
+                      "fillColor":"#5DA0CA"
+                   },
+                   "ZAF":{
+                      "companies":[
+                         {
+                            "name":"MTN",
+                            "type":"telco"
+                         }
+                      ],
+                      "fillColor":"#5DA0CA"
+                   }
                 },
                 geographyConfig: {
                     borderColor: '#DEDEDE',

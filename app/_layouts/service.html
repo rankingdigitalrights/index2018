@@ -1,0 +1,87 @@
+<!doctype html>
+
+<!--[if lt IE 10]> <html class="lt-ie10 no-js"  lang=""> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+
+  {% include head.html %}
+
+  <body id="page--service" class={{ page.entity }}>
+
+    <!--[if lt IE 10]>
+      <div id="nocando">
+        <p>You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+      </div>
+    <![endif]-->
+
+    {% include banner.html %}
+
+    <div id="site-canvas" class="page-content-dynamic" data-type="{{ page.visualization }}" data-id="{{ page.entity }}">
+
+      <section class="page-introduction">
+
+        <div class="row contain spaced-row">
+
+          <div class="page-title-overtext">Service</div>
+
+          <h1 class="page--title">{{ page.display }}</h1>
+
+
+        </div>          
+      </section>
+
+      <section class="service-graph highlihted-bg">
+
+        <div class="row spaced-row contain">
+
+          <div id="service--overview_chart" class="service-chart"></div>
+
+          <div class="graph-legend">
+
+            <div class="graph-legend-values">
+                <div class="graph-legend-values-item">
+                   <div class="graph-legend-values-value governance">
+                      <i class="fa fa-circle"></i> Governance
+                   </div>
+                   <div class="graph-legend-values-value freedom">
+                      <i class="fa fa-circle"></i> Freedom of Expression
+                   </div>
+                   <div class="graph-legend-values-value privacy">
+                      <i class="fa fa-circle"></i> Privacy
+                   </div>                                       
+                </div>                                    
+            </div>
+            <div class="graph-legend-values">
+                <div class="graph-legend-values-item">
+                  <div class="graph-legend-values-value service-rank">
+                    <i class="fa fa-circle"></i> Rank
+                  </div>                 
+                  <div class="graph-legend-values-label">Service</div>
+                  <div class="graph-legend-values-value">
+                    Company
+                  </div>                                          
+                </div>                                     
+            </div>            
+            <div class="graph-legend-interaction">
+                <div class="graph-legend-interaction-item">
+                   <a href="{{ site.baseurl }}/download/"><i class="fa fa-arrow-down" aria-hidden="true"></i></a>
+                </div>
+                <div class="graph-legend-interaction-item">
+                   <a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i></a>
+                </div>                      
+            </div>
+          </div>
+
+        </div>  
+      </section>
+
+      <section class="service--companies" id="service--companies"></section>
+      
+    </div>
+    
+    {% include footer.html %}
+
+    <script src="{{ site.baseurl }}/assets/scripts/bundle.js"></script>
+
+  </body>
+
+</html>

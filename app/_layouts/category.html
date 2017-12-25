@@ -1,0 +1,82 @@
+<!doctype html>
+
+<!--[if lt IE 10]> <html class="lt-ie10 no-js"  lang=""> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+
+  {% include head.html %}
+
+  <body id="page--category" class={{ page.entity }}>
+
+    <!--[if lt IE 10]>
+      <div id="nocando">
+        <p>You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+      </div>
+    <![endif]-->
+
+    {% include banner.html %}
+
+    <div id="site-canvas" class="page-content-dynamic" data-type="{{ page.visualization }}" data-id="{{ page.entity }}">
+
+      <section class="page-introduction">
+
+        <div class="row contain spaced-row">
+
+          <div class="page-title-overtext">Category</div>
+
+          <h1 class="page--title">{{ page.display }}</h1>
+
+          <p>{{ page.introduction }}</p>
+
+          <div class="action-links">
+            <a href="#category--indicators">
+               <span>Go to Indicators</span>
+               <i class="fa fa-arrow-circle-down" aria-hidden="true"></i>
+            </a>  
+          </div>
+
+        </div>          
+      </section>
+
+      <section class="category-graph highlihted-bg">
+        
+        <div class="row spaced-row contain">
+        
+          <div id="category--overview_chart" class="category-chart"></div>
+
+          <div class="graph-legend">
+
+            <div class="graph-legend-values">
+                <div class="graph-legend-values-item">
+                   <div class="graph-legend-values-value service-rank">
+                      <i class="fa fa-circle"></i> Rank
+                   </div>                                        
+                </div>                                    
+            </div>
+
+            <div class="graph-legend-interaction">
+                <div class="graph-legend-interaction-item">
+                   <a href="{{ site.baseurl }}/download/"><i class="fa fa-arrow-down" aria-hidden="true"></i></a>
+                </div>
+                <div class="graph-legend-interaction-item">
+                   <a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i></a>
+                </div>                      
+            </div>
+
+          </div>
+
+        </div>  
+      </section>
+
+      <section id="category--indicators" class="row spaced-row contain category-indicators">
+        <h2 class="page--subtitle">{{ page.display }}</h2>
+      </section>
+
+    </div>
+    
+    {% include footer.html %}
+
+    <script src="{{ site.baseurl }}/assets/scripts/bundle.js"></script>
+
+  </body>
+
+</html>

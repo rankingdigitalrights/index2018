@@ -1,0 +1,250 @@
+<!doctype html>
+
+<!--[if lt IE 10]> <html class="lt-ie10 no-js"  lang=""> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+
+  {% include head.html %}
+
+  <body id="page--company" class="{{ page.company_type_page }}">
+
+    <!--[if lt IE 10]>
+      <div id="nocando">
+        <p>You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+      </div>
+    <![endif]-->
+
+    {% include banner.html %}
+
+    <div id="site-canvas" data-type="company" data-id="{{ page.entity }}">
+      
+      <!-- Introduction -->
+      <section class="introduction">
+
+        <div class="contain row">
+
+          <div class="container--left">
+
+            <div class="company-type">
+              <i class="fa fa-circle"></i> {{ page.company_type }}
+            </div>
+
+            <h1 class="page--title">
+              {{ page.display }}
+            </h1> 
+
+            <div class="comp--sub_headquarters">
+              <label><strong>Domicile:</strong></label>
+              {{ page.headquarters }}
+            </div> 
+
+            <div class="comp--sub_website">
+              <label><strong>Link:</strong></label>
+              <a href="{{ page.link }}" target="_blank">
+                {{ page.link }}             
+              </a> 
+            </div> 
+
+            {% if page.operating %}
+            <div class="comp--sub_operating">
+              <label><strong>Operating Company Evaluated:</strong></label>
+              {{ page.operating }} 
+            </div>
+            {% endif %}
+
+          </div>
+
+          <div class="container--right">
+
+            <div class="comp--score">
+              <label>Overall score</label>
+              <div class="comp--score--value">{{ page.total }}%</div>
+            </div> <!-- overall score -->
+
+            <div class="comp--among">
+              <label id="comp--position_among_label" >Rank among {{ page.company_type }}</label>
+              <div id="comp--position_among" class="comp--bar_chart"></div>
+            </div> <!-- position among other companies -->
+
+          </div>
+
+        </div>
+      </section>
+  
+
+      <!-- Key fiindings-->
+      <section class="key-findings">
+        <div class="contain row">
+          <div class="container--left">
+            <div class="comp--key_findings">
+              <h2>Key findings</h2>
+              <ul>
+                {% for item in page.key_findings %}
+                <li>{{ item }}</li>
+                {% endfor %}
+              </ul>
+            </div> 
+          </div>         
+          <div class="container--right">                     
+            <div class="comp--services_evaluated">
+              {% if page.services_evaluated %}
+              <div class="comp--services_evaluated-title">Services evaluated</div>
+                <div class="comp--instant_mess-wrapper">
+                  {% for item in page.services_evaluated %}
+                  <div class="comp--instant_mess">
+                    <label><a href="{{ site.baseurl }}/services/{{ item.key_href }}">{{ item.key }}</a></label>
+                    <div class="comp--name">{{ item.name }}</div>
+                    <div class="comp--value">{{ item.value }}</div>
+                    <div class="comp--desc">{{ item.desc }}</div>
+                  </div>
+                  {% endfor %}
+                </div>
+              {% endif %}
+            </div> 
+          </div>
+        </div> 
+      </section>
+
+
+      <!-- Circle chart -->
+      <section class=" circle-chart highlihted-bg">
+        <div id="comp--circle_chart" class="row spaced-row contain"></div>
+      </section> 
+
+
+      <!-- Section analysis -->
+      <section class="section--analysis">
+
+        <div class="contain spaced-row row">
+          
+          <div class="title-section">
+            <h2>Analysis</h2>
+            <div class="overall-score">
+              <label>Overall score</label>
+              <div class="overall-score-value">{{ page.total }}%</div>
+            </div>
+          </div>
+
+
+          <div class="container--left">
+            <div class="title-line-chart">
+              <div class="title-line-chart-value" style="width:{{ page.total }}%;"></div>
+            </div>          
+            <p>{{ page.analysis_text_left }}</p>
+          </div>
+
+          <div class="container--right">
+            <p>{{ page.analysis_text_right }}</p>
+            <div class="comp--industry">
+              <label>Industry: </label>{{ page.analysis_industry }}
+            </div>
+            <div class="comp--mark">
+              <label>Market cap: </label>{{ page.analysis_market_cap }}
+            </div>
+            <div class="comp--sank">
+              <label>Stock symbol: </label>{{ page.analysis_stock_symbol }}
+            </div>
+          </div>
+
+        </div>
+      </section>
+
+
+      <!-- Section governance -->
+      <section class="section--governance">
+        <div class="contain spaced-row row">
+
+          <div class="title-section">
+            <div class="category-label">
+              <label>Category</label>
+              <h3 class="governance">Governance</h3>
+            </div>
+            <div class="category-score">
+              <label>Score</label>
+              <div class="score-value">{{ page.governance }}%</div>
+            </div>
+          </div>
+          <div class="container--left">
+            <div class="title-line-chart">
+              <div class="title-line-chart-value" style="width:{{ page.governance }}%;"></div>
+            </div>          
+            <p>{{ page.governance_text }}</p>
+            <label>Rank among {{ page.company_type }}</label>
+            <div id="commitment--dot_chart" class="comp--dot_chart"></div>
+          </div>
+
+          <div class="container--right">
+            <div id="indicators--commitment" class="company-line-chart"></div>
+          </div>
+
+        </div>
+      </section>
+
+
+      <!-- Section freedom -->
+      <section class="section--freedom">
+        <div class="contain spaced-row row">
+
+          <div class="title-section">
+            <div class="category-label">
+              <label>Category</label>
+              <h3 class="freedom">Freedom of expression</h3>
+            </div>
+            <div class="category-score">
+              <label>Score</label>
+              <div class="score-value">{{ page.freedom }}%</div>
+            </div>
+          </div>
+          <div class="container--left">
+            <div class="title-line-chart">
+              <div class="title-line-chart-value" style="width:{{ page.freedom }}%;"></div>
+            </div>           
+              <p>{{ page.freedom_text }}</p>
+            <label>Rank among {{ page.company_type }}</label>
+            <div id="freedom--dot_chart" class="comp--dot_chart"></div>
+          </div>
+          <div class="container--right">
+            <div id="indicators--freedom"  class="company-line-chart"></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Section privacy -->
+      <section class="section--privacy">
+        <div class="contain spaced-row row">
+
+          <div class="title-section">
+            <div class="category-label">
+              <label>Category</label>
+              <h3 class="privacy">Privacy</h3>
+            </div>
+            <div class="category-score">
+              <label>Score</label>
+              <div class="score-value">{{ page.privacy }}%</div>
+            </div>
+          </div>
+
+          <div class="container--left">
+            <div class="title-line-chart">
+              <div class="title-line-chart-value" style="width:{{ page.privacy }}%;"></div>
+            </div>           
+            <p>{{ page.privacy_text }}</p>
+            <label>Rank among {{ page.company_type }}</label>
+            <div id="privacy--dot_chart" class="comp--dot_chart"></div>
+          </div>
+
+          <div class="container--right">
+            <div id="indicators--privacy"  class="company-line-chart"></div>
+          </div>
+
+        </div>
+      </section>
+
+    </div>
+
+    {% include footer.html %}
+
+    <script src="{{ site.baseurl }}/assets/scripts/bundle.js"></script>
+
+  </body>
+  
+</html>

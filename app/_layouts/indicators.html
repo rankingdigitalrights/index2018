@@ -1,0 +1,78 @@
+<!doctype html>
+
+<!--[if lt IE 10]> <html class="lt-ie10 no-js"  lang=""> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+
+  {% include head.html %}
+
+  <body  id="page--indicators">
+  
+    <!--[if lt IE 10]>
+      <div id="nocando">
+        <p>You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+      </div>
+    <![endif]-->
+
+    {% include banner.html %}
+
+    <!-- Introduction -->
+    <section class="introduction contain spaced-row row">
+
+        <div class="indicator-item">
+          <label>Indicators</label>
+          <h2 class="page--subtitle governance"><a href="#G1" class="governance">Governance</a></h2>
+        </div>  
+
+        <div class="indicator-item">
+          <label>Indicators</label>
+          <h2 class="page--subtitle freedom"><a href="#F1" class="freedom">Freedom of Expression</a></h2>
+        </div>  
+
+        <div class="indicator-item">
+          <label>Indicators</label>
+          <h2 class="page--subtitle privacy"><a href="#P1" class="privacy">Privacy</a></h2>
+        </div>  
+
+    </section>
+
+    <!-- Indicators -->
+    <section id="site-canvas" class="indicators-wrapper contain spaced-row row" data-type="{{ page.visualization }}" data-id="{{ page.entity }}">
+      
+
+    <!-- The Modal -->
+    <div class="modal">
+      <div class="modal-content contain">
+          
+          <span class="close">&times;</span>
+          
+          <h3 class="indicator--name"></h3>
+          
+          <p id="paragraph--1"></p>
+          <p id="paragraph--2"></p>
+
+          <h3 id="company--name"></h3>
+          <span id="company--score"></span>
+
+          <table id="indicatorsTable">
+            <!--
+            <tr>
+              <th class="indicator--name"></th>
+              <th>Privacy</th>
+              <th>FoF</th>
+            </tr>
+          -->
+          </table>
+
+      </div>
+    </div>
+
+
+    </section>
+
+    {% include footer.html %}
+
+    <script src="{{ site.baseurl }}/assets/scripts/bundle.js"></script>
+
+  </body>
+
+</html>
