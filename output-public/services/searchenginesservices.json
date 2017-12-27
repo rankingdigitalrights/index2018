@@ -1,0 +1,47 @@
+[
+    {
+        "Company": "Google",
+        "FoE": "69",
+        "G": "73",
+        "P": "65",
+        "Service": "Search",
+        "Total": "68",
+        "rank": "1"
+    },
+    {
+        "Company": "Microsoft",
+        "FoE": "66",
+        "G": "88",
+        "P": "53",
+        "Service": "Bing",
+        "Total": "63",
+        "rank": "2"
+    },
+    {
+        "Company": "Kakao",
+        "FoE": "47",
+        "G": "35",
+        "P": "48",
+        "Service": "Kakao Search",
+        "Total": "45",
+        "rank": "3"
+    },
+    {
+        "Company": "Yandex",
+        "FoE": "21",
+        "G": "8",
+        "P": "34",
+        "Service": "Yandex Search",
+        "Total": "26",
+        "rank": "4"
+    },
+    {
+        "Company": "Baidu",
+        "FoE": "8",
+        "G": "4",
+        "P": "23",
+        "Service": "Baidu Search",
+        "Total": "16",
+        "rank": "5"
+    }
+]

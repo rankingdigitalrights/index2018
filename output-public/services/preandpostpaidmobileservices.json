@@ -1,0 +1,92 @@
+[
+    {
+        "Company": "Vodafone",
+        "FoE": "46",
+        "G": "85",
+        "P": "37",
+        "Service": "mobile service (Vodafone UK)",
+        "Total": "49",
+        "rank": "1"
+    },
+    {
+        "Company": "AT&T",
+        "FoE": "41",
+        "G": "61",
+        "P": "49",
+        "Service": "Mobile service (AT&T)",
+        "Total": "48",
+        "rank": "2"
+    },
+    {
+        "Company": "Telefónica",
+        "FoE": "28",
+        "G": "67",
+        "P": "29",
+        "Service": "mobile service (Movistar)",
+        "Total": "36",
+        "rank": "3"
+    },
+    {
+        "Company": "Orange",
+        "FoE": "15",
+        "G": "77",
+        "P": "27",
+        "Service": "mobile service (orange france)",
+        "Total": "32",
+        "rank": "4"
+    },
+    {
+        "Company": "América Móvil",
+        "FoE": "16",
+        "G": "21",
+        "P": "24",
+        "Service": "Mobile Service (Telcel)",
+        "Total": "21",
+        "rank": "5"
+    },
+    {
+        "Company": "MTN",
+        "FoE": "13",
+        "G": "32",
+        "P": "11",
+        "Service": "mobile service (MTN SA)",
+        "Total": "16",
+        "rank": "6"
+    },
+    {
+        "Company": "Axiata",
+        "FoE": "12",
+        "G": "5",
+        "P": "18",
+        "Service": "Mobile service (Telcel)",
+        "Total": "14",
+        "rank": "7"
+    },
+    {
+        "Company": "Bharti Airtel",
+        "FoE": "7",
+        "G": "14",
+        "P": "18",
+        "Service": "Mobile service (Airtel India)",
+        "Total": "14",
+        "rank": "8"
+    },
+    {
+        "Company": "Etisalat",
+        "FoE": "16",
+        "G": "7",
+        "P": "4",
+        "Service": "Mobile service (Etisalat UAE)",
+        "Total": "8",
+        "rank": "9"
+    },
+    {
+        "Company": "Ooredoo",
+        "FoE": "14",
+        "G": "2",
+        "P": "0",
+        "Service": "mobile service (Ooredoo Qatar)",
+        "Total": "5",
+        "rank": "10"
+    }
+]

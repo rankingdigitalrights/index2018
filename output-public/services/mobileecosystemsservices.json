@@ -1,0 +1,29 @@
+[
+    {
+        "Company": "Microsoft",
+        "FoE": "47",
+        "G": "69",
+        "P": "59",
+        "Service": "Android mobile ecosystem",
+        "Total": "57",
+        "rank": "1"
+    },
+    {
+        "Company": "Apple",
+        "FoE": "27",
+        "G": "27",
+        "P": "48",
+        "Service": "iOS mobile ecosystem",
+        "Total": "38",
+        "rank": "2"
+    },
+    {
+        "Company": "Samsung",
+        "FoE": "22",
+        "G": "32",
+        "P": "24",
+        "Service": "Samsung implementation of Android",
+        "Total": "25",
+        "rank": "3"
+    }
+]
