@@ -1,0 +1,29 @@
+[
+    {
+        "Company": "Apple",
+        "FoE": "37",
+        "G": "26",
+        "P": "48",
+        "Service": "iCloud",
+        "Total": "41",
+        "rank": "1"
+    },
+    {
+        "Company": "Yandex",
+        "FoE": "25",
+        "G": "6",
+        "P": "35",
+        "Service": "Yandex Disk (cloud storage)",
+        "Total": "27",
+        "rank": "2"
+    },
+    {
+        "Company": "Baidu",
+        "FoE": "16",
+        "G": "4",
+        "P": "22",
+        "Service": "Baidu Cloud",
+        "Total": "17",
+        "rank": "3"
+    }
+]

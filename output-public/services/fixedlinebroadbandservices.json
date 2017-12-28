@@ -1,0 +1,65 @@
+[
+    {
+        "Company": "Vodafone",
+        "FoE": "39",
+        "G": "85",
+        "P": "37",
+        "Service": "Fixed line broadband (Vodafone UK)",
+        "Total": "47",
+        "rank": "1"
+    },
+    {
+        "Company": "AT&T",
+        "FoE": "35",
+        "G": "61",
+        "P": "49",
+        "Service": "Fixed line broadband (AT&T)",
+        "Total": "47",
+        "rank": "2"
+    },
+    {
+        "Company": "Telefónica",
+        "FoE": "28",
+        "G": "67",
+        "P": "29",
+        "Service": "Fixed line broadband (Movistar)",
+        "Total": "36",
+        "rank": "3"
+    },
+    {
+        "Company": "Orange",
+        "FoE": "19",
+        "G": "77",
+        "P": "27",
+        "Service": "fixed line broadband (Orange France)",
+        "Total": "34",
+        "rank": "4"
+    },
+    {
+        "Company": "Bharti Airtel",
+        "FoE": "12",
+        "G": "14",
+        "P": "18",
+        "Service": "Fixed line broadband (Airtel India)",
+        "Total": "15",
+        "rank": "5"
+    },
+    {
+        "Company": "Etisalat",
+        "FoE": "16",
+        "G": "7",
+        "P": "4",
+        "Service": "Fixed line broadband (Etisalat UAE)",
+        "Total": "8",
+        "rank": "6"
+    },
+    {
+        "Company": "Ooredoo",
+        "FoE": "15",
+        "G": "2",
+        "P": "0",
+        "Service": "fixed line broadband (Ooredoo Qatar)",
+        "Total": "5",
+        "rank": "7"
+    }
+]

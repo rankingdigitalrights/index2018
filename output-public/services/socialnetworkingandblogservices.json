@@ -1,0 +1,56 @@
+[
+    {
+        "Company": "Twitter",
+        "FoE": "72",
+        "G": "46",
+        "P": "63",
+        "Service": "Twitter",
+        "Total": "63",
+        "rank": "1"
+    },
+    {
+        "Company": "Yahoo",
+        "FoE": "58",
+        "G": "79",
+        "P": "44",
+        "Service": "Tumblr",
+        "Total": "54",
+        "rank": "2"
+    },
+    {
+        "Company": "Facebook",
+        "FoE": "38",
+        "G": "81",
+        "P": "53",
+        "Service": "Facebook",
+        "Total": "54",
+        "rank": "3"
+    },
+    {
+        "Company": "Mail.ru",
+        "FoE": "16",
+        "G": "7",
+        "P": "32",
+        "Service": "Vkontakte",
+        "Total": "23",
+        "rank": "4"
+    },
+    {
+        "Company": "Tencent",
+        "FoE": "13",
+        "G": "7",
+        "P": "27",
+        "Service": "QZone",
+        "Total": "20",
+        "rank": "5"
+    },
+    {
+        "Company": "Baidu",
+        "FoE": "13",
+        "G": "7",
+        "P": "23",
+        "Service": "Baidu PostBar",
+        "Total": "18",
+        "rank": "6"
+    }
+]

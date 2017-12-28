@@ -1,0 +1,3280 @@
+[
+    {
+        "id": "americamovil",
+        "commitment": [
+            {
+                "name": "G1. Policy Commitment",
+                "value": "50"
+            },
+            {
+                "name": "G2. Governance and management oversight",
+                "value": "0"
+            },
+            {
+                "name": "G3. Internal implementation",
+                "value": "25"
+            },
+            {
+                "name": "G4. Impact assessment",
+                "value": "0"
+            },
+            {
+                "name": "G5. Stakeholder engagement",
+                "value": "0"
+            },
+            {
+                "name": "G6. Remedy",
+                "value": "50"
+            }
+        ],
+        "freedom": [
+            {
+                "name": "F1. Access to terms of service",
+                "value": "66.67"
+            },
+            {
+                "name": "F2. Changes to terms of service",
+                "value": "37.5"
+            },
+            {
+                "name": "F3. Process for terms of service enforcement",
+                "value": "50"
+            },
+            {
+                "name": "F4. Data about terms of service enforcement",
+                "value": "0"
+            },
+            {
+                "name": "F5. Process for responding to third-party requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F6. Data about government requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F7. Data about private requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F8. User notification about content and account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F9. Network management (telecommunications companies)",
+                "value": "25"
+            },
+            {
+                "name": "F10. Network shutdown (telecommunications companies)",
+                "value": "0"
+            },
+            {
+                "name": "F11. Identity policy",
+                "value": "0"
+            }
+        ],
+        "privacy": [
+            {
+                "name": "P1. Access to privacy policies",
+                "value": "83.33"
+            },
+            {
+                "name": "P2. Changes to privacy policies",
+                "value": "0"
+            },
+            {
+                "name": "P3. Collection of user information",
+                "value": "16.67"
+            },
+            {
+                "name": "P4. Sharing of user information",
+                "value": "37.5"
+            },
+            {
+                "name": "P5. Purpose for collecting and sharing user information",
+                "value": "37.5"
+            },
+            {
+                "name": "P6. Retention of user information",
+                "value": "0"
+            },
+            {
+                "name": "P7. Users’ control over their own user information",
+                "value": "25"
+            },
+            {
+                "name": "P8. Users’ access to their own user information",
+                "value": "0"
+            },
+            {
+                "name": "P9. Collection of user information from third parties (Internet companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P10. Process for responding to third-party requests for user information",
+                "value": "8.33"
+            },
+            {
+                "name": "P11. Data about third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P12. User notification about third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P13. Security oversight",
+                "value": "50"
+            },
+            {
+                "name": "P14. Addressing security vulnerabilities",
+                "value": "0"
+            },
+            {
+                "name": "P15. Data breaches",
+                "value": "0"
+            },
+            {
+                "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P17. Account Security (Internet, software, and device companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P18. Inform and educate users about potential risks",
+                "value": "100"
+            }
+        ]
+    },
+    {
+        "id": "apple",
+        "commitment": [
+            {
+                "name": "G1. Policy Commitment",
+                "value": "50"
+            },
+            {
+                "name": "G2. Governance and management oversight",
+                "value": "41.67"
+            },
+            {
+                "name": "G3. Internal implementation",
+                "value": "37.5"
+            },
+            {
+                "name": "G4. Impact assessment",
+                "value": "0"
+            },
+            {
+                "name": "G5. Stakeholder engagement",
+                "value": "0"
+            },
+            {
+                "name": "G6. Remedy",
+                "value": "28.33"
+            }
+        ],
+        "freedom": [
+            {
+                "name": "F1. Access to terms of service",
+                "value": "61.11"
+            },
+            {
+                "name": "F2. Changes to terms of service",
+                "value": "12.5"
+            },
+            {
+                "name": "F3. Process for terms of service enforcement",
+                "value": "47.62"
+            },
+            {
+                "name": "F4. Data about terms of service enforcement",
+                "value": "0"
+            },
+            {
+                "name": "F5. Process for responding to third-party requests for content or account restriction",
+                "value": "63.89"
+            },
+            {
+                "name": "F6. Data about government requests for content or account restriction",
+                "value": "36.3"
+            },
+            {
+                "name": "F7. Data about private requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F8. User notification about content and account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F9. Network management (telecommunications companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "F10. Network shutdown (telecommunications companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "F11. Identity policy",
+                "value": "50"
+            }
+        ],
+        "privacy": [
+            {
+                "name": "P1. Access to privacy policies",
+                "value": "91.67"
+            },
+            {
+                "name": "P2. Changes to privacy policies",
+                "value": "11.67"
+            },
+            {
+                "name": "P3. Collection of user information",
+                "value": "28.89"
+            },
+            {
+                "name": "P4. Sharing of user information",
+                "value": "44.44"
+            },
+            {
+                "name": "P5. Purpose for collecting and sharing user information",
+                "value": "50"
+            },
+            {
+                "name": "P6. Retention of user information",
+                "value": "12.38"
+            },
+            {
+                "name": "P7. Users’ control over their own user information",
+                "value": "41.67"
+            },
+            {
+                "name": "P8. Users’ access to their own user information",
+                "value": "0"
+            },
+            {
+                "name": "P9. Collection of user information from third parties (Internet companies)",
+                "value": "100"
+            },
+            {
+                "name": "P10. Process for responding to third-party requests for user information",
+                "value": "58.33"
+            },
+            {
+                "name": "P11. Data about third-party requests for user information",
+                "value": "63.64"
+            },
+            {
+                "name": "P12. User notification about third-party requests for user information",
+                "value": "66.67"
+            },
+            {
+                "name": "P13. Security oversight",
+                "value": "50"
+            },
+            {
+                "name": "P14. Addressing security vulnerabilities",
+                "value": "27.78"
+            },
+            {
+                "name": "P15. Data breaches",
+                "value": "0"
+            },
+            {
+                "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)",
+                "value": "58.33"
+            },
+            {
+                "name": "P17. Account Security (Internet, software, and device companies)",
+                "value": "72.22"
+            },
+            {
+                "name": "P18. Inform and educate users about potential risks",
+                "value": "100"
+            }
+        ]
+    },
+    {
+        "id": "att",
+        "commitment": [
+            {
+                "name": "G1. Policy Commitment",
+                "value": "100"
+            },
+            {
+                "name": "G2. Governance and management oversight",
+                "value": "100"
+            },
+            {
+                "name": "G3. Internal implementation",
+                "value": "87.5"
+            },
+            {
+                "name": "G4. Impact assessment",
+                "value": "11.11"
+            },
+            {
+                "name": "G5. Stakeholder engagement",
+                "value": "33.33"
+            },
+            {
+                "name": "G6. Remedy",
+                "value": "35"
+            }
+        ],
+        "freedom": [
+            {
+                "name": "F1. Access to terms of service",
+                "value": "83.33"
+            },
+            {
+                "name": "F2. Changes to terms of service",
+                "value": "37.5"
+            },
+            {
+                "name": "F3. Process for terms of service enforcement",
+                "value": "52.5"
+            },
+            {
+                "name": "F4. Data about terms of service enforcement",
+                "value": "0"
+            },
+            {
+                "name": "F5. Process for responding to third-party requests for content or account restriction",
+                "value": "62.5"
+            },
+            {
+                "name": "F6. Data about government requests for content or account restriction",
+                "value": "20"
+            },
+            {
+                "name": "F7. Data about private requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F8. User notification about content and account restriction",
+                "value": "33.33"
+            },
+            {
+                "name": "F9. Network management (telecommunications companies)",
+                "value": "50"
+            },
+            {
+                "name": "F10. Network shutdown (telecommunications companies)",
+                "value": "12.5"
+            },
+            {
+                "name": "F11. Identity policy",
+                "value": "100"
+            }
+        ],
+        "privacy": [
+            {
+                "name": "P1. Access to privacy policies",
+                "value": "100"
+            },
+            {
+                "name": "P2. Changes to privacy policies",
+                "value": "50"
+            },
+            {
+                "name": "P3. Collection of user information",
+                "value": "50"
+            },
+            {
+                "name": "P4. Sharing of user information",
+                "value": "37.5"
+            },
+            {
+                "name": "P5. Purpose for collecting and sharing user information",
+                "value": "37.5"
+            },
+            {
+                "name": "P6. Retention of user information",
+                "value": "10"
+            },
+            {
+                "name": "P7. Users’ control over their own user information",
+                "value": "25"
+            },
+            {
+                "name": "P8. Users’ access to their own user information",
+                "value": "68.75"
+            },
+            {
+                "name": "P9. Collection of user information from third parties (Internet companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P10. Process for responding to third-party requests for user information",
+                "value": "58.33"
+            },
+            {
+                "name": "P11. Data about third-party requests for user information",
+                "value": "63.64"
+            },
+            {
+                "name": "P12. User notification about third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P13. Security oversight",
+                "value": "100"
+            },
+            {
+                "name": "P14. Addressing security vulnerabilities",
+                "value": "16.67"
+            },
+            {
+                "name": "P15. Data breaches",
+                "value": "16.67"
+            },
+            {
+                "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P17. Account Security (Internet, software, and device companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P18. Inform and educate users about potential risks",
+                "value": "100"
+            }
+        ]
+    },
+    {
+        "id": "axiata",
+        "commitment": [
+            {
+                "name": "G1. Policy Commitment",
+                "value": "0"
+            },
+            {
+                "name": "G2. Governance and management oversight",
+                "value": "16.67"
+            },
+            {
+                "name": "G3. Internal implementation",
+                "value": "0"
+            },
+            {
+                "name": "G4. Impact assessment",
+                "value": "0"
+            },
+            {
+                "name": "G5. Stakeholder engagement",
+                "value": "0"
+            },
+            {
+                "name": "G6. Remedy",
+                "value": "15"
+            }
+        ],
+        "freedom": [
+            {
+                "name": "F1. Access to terms of service",
+                "value": "58.33"
+            },
+            {
+                "name": "F2. Changes to terms of service",
+                "value": "0"
+            },
+            {
+                "name": "F3. Process for terms of service enforcement",
+                "value": "20"
+            },
+            {
+                "name": "F4. Data about terms of service enforcement",
+                "value": "0"
+            },
+            {
+                "name": "F5. Process for responding to third-party requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F6. Data about government requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F7. Data about private requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F8. User notification about content and account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F9. Network management (telecommunications companies)",
+                "value": "50"
+            },
+            {
+                "name": "F10. Network shutdown (telecommunications companies)",
+                "value": "6.25"
+            },
+            {
+                "name": "F11. Identity policy",
+                "value": "0"
+            }
+        ],
+        "privacy": [
+            {
+                "name": "P1. Access to privacy policies",
+                "value": "83.33"
+            },
+            {
+                "name": "P2. Changes to privacy policies",
+                "value": "0"
+            },
+            {
+                "name": "P3. Collection of user information",
+                "value": "33.33"
+            },
+            {
+                "name": "P4. Sharing of user information",
+                "value": "25"
+            },
+            {
+                "name": "P5. Purpose for collecting and sharing user information",
+                "value": "25"
+            },
+            {
+                "name": "P6. Retention of user information",
+                "value": "0"
+            },
+            {
+                "name": "P7. Users’ control over their own user information",
+                "value": "0"
+            },
+            {
+                "name": "P8. Users’ access to their own user information",
+                "value": "0"
+            },
+            {
+                "name": "P9. Collection of user information from third parties (Internet companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P10. Process for responding to third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P11. Data about third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P12. User notification about third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P13. Security oversight",
+                "value": "58.33"
+            },
+            {
+                "name": "P14. Addressing security vulnerabilities",
+                "value": "0"
+            },
+            {
+                "name": "P15. Data breaches",
+                "value": "0"
+            },
+            {
+                "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P17. Account Security (Internet, software, and device companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P18. Inform and educate users about potential risks",
+                "value": "50"
+            }
+        ]
+    },
+    {
+        "id": "baidu",
+        "commitment": [
+            {
+                "name": "G1. Policy Commitment",
+                "value": "25"
+            },
+            {
+                "name": "G2. Governance and management oversight",
+                "value": "0"
+            },
+            {
+                "name": "G3. Internal implementation",
+                "value": "0"
+            },
+            {
+                "name": "G4. Impact assessment",
+                "value": "0"
+            },
+            {
+                "name": "G5. Stakeholder engagement",
+                "value": "0"
+            },
+            {
+                "name": "G6. Remedy",
+                "value": "5"
+            }
+        ],
+        "freedom": [
+            {
+                "name": "F1. Access to terms of service",
+                "value": "72.22"
+            },
+            {
+                "name": "F2. Changes to terms of service",
+                "value": "0"
+            },
+            {
+                "name": "F3. Process for terms of service enforcement",
+                "value": "40.24"
+            },
+            {
+                "name": "F4. Data about terms of service enforcement",
+                "value": "0"
+            },
+            {
+                "name": "F5. Process for responding to third-party requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F6. Data about government requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F7. Data about private requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F8. User notification about content and account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F9. Network management (telecommunications companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "F10. Network shutdown (telecommunications companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "F11. Identity policy",
+                "value": "0"
+            }
+        ],
+        "privacy": [
+            {
+                "name": "P1. Access to privacy policies",
+                "value": "77.78"
+            },
+            {
+                "name": "P2. Changes to privacy policies",
+                "value": "37.5"
+            },
+            {
+                "name": "P3. Collection of user information",
+                "value": "66.67"
+            },
+            {
+                "name": "P4. Sharing of user information",
+                "value": "25"
+            },
+            {
+                "name": "P5. Purpose for collecting and sharing user information",
+                "value": "37.5"
+            },
+            {
+                "name": "P6. Retention of user information",
+                "value": "20"
+            },
+            {
+                "name": "P7. Users’ control over their own user information",
+                "value": "25"
+            },
+            {
+                "name": "P8. Users’ access to their own user information",
+                "value": "0"
+            },
+            {
+                "name": "P9. Collection of user information from third parties (Internet companies)",
+                "value": "0"
+            },
+            {
+                "name": "P10. Process for responding to third-party requests for user information",
+                "value": "2.78"
+            },
+            {
+                "name": "P11. Data about third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P12. User notification about third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P13. Security oversight",
+                "value": "0"
+            },
+            {
+                "name": "P14. Addressing security vulnerabilities",
+                "value": "33.33"
+            },
+            {
+                "name": "P15. Data breaches",
+                "value": "0"
+            },
+            {
+                "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)",
+                "value": "0"
+            },
+            {
+                "name": "P17. Account Security (Internet, software, and device companies)",
+                "value": "33.33"
+            },
+            {
+                "name": "P18. Inform and educate users about potential risks",
+                "value": "50"
+            }
+        ]
+    },
+    {
+        "id": "bhartiairtel",
+        "commitment": [
+            {
+                "name": "G1. Policy Commitment",
+                "value": "0"
+            },
+            {
+                "name": "G2. Governance and management oversight",
+                "value": "0"
+            },
+            {
+                "name": "G3. Internal implementation",
+                "value": "25"
+            },
+            {
+                "name": "G4. Impact assessment",
+                "value": "0"
+            },
+            {
+                "name": "G5. Stakeholder engagement",
+                "value": "16.67"
+            },
+            {
+                "name": "G6. Remedy",
+                "value": "60"
+            }
+        ],
+        "freedom": [
+            {
+                "name": "F1. Access to terms of service",
+                "value": "50"
+            },
+            {
+                "name": "F2. Changes to terms of service",
+                "value": "0"
+            },
+            {
+                "name": "F3. Process for terms of service enforcement",
+                "value": "17.14"
+            },
+            {
+                "name": "F4. Data about terms of service enforcement",
+                "value": "0"
+            },
+            {
+                "name": "F5. Process for responding to third-party requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F6. Data about government requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F7. Data about private requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F8. User notification about content and account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F9. Network management (telecommunications companies)",
+                "value": "25"
+            },
+            {
+                "name": "F10. Network shutdown (telecommunications companies)",
+                "value": "6.25"
+            },
+            {
+                "name": "F11. Identity policy",
+                "value": "0"
+            }
+        ],
+        "privacy": [
+            {
+                "name": "P1. Access to privacy policies",
+                "value": "33.33"
+            },
+            {
+                "name": "P2. Changes to privacy policies",
+                "value": "0"
+            },
+            {
+                "name": "P3. Collection of user information",
+                "value": "33.33"
+            },
+            {
+                "name": "P4. Sharing of user information",
+                "value": "37.5"
+            },
+            {
+                "name": "P5. Purpose for collecting and sharing user information",
+                "value": "12.5"
+            },
+            {
+                "name": "P6. Retention of user information",
+                "value": "0"
+            },
+            {
+                "name": "P7. Users’ control over their own user information",
+                "value": "0"
+            },
+            {
+                "name": "P8. Users’ access to their own user information",
+                "value": "0"
+            },
+            {
+                "name": "P9. Collection of user information from third parties (Internet companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P10. Process for responding to third-party requests for user information",
+                "value": "4.17"
+            },
+            {
+                "name": "P11. Data about third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P12. User notification about third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P13. Security oversight",
+                "value": "50"
+            },
+            {
+                "name": "P14. Addressing security vulnerabilities",
+                "value": "0"
+            },
+            {
+                "name": "P15. Data breaches",
+                "value": "0"
+            },
+            {
+                "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P17. Account Security (Internet, software, and device companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P18. Inform and educate users about potential risks",
+                "value": "100"
+            }
+        ]
+    },
+    {
+        "id": "etisalat",
+        "commitment": [
+            {
+                "name": "G1. Policy Commitment",
+                "value": "0"
+            },
+            {
+                "name": "G2. Governance and management oversight",
+                "value": "0"
+            },
+            {
+                "name": "G3. Internal implementation",
+                "value": "0"
+            },
+            {
+                "name": "G4. Impact assessment",
+                "value": "0"
+            },
+            {
+                "name": "G5. Stakeholder engagement",
+                "value": "0"
+            },
+            {
+                "name": "G6. Remedy",
+                "value": "40"
+            }
+        ],
+        "freedom": [
+            {
+                "name": "F1. Access to terms of service",
+                "value": "83.33"
+            },
+            {
+                "name": "F2. Changes to terms of service",
+                "value": "0"
+            },
+            {
+                "name": "F3. Process for terms of service enforcement",
+                "value": "51.43"
+            },
+            {
+                "name": "F4. Data about terms of service enforcement",
+                "value": "0"
+            },
+            {
+                "name": "F5. Process for responding to third-party requests for content or account restriction",
+                "value": "4.17"
+            },
+            {
+                "name": "F6. Data about government requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F7. Data about private requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F8. User notification about content and account restriction",
+                "value": "16.67"
+            },
+            {
+                "name": "F9. Network management (telecommunications companies)",
+                "value": "0"
+            },
+            {
+                "name": "F10. Network shutdown (telecommunications companies)",
+                "value": "12.5"
+            },
+            {
+                "name": "F11. Identity policy",
+                "value": "0"
+            }
+        ],
+        "privacy": [
+            {
+                "name": "P1. Access to privacy policies",
+                "value": "0"
+            },
+            {
+                "name": "P2. Changes to privacy policies",
+                "value": "0"
+            },
+            {
+                "name": "P3. Collection of user information",
+                "value": "0"
+            },
+            {
+                "name": "P4. Sharing of user information",
+                "value": "25"
+            },
+            {
+                "name": "P5. Purpose for collecting and sharing user information",
+                "value": "0"
+            },
+            {
+                "name": "P6. Retention of user information",
+                "value": "0"
+            },
+            {
+                "name": "P7. Users’ control over their own user information",
+                "value": "0"
+            },
+            {
+                "name": "P8. Users’ access to their own user information",
+                "value": "0"
+            },
+            {
+                "name": "P9. Collection of user information from third parties (Internet companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P10. Process for responding to third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P11. Data about third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P12. User notification about third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P13. Security oversight",
+                "value": "33.33"
+            },
+            {
+                "name": "P14. Addressing security vulnerabilities",
+                "value": "0"
+            },
+            {
+                "name": "P15. Data breaches",
+                "value": "0"
+            },
+            {
+                "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P17. Account Security (Internet, software, and device companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P18. Inform and educate users about potential risks",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "facebook",
+        "commitment": [
+            {
+                "name": "G1. Policy Commitment",
+                "value": "100"
+            },
+            {
+                "name": "G2. Governance and management oversight",
+                "value": "100"
+            },
+            {
+                "name": "G3. Internal implementation",
+                "value": "100"
+            },
+            {
+                "name": "G4. Impact assessment",
+                "value": "77.78"
+            },
+            {
+                "name": "G5. Stakeholder engagement",
+                "value": "100"
+            },
+            {
+                "name": "G6. Remedy",
+                "value": "10"
+            }
+        ],
+        "freedom": [
+            {
+                "name": "F1. Access to terms of service",
+                "value": "91.67"
+            },
+            {
+                "name": "F2. Changes to terms of service",
+                "value": "34.38"
+            },
+            {
+                "name": "F3. Process for terms of service enforcement",
+                "value": "72.14"
+            },
+            {
+                "name": "F4. Data about terms of service enforcement",
+                "value": "0"
+            },
+            {
+                "name": "F5. Process for responding to third-party requests for content or account restriction",
+                "value": "79.17"
+            },
+            {
+                "name": "F6. Data about government requests for content or account restriction",
+                "value": "31.67"
+            },
+            {
+                "name": "F7. Data about private requests for content or account restriction",
+                "value": "5.9"
+            },
+            {
+                "name": "F8. User notification about content and account restriction",
+                "value": "25"
+            },
+            {
+                "name": "F9. Network management (telecommunications companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "F10. Network shutdown (telecommunications companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "F11. Identity policy",
+                "value": "50"
+            }
+        ],
+        "privacy": [
+            {
+                "name": "P1. Access to privacy policies",
+                "value": "91.67"
+            },
+            {
+                "name": "P2. Changes to privacy policies",
+                "value": "34.38"
+            },
+            {
+                "name": "P3. Collection of user information",
+                "value": "58.33"
+            },
+            {
+                "name": "P4. Sharing of user information",
+                "value": "53.13"
+            },
+            {
+                "name": "P5. Purpose for collecting and sharing user information",
+                "value": "43.75"
+            },
+            {
+                "name": "P6. Retention of user information",
+                "value": "25"
+            },
+            {
+                "name": "P7. Users’ control over their own user information",
+                "value": "6.25"
+            },
+            {
+                "name": "P8. Users’ access to their own user information",
+                "value": "56.25"
+            },
+            {
+                "name": "P9. Collection of user information from third parties (Internet companies)",
+                "value": "20"
+            },
+            {
+                "name": "P10. Process for responding to third-party requests for user information",
+                "value": "58.33"
+            },
+            {
+                "name": "P11. Data about third-party requests for user information",
+                "value": "77.27"
+            },
+            {
+                "name": "P12. User notification about third-party requests for user information",
+                "value": "50"
+            },
+            {
+                "name": "P13. Security oversight",
+                "value": "16.67"
+            },
+            {
+                "name": "P14. Addressing security vulnerabilities",
+                "value": "66.67"
+            },
+            {
+                "name": "P15. Data breaches",
+                "value": "0"
+            },
+            {
+                "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)",
+                "value": "56.25"
+            },
+            {
+                "name": "P17. Account Security (Internet, software, and device companies)",
+                "value": "62.5"
+            },
+            {
+                "name": "P18. Inform and educate users about potential risks",
+                "value": "100"
+            }
+        ]
+    },
+    {
+        "id": "google",
+        "commitment": [
+            {
+                "name": "G1. Policy Commitment",
+                "value": "100"
+            },
+            {
+                "name": "G2. Governance and management oversight",
+                "value": "33.33"
+            },
+            {
+                "name": "G3. Internal implementation",
+                "value": "100"
+            },
+            {
+                "name": "G4. Impact assessment",
+                "value": "66.67"
+            },
+            {
+                "name": "G5. Stakeholder engagement",
+                "value": "100"
+            },
+            {
+                "name": "G6. Remedy",
+                "value": "26.25"
+            }
+        ],
+        "freedom": [
+            {
+                "name": "F1. Access to terms of service",
+                "value": "83.33"
+            },
+            {
+                "name": "F2. Changes to terms of service",
+                "value": "43.75"
+            },
+            {
+                "name": "F3. Process for terms of service enforcement",
+                "value": "67.8"
+            },
+            {
+                "name": "F4. Data about terms of service enforcement",
+                "value": "4.17"
+            },
+            {
+                "name": "F5. Process for responding to third-party requests for content or account restriction",
+                "value": "95.83"
+            },
+            {
+                "name": "F6. Data about government requests for content or account restriction",
+                "value": "82.96"
+            },
+            {
+                "name": "F7. Data about private requests for content or account restriction",
+                "value": "29.17"
+            },
+            {
+                "name": "F8. User notification about content and account restriction",
+                "value": "37.5"
+            },
+            {
+                "name": "F9. Network management (telecommunications companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "F10. Network shutdown (telecommunications companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "F11. Identity policy",
+                "value": "83.33"
+            }
+        ],
+        "privacy": [
+            {
+                "name": "P1. Access to privacy policies",
+                "value": "93.75"
+            },
+            {
+                "name": "P2. Changes to privacy policies",
+                "value": "59.38"
+            },
+            {
+                "name": "P3. Collection of user information",
+                "value": "60"
+            },
+            {
+                "name": "P4. Sharing of user information",
+                "value": "45.83"
+            },
+            {
+                "name": "P5. Purpose for collecting and sharing user information",
+                "value": "75"
+            },
+            {
+                "name": "P6. Retention of user information",
+                "value": "27.86"
+            },
+            {
+                "name": "P7. Users’ control over their own user information",
+                "value": "52.5"
+            },
+            {
+                "name": "P8. Users’ access to their own user information",
+                "value": "71.25"
+            },
+            {
+                "name": "P9. Collection of user information from third parties (Internet companies)",
+                "value": "55"
+            },
+            {
+                "name": "P10. Process for responding to third-party requests for user information",
+                "value": "66.67"
+            },
+            {
+                "name": "P11. Data about third-party requests for user information",
+                "value": "72.73"
+            },
+            {
+                "name": "P12. User notification about third-party requests for user information",
+                "value": "66.67"
+            },
+            {
+                "name": "P13. Security oversight",
+                "value": "100"
+            },
+            {
+                "name": "P14. Addressing security vulnerabilities",
+                "value": "35.42"
+            },
+            {
+                "name": "P15. Data breaches",
+                "value": "0"
+            },
+            {
+                "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)",
+                "value": "68.75"
+            },
+            {
+                "name": "P17. Account Security (Internet, software, and device companies)",
+                "value": "94.44"
+            },
+            {
+                "name": "P18. Inform and educate users about potential risks",
+                "value": "100"
+            }
+        ]
+    },
+    {
+        "id": "kakao",
+        "commitment": [
+            {
+                "name": "G1. Policy Commitment",
+                "value": "25"
+            },
+            {
+                "name": "G2. Governance and management oversight",
+                "value": "33.33"
+            },
+            {
+                "name": "G3. Internal implementation",
+                "value": "25"
+            },
+            {
+                "name": "G4. Impact assessment",
+                "value": "13.89"
+            },
+            {
+                "name": "G5. Stakeholder engagement",
+                "value": "66.67"
+            },
+            {
+                "name": "G6. Remedy",
+                "value": "45"
+            }
+        ],
+        "freedom": [
+            {
+                "name": "F1. Access to terms of service",
+                "value": "83.33"
+            },
+            {
+                "name": "F2. Changes to terms of service",
+                "value": "95.83"
+            },
+            {
+                "name": "F3. Process for terms of service enforcement",
+                "value": "70"
+            },
+            {
+                "name": "F4. Data about terms of service enforcement",
+                "value": "0"
+            },
+            {
+                "name": "F5. Process for responding to third-party requests for content or account restriction",
+                "value": "50"
+            },
+            {
+                "name": "F6. Data about government requests for content or account restriction",
+                "value": "38.89"
+            },
+            {
+                "name": "F7. Data about private requests for content or account restriction",
+                "value": "50"
+            },
+            {
+                "name": "F8. User notification about content and account restriction",
+                "value": "45.83"
+            },
+            {
+                "name": "F9. Network management (telecommunications companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "F10. Network shutdown (telecommunications companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "F11. Identity policy",
+                "value": "50"
+            }
+        ],
+        "privacy": [
+            {
+                "name": "P1. Access to privacy policies",
+                "value": "100"
+            },
+            {
+                "name": "P2. Changes to privacy policies",
+                "value": "83.33"
+            },
+            {
+                "name": "P3. Collection of user information",
+                "value": "88.89"
+            },
+            {
+                "name": "P4. Sharing of user information",
+                "value": "79.17"
+            },
+            {
+                "name": "P5. Purpose for collecting and sharing user information",
+                "value": "50"
+            },
+            {
+                "name": "P6. Retention of user information",
+                "value": "40"
+            },
+            {
+                "name": "P7. Users’ control over their own user information",
+                "value": "37.5"
+            },
+            {
+                "name": "P8. Users’ access to their own user information",
+                "value": "33.33"
+            },
+            {
+                "name": "P9. Collection of user information from third parties (Internet companies)",
+                "value": "0"
+            },
+            {
+                "name": "P10. Process for responding to third-party requests for user information",
+                "value": "41.67"
+            },
+            {
+                "name": "P11. Data about third-party requests for user information",
+                "value": "59.09"
+            },
+            {
+                "name": "P12. User notification about third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P13. Security oversight",
+                "value": "100"
+            },
+            {
+                "name": "P14. Addressing security vulnerabilities",
+                "value": "0"
+            },
+            {
+                "name": "P15. Data breaches",
+                "value": "0"
+            },
+            {
+                "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)",
+                "value": "33.33"
+            },
+            {
+                "name": "P17. Account Security (Internet, software, and device companies)",
+                "value": "75"
+            },
+            {
+                "name": "P18. Inform and educate users about potential risks",
+                "value": "100"
+            }
+        ]
+    },
+    {
+        "id": "mailru",
+        "commitment": [
+            {
+                "name": "G1. Policy Commitment",
+                "value": "0"
+            },
+            {
+                "name": "G2. Governance and management oversight",
+                "value": "0"
+            },
+            {
+                "name": "G3. Internal implementation",
+                "value": "12.5"
+            },
+            {
+                "name": "G4. Impact assessment",
+                "value": "0"
+            },
+            {
+                "name": "G5. Stakeholder engagement",
+                "value": "0"
+            },
+            {
+                "name": "G6. Remedy",
+                "value": "30"
+            }
+        ],
+        "freedom": [
+            {
+                "name": "F1. Access to terms of service",
+                "value": "72.22"
+            },
+            {
+                "name": "F2. Changes to terms of service",
+                "value": "0"
+            },
+            {
+                "name": "F3. Process for terms of service enforcement",
+                "value": "56.67"
+            },
+            {
+                "name": "F4. Data about terms of service enforcement",
+                "value": "0"
+            },
+            {
+                "name": "F5. Process for responding to third-party requests for content or account restriction",
+                "value": "6.25"
+            },
+            {
+                "name": "F6. Data about government requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F7. Data about private requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F8. User notification about content and account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F9. Network management (telecommunications companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "F10. Network shutdown (telecommunications companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "F11. Identity policy",
+                "value": "66.67"
+            }
+        ],
+        "privacy": [
+            {
+                "name": "P1. Access to privacy policies",
+                "value": "27.78"
+            },
+            {
+                "name": "P2. Changes to privacy policies",
+                "value": "0"
+            },
+            {
+                "name": "P3. Collection of user information",
+                "value": "50"
+            },
+            {
+                "name": "P4. Sharing of user information",
+                "value": "29.17"
+            },
+            {
+                "name": "P5. Purpose for collecting and sharing user information",
+                "value": "45.83"
+            },
+            {
+                "name": "P6. Retention of user information",
+                "value": "10"
+            },
+            {
+                "name": "P7. Users’ control over their own user information",
+                "value": "16.67"
+            },
+            {
+                "name": "P8. Users’ access to their own user information",
+                "value": "0"
+            },
+            {
+                "name": "P9. Collection of user information from third parties (Internet companies)",
+                "value": "0"
+            },
+            {
+                "name": "P10. Process for responding to third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P11. Data about third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P12. User notification about third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P13. Security oversight",
+                "value": "16.67"
+            },
+            {
+                "name": "P14. Addressing security vulnerabilities",
+                "value": "55.56"
+            },
+            {
+                "name": "P15. Data breaches",
+                "value": "0"
+            },
+            {
+                "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)",
+                "value": "25"
+            },
+            {
+                "name": "P17. Account Security (Internet, software, and device companies)",
+                "value": "77.78"
+            },
+            {
+                "name": "P18. Inform and educate users about potential risks",
+                "value": "100"
+            }
+        ]
+    },
+    {
+        "id": "microsoft",
+        "commitment": [
+            {
+                "name": "G1. Policy Commitment",
+                "value": "100"
+            },
+            {
+                "name": "G2. Governance and management oversight",
+                "value": "100"
+            },
+            {
+                "name": "G3. Internal implementation",
+                "value": "100"
+            },
+            {
+                "name": "G4. Impact assessment",
+                "value": "86.11"
+            },
+            {
+                "name": "G5. Stakeholder engagement",
+                "value": "100"
+            },
+            {
+                "name": "G6. Remedy",
+                "value": "40"
+            }
+        ],
+        "freedom": [
+            {
+                "name": "F1. Access to terms of service",
+                "value": "88.89"
+            },
+            {
+                "name": "F2. Changes to terms of service",
+                "value": "54.17"
+            },
+            {
+                "name": "F3. Process for terms of service enforcement",
+                "value": "70"
+            },
+            {
+                "name": "F4. Data about terms of service enforcement",
+                "value": "27.78"
+            },
+            {
+                "name": "F5. Process for responding to third-party requests for content or account restriction",
+                "value": "41.67"
+            },
+            {
+                "name": "F6. Data about government requests for content or account restriction",
+                "value": "25"
+            },
+            {
+                "name": "F7. Data about private requests for content or account restriction",
+                "value": "37.5"
+            },
+            {
+                "name": "F8. User notification about content and account restriction",
+                "value": "16.67"
+            },
+            {
+                "name": "F9. Network management (telecommunications companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "F10. Network shutdown (telecommunications companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "F11. Identity policy",
+                "value": "100"
+            }
+        ],
+        "privacy": [
+            {
+                "name": "P1. Access to privacy policies",
+                "value": "100"
+            },
+            {
+                "name": "P2. Changes to privacy policies",
+                "value": "62.5"
+            },
+            {
+                "name": "P3. Collection of user information",
+                "value": "50"
+            },
+            {
+                "name": "P4. Sharing of user information",
+                "value": "50"
+            },
+            {
+                "name": "P5. Purpose for collecting and sharing user information",
+                "value": "50"
+            },
+            {
+                "name": "P6. Retention of user information",
+                "value": "36.67"
+            },
+            {
+                "name": "P7. Users’ control over their own user information",
+                "value": "41.67"
+            },
+            {
+                "name": "P8. Users’ access to their own user information",
+                "value": "50"
+            },
+            {
+                "name": "P9. Collection of user information from third parties (Internet companies)",
+                "value": "40"
+            },
+            {
+                "name": "P10. Process for responding to third-party requests for user information",
+                "value": "70.83"
+            },
+            {
+                "name": "P11. Data about third-party requests for user information",
+                "value": "63.64"
+            },
+            {
+                "name": "P12. User notification about third-party requests for user information",
+                "value": "66.67"
+            },
+            {
+                "name": "P13. Security oversight",
+                "value": "50"
+            },
+            {
+                "name": "P14. Addressing security vulnerabilities",
+                "value": "50"
+            },
+            {
+                "name": "P15. Data breaches",
+                "value": "0"
+            },
+            {
+                "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)",
+                "value": "41.67"
+            },
+            {
+                "name": "P17. Account Security (Internet, software, and device companies)",
+                "value": "100"
+            },
+            {
+                "name": "P18. Inform and educate users about potential risks",
+                "value": "100"
+            }
+        ]
+    },
+    {
+        "id": "mtn",
+        "commitment": [
+            {
+                "name": "G1. Policy Commitment",
+                "value": "100"
+            },
+            {
+                "name": "G2. Governance and management oversight",
+                "value": "83.33"
+            },
+            {
+                "name": "G3. Internal implementation",
+                "value": "0"
+            },
+            {
+                "name": "G4. Impact assessment",
+                "value": "11.11"
+            },
+            {
+                "name": "G5. Stakeholder engagement",
+                "value": "0"
+            },
+            {
+                "name": "G6. Remedy",
+                "value": "0"
+            }
+        ],
+        "freedom": [
+            {
+                "name": "F1. Access to terms of service",
+                "value": "33.33"
+            },
+            {
+                "name": "F2. Changes to terms of service",
+                "value": "37.5"
+            },
+            {
+                "name": "F3. Process for terms of service enforcement",
+                "value": "20"
+            },
+            {
+                "name": "F4. Data about terms of service enforcement",
+                "value": "0"
+            },
+            {
+                "name": "F5. Process for responding to third-party requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F6. Data about government requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F7. Data about private requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F8. User notification about content and account restriction",
+                "value": "16.67"
+            },
+            {
+                "name": "F9. Network management (telecommunications companies)",
+                "value": "25"
+            },
+            {
+                "name": "F10. Network shutdown (telecommunications companies)",
+                "value": "12.5"
+            },
+            {
+                "name": "F11. Identity policy",
+                "value": "0"
+            }
+        ],
+        "privacy": [
+            {
+                "name": "P1. Access to privacy policies",
+                "value": "33.33"
+            },
+            {
+                "name": "P2. Changes to privacy policies",
+                "value": "0"
+            },
+            {
+                "name": "P3. Collection of user information",
+                "value": "33.33"
+            },
+            {
+                "name": "P4. Sharing of user information",
+                "value": "0"
+            },
+            {
+                "name": "P5. Purpose for collecting and sharing user information",
+                "value": "12.5"
+            },
+            {
+                "name": "P6. Retention of user information",
+                "value": "0"
+            },
+            {
+                "name": "P7. Users’ control over their own user information",
+                "value": "0"
+            },
+            {
+                "name": "P8. Users’ access to their own user information",
+                "value": "0"
+            },
+            {
+                "name": "P9. Collection of user information from third parties (Internet companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P10. Process for responding to third-party requests for user information",
+                "value": "4.17"
+            },
+            {
+                "name": "P11. Data about third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P12. User notification about third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P13. Security oversight",
+                "value": "16.67"
+            },
+            {
+                "name": "P14. Addressing security vulnerabilities",
+                "value": "8.33"
+            },
+            {
+                "name": "P15. Data breaches",
+                "value": "0"
+            },
+            {
+                "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P17. Account Security (Internet, software, and device companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P18. Inform and educate users about potential risks",
+                "value": "50"
+            }
+        ]
+    },
+    {
+        "id": "ooredoo",
+        "commitment": [
+            {
+                "name": "G1. Policy Commitment",
+                "value": "0"
+            },
+            {
+                "name": "G2. Governance and management oversight",
+                "value": "0"
+            },
+            {
+                "name": "G3. Internal implementation",
+                "value": "0"
+            },
+            {
+                "name": "G4. Impact assessment",
+                "value": "0"
+            },
+            {
+                "name": "G5. Stakeholder engagement",
+                "value": "0"
+            },
+            {
+                "name": "G6. Remedy",
+                "value": "10"
+            }
+        ],
+        "freedom": [
+            {
+                "name": "F1. Access to terms of service",
+                "value": "100"
+            },
+            {
+                "name": "F2. Changes to terms of service",
+                "value": "12.5"
+            },
+            {
+                "name": "F3. Process for terms of service enforcement",
+                "value": "34.29"
+            },
+            {
+                "name": "F4. Data about terms of service enforcement",
+                "value": "0"
+            },
+            {
+                "name": "F5. Process for responding to third-party requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F6. Data about government requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F7. Data about private requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F8. User notification about content and account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F9. Network management (telecommunications companies)",
+                "value": "0"
+            },
+            {
+                "name": "F10. Network shutdown (telecommunications companies)",
+                "value": "6.25"
+            },
+            {
+                "name": "F11. Identity policy",
+                "value": "0"
+            }
+        ],
+        "privacy": [
+            {
+                "name": "P1. Access to privacy policies",
+                "value": "0"
+            },
+            {
+                "name": "P2. Changes to privacy policies",
+                "value": "0"
+            },
+            {
+                "name": "P3. Collection of user information",
+                "value": "0"
+            },
+            {
+                "name": "P4. Sharing of user information",
+                "value": "0"
+            },
+            {
+                "name": "P5. Purpose for collecting and sharing user information",
+                "value": "0"
+            },
+            {
+                "name": "P6. Retention of user information",
+                "value": "0"
+            },
+            {
+                "name": "P7. Users’ control over their own user information",
+                "value": "0"
+            },
+            {
+                "name": "P8. Users’ access to their own user information",
+                "value": "0"
+            },
+            {
+                "name": "P9. Collection of user information from third parties (Internet companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P10. Process for responding to third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P11. Data about third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P12. User notification about third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P13. Security oversight",
+                "value": "0"
+            },
+            {
+                "name": "P14. Addressing security vulnerabilities",
+                "value": "0"
+            },
+            {
+                "name": "P15. Data breaches",
+                "value": "0"
+            },
+            {
+                "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P17. Account Security (Internet, software, and device companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P18. Inform and educate users about potential risks",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "orange",
+        "commitment": [
+            {
+                "name": "G1. Policy Commitment",
+                "value": "100"
+            },
+            {
+                "name": "G2. Governance and management oversight",
+                "value": "100"
+            },
+            {
+                "name": "G3. Internal implementation",
+                "value": "100"
+            },
+            {
+                "name": "G4. Impact assessment",
+                "value": "50"
+            },
+            {
+                "name": "G5. Stakeholder engagement",
+                "value": "100"
+            },
+            {
+                "name": "G6. Remedy",
+                "value": "10"
+            }
+        ],
+        "freedom": [
+            {
+                "name": "F1. Access to terms of service",
+                "value": "66.67"
+            },
+            {
+                "name": "F2. Changes to terms of service",
+                "value": "18.75"
+            },
+            {
+                "name": "F3. Process for terms of service enforcement",
+                "value": "63.57"
+            },
+            {
+                "name": "F4. Data about terms of service enforcement",
+                "value": "0"
+            },
+            {
+                "name": "F5. Process for responding to third-party requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F6. Data about government requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F7. Data about private requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F8. User notification about content and account restriction",
+                "value": "16.67"
+            },
+            {
+                "name": "F9. Network management (telecommunications companies)",
+                "value": "0"
+            },
+            {
+                "name": "F10. Network shutdown (telecommunications companies)",
+                "value": "12.5"
+            },
+            {
+                "name": "F11. Identity policy",
+                "value": "0"
+            }
+        ],
+        "privacy": [
+            {
+                "name": "P1. Access to privacy policies",
+                "value": "100"
+            },
+            {
+                "name": "P2. Changes to privacy policies",
+                "value": "0"
+            },
+            {
+                "name": "P3. Collection of user information",
+                "value": "16.67"
+            },
+            {
+                "name": "P4. Sharing of user information",
+                "value": "25"
+            },
+            {
+                "name": "P5. Purpose for collecting and sharing user information",
+                "value": "43.75"
+            },
+            {
+                "name": "P6. Retention of user information",
+                "value": "0"
+            },
+            {
+                "name": "P7. Users’ control over their own user information",
+                "value": "6.25"
+            },
+            {
+                "name": "P8. Users’ access to their own user information",
+                "value": "37.5"
+            },
+            {
+                "name": "P9. Collection of user information from third parties (Internet companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P10. Process for responding to third-party requests for user information",
+                "value": "8.33"
+            },
+            {
+                "name": "P11. Data about third-party requests for user information",
+                "value": "40.91"
+            },
+            {
+                "name": "P12. User notification about third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P13. Security oversight",
+                "value": "33.33"
+            },
+            {
+                "name": "P14. Addressing security vulnerabilities",
+                "value": "0"
+            },
+            {
+                "name": "P15. Data breaches",
+                "value": "0"
+            },
+            {
+                "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P17. Account Security (Internet, software, and device companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P18. Inform and educate users about potential risks",
+                "value": "100"
+            }
+        ]
+    },
+    {
+        "id": "samsung",
+        "commitment": [
+            {
+                "name": "G1. Policy Commitment",
+                "value": "100"
+            },
+            {
+                "name": "G2. Governance and management oversight",
+                "value": "33.33"
+            },
+            {
+                "name": "G3. Internal implementation",
+                "value": "50"
+            },
+            {
+                "name": "G4. Impact assessment",
+                "value": "11.11"
+            },
+            {
+                "name": "G5. Stakeholder engagement",
+                "value": "0"
+            },
+            {
+                "name": "G6. Remedy",
+                "value": "0"
+            }
+        ],
+        "freedom": [
+            {
+                "name": "F1. Access to terms of service",
+                "value": "50"
+            },
+            {
+                "name": "F2. Changes to terms of service",
+                "value": "87.5"
+            },
+            {
+                "name": "F3. Process for terms of service enforcement",
+                "value": "35.71"
+            },
+            {
+                "name": "F4. Data about terms of service enforcement",
+                "value": "0"
+            },
+            {
+                "name": "F5. Process for responding to third-party requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F6. Data about government requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F7. Data about private requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F8. User notification about content and account restriction",
+                "value": "25"
+            },
+            {
+                "name": "F9. Network management (telecommunications companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "F10. Network shutdown (telecommunications companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "F11. Identity policy",
+                "value": "0"
+            }
+        ],
+        "privacy": [
+            {
+                "name": "P1. Access to privacy policies",
+                "value": "62.5"
+            },
+            {
+                "name": "P2. Changes to privacy policies",
+                "value": "40"
+            },
+            {
+                "name": "P3. Collection of user information",
+                "value": "40"
+            },
+            {
+                "name": "P4. Sharing of user information",
+                "value": "41.67"
+            },
+            {
+                "name": "P5. Purpose for collecting and sharing user information",
+                "value": "37.5"
+            },
+            {
+                "name": "P6. Retention of user information",
+                "value": "14.29"
+            },
+            {
+                "name": "P7. Users’ control over their own user information",
+                "value": "20"
+            },
+            {
+                "name": "P8. Users’ access to their own user information",
+                "value": "0"
+            },
+            {
+                "name": "P9. Collection of user information from third parties (Internet companies)",
+                "value": "0"
+            },
+            {
+                "name": "P10. Process for responding to third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P11. Data about third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P12. User notification about third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P13. Security oversight",
+                "value": "50"
+            },
+            {
+                "name": "P14. Addressing security vulnerabilities",
+                "value": "50"
+            },
+            {
+                "name": "P15. Data breaches",
+                "value": "0"
+            },
+            {
+                "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)",
+                "value": "0"
+            },
+            {
+                "name": "P17. Account Security (Internet, software, and device companies)",
+                "value": "33.33"
+            },
+            {
+                "name": "P18. Inform and educate users about potential risks",
+                "value": "50"
+            }
+        ]
+    },
+    {
+        "id": "telefonica",
+        "commitment": [
+            {
+                "name": "G1. Policy Commitment",
+                "value": "100"
+            },
+            {
+                "name": "G2. Governance and management oversight",
+                "value": "50"
+            },
+            {
+                "name": "G3. Internal implementation",
+                "value": "75"
+            },
+            {
+                "name": "G4. Impact assessment",
+                "value": "30.56"
+            },
+            {
+                "name": "G5. Stakeholder engagement",
+                "value": "100"
+            },
+            {
+                "name": "G6. Remedy",
+                "value": "45"
+            }
+        ],
+        "freedom": [
+            {
+                "name": "F1. Access to terms of service",
+                "value": "66.67"
+            },
+            {
+                "name": "F2. Changes to terms of service",
+                "value": "81.25"
+            },
+            {
+                "name": "F3. Process for terms of service enforcement",
+                "value": "60"
+            },
+            {
+                "name": "F4. Data about terms of service enforcement",
+                "value": "0"
+            },
+            {
+                "name": "F5. Process for responding to third-party requests for content or account restriction",
+                "value": "29.17"
+            },
+            {
+                "name": "F6. Data about government requests for content or account restriction",
+                "value": "5"
+            },
+            {
+                "name": "F7. Data about private requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F8. User notification about content and account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F9. Network management (telecommunications companies)",
+                "value": "12.5"
+            },
+            {
+                "name": "F10. Network shutdown (telecommunications companies)",
+                "value": "37.5"
+            },
+            {
+                "name": "F11. Identity policy",
+                "value": "0"
+            }
+        ],
+        "privacy": [
+            {
+                "name": "P1. Access to privacy policies",
+                "value": "83.33"
+            },
+            {
+                "name": "P2. Changes to privacy policies",
+                "value": "0"
+            },
+            {
+                "name": "P3. Collection of user information",
+                "value": "50"
+            },
+            {
+                "name": "P4. Sharing of user information",
+                "value": "0"
+            },
+            {
+                "name": "P5. Purpose for collecting and sharing user information",
+                "value": "50"
+            },
+            {
+                "name": "P6. Retention of user information",
+                "value": "0"
+            },
+            {
+                "name": "P7. Users’ control over their own user information",
+                "value": "12.5"
+            },
+            {
+                "name": "P8. Users’ access to their own user information",
+                "value": "0"
+            },
+            {
+                "name": "P9. Collection of user information from third parties (Internet companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P10. Process for responding to third-party requests for user information",
+                "value": "16.67"
+            },
+            {
+                "name": "P11. Data about third-party requests for user information",
+                "value": "18.18"
+            },
+            {
+                "name": "P12. User notification about third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P13. Security oversight",
+                "value": "50"
+            },
+            {
+                "name": "P14. Addressing security vulnerabilities",
+                "value": "0"
+            },
+            {
+                "name": "P15. Data breaches",
+                "value": "50"
+            },
+            {
+                "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P17. Account Security (Internet, software, and device companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P18. Inform and educate users about potential risks",
+                "value": "100"
+            }
+        ]
+    },
+    {
+        "id": "tencent",
+        "commitment": [
+            {
+                "name": "G1. Policy Commitment",
+                "value": "25"
+            },
+            {
+                "name": "G2. Governance and management oversight",
+                "value": "0"
+            },
+            {
+                "name": "G3. Internal implementation",
+                "value": "0"
+            },
+            {
+                "name": "G4. Impact assessment",
+                "value": "0"
+            },
+            {
+                "name": "G5. Stakeholder engagement",
+                "value": "0"
+            },
+            {
+                "name": "G6. Remedy",
+                "value": "16.67"
+            }
+        ],
+        "freedom": [
+            {
+                "name": "F1. Access to terms of service",
+                "value": "72.22"
+            },
+            {
+                "name": "F2. Changes to terms of service",
+                "value": "0"
+            },
+            {
+                "name": "F3. Process for terms of service enforcement",
+                "value": "59.05"
+            },
+            {
+                "name": "F4. Data about terms of service enforcement",
+                "value": "0"
+            },
+            {
+                "name": "F5. Process for responding to third-party requests for content or account restriction",
+                "value": "2.78"
+            },
+            {
+                "name": "F6. Data about government requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F7. Data about private requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F8. User notification about content and account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F9. Network management (telecommunications companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "F10. Network shutdown (telecommunications companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "F11. Identity policy",
+                "value": "0"
+            }
+        ],
+        "privacy": [
+            {
+                "name": "P1. Access to privacy policies",
+                "value": "88.89"
+            },
+            {
+                "name": "P2. Changes to privacy policies",
+                "value": "33.33"
+            },
+            {
+                "name": "P3. Collection of user information",
+                "value": "66.67"
+            },
+            {
+                "name": "P4. Sharing of user information",
+                "value": "50"
+            },
+            {
+                "name": "P5. Purpose for collecting and sharing user information",
+                "value": "54.17"
+            },
+            {
+                "name": "P6. Retention of user information",
+                "value": "0"
+            },
+            {
+                "name": "P7. Users’ control over their own user information",
+                "value": "33.33"
+            },
+            {
+                "name": "P8. Users’ access to their own user information",
+                "value": "25"
+            },
+            {
+                "name": "P9. Collection of user information from third parties (Internet companies)",
+                "value": "0"
+            },
+            {
+                "name": "P10. Process for responding to third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P11. Data about third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P12. User notification about third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P13. Security oversight",
+                "value": "5.56"
+            },
+            {
+                "name": "P14. Addressing security vulnerabilities",
+                "value": "66.67"
+            },
+            {
+                "name": "P15. Data breaches",
+                "value": "0"
+            },
+            {
+                "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)",
+                "value": "8.33"
+            },
+            {
+                "name": "P17. Account Security (Internet, software, and device companies)",
+                "value": "44.44"
+            },
+            {
+                "name": "P18. Inform and educate users about potential risks",
+                "value": "100"
+            }
+        ]
+    },
+    {
+        "id": "twitter",
+        "commitment": [
+            {
+                "name": "G1. Policy Commitment",
+                "value": "100"
+            },
+            {
+                "name": "G2. Governance and management oversight",
+                "value": "66.67"
+            },
+            {
+                "name": "G3. Internal implementation",
+                "value": "12.5"
+            },
+            {
+                "name": "G4. Impact assessment",
+                "value": "5.56"
+            },
+            {
+                "name": "G5. Stakeholder engagement",
+                "value": "50"
+            },
+            {
+                "name": "G6. Remedy",
+                "value": "32.5"
+            }
+        ],
+        "freedom": [
+            {
+                "name": "F1. Access to terms of service",
+                "value": "83.33"
+            },
+            {
+                "name": "F2. Changes to terms of service",
+                "value": "31.25"
+            },
+            {
+                "name": "F3. Process for terms of service enforcement",
+                "value": "64.29"
+            },
+            {
+                "name": "F4. Data about terms of service enforcement",
+                "value": "41.67"
+            },
+            {
+                "name": "F5. Process for responding to third-party requests for content or account restriction",
+                "value": "56.25"
+            },
+            {
+                "name": "F6. Data about government requests for content or account restriction",
+                "value": "52.5"
+            },
+            {
+                "name": "F7. Data about private requests for content or account restriction",
+                "value": "66.67"
+            },
+            {
+                "name": "F8. User notification about content and account restriction",
+                "value": "56.25"
+            },
+            {
+                "name": "F9. Network management (telecommunications companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "F10. Network shutdown (telecommunications companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "F11. Identity policy",
+                "value": "100"
+            }
+        ],
+        "privacy": [
+            {
+                "name": "P1. Access to privacy policies",
+                "value": "83.33"
+            },
+            {
+                "name": "P2. Changes to privacy policies",
+                "value": "43.75"
+            },
+            {
+                "name": "P3. Collection of user information",
+                "value": "66.67"
+            },
+            {
+                "name": "P4. Sharing of user information",
+                "value": "62.5"
+            },
+            {
+                "name": "P5. Purpose for collecting and sharing user information",
+                "value": "62.5"
+            },
+            {
+                "name": "P6. Retention of user information",
+                "value": "60"
+            },
+            {
+                "name": "P7. Users’ control over their own user information",
+                "value": "50"
+            },
+            {
+                "name": "P8. Users’ access to their own user information",
+                "value": "37.5"
+            },
+            {
+                "name": "P9. Collection of user information from third parties (Internet companies)",
+                "value": "50"
+            },
+            {
+                "name": "P10. Process for responding to third-party requests for user information",
+                "value": "50"
+            },
+            {
+                "name": "P11. Data about third-party requests for user information",
+                "value": "77.27"
+            },
+            {
+                "name": "P12. User notification about third-party requests for user information",
+                "value": "66.67"
+            },
+            {
+                "name": "P13. Security oversight",
+                "value": "50"
+            },
+            {
+                "name": "P14. Addressing security vulnerabilities",
+                "value": "50"
+            },
+            {
+                "name": "P15. Data breaches",
+                "value": "0"
+            },
+            {
+                "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)",
+                "value": "25"
+            },
+            {
+                "name": "P17. Account Security (Internet, software, and device companies)",
+                "value": "50"
+            },
+            {
+                "name": "P18. Inform and educate users about potential risks",
+                "value": "50"
+            }
+        ]
+    },
+    {
+        "id": "vodafone",
+        "commitment": [
+            {
+                "name": "G1. Policy Commitment",
+                "value": "100"
+            },
+            {
+                "name": "G2. Governance and management oversight",
+                "value": "100"
+            },
+            {
+                "name": "G3. Internal implementation",
+                "value": "100"
+            },
+            {
+                "name": "G4. Impact assessment",
+                "value": "47.22"
+            },
+            {
+                "name": "G5. Stakeholder engagement",
+                "value": "100"
+            },
+            {
+                "name": "G6. Remedy",
+                "value": "60"
+            }
+        ],
+        "freedom": [
+            {
+                "name": "F1. Access to terms of service",
+                "value": "83.33"
+            },
+            {
+                "name": "F2. Changes to terms of service",
+                "value": "34.38"
+            },
+            {
+                "name": "F3. Process for terms of service enforcement",
+                "value": "51.43"
+            },
+            {
+                "name": "F4. Data about terms of service enforcement",
+                "value": "0"
+            },
+            {
+                "name": "F5. Process for responding to third-party requests for content or account restriction",
+                "value": "70.83"
+            },
+            {
+                "name": "F6. Data about government requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F7. Data about private requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F8. User notification about content and account restriction",
+                "value": "8.33"
+            },
+            {
+                "name": "F9. Network management (telecommunications companies)",
+                "value": "100"
+            },
+            {
+                "name": "F10. Network shutdown (telecommunications companies)",
+                "value": "50"
+            },
+            {
+                "name": "F11. Identity policy",
+                "value": "100"
+            }
+        ],
+        "privacy": [
+            {
+                "name": "P1. Access to privacy policies",
+                "value": "100"
+            },
+            {
+                "name": "P2. Changes to privacy policies",
+                "value": "0"
+            },
+            {
+                "name": "P3. Collection of user information",
+                "value": "33.33"
+            },
+            {
+                "name": "P4. Sharing of user information",
+                "value": "50"
+            },
+            {
+                "name": "P5. Purpose for collecting and sharing user information",
+                "value": "25"
+            },
+            {
+                "name": "P6. Retention of user information",
+                "value": "0"
+            },
+            {
+                "name": "P7. Users’ control over their own user information",
+                "value": "25"
+            },
+            {
+                "name": "P8. Users’ access to their own user information",
+                "value": "50"
+            },
+            {
+                "name": "P9. Collection of user information from third parties (Internet companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P10. Process for responding to third-party requests for user information",
+                "value": "54.17"
+            },
+            {
+                "name": "P11. Data about third-party requests for user information",
+                "value": "40.91"
+            },
+            {
+                "name": "P12. User notification about third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P13. Security oversight",
+                "value": "66.67"
+            },
+            {
+                "name": "P14. Addressing security vulnerabilities",
+                "value": "0"
+            },
+            {
+                "name": "P15. Data breaches",
+                "value": "16.67"
+            },
+            {
+                "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P17. Account Security (Internet, software, and device companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "P18. Inform and educate users about potential risks",
+                "value": "100"
+            }
+        ]
+    },
+    {
+        "id": "yahoo",
+        "commitment": [
+            {
+                "name": "G1. Policy Commitment",
+                "value": "100"
+            },
+            {
+                "name": "G2. Governance and management oversight",
+                "value": "33.33"
+            },
+            {
+                "name": "G3. Internal implementation",
+                "value": "100"
+            },
+            {
+                "name": "G4. Impact assessment",
+                "value": "100"
+            },
+            {
+                "name": "G5. Stakeholder engagement",
+                "value": "100"
+            },
+            {
+                "name": "G6. Remedy",
+                "value": "33.33"
+            }
+        ],
+        "freedom": [
+            {
+                "name": "F1. Access to terms of service",
+                "value": "83.33"
+            },
+            {
+                "name": "F2. Changes to terms of service",
+                "value": "41.67"
+            },
+            {
+                "name": "F3. Process for terms of service enforcement",
+                "value": "61.43"
+            },
+            {
+                "name": "F4. Data about terms of service enforcement",
+                "value": "0"
+            },
+            {
+                "name": "F5. Process for responding to third-party requests for content or account restriction",
+                "value": "68.75"
+            },
+            {
+                "name": "F6. Data about government requests for content or account restriction",
+                "value": "47.5"
+            },
+            {
+                "name": "F7. Data about private requests for content or account restriction",
+                "value": "36.11"
+            },
+            {
+                "name": "F8. User notification about content and account restriction",
+                "value": "20.83"
+            },
+            {
+                "name": "F9. Network management (telecommunications companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "F10. Network shutdown (telecommunications companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "F11. Identity policy",
+                "value": "33.33"
+            }
+        ],
+        "privacy": [
+            {
+                "name": "P1. Access to privacy policies",
+                "value": "88.89"
+            },
+            {
+                "name": "P2. Changes to privacy policies",
+                "value": "50"
+            },
+            {
+                "name": "P3. Collection of user information",
+                "value": "66.67"
+            },
+            {
+                "name": "P4. Sharing of user information",
+                "value": "62.5"
+            },
+            {
+                "name": "P5. Purpose for collecting and sharing user information",
+                "value": "45.83"
+            },
+            {
+                "name": "P6. Retention of user information",
+                "value": "36.67"
+            },
+            {
+                "name": "P7. Users’ control over their own user information",
+                "value": "29.17"
+            },
+            {
+                "name": "P8. Users’ access to their own user information",
+                "value": "62.5"
+            },
+            {
+                "name": "P9. Collection of user information from third parties (Internet companies)",
+                "value": "36.67"
+            },
+            {
+                "name": "P10. Process for responding to third-party requests for user information",
+                "value": "58.33"
+            },
+            {
+                "name": "P11. Data about third-party requests for user information",
+                "value": "50"
+            },
+            {
+                "name": "P12. User notification about third-party requests for user information",
+                "value": "66.67"
+            },
+            {
+                "name": "P13. Security oversight",
+                "value": "11.11"
+            },
+            {
+                "name": "P14. Addressing security vulnerabilities",
+                "value": "55.56"
+            },
+            {
+                "name": "P15. Data breaches",
+                "value": "0"
+            },
+            {
+                "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)",
+                "value": "29.17"
+            },
+            {
+                "name": "P17. Account Security (Internet, software, and device companies)",
+                "value": "94.44"
+            },
+            {
+                "name": "P18. Inform and educate users about potential risks",
+                "value": "100"
+            }
+        ]
+    },
+    {
+        "id": "yandex",
+        "commitment": [
+            {
+                "name": "G1. Policy Commitment",
+                "value": "0"
+            },
+            {
+                "name": "G2. Governance and management oversight",
+                "value": "0"
+            },
+            {
+                "name": "G3. Internal implementation",
+                "value": "12.5"
+            },
+            {
+                "name": "G4. Impact assessment",
+                "value": "5.56"
+            },
+            {
+                "name": "G5. Stakeholder engagement",
+                "value": "0"
+            },
+            {
+                "name": "G6. Remedy",
+                "value": "23.33"
+            }
+        ],
+        "freedom": [
+            {
+                "name": "F1. Access to terms of service",
+                "value": "72.22"
+            },
+            {
+                "name": "F2. Changes to terms of service",
+                "value": "25"
+            },
+            {
+                "name": "F3. Process for terms of service enforcement",
+                "value": "41.67"
+            },
+            {
+                "name": "F4. Data about terms of service enforcement",
+                "value": "0"
+            },
+            {
+                "name": "F5. Process for responding to third-party requests for content or account restriction",
+                "value": "35.42"
+            },
+            {
+                "name": "F6. Data about government requests for content or account restriction",
+                "value": "0"
+            },
+            {
+                "name": "F7. Data about private requests for content or account restriction",
+                "value": "11.11"
+            },
+            {
+                "name": "F8. User notification about content and account restriction",
+                "value": "4.17"
+            },
+            {
+                "name": "F9. Network management (telecommunications companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "F10. Network shutdown (telecommunications companies)",
+                "value": "N/A"
+            },
+            {
+                "name": "F11. Identity policy",
+                "value": "0"
+            }
+        ],
+        "privacy": [
+            {
+                "name": "P1. Access to privacy policies",
+                "value": "83.33"
+            },
+            {
+                "name": "P2. Changes to privacy policies",
+                "value": "25"
+            },
+            {
+                "name": "P3. Collection of user information",
+                "value": "66.67"
+            },
+            {
+                "name": "P4. Sharing of user information",
+                "value": "50"
+            },
+            {
+                "name": "P5. Purpose for collecting and sharing user information",
+                "value": "25"
+            },
+            {
+                "name": "P6. Retention of user information",
+                "value": "0"
+            },
+            {
+                "name": "P7. Users’ control over their own user information",
+                "value": "37.5"
+            },
+            {
+                "name": "P8. Users’ access to their own user information",
+                "value": "0"
+            },
+            {
+                "name": "P9. Collection of user information from third parties (Internet companies)",
+                "value": "0"
+            },
+            {
+                "name": "P10. Process for responding to third-party requests for user information",
+                "value": "8.33"
+            },
+            {
+                "name": "P11. Data about third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P12. User notification about third-party requests for user information",
+                "value": "0"
+            },
+            {
+                "name": "P13. Security oversight",
+                "value": "16.67"
+            },
+            {
+                "name": "P14. Addressing security vulnerabilities",
+                "value": "66.67"
+            },
+            {
+                "name": "P15. Data breaches",
+                "value": "0"
+            },
+            {
+                "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)",
+                "value": "66.67"
+            },
+            {
+                "name": "P17. Account Security (Internet, software, and device companies)",
+                "value": "100"
+            },
+            {
+                "name": "P18. Inform and educate users about potential risks",
+                "value": "100"
+            }
+        ]
+    }
+]
