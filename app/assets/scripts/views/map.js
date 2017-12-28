@@ -12,6 +12,50 @@ module.exports = Backbone.View.extend({
     // Constructor
     initialize: function() {
 
+
+
+
+      var bombs = [
+        {
+          name: 'Gerboise Bleue',
+          radius: 0,
+          yeild: 10,
+          country: 'Microsoft',
+          significance: 'First fission weapon test by France',
+          date: '1960-02-13',
+          fillKey: 'Microsoft',
+          latitude: 43,
+          longitude: -130
+        }, {
+          name: 'Canopus',
+          radius: 0,
+          yeild: 10,
+          country: 'Apple',
+          significance: 'First "staged" thermonuclear test by France',
+          fillKey: 'Apple',
+          date: '1968-08-24',
+          latitude: 35,
+          longitude: -130
+        }
+      ];
+
+
+        //prep the data
+        var yields = bombs.map(function(bomb) {
+          return bomb['yeild'];
+        });
+
+        var min = d3.min( yields );
+        var max = d3.max( yields );
+
+        var scale = d3.scale.pow()
+        .domain([min, max])
+        .range([10, 45]);
+
+        bombs.forEach(function(bomb) {
+          bomb['radius'] = scale( bomb['yeild']);
+        });
+
         // render map
         var map = new Datamap({
                 element: document.getElementById('container'),
@@ -26,6 +70,8 @@ module.exports = Backbone.View.extend({
                 responsive: true, // If true, call `resize()` on the map object when it should adjust it's size
                 // countries don't listed in dataset will be painted with this color
                 fills: { 
+                  'red': '#F8931F',
+                  'pnt': '#ED1B46',
                   defaultFill: '#E7E6E6' 
                 },
                 data: {
@@ -207,6 +253,56 @@ module.exports = Backbone.View.extend({
                     }
                 }
         });
+
+        map.bubbles(bombs, {
+          popupTemplate:function (geography, data) { 
+            return ['<div class="hoverinfo"><strong>' +  data.name + '</strong>',
+              '<br/>Payload: ' +  data.yeild + ' kilotons',
+              '<br/>Country: ' +  data.country + '',
+              '<br/>Date: ' +  data.date + '',
+              '</div>'].join('');
+          }
+        });
+
+/*
+        $.getJSON("bubbles.json", function(points) {
+          map.bubbles(points, {
+            borderWidth: 0,
+            popupOnHover: false,
+            highlightOnHover: false
+          })
+        });
+*/
+
+
+        function handleBombLabels ( layer, data, options ) {
+          var self = this;
+          options = options || {};
+
+          d3.selectAll(".datamaps-bubble").attr("data-foo", function(datum) {
+            //convert lat/lng into x/y
+            var coords = self.latLngToXY(datum.latitude, datum.longitude)
+
+              layer.append("text")
+              .attr("x", coords[0] - 10) //this could use a little massaging
+              .attr("y", coords[1])
+              .style("font-size", (options.fontSize || 10) + 'px')
+              .style("font-family", options.fontFamily || "Verdana")
+              .style("fill", options.labelColor || "#000")
+              .text( datum[options.labelKey || 'fillKey']);
+            return "bar";
+          });
+        }
+
+        //register the plugin to datamaps
+        map.addPlugin('bombLabels', handleBombLabels);
+        
+        //call the plugin. The 2nd param is options and it will be sent as `options` to the plugin function.
+        //Feel free to add to these options, change them, etc
+        map.bombLabels(bombs, {fontSize: 12});
+
+
+
 
         window.addEventListener('resize', function() {
             map.resize();
