@@ -3,3 +3,278 @@
     	@include span-columns(6);
   	}
 }
+$maincolor:  #231f20;
+
+
+#narrative-page-content{
+  display: flex;
+  ul,ol{
+    margin: 0;
+    padding: 0;
+    li{
+      font-family: "Simplon-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      list-style: none;
+    }
+  }
+
+
+  .expand {
+  		float: right;
+  		display: inline;
+  		transition: all .2s ease;
+  		-webkit-transition: all .2s ease;
+  		margin: 0 10px;
+  	}
+
+  .sidebar{
+    text-align: left;
+    padding: 0;
+    display: block;
+    border-right:1px solid $base-color;
+    margin: 0;
+    width: 21%;
+
+
+    .sidebar-menu {
+        cursor: pointer;
+        padding: 10px 0;
+        position: relative;
+        color: $maincolor;
+        font-size: 1em;
+        font-weight: 300;
+        text-rendering: optimizeLegibility;
+        letter-spacing: .5px;
+      a{
+        line-height: 1.5em;
+        font-size: 1.1em;
+        font-family: "Simplon-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        &:hover{
+          text-decoration: none;
+          i{
+            color: $link-color;
+          }
+
+        }
+
+        i{
+          color: $black-lighter;
+          font-size: 12px;
+          padding: 0 0 0 30px;
+        }
+      }
+    }
+    .sidebar-menu-active{
+      a{
+        font-family: "Simplon-Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      }
+    }
+    .open:before {
+        animation: turn-sign;
+        animation-duration: .3s;
+        animation-fill-mode: forwards;
+    }
+    .open:after {
+        animation: turn-crossbar;
+        animation-duration: .3s;
+        animation-fill-mode: forwards;
+    }
+    .submenu {
+          color: darken($maincolor,30%);
+          font-size: 1em;
+          display: block;
+          &:last-child {
+              border-bottom: 0;
+          }
+          ol{
+              list-style-type: none;
+              margin: 0;
+              padding: 0;
+              counter-reset: item;
+              li{
+                  padding: 5px 0 0 20px;
+                  background: none;
+                  color: #a5a8ab;
+                  display: block;
+                  &:before{
+                    content: counters(item, ".") " ";
+                    counter-increment: item;
+                  }
+                  &:last-child {
+                      border-bottom: 0;
+                  }
+                  &:hover{
+                      cursor: pointer;
+                      color: $base-color;
+                  }
+                  a{
+                      color: #a5a8ab;
+                      text-decoration: none;
+                      &:hover{
+                          cursor: pointer;
+                          color: $base-color;
+                          font-family: "Simplon-Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+                      }
+                  }
+              }
+          }
+
+      }
+      .sidebar-menu-active{
+
+      }
+  }
+  .narrative-content{
+    width: 70%;
+    padding: 0 0 0 50px;
+    .ref-number{
+      color: $black;
+      font-family: "Simplon-bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-size: 12px;
+      position: relative;
+      top: -8px;
+      &:hover{
+        border-bottom: 2px solid #e2dad1;
+      }
+    }
+    .chapter-title{
+        border-bottom: 2px solid #e2dad1;
+        display: flex;
+        justify-content: space-between;
+        h1{
+          color: $black;
+          margin-bottom: 28px;
+          font-size: 3.8em;
+          text-transform: none;
+        }
+        a{
+          padding-top: 14px;
+          i{
+            font-size: 2em;
+            color: #e2dad1;
+          }
+        }
+    }
+    .section{
+      .section-title{
+        display: flex;
+        justify-content: space-between;
+        margin: 30px 0;
+        h2{
+          color: $base-color;
+          margin-bottom: 0;
+          font-size: 3em;
+          text-transform: none;
+        }
+        a{
+          padding-top: 14px;
+          i{
+            font-size: 2em;
+            color: #e2dad1;
+          }
+        }
+      }
+        a{
+            color: $link-color;
+            cursor: pointer;
+            &:hover{
+                text-decoration: underline;
+            }
+        }
+      .ref-number{
+        color: $black;
+        &:hover{
+          text-decoration: none;
+        }
+      }
+        .bold{
+            font-weight: bold;
+        }
+      p{
+        font-size: 1.250em;
+        line-height: 1.5em;
+        span{
+          font-size: inherit;
+        }
+      }
+      ul{
+        li{
+          list-style: disc;
+          p{
+            line-height: 1.3em;
+          }
+        }
+      }
+    }
+    .highlihted-section-div{
+      background-color: #F7F7F7;
+      padding: 1.5em;
+      margin: 30px 0;
+      h3{
+        color: $base-color;
+        text-transform: none;
+        font-family: "Simplon-Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 2em;
+      }
+    }
+    .introduction{
+      margin-top: 44px;
+        p {
+          font-size: 1.250em;
+          line-height: 1.5em;
+        }
+        //p:first-child::first-letter {
+        //  font-size: 55px;
+        //  float: left;
+        //  text-transform: uppercase;
+        //  margin-top:0.13em;
+        //  margin-right:0.05em;
+        //  margin-left:-0.03em;
+        //  color: $base-color;
+        //}
+    }
+    .pagination{
+      margin: 40px 0;
+
+      	a{
+          cursor: pointer;
+          color: $black-lighter ;
+          font-family: "Simplon-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+          &:hover{
+            text-decoration: none;
+            span{
+              color: $maincolor;
+              border-bottom: 2px solid #e2dad1;
+              text-decoration: none;
+            }
+            i{
+              color: $maincolor;
+            }
+          }
+          i{
+            padding: 0 5px;
+            position: relative;
+            top: -2px;
+          }
+
+      	}
+      	.next{
+      		float:right;
+      	}
+      }
+     footnotes{
+      h2{
+        font-size: 2em;
+        text-transform: none;
+      }
+      ol{
+        li{
+          font-size: 0.85em;
+          margin: 0 0 20px 0;
+        }
+      }
+    }
+
+  }
+
+}
+
