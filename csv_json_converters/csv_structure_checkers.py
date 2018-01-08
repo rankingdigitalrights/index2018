@@ -5,14 +5,14 @@ try:
     from .helpers.fields import SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS, COMPANIES_COLUMNS, ORDERED_SERVICE_ROWS, \
         ServiceCSVFields, PREDEFINED_SERVICE_IDS_BY_THEIR_NAMES, QUICK_OVERVIEW_COLUMN_NAMES, QuickOverviewCSVMappings,\
         QuickOverviewCSVTypeFieldValues, PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES, \
-        SCORES_OVERVIEW_CSV_SUMMED_INDICATORS_NAMES
+        SCORES_OVERVIEW_CSV_SUMMED_INDICATORS_NAMES, DIFFERENCE_COLUMN_NAMES, DifferenceCSVMappings
     from .helpers.csv_json_rw import load_rows_as_list_of_lists
     from .helpers.errors import InvalidRowStructure, InvalidColumnNames
 except SystemError:
     from helpers.fields import SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS, COMPANIES_COLUMNS, ORDERED_SERVICE_ROWS, \
         ServiceCSVFields, PREDEFINED_SERVICE_IDS_BY_THEIR_NAMES, QUICK_OVERVIEW_COLUMN_NAMES, QuickOverviewCSVMappings,\
         QuickOverviewCSVTypeFieldValues, PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES, \
-        SCORES_OVERVIEW_CSV_SUMMED_INDICATORS_NAMES
+        SCORES_OVERVIEW_CSV_SUMMED_INDICATORS_NAMES, DIFFERENCE_COLUMN_NAMES, DifferenceCSVMappings
     from helpers.csv_json_rw import load_rows_as_list_of_lists
     from helpers.errors import InvalidRowStructure, InvalidColumnNames
 
@@ -162,3 +162,22 @@ class ScoresOverviewTypeCsvCheckerForCategoryOverviewConversion(ScoresOverviewTy
                     first_indicator_index + csv_index
                 )
                 raise InvalidRowStructure(complex_error_msg)
+
+
+def check_difference_structure(csv_file_location):
+    err_msg_end = 'First rows in columns should have been: %s.' % ', '.join(DIFFERENCE_COLUMN_NAMES)
+    with open(csv_file_location, 'r') as difference_csv_file:
+        difference_dict_reader = csv.DictReader(difference_csv_file)
+        if len(difference_dict_reader.fieldnames) != len(DIFFERENCE_COLUMN_NAMES):
+            raise InvalidColumnNames('Difference table has different number of columns than required. ' + err_msg_end)
+        for extracted_field, predefined_field in zip(difference_dict_reader.fieldnames, DIFFERENCE_COLUMN_NAMES):
+            if extracted_field != predefined_field:
+                raise InvalidColumnNames('File contains column %s that should instead have value of %s. ' % (extracted_field, predefined_field) + err_msg_end)
+        # rows = list(difference_dict_reader)
+        # id conversion might be required
+        # companies = [row[QuickOverviewCSVMappings.company] for row in rows]
+        # required_companies = PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES.keys()
+        # for required_company in required_companies:
+        #     if required_company not in companies:
+        #         raise InvalidColumnNames('File not containing required company %s.\nRequired Companies are: %s.' % (
+        #             required_company, ', '.join(required_companies)))

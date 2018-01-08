@@ -9,7 +9,7 @@ from csv_json_converters.categories_overview_json_converter import convert_score
 if __name__ == '__main__':
     # quick_overview_csv_location = '/home/filip/Downloads/RDRindex2017data/RDR2017 - Quick overview.csv'
     quick_overview_csv_location = '/home/filip/Downloads/2018 Summary Scores - Quick overview.csv'
-    services_list_csv_location = '/home/filip/Downloads/Companies and services list 2017 - Services.csv'
+    # services_list_csv_location = '/home/filip/Downloads/Companies and services list 2017 - Services.csv'
     services_list_csv_location = '/home/filip/Downloads/2018 Service Level Analysis.csv'
     # scores_overview_csv_location = '/home/filip/Downloads/RDRindex2017data - Scores overview.csv'
     scores_overview_csv_location = '/home/filip/Downloads/2018 Summary Scores - overview.csv'
