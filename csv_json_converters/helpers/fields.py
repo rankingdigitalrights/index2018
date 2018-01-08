@@ -194,3 +194,44 @@ SUMMED_INDICATORS_JSON_FIELDS_BY_NAMES = {
 class CategoriesOverviewJsonIndicatorSubFields(object):
     val = 'val'
     rank = 'rank'
+
+
+DIFFERENCE_COLUMN_NAMES = ['', 'type', 'Total 2017', 'Total 2018',	'Total Difference', 'Description', 'Governance 2017',
+                           'Governance 2018', 'Governance Difference', 'Freedom of Expression 2017',
+                           'Freedom of Expression 2018', 'Freedom of Expression Difference',
+                           'Privacy 2017', 'Privacy 2018', 'Privacy Difference']  # order is important
+
+
+class DifferenceCSVMappings(object):
+    company = DIFFERENCE_COLUMN_NAMES[0]
+    type = DIFFERENCE_COLUMN_NAMES[1]
+    total_previous = DIFFERENCE_COLUMN_NAMES[2]
+    total_next = DIFFERENCE_COLUMN_NAMES[3]
+    total_difference = DIFFERENCE_COLUMN_NAMES[4]
+    description = DIFFERENCE_COLUMN_NAMES[5]
+    governance_previous = DIFFERENCE_COLUMN_NAMES[6]
+    governance_next = DIFFERENCE_COLUMN_NAMES[7]
+    governance_difference = DIFFERENCE_COLUMN_NAMES[8]
+    freedom_of_expression_previous = DIFFERENCE_COLUMN_NAMES[9]
+    freedom_of_expression_next = DIFFERENCE_COLUMN_NAMES[10]
+    freedom_of_expression_difference = DIFFERENCE_COLUMN_NAMES[11]
+    privacy_previous = DIFFERENCE_COLUMN_NAMES[12]
+    privacy_next = DIFFERENCE_COLUMN_NAMES[13]
+    privacy_difference = DIFFERENCE_COLUMN_NAMES[14]
+
+
+class DifferenceJSONFields(object):
+    name = "name"
+    description = "description"
+    total_2017 = "total_2017"
+    total_2018 = "total_2018"
+    total_difference = "total_difference"
+    governance_2017 = "governance_2017"
+    governance_2018 = "governance_2018"
+    governance_difference = "governance_difference"
+    freedom_of_expression_2017 = "freedom_of_expression_2017"
+    freedom_of_expression_2018 = "freedom_of_expression_2018"
+    freedom_of_expression_difference = "freedom_of_expression_difference"
+    privacy_2017 = "privacy_2017"
+    privacy_2018 = "privacy_2018"
+    privacy_difference = "privacy_difference"
