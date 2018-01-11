@@ -39,10 +39,7 @@ $maincolor:  #231f20;
     animation-fill-mode: forwards;
   }
 
-  .fixed{
-    position: fixed;
-    top: 50px;
-  }
+
 
   .sidebar{
     text-align: left;
@@ -75,10 +72,6 @@ $maincolor:  #231f20;
         &:hover{
           text-decoration: none;
           color: $maincolor;
-          font-family: "Simplon-Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
-          i{
-            //color: $link-color;
-          }
 
         }
 
@@ -156,10 +149,17 @@ $maincolor:  #231f20;
 
       }
   }
+  .fixed{
+    position: fixed;
+    top: 50px;
+  }
 
   .narrative-content{
     width: auto;
     margin-left: 25%;
+    h1, h2,h3,h4,h5,h6{
+      font-family: "Simplon-Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
     @media(max-width: 767px){
       margin-left: 0;
     }
@@ -275,8 +275,6 @@ $maincolor:  #231f20;
         }
       }
     }
-
-
     .introduction{
       margin-top: 44px;
         p {
