@@ -1,0 +1,2712 @@
+{
+    "id": "G2",
+    "name": "Governance and management oversight",
+    "companies": [
+        {
+            "id": "americamovil",
+            "name": "América Móvil",
+            "headers": [
+                "Group - América Móvil - Freedom of Expression",
+                "Group - América Móvil - Privacy",
+                "OperatingCo - Telcel - Freedom of Expression",
+                "OperatingCo - Telcel - Privacy",
+                "Prepaid Mobile (Telcel)- Freedom of Expression",
+                "Prepaid Mobile (Telcel)- Privacy",
+                "Postpaid Mobile (Telcel)- Freedom of Expression",
+                "Postpaid Mobile (Telcel)- Privacy"
+            ],
+            "average": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that the board of directors exercises formal oversight over how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that an executive-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that a management-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "apple",
+            "name": "Apple",
+            "headers": [
+                "Group - Apple - Freedom of Expression ",
+                "Group - Apple - Privacy",
+                "iOS mobile ecosystem - Freedom of Expression",
+                "iOS mobile ecosystem - Privacy",
+                "iMessage - Freedom of Expression",
+                "iMessage - Privacy",
+                "iCloud - Freedom of Expression",
+                "iCloud - Privacy"
+            ],
+            "average": [
+                "0",
+                "83.33",
+                "0",
+                "83.33",
+                "0",
+                "83.33",
+                "0",
+                "83.33"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that the board of directors exercises formal oversight over how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that an executive-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that a management-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "att",
+            "name": "AT&T",
+            "headers": [
+                "Group - AT&T - Freedom of Expression",
+                "Group - AT&T - Privacy",
+                "Prepaid Mobile - Freedom of Expression",
+                "Prepaid Mobile - Privacy",
+                "Postpaid Mobile - Freedom of Expression",
+                "Postpaid Mobile - Privacy",
+                "Fixed Line Broadband - Freedom of Expression",
+                "Fixed Line Broadband - Privacy"
+            ],
+            "average": [
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that the board of directors exercises formal oversight over how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that an executive-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that a management-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "axiata",
+            "name": "Axiata",
+            "headers": [
+                "Group - Axiata - Freedom of Expression",
+                "Group - Axiata - Privacy",
+                "OperatingCo - Celcom - Freedom of Expression",
+                "OperatingCo - Celcom - Privacy",
+                "Prepaid Mobile - - Freedom of Expression",
+                "Prepaid Mobile - - Privacy",
+                "Postpaid Mobile (Celcom)- Freedom of Expression",
+                "Postpaid Mobile (Celcom)- Privacy"
+            ],
+            "average": [
+                "0",
+                "33.33",
+                "0",
+                "33.33",
+                "0",
+                "33.33",
+                "0",
+                "33.33"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that the board of directors exercises formal oversight over how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that an executive-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that a management-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "baidu",
+            "name": "Baidu",
+            "headers": [
+                "Group - Baidu - Freedom of Expression ",
+                "Group - Baidu - Privacy",
+                "Baidu Search - Freedom of Expression",
+                "Baidu Search - Privacy",
+                "Baidu Cloud - Freedom of Expression",
+                "Baidu Cloud - Privacy",
+                "Baidu PostBar - Freedom of Expression",
+                "Baidu PostBar - Privacy"
+            ],
+            "average": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that the board of directors exercises formal oversight over how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that an executive-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that a management-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "bhartiairtel",
+            "name": "Bharti Airtel",
+            "headers": [
+                "Group - Bharti Airtel - Freedom of Expression",
+                "Group - Bharti Airtel - Privacy",
+                "OperatingCo - Airtel India - Freedom of Expression",
+                "OperatingCo - Airtel India - Privacy",
+                "Prepaid Mobile - Freedom of Expression",
+                "Prepaid Mobile - Privacy",
+                "Postpaid Mobile - Freedom of Expression",
+                "Postpaid Mobile - Privacy",
+                "Fixed Line Broadband - Freedom of Expression",
+                "Fixed Line Broadband - Privacy"
+            ],
+            "average": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that the board of directors exercises formal oversight over how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that an executive-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that a management-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "etisalat",
+            "name": "Etisalat",
+            "headers": [
+                "Group - Etisalat - Freedom of Expression",
+                "Group - Etisalat - Privacy",
+                "OperatingCo - Etisalat UAE - Freedom of Expression",
+                "OperatingCo - Etisalat UAE - Privacy",
+                "Prepaid Mobile - Freedom of Expression",
+                "Prepaid Mobile - Privacy",
+                "Postpaid Mobile - Freedom of Expression",
+                "Postpaid Mobile - Privacy",
+                "Fixed Line Broadband - Freedom of Expression",
+                "Fixed Line Broadband - Privacy"
+            ],
+            "average": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that the board of directors exercises formal oversight over how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that an executive-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that a management-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "facebook",
+            "name": "Facebook",
+            "headers": [
+                "Group - Facebook - Freedom of Expression ",
+                "Group - Facebook - Privacy",
+                "Facebook - Freedom of Expression",
+                "Facebook - Privacy",
+                "Instagram - Freedom of Expression",
+                "Instagram - Privacy",
+                "WhatsApp - Freedom of Expression",
+                "WhatsApp - Privacy",
+                "Messenger - Freedom of Expression",
+                "Messenger - Privacy"
+            ],
+            "average": [
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that the board of directors exercises formal oversight over how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that an executive-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that a management-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "google",
+            "name": "Google",
+            "headers": [
+                "Group - Google - Freedom of Expression ",
+                "Group - Google - Privacy",
+                "Search - Freedom of Expression",
+                "Search - Privacy",
+                "Gmail - Freedom of Expression",
+                "Gmail - Privacy",
+                "Youtube - Freedom of Expression",
+                "Youtube - Privacy",
+                "Android mobile ecosystem - Freedom of Expression",
+                "Android mobile ecosystem - Privacy"
+            ],
+            "average": [
+                "33.33",
+                "33.33",
+                "33.33",
+                "33.33",
+                "33.33",
+                "33.33",
+                "33.33",
+                "33.33",
+                "33.33",
+                "33.33"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that the board of directors exercises formal oversight over how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that an executive-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that a management-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "kakao",
+            "name": "Kakao",
+            "headers": [
+                "Group - Kakao - Freedom of Expression ",
+                "Group - Kakao - Privacy",
+                "Daum Search - Freedom of Expression",
+                "Daum Search - Privacy",
+                "Daum Mail - Freedom of Expression",
+                "Daum Mail - Privacy",
+                "Kakao Talk - Freedom of Expression",
+                "Kakao Talk - Privacy"
+            ],
+            "average": [
+                "0",
+                "66.67",
+                "0",
+                "66.67",
+                "0",
+                "66.67",
+                "0",
+                "66.67"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that the board of directors exercises formal oversight over how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that an executive-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that a management-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "mailru",
+            "name": "Mail.Ru",
+            "headers": [
+                "Group - Mail.Ru - Freedom of Expression ",
+                "Group - Mail.Ru - Privacy",
+                "Vkontakte - Freedom of Expression",
+                "Vkontakte - Privacy",
+                "Mail.Ru - Freedom of Expression",
+                "Mail.Ru - Privacy",
+                "Mail.Ru Agent - Freedom of Expression",
+                "Mail.Ru Agent - Privacy"
+            ],
+            "average": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that the board of directors exercises formal oversight over how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that an executive-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that a management-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "microsoft",
+            "name": "Microsoft",
+            "headers": [
+                "Group - Microsoft - Freedom of Expression ",
+                "Group - Microsoft - Privacy",
+                "Bing - Freedom of Expression",
+                "Bing - Privacy",
+                "Outlook.com - Freedom of Expression",
+                "Outlook.com - Privacy",
+                "Skype - Freedom of Expression",
+                "Skype - Privacy"
+            ],
+            "average": [
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that the board of directors exercises formal oversight over how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that an executive-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that a management-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "mtn",
+            "name": "MTN",
+            "headers": [
+                "Group - MTN - Freedom of Expression",
+                "Group - MTN - Privacy",
+                "OperatingCo - MTN South Africa - Freedom of Expression",
+                "OperatingCo - MTN South Africa - Privacy",
+                "Prepaid Mobile - - Freedom of Expression",
+                "Prepaid Mobile - - Privacy",
+                "Postpaid Mobile - Freedom of Expression",
+                "Postpaid Mobile - Privacy"
+            ],
+            "average": [
+                "83.33",
+                "83.33",
+                "83.33",
+                "83.33",
+                "83.33",
+                "83.33",
+                "83.33",
+                "83.33"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that the board of directors exercises formal oversight over how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that an executive-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that a management-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ooredoo",
+            "name": "Ooredoo",
+            "headers": [
+                "Group - Ooredoo - Freedom of Expression",
+                "Group - Ooredoo - Privacy",
+                "OperatingCo - Ooredoo Qatar - Freedom of Expression",
+                "OperatingCo - Ooredoo Qatar - Privacy",
+                "Prepaid Mobile - Freedom of Expression",
+                "Prepaid Mobile - Privacy",
+                "Postpaid Mobile - Freedom of Expression",
+                "Postpaid Mobile - Privacy"
+            ],
+            "average": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that the board of directors exercises formal oversight over how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that an executive-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that a management-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "orange",
+            "name": "Orange",
+            "headers": [
+                "Group - Orange - Freedom of Expression",
+                "Group - Orange - Privacy",
+                "OperatingCo - Orange France - Freedom of Expression",
+                "OperatingCo - Orange France - Privacy",
+                "Prepaid Mobile - Freedom of Expression",
+                "Prepaid Mobile - Privacy",
+                "Postpaid Mobile - Freedom of Expression",
+                "Postpaid Mobile - Privacy"
+            ],
+            "average": [
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that the board of directors exercises formal oversight over how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that an executive-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that a management-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "samsung",
+            "name": "Samsung",
+            "headers": [
+                "Group - Samsung - Freedom of Expression ",
+                "Group - Samsung - Privacy",
+                "Samsung implementation of Android - Freedom of Expression",
+                "Samsung implementation of Android - Privacy"
+            ],
+            "average": [
+                "0",
+                "0",
+                "0",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that the board of directors exercises formal oversight over how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that an executive-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that a management-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "telefonica",
+            "name": "Telefónica",
+            "headers": [
+                "Group - Telefónica - Freedom of Expression",
+                "Group - Telefónica - Privacy",
+                "OperatingCo - Telefónica de España - Freedom of Expression",
+                "OperatingCo - Telefónica de España - Privacy",
+                "Prepaid Mobile - Freedom of Expression",
+                "Prepaid Mobile - Privacy",
+                "Postpaid Mobile - Freedom of Expression",
+                "Postpaid Mobile - Privacy",
+                "Fixed Line Broadband - Freedom of Expression",
+                "Fixed Line Broadband - Privacy"
+            ],
+            "average": [
+                "0",
+                "33.33",
+                "0",
+                "33.33",
+                "0",
+                "33.33",
+                "0",
+                "33.33",
+                "0",
+                "33.33"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that the board of directors exercises formal oversight over how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that an executive-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that a management-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tencent",
+            "name": "TenCent",
+            "headers": [
+                "Group - TenCent - Freedom of Expression ",
+                "Group - TenCent - Privacy",
+                "QZone - Freedom of Expression",
+                "QZone - Privacy",
+                "QQ - Freedom of Expression",
+                "QQ - Privacy",
+                "WeChat - Freedom of Expression",
+                "WeChat - Privacy"
+            ],
+            "average": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that the board of directors exercises formal oversight over how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that an executive-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that a management-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "twitter",
+            "name": "Twitter",
+            "headers": [
+                "Group - Twitter - Freedom of Expression ",
+                "Group - Twitter - Privacy",
+                "Twitter - Freedom of Expression",
+                "Twitter - Privacy",
+                "Vine - Freedom of Expression",
+                "Vine - Privacy",
+                "Periscope - Freedom of Expression",
+                "Periscope - Privacy"
+            ],
+            "average": [
+                "33.33",
+                "33.33",
+                "33.33",
+                "33.33",
+                "33.33",
+                "33.33",
+                "33.33",
+                "33.33"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that the board of directors exercises formal oversight over how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that an executive-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that a management-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vodafone",
+            "name": "Vodafone",
+            "headers": [
+                "Group - Vodafone - Freedom of Expression",
+                "Group - Vodafone - Privacy",
+                "OperatingCo - Vodafone UK - Freedom of Expression",
+                "OperatingCo - Vodafone UK - Privacy",
+                "Prepaid Mobile - Freedom of Expression",
+                "Prepaid Mobile - Privacy",
+                "Postpaid Mobile - Freedom of Expression",
+                "Postpaid Mobile - Privacy",
+                "Fixed Line Broadband - Freedom of Expression",
+                "Fixed Line Broadband - Privacy"
+            ],
+            "average": [
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that the board of directors exercises formal oversight over how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that an executive-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that a management-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "yahoo",
+            "name": "Yahoo",
+            "headers": [
+                "Group - Yahoo - Freedom of Expression ",
+                "Group - Yahoo - Privacy",
+                "Yahoo Mail - Freedom of Expression",
+                "Yahoo Mail - Privacy",
+                "Flickr - Freedom of Expression",
+                "Flickr - Privacy",
+                "Tumblr - Freedom of Expression",
+                "Tumblr - Privacy"
+            ],
+            "average": [
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that the board of directors exercises formal oversight over how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that an executive-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that a management-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "yandex",
+            "name": "Yandex",
+            "headers": [
+                "Group - Yandex - Freedom of Expression ",
+                "Group - Yandex - Privacy",
+                "Yandex Mail - Freedom of Expression",
+                "Yandex Mail - Privacy",
+                "Yandex Search - Freedom of Expression",
+                "Yandex Search - Privacy",
+                "Yandex Disk (cloud storage) - Freedom of Expression",
+                "Yandex Disk (cloud storage) - Privacy"
+            ],
+            "average": [
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that the board of directors exercises formal oversight over how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that an executive-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that a management-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

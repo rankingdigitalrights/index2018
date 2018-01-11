@@ -1,0 +1,47 @@
+[
+    {
+        "Company": "Google",
+        "FoE": "61",
+        "G": "72",
+        "P": "68",
+        "Service": "YouTube",
+        "Total": "67",
+        "rank": "1"
+    },
+    {
+        "Company": "Yahoo",
+        "FoE": "35",
+        "G": "87",
+        "P": "58",
+        "Service": "Flickr",
+        "Total": "57",
+        "rank": "2"
+    },
+    {
+        "Company": "Facebook",
+        "FoE": "46",
+        "G": "83",
+        "P": "36",
+        "Service": "Instagram",
+        "Total": "47",
+        "rank": "3"
+    },
+    {
+        "Company": "Twitter",
+        "FoE": "43",
+        "G": "30",
+        "P": "43",
+        "Service": "Periscope",
+        "Total": "41",
+        "rank": "4"
+    },
+    {
+        "Company": "Twitter",
+        "FoE": "33",
+        "G": "30",
+        "P": "46",
+        "Service": "Vine",
+        "Total": "39",
+        "rank": "5"
+    }
+]
