@@ -5,6 +5,8 @@ from csv_json_converters.indicator_overview_json_converter import convert_scores
 from csv_json_converters.all_indicator_json_converter import convert_scores_overview_type_csv_to_all_indicator_json
 from csv_json_converters.index_service_json_converter import convert_multiple_services_type_csv_to_index_service_json
 from csv_json_converters.categories_overview_json_converter import convert_scores_overview_type_csv_to_categories_overview_json
+from csv_json_converters.difference_json_converter import convert_difference_type_to_json
+from csv_json_converters.sub_indicators_json_converter import convert_sub_indicator_type_to_jsons
 
 if __name__ == '__main__':
     # quick_overview_csv_location = '/home/filip/Downloads/RDRindex2017data/RDR2017 - Quick overview.csv'
@@ -13,6 +15,10 @@ if __name__ == '__main__':
     services_list_csv_location = '/home/filip/Downloads/2018 Service Level Analysis.csv'
     # scores_overview_csv_location = '/home/filip/Downloads/RDRindex2017data - Scores overview.csv'
     scores_overview_csv_location = '/home/filip/Downloads/2018 Summary Scores - overview.csv'
+    difference_csv_location = '/home/filip/Downloads/2018 Difference.csv'
+    governance_csv_location = '/home/filip/Downloads/2018 Governance Sub Indicators.csv'
+    foe_csv_location = '/home/filip/Downloads/2018 Freedom of Expresion Sub Indicators.csv'
+    privacy_csv_location = '/home/filip/Downloads/2018 Privacy Sub Indicators.csv'
     output_directory = '/home/filip/workspace/rdr-2018/output/'
 
     convert_overview_type_csv_to_json(quick_overview_csv_location, output_directory)
@@ -26,3 +32,6 @@ if __name__ == '__main__':
     # it has additional checks for multiple services csv
     convert_scores_overview_type_csv_to_categories_overview_json(
         scores_overview_csv_location, quick_overview_csv_location, output_directory, check_csv_structure=True)
+    convert_difference_type_to_json(difference_csv_location, output_directory)
+    for sub_indicator_csv_location in [governance_csv_location, foe_csv_location, privacy_csv_location]:
+        convert_sub_indicator_type_to_jsons(sub_indicator_csv_location, output_directory)

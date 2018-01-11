@@ -1,5 +1,6 @@
 # coding=utf-8
 import re
+import os
 from recordclass import recordclass
 from collections import OrderedDict
 from copy import deepcopy
@@ -17,6 +18,7 @@ except SystemError:
     from helpers.csv_json_rw import load_rows_as_list_of_lists, create_json_file
     from csv_structure_checkers import ScoresOverviewTypeCsvChecker
 
+INDICATOR_SUBDIRECTORY = 'indicators/'
 # sub_indicator means if indicator is Governance then its sub indicators are G1, G2, G3 etc.
 COMPANY_NAMES_ROW_INDEX = 1  # default value it can be changed
 SubIndicatorDescriptorData = recordclass('SubIndicatorDescriptorData', 'row_index first_cell_value')
@@ -24,6 +26,11 @@ SubIndicatorsBaseData = recordclass('SubIndicatorsBaseData', 'id name starting_r
 # average_row_index is last row index related for sub indicator
 CompanyServiceData = recordclass('CompanyServiceData', 'name column_index')
 CompanyData = recordclass('CompanyData', 'name column_index')
+
+
+def _create_indicators_subdirectory(output_directory):
+    if not os.path.isdir(output_directory + INDICATOR_SUBDIRECTORY):
+        os.mkdir(output_directory + INDICATOR_SUBDIRECTORY)
 
 
 def _determine_service_indexes(si_base_data, company_data, rows):
@@ -91,6 +98,7 @@ def convert_sub_indicator_type_to_jsons(csv_location, output_directory,
     global COMPANY_NAMES_ROW_INDEX
     if company_names_row_index != COMPANY_NAMES_ROW_INDEX:
         COMPANY_NAMES_ROW_INDEX = company_names_row_index
+    _create_indicators_subdirectory(output_directory)
 
     rows = load_rows_as_list_of_lists(csv_location)
     indicator = rows[0][0]  # this is either Governance, Freedom of Expression or Privacy
@@ -101,7 +109,7 @@ def convert_sub_indicator_type_to_jsons(csv_location, output_directory,
                               for si_data in sub_indicators_base_data]
 
     for si_json, si_data in zip(sub_indicators_objects, sub_indicators_base_data):
-        create_json_file(si_json, output_directory + 'indicators/' + si_data.id + '.json',
+        create_json_file(si_json, output_directory + INDICATOR_SUBDIRECTORY + si_data.id + '.json',
                          json_objects_already_sorted=True)
 
 
