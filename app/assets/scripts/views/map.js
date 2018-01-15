@@ -231,36 +231,40 @@ module.exports = Backbone.View.extend({
           var self = this;
           
           d3.selectAll(".datamaps-bubble").attr("data-foo", function(datum) {
+
+            var end = self.latLngToXY(datum.x2, datum.y2);
+
             //convert lat/lng into x/y
             var coords = self.latLngToXY(datum.latitude, datum.longitude)
-              layer.append("text")
+            
+            layer.append("text")
               //.attr("x", coords[0] - datum.position) //this could use a little massaging
               .attr("x", coords[0] - 15) //this could use a little massaging
               .attr("y", coords[1])
               .style("font-size", '14px')
+              .style("text-transform", 'uppercase')
               .style("fill", "#000")
 
               .attr("text-anchor", "end") // set anchor y justification
               .text(datum.company);
 
 
-              layer.append("text")
+            layer.append("text")
               //.attr("x", coords[0] - datum.position) //this could use a little massaging
               .attr("x", coords[0] - 15) //this could use a little massaging
               .attr("y", coords[1] + 10)
-              .style("font-size", '18px')
+              .style("font-size", '12px')
               .style("fill", "#000")
 
               .attr("text-anchor", "end") // set anchor y justification
-              .text(datum.company);
+              .text(datum.country);
 
-
-              layer.append("line")          // attach a line
+            layer.append("line")          // attach a line
               .style("stroke", datum.lineColor)  // colour the line
               .attr("x1", coords[0])     // x position of the first end of the line
               .attr("y1", coords[1])      // y position of the first end of the line
-              .attr("x2", 250)     // x position of the second end of the line
-              .attr("y2", 170);    // y position of the second end of the line
+              .attr("x2", end[0])     // x position of the second end of the line
+              .attr("y2", end[1]);    // y position of the second end of the line
 
             return "bar";
           });
