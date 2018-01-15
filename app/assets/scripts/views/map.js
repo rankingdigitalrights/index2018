@@ -213,7 +213,7 @@ module.exports = Backbone.View.extend({
         $.getJSON("bubbles.json", function(points) {
           map.bubbles(points, {
             borderWidth: 0,
-            popupOnHover: true,
+            popupOnHover: false,
             highlightOnHover: false,
             popupTemplate: function() {
               return ['<div class="d3-tip e"><div class="country">Test</div>',
@@ -234,11 +234,26 @@ module.exports = Backbone.View.extend({
             //convert lat/lng into x/y
             var coords = self.latLngToXY(datum.latitude, datum.longitude)
               layer.append("text")
-              .attr("x", coords[0] - datum.position) //this could use a little massaging
-              .attr("y", coords[1] + 5)
+              //.attr("x", coords[0] - datum.position) //this could use a little massaging
+              .attr("x", coords[0] - 15) //this could use a little massaging
+              .attr("y", coords[1])
               .style("font-size", '14px')
               .style("fill", "#000")
+
+              .attr("text-anchor", "end") // set anchor y justification
               .text(datum.company);
+
+
+              layer.append("text")
+              //.attr("x", coords[0] - datum.position) //this could use a little massaging
+              .attr("x", coords[0] - 15) //this could use a little massaging
+              .attr("y", coords[1] + 10)
+              .style("font-size", '18px')
+              .style("fill", "#000")
+
+              .attr("text-anchor", "end") // set anchor y justification
+              .text(datum.company);
+
 
               layer.append("line")          // attach a line
               .style("stroke", datum.lineColor)  // colour the line

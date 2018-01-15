@@ -1,9 +1,9 @@
 [
-{"radius": 7, "fillKey": "red", "latitude": 54, "longitude": -145, "company": "Apple", "position":48, "lineColor": "#ED1B46"},
-{"radius": 7, "fillKey": "red", "latitude": 48, "longitude": -138, "company": "Facebook", "position":75, "lineColor": "#ED1B46"},
-{"radius": 7, "fillKey": "red", "latitude": 42, "longitude": -133, "company": "Google", "position":55, "lineColor": "#ED1B46"},
-{"radius": 7, "fillKey": "red", "latitude": 36, "longitude": -129, "company": "Microsoft", "position":70, "lineColor": "#ED1B46"},
-{"radius": 7, "fillKey": "red", "latitude": 30, "longitude": -126, "company": "Twitter", "position":55, "lineColor": "#ED1B46"},
-{"radius": 7, "fillKey": "red", "latitude": 24, "longitude": -124, "company": "Yahoo", "position":50, "lineColor": "#ED1B46"},
-{"radius": 7, "fillKey": "yellow", "latitude": 18, "longitude": -122.5, "company": "AT&T", "position":44, "lineColor": "#F8931F"}
+{"radius": 5, "fillKey": "red", "latitude": 54, "longitude": -145, "company": "Apple", "position":48, "lineColor": "#ED1B46"},
+{"radius": 5, "fillKey": "red", "latitude": 48, "longitude": -138, "company": "Facebook", "position":75, "lineColor": "#ED1B46"},
+{"radius": 5, "fillKey": "red", "latitude": 42, "longitude": -133, "company": "Google", "position":55, "lineColor": "#ED1B46"},
+{"radius": 5, "fillKey": "red", "latitude": 36, "longitude": -129, "company": "Microsoft", "position":70, "lineColor": "#ED1B46"},
+{"radius": 5, "fillKey": "red", "latitude": 30, "longitude": -126, "company": "Twitter", "position":55, "lineColor": "#ED1B46"},
+{"radius": 5, "fillKey": "red", "latitude": 24, "longitude": -124, "company": "Yahoo", "position":50, "lineColor": "#ED1B46"},
+{"radius": 5, "fillKey": "yellow", "latitude": 18, "longitude": -122.5, "company": "AT&T", "position":44, "lineColor": "#F8931F"}
 ]
