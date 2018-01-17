@@ -188,6 +188,7 @@ module.exports = Backbone.View.extend({
                 geographyConfig: {
                     borderColor: '#DEDEDE',
                     highlightBorderWidth: 1,
+                    popupOnHover: false,
                     // don't change color on mouse hover
                     highlightFillColor: function(geo) {
                         return geo['fillColor'] || '#E7E6E6';
@@ -232,39 +233,46 @@ module.exports = Backbone.View.extend({
           
           d3.selectAll(".datamaps-bubble").attr("data-foo", function(datum) {
 
-            var end = self.latLngToXY(datum.x2, datum.y2);
-
             //convert lat/lng into x/y
             var coords = self.latLngToXY(datum.latitude, datum.longitude)
-            
+
+              layer.append("a")
+                .attr("xlink:href", "https://rankingdigitalrights.org/index2017/companies/")
+                .append("text")
+                .attr("x", coords[0] - parseInt(datum.compPosX))
+                .attr("y", coords[1] - parseInt(datum.compPosY))
+                .style("font-size", "16px")
+                .style("text-transform", "uppercase")
+                .style("fill", datum.compColor)
+                .style("font-weight", "bold")
+                .attr("text-anchor", datum.compAnchor)
+                .text(datum.company);
+
             layer.append("text")
-              //.attr("x", coords[0] - datum.position) //this could use a little massaging
-              .attr("x", coords[0] - 15) //this could use a little massaging
-              .attr("y", coords[1])
-              .style("font-size", '14px')
-              .style("text-transform", 'uppercase')
-              .style("fill", "#000")
-
-              .attr("text-anchor", "end") // set anchor y justification
-              .text(datum.company);
-
-
-            layer.append("text")
-              //.attr("x", coords[0] - datum.position) //this could use a little massaging
-              .attr("x", coords[0] - 15) //this could use a little massaging
-              .attr("y", coords[1] + 10)
-              .style("font-size", '12px')
-              .style("fill", "#000")
-
-              .attr("text-anchor", "end") // set anchor y justification
+              .attr("x", coords[0] - parseInt(datum.countryPosX)) //this could use a little massaging
+              .attr("y", coords[1] + parseInt(datum.countryPosY))
+              .style("font-size", "16px")
+              .style("fill", datum.countryColor)
+                .style("font-weight", "bold")
+              .attr("text-anchor", datum.countryAnchor) // set anchor y justification
               .text(datum.country);
 
-            layer.append("line")          // attach a line
-              .style("stroke", datum.lineColor)  // colour the line
-              .attr("x1", coords[0])     // x position of the first end of the line
-              .attr("y1", coords[1])      // y position of the first end of the line
-              .attr("x2", end[0])     // x position of the second end of the line
-              .attr("y2", end[1]);    // y position of the second end of the line
+              if (parseInt(datum.lineColor)!=0){
+                  var $end = self.latLngToXY(datum.x2, datum.y2);
+                  layer.append("line")          // attach a line
+                    .style("stroke", datum.lineColor)  // colour the line
+                    .attr("x1", coords[0])     // x position of the first end of the line
+                    .attr("y1", coords[1])      // y position of the first end of the line
+                    .attr("x2", $end[0])     // x position of the second end of the line
+                    .attr("y2", $end[1]);    // y position of the second end of the line
+
+                layer.append("circle")          // attach a line
+                    .style("fill", datum.lineColor)  // colour the line
+                    .style("stroke-width", 0)  // colour the line
+                    .attr("r", 3)
+                    .attr("cx", $end[0])     // x position of the second end of the line
+                    .attr("cy", $end[1]);    // y position of the second end of the line
+            }
 
             return "bar";
           });
@@ -272,45 +280,6 @@ module.exports = Backbone.View.extend({
 
         //register the plugin to datamaps
         map.addPlugin('bombLabels', handleBombLabels);
-
-/*                
-        map.bubbles(bombs, {
-          popupTemplate:function (geography, data) { 
-            return ['<div class="hoverinfo"><strong>' +  data.name + '</strong>',
-              '<br/>Payload: ' +  data.yeild + ' kilotons',
-              '<br/>Country: ' +  data.country + '',
-              '<br/>Date: ' +  data.date + '',
-              '</div>'].join('');
-          }
-        });
-
-        function handleBombLabels ( layer, data, options ) {
-          var self = this;
-          options = options || {};
-
-          d3.selectAll(".datamaps-bubble").attr("data-foo", function(datum) {
-            //convert lat/lng into x/y
-            var coords = self.latLngToXY(datum.latitude, datum.longitude)
-
-              layer.append("text")
-              .attr("x", coords[0] - 10) //this could use a little massaging
-              .attr("y", coords[1])
-              .style("font-size", (options.fontSize || 10) + 'px')
-              .style("font-family", options.fontFamily || "Verdana")
-              .style("fill", options.labelColor || "#000")
-              .text( datum[options.labelKey || 'fillKey']);
-            return "bar";
-          });
-        }
-
-        //register the plugin to datamaps
-        map.addPlugin('bombLabels', handleBombLabels);
-        
-        //call the plugin. The 2nd param is options and it will be sent as `options` to the plugin function.
-        //Feel free to add to these options, change them, etc
-        map.bombLabels(bombs, {fontSize: 12});
-*/
-
 
         window.addEventListener('resize', function() {
             map.resize();
