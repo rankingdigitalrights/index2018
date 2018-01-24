@@ -21,7 +21,7 @@ overflow-x: hidden;
 h1, h2, h3, h4, h5, h6 {
 font-family: $platform-bold;  
 line-height: 1.2;
-text-transform: uppercase;
+text-transform: normal;
 letter-spacing: .05em;
 margin-top: 0em;
 margin-bottom: .5em;
@@ -30,18 +30,19 @@ padding: 0;
 
 h1 {
 color: $black;  
-font-size: 26px; 
+font-size: 51px;
   @include media(small-up) {
-  font-size: 26px;   
+  font-size: 51px;
   }
   @include media(medium-up) { 
-  font-size: 28px;  
+  font-size: 53px;
   }
   @include media(large-up) {
-  font-size: 35px;   
+  font-size: 60px;
   }
   @include media(xlarge-up) {
-  font-size: 41px;  
+  //font-size: 41px;
+    font-size: 66px;
   }    
 }
 

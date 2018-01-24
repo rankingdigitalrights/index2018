@@ -24,85 +24,121 @@
 
   /* Introduction */
   .introduction {
-
+    padding: 3em 0 0 0;
     .row {
       .container--left {
         @include media(small-up) {
           @include span-columns(12);
-        }        
+        }
         @include media(medium-up) {
-          @include span-columns(5);
+          @include span-columns(12);
         }
         @include media(large-up) {
-          @include span-columns(5);
-        }        
+          @include span-columns(6);
+        }
       }
+
       .container--right {
-      margin-right: 0;
+        margin-right: 0;
         @include media(small-up) {
           @include span-columns(12);
-        }      
+        }
         @include media(medium-up) {
-          @include span-columns(7);
+          @include span-columns(12);
         }
         @include media(large-up) {
-          @include span-columns(7);
+          @include span-columns(6);
         }
+
+      }
+      .container--right {
+
 
         .comp--score {
           @include media(small-up) {
-            @include span-columns(5);
-          }          
+            @include span-columns(2);
+          }
           @include media(medium-up) {
-            @include span-columns(4);
+            @include span-columns(2);
           }
           @include media(large-up) {
-            @include span-columns(4);
-          }             
+            @include span-columns(2);
+          }
         }
-        .comp--among {
+        .comp--rank {
           @include media(small-up) {
-            @include span-columns(7);
-          }           
+            @include span-columns(2);
+          }
           @include media(medium-up) {
-            @include span-columns(8);
+            @include span-columns(2);
           }
           @include media(large-up) {
-            @include span-columns(8);
-          }             
+            @include span-columns(2);
+          }
         }
+        .comp--difference {
+          @include media(small-up) {
+            @include span-columns(2);
+          }
+          @include media(medium-up) {
+            @include span-columns(2);
+          }
+          @include media(large-up) {
+            @include span-columns(2);
+          }
+        }
+        .comp--among{
+          @include media(small-up) {
+            @include span-columns(12);
+          }
+          @include media(medium-up) {
+            @include span-columns(12);
+          }
+          @include media(large-up) {
+            @include span-columns(12);
+          }
+        }
+
 
       }
     }
 
     .company-type {
     font-family: $simplon-light;
-    color: $black;
-    font-size: 11px;
+    color: $medium-gray;
+    font-size: 14px;
     line-height: 1.3; 
     letter-spacing: 1px;
-    text-transform: uppercase;
+    text-transform: normal;
+    padding: 0 0 15px 0;
       @include media(small-up) {
-      font-size: 11px;  
+      font-size: 14px;
       }
       @include media(medium-up) {
-      font-size: 12px;  
+      font-size: 15px;
       }
       @include media(large-up) {
-      font-size: 13px;
+      font-size: 16px;
       }
       @include media(xlarge-up) {
-      font-size: 13px;  
+      font-size: 16px;
       }        
     }
 
     .comp--sub_headquarters,
     .comp--sub_website {
     font-family: $simplon-light;
-    color: $black;
+    color: $medium-gray;
     font-size: 13px;
     line-height: 1.3; 
     letter-spacing: 1px;
+      label{
+        color: $medium-gray;
+        font-family: $simplon-light;
+      }
+      i{
+        min-width: 16px;
+      }
       @include media(small-up) {
       font-size: 14px;  
       }
@@ -122,80 +158,110 @@
       color: $black;  
       }    
     }
+    .comp--sub_website{
+      margin-top: 10px;
+      a{
+        color: $base-color;
+      }
+      i{
+        transform: rotate(90deg);
+      }
+    }
 
-    .comp--score {
+
+    .comp--score,.comp--rank,.comp--difference {
     font-family: $simplon-light;
-    color: $black;
-    font-size: 11px;
+    color: $medium-gray;
+    font-size: 19px;
     line-height: 1.3; 
     letter-spacing: 1px;
-    text-transform: uppercase;
+    text-transform: normal;
     margin-top: 1em;
+    text-align: left;
       @include media(small-up) {
-      font-size: 11px;
+      font-size: 19px;
       margin-top: 2em;  
       }
       @include media(medium-up) {
-      font-size: 12px;
-      margin-top: 0em;  
+      font-size: 20px;
+      margin-top: 0;
       }
       @include media(large-up) {
-      font-size: 13px;
-      margin-top: 0em;
+      font-size: 21px;
+      margin-top: 0;
       }
       @include media(xlarge-up) {
-      font-size: 13px;
-      margin-top: 0em;  
+      font-size: 21px;
+      margin-top: 0;
       }     
-      .comp--score--value {
-      margin-top: 0em;  
-      font-family: $platform-bold;        
-      color: $gray;                          
-      line-height: 1;
-      font-size: 40px;
+      .comp--score--value, .comp--rank--value, .comp--difference--value{
+      font-family: $platform-regular;
+      color: $black;
+      //line-height: 1;
+      font-size: 17px;
       letter-spacing: 2px;
+      text-align: left;
+      margin-top: 0;
+      line-height: 1.6em;
         @include media(small-up) {
         margin-top: 0.5em;
-        font-size: 65px;
+        font-size: 32px;
         }
         @include media(medium-up) {
         margin-top: 0.5em;
-        font-size: 65px; 
+        font-size: 32px;
         }
         @include media(large-up) {
         margin-top: 0.5em;
-        font-size: 65px;  
+        font-size: 32px;
         }
         @include media(xlarge-up) {
         margin-top: 0.5em;
-        font-size: 70px; 
+        font-size: 37px;
         }      
       }
+      .comp--rank--value{
+        border-radius: 50%;
+        height: 60px;
+        width: 60px;
+        background: $base-color;
+        color: $white;
+        text-align: center;
+      }
+      .comp--difference--value{
+        i{
+          position: absolute;
+          color: $red;
+          font-size: 25px;
+          line-height: 1.6em;
+        }
+      }
+
     }
 
     .comp--among {
     margin-top: 1em;  
     font-family: $simplon-light;
     color: $black;
-    font-size: 11px;
+    font-size: 19px;
     line-height: 1.3; 
     letter-spacing: 1px;
-    text-transform: uppercase;
+      padding-top: 30px;
       @include media(small-up) {
       margin-top: 2em;  
-      font-size: 11px;  
+      font-size: 19px;
       }
       @include media(medium-up) {
-      margin-top: 0em;  
-      font-size: 12px;  
+      margin-top: 0;
+      font-size: 20px;
       }
       @include media(large-up) {
-      margin-top: 0em;  
-      font-size: 13px;
+      margin-top: 0;
+      font-size: 21px;
       }
       @include media(xlarge-up) {
-      margin-top: 0em;  
-      font-size: 13px;  
+      margin-top: 0;
+      font-size: 21px;
       }
       #comp--position_among_label {
         padding-left: 5px;  
@@ -240,13 +306,26 @@
             }            
           }
         }  
-      }  
+      }
+      .dotchart{
+        height: 4em;
+        margin: 0 2em;
+      }
+      .dotchart--label_left {
+        left: -2em;
+        top: 1.7em;
+      }
+      .dotchart--label_right {
+        right: -2em;
+        top: 1.7em;
+      }
+
     }
   }
 
   /* Key findings */
   .key-findings {
-
+    padding-top: 0;
     .row {
 
       .container--left {

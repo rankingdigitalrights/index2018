@@ -33,12 +33,15 @@
             </h1> 
 
             <div class="comp--sub_headquarters">
-              <label><strong>Domicile:</strong></label>
+              <i class="fa fa-map-marker" aria-hidden="true"></i>
+
+              <label>Domicile:</label>
               {{ page.headquarters }}
             </div> 
 
             <div class="comp--sub_website">
-              <label><strong>Link:</strong></label>
+              <i class="fa fa-link" aria-hidden="true"></i>
+              <label>Link:</label>
               <a href="{{ page.link }}" target="_blank">
                 {{ page.link }}             
               </a> 
@@ -55,14 +58,25 @@
 
           <div class="container--right">
 
+            <div class="comp--rank">
+              <label>Rank</label>
+              <div class="comp--rank--value">10</div>
+            </div> <!-- comp--rank -->
+
             <div class="comp--score">
-              <label>Overall score</label>
+              <label>Score</label>
               <div class="comp--score--value">{{ page.total }}%</div>
             </div> <!-- overall score -->
 
+            <div class="comp--difference">
+              <label>Difference</label>
+              <div class="comp--difference--value">25 <i class="fa fa-chevron-down" aria-hidden="true"></i></div>
+            </div> <!-- comp--rank -->
+
             <div class="comp--among">
               <label id="comp--position_among_label" >Rank among {{ page.company_type }}</label>
-              <div id="comp--position_among" class="comp--bar_chart"></div>
+              <!--<div id="comp&#45;&#45;position_among" class="comp&#45;&#45;bar_chart"></div>-->
+              <div id="commitment--dot_chart" class="comp--dot_chart"></div>
             </div> <!-- position among other companies -->
 
           </div>
