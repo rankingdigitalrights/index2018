@@ -54,6 +54,8 @@ $black: #313131;
 $black-lighter: #515151;
 
 $medium-gray: #6d6f71;
+$base-text-color: #5e5e5e;
+$txt-gray: #808184;
 
 $dark: lighten($black, 15%);
 $gray: lighten($black, 50%);
@@ -74,7 +76,11 @@ $dropdown-bg: #F5F5F5;
 $beige: #E5DCD2;
 
 
+// Arrow up
+$arrow-up: #83bf41;
 
+// Arrow down
+$arrow-down: #de4a4a;
 
 // Light blue
 $base-color: #4D9ECF;

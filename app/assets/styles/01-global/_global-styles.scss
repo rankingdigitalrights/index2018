@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5, h6 {
 font-family: $platform-bold;  
 line-height: 1.2;
 text-transform: normal;
-letter-spacing: .05em;
+//letter-spacing: .05em;
 margin-top: 0em;
 margin-bottom: .5em;
 padding: 0;
@@ -31,6 +31,7 @@ padding: 0;
 h1 {
 color: $black;  
 font-size: 51px;
+font-family: $simplon-bold;
   @include media(small-up) {
   font-size: 51px;
   }
@@ -48,18 +49,19 @@ font-size: 51px;
 
 h2 {
 color: $black;
-font-size: 16px; 
+font-size: 22px;
+font-family: $simplon-bold;
   @include media(small-up) {
-  font-size: 20px;  
+  font-size: 26px;
   }
   @include media(medium-up) {
-  font-size: 19px;   
+  font-size: 25px;
   }
   @include media(large-up) { 
-  font-size: 25px;  
+  font-size: 31px;
   }
   @include media(xlarge-up) {
-  font-size: 32px;  
+  font-size: 38px;
   }   
 }
 
@@ -85,25 +87,25 @@ font-size: 14px;
 
 p {
 font-family: $simplon-regular; 
-color: $black;
-font-size: 13px;
+color: $base-text-color;
+font-size: 18px;
 line-height: 1.3; 
 letter-spacing: 1px;
 margin-bottom: 5px;
   @include media(small-up) {
-  font-size: 14px;
+  font-size: 19px;
   margin-bottom: 5px;  
   }
   @include media(medium-up) {
-  font-size: 15px;
+  font-size: 20px;
   margin-bottom: 5px;  
   }
   @include media(large-up) {
-  font-size: 16px;
+  font-size: 21px;
   margin-bottom: 10px;
   }
   @include media(xlarge-up) {
-  font-size: 16px; 
+  font-size: 21px;
   margin-bottom: 10px; 
   }   
 }
@@ -233,8 +235,8 @@ li {
 list-style: none;
 margin: 0;
 padding: 0;
-font-family: $simplon-light;
-color: $black;
+font-family: $simplon-regular;
+color: $base-text-color;
 line-height: 1.5; 
 letter-spacing: 1px;   
 }
@@ -342,4 +344,13 @@ color: $cat-privacy !important;
   .collecticon {
   color: $cat-privacy !important;  
   }
+}
+
+//arrows
+
+.up-arrow-green{
+  color: $arrow-up;
+}
+.down-arrow-red{
+  color: $arrow-down;
 }
