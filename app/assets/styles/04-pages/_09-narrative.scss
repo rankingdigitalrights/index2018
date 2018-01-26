@@ -38,9 +38,6 @@ $maincolor:  #231f20;
     animation-duration: .3s;
     animation-fill-mode: forwards;
   }
-
-
-
   .sidebar{
     text-align: left;
     padding: 0 20px 0 0;
@@ -49,12 +46,9 @@ $maincolor:  #231f20;
     width: 16%;
     position: absolute;
     display: block;
-
     @media(max-width: 767px){
       display: none;
     }
-
-
     .sidebar-menu {
         cursor: pointer;
         padding: 10px 0;
@@ -69,16 +63,17 @@ $maincolor:  #231f20;
         font-weight: normal;
         font-size: 1.1em;
         font-family: "Simplon-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        position: relative;
         &:hover{
           text-decoration: none;
           color: $maincolor;
-
         }
-
         i{
           color: $black-lighter;
           font-size: 12px;
-          padding: 0 0 0 30px;
+          position: absolute;
+          right: -30px;
+          top: 0px;
         }
       }
     }
@@ -114,10 +109,6 @@ $maincolor:  #231f20;
                   background: none;
                   color: #a5a8ab;
                   display: block;
-                  //&:before{
-                  //  content: counters(item, ".") " ";
-                  //  counter-increment: item;
-                  //}
                   &:last-child {
                       border-bottom: 0;
                   }
@@ -170,11 +161,11 @@ $maincolor:  #231f20;
       position: relative;
       top: -8px;
       &:hover{
-        border-bottom: 2px solid #e2dad1;
+        border-bottom: 2px solid $border-gray-color;
       }
     }
     .chapter-title{
-        border-bottom: 2px solid #e2dad1;
+        border-bottom: 2px solid $border-gray-color;
         display: flex;
         justify-content: space-between;
         h1{
@@ -187,7 +178,7 @@ $maincolor:  #231f20;
           padding-top: 14px;
           i{
             font-size: 2em;
-            color: #e2dad1;
+            color: $border-gray-color;
           }
         }
     }
@@ -206,7 +197,7 @@ $maincolor:  #231f20;
           padding-top: 14px;
           i{
             font-size: 2em;
-            color: #e2dad1;
+            color: $border-gray-color;
           }
         }
       }
@@ -228,10 +219,10 @@ $maincolor:  #231f20;
       }
       .quote{
         font-size: 1.75em;
-        line-height: 1.3em;
         padding-left: 1em;
         border-left: 3px solid $base-color;
-        margin-bottom: 2.5em;
+        margin: 1em;
+        line-height: 1.2em;
       }
       .highlihted-section-div{
         background-color: #F7F7F7;
@@ -302,7 +293,7 @@ $maincolor:  #231f20;
             text-decoration: none;
             span{
               color: $maincolor;
-              border-bottom: 2px solid #e2dad1;
+              border-bottom: 2px solid $border-gray-color;
               text-decoration: none;
             }
             i{
