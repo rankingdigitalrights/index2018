@@ -1,7 +1,8 @@
 .secondary-navigation {
 background-color: $dark-grey;
-padding: 16px 0 14px 0;
+	padding: 22px 0 17px 0;
 display: none;
+box-shadow: 0 2px 4px 0 rgba(0,0,0,0.25);
 	@include media(small-up) {
 	display: none;  
 	}
@@ -15,22 +16,25 @@ display: none;
 	display: block;	
 	}
 	.medium-up {
-	float: right;
+	float: left;
 		.nav {
-		margin-left: 0;
-		text-align: right;
+		text-align: left;
+		margin-left: 3.05em;
 			.nav--item {
 				a {
-				padding: 16px 0 14px 0;	
+				padding: 16px 0 3px 0;
 				font-family: $simplon-regular;
-				font-size: 16px;
+				font-size: 21px;
 				font-weight: 500;
 				color: $black-lighter;
 				line-height: 1;
 				text-transform: uppercase;
-				letter-spacing: 0px;
+				letter-spacing: 0;
+				text-decoration: none;
 					&:hover {
-					color: $black-pure;	
+					color: $black-pure;
+					text-decoration: none;
+					border-bottom: 2.6px solid $white;
 					}
 				}
 			}
