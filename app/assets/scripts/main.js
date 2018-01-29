@@ -6,14 +6,12 @@ var renderAllIndicators = require('./indicators');
 var renderCategoryPage = require('./category');
 var renderServicePage = require('./services');
 var renderIndexPage = require('./index');
-
 var renderMapPage = require('./map');
+var renderComparePage = require('./compare')
+var renderCompaniesPage = require('./companies');
 
 var baseurl = require('./util/base-url');
 var dropdownFn = require('./util/dropdown');
-
-/* Companies page */
-var renderCompaniesPage = require('./companies');
 
 require('typeahead.js/dist/typeahead.jquery.min.js');
 var Bloodhound = require('typeahead.js/dist/bloodhound.min.js');
@@ -48,10 +46,13 @@ resize.start();
   else if (type === 'companies') {
     renderCompaniesPage();
   }
-
   // Service page
   else if (type === 'service') {
     renderServicePage(dataId);
+  }
+  // Compare page
+  else if (type === 'compare') {
+    renderComparePage();
   }
 
 })();

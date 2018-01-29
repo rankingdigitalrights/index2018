@@ -5,7 +5,7 @@
 
 {% include head.html %}
 
-<body id="page--index">
+<body id="page--compare">
 
   <!--[if lt IE 10]>
          <div id="nocando">
@@ -24,33 +24,37 @@
   </div>
 
   <div id="site-canvas" data-type="{{ page.visualization }}" data-id="{{ page.entity }}">
-    <div class="row-contained contain displaytext md">
-      <h1 class="page--title">
-        {{ page.header }}
-      </h1>
-      <div class="page--content">
-        {{content}}
+    <section class="page-introduction">
+      <div class="row contain spaced-row">
+        <h1 class="page--title">{{ page.header }}</h1>
+      </div>          
+    </section>
+
+    <section class="compare-graph highlihted-bg">
+      <div class="row spaced-row contain">
+        <div id="compare--overview_chart" class="compare-chart"></div>
       </div>
-    </div>
+    </section>
+
+    <section class="compare--companies" id="compare--companies"></section>
+
   </div>
 
-    <!-- Footer -->
-    {% include footer.html %}
+  <!-- Footer -->
+  {% include footer.html %}
     
-    <!-- Go to top HTML -->
-    <a href="#" class="go-to-top">Top</a>
+  <!-- Go to top HTML -->
+  <a href="#" class="go-to-top">Top</a>
 
-    <!-- jQuery -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <!-- jQuery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 
-    <script src="https://d3js.org/topojson.v1.min.js"></script>
+  <!-- JS -->
+  <script src="{{ site.baseurl }}/assets/scripts/bundle.js"></script>
 
-    <!-- JS -->
-    <script src="{{ site.baseurl }}/assets/scripts/bundle.js"></script>
-
-    <!-- Tabs JS -->
-    <script type="text/javascript">
-      // Equal heghts
+  <!-- Tabs JS -->
+  <script type="text/javascript">
+    // Equal heghts
       var tabsFn = (function () {
         function init() {
           setHeight();
