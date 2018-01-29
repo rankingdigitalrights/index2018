@@ -160,6 +160,13 @@
     <div class="medium-up">
       <ul class="nav">
         <li class="nav--item index"><a href="/">Index</a></li>
+        <li class="nav--item narrative dropdown--trigger" data-dropdown="dropdown-narrative">
+          <a href="{{ site.baseurl }}/narrative">Report</a>
+          <ul class="dropdown" id="dropdown-narrative">
+            <li class="dropdown--item"><a href="{{ site.baseurl }}/narrative">Index Methodology</a></li>
+          </ul>
+        </li>
+        <li class="nav--item compare"><a>Compare</a></li>
         <li class="nav--item companies dropdown--trigger" data-dropdown="dropdown-companies">
           <a href="{{ site.baseurl }}/companies">Companies</a>
           <ul class="dropdown dropdown-companies" id="dropdown-companies">
@@ -217,29 +224,79 @@
             <li class="dropdown--item"><a href="{{ site.baseurl }}/categories/privacy">Privacy</a></li>
           </ul>
         </li>
-        <li class="nav--item indicators"><a href="{{ site.baseurl }}/indicators">Indicators</a></li>
-        <li class="nav--item findings dropdown--trigger" data-dropdown="dropdown-findings">
-          <a href="#">Findings</a>
-          <ul class="dropdown" id="dropdown-findings">
-            <li class="dropdown--item"><a href="{{ site.baseurl }}/findings/keyfindings/">Key Findings</a></li>
-            <li class="dropdown--item"><a href="{{ site.baseurl }}/findings/recommendations">Recommendations</a></li>
-            <li class="dropdown--item"><a href="{{ site.baseurl }}/findings/methodologyandscoring/">Methodology and scoring</a></li>
-<!--       
-<li class="dropdown--item"><a href="{{ site.baseurl }}/findings/">Key stories</a></li>
--->
-            <li class="dropdown--item"><a href="{{ site.baseurl }}/findings/mobileecosystems/">Mobile ecosystems</a></li>
-            <li class="dropdown--item"><a href="{{ site.baseurl }}/findings/networkshutdowns/">Network shutdowns</a></li>
-            <li class="dropdown--item"><a href="{{ site.baseurl }}/findings/russia/">Russian companies</a></li>
-            <li class="dropdown--item"><a href="{{ site.baseurl }}/findings/china/">Chinese Companies</a></li>                        
-          </ul>          
-        </li>
-        <li class="nav--item narrative dropdown--trigger" data-dropdown="dropdown-narrative">
-          <a href="{{ site.baseurl }}/narrative">Narrative</a>
-          <ul class="dropdown" id="dropdown-narrative">
-            <li class="dropdown--item"><a href="{{ site.baseurl }}/narrative">Index Methodology</a></li> 
-          </ul>          
+
+        <li class="nav--item indicators dropdown--trigger" data-dropdown="dropdown-indicators">
+          <a href="{{ site.baseurl }}/indicators">Indicators</a>
+          <ul class="dropdown" id="dropdown-indicators">
+            <li class="dropdown--item dropdown--trigger" data-dropdown="dropdown-indicators-governance">
+              <a href="{{ site.baseurl }}/indicators/governance">Governance</a>
+              <ul class="dropdown pull-right" id="dropdown-indicators-governance">
+                <li class="dropdown--item"><a href="">G1.  Policy Commitment</a></li>
+                <li class="dropdown--item"><a href="">G2. Governance and management oversight</a></li>
+                <li class="dropdown--item"><a href="">G3. Internal implementation  </a></li>
+                <li class="dropdown--item"><a href="">G4. Impact assessment  </a></li>
+                <li class="dropdown--item"><a href="">G5. Stakeholder engagement</a></li>
+                <li class="dropdown--item"><a href="">G6. Remedy</a></li>
+              </ul>
+
+            </li>
+
+            <li class="dropdown--item dropdown--trigger" data-dropdown="dropdown-indicators-freedom">
+              <a href="{{ site.baseurl }}/indicators/freedom-of-expression">Freedom of Expression</a>
+              <ul class="dropdown" id="dropdown-indicators-freedom">
+                <li class="dropdown--item"><a href="">F1. Access to terms of service</a></li>
+                <li class="dropdown--item"><a href="">F2. Changes to terms of service</a></li>
+                <li class="dropdown--item"><a href="">F3. Process for terms of service enforcement</a></li>
+                <li class="dropdown--item"><a href="">F4. Data about terms of service enforcement </a></li>
+                <li class="dropdown--item"><a href="">F5. Process for responding to third-party requests for content or account restriction</a></li>
+                <li class="dropdown--item"><a href="">F6. Data about government requests for content or account restriction</a></li>
+                <li class="dropdown--item"><a href="">F7. Data about private requests for content or account restriction</a></li>
+                <li class="dropdown--item"><a href="">F8. User notification about content and account restriction</a></li>
+                <li class="dropdown--item"><a href="">F9. Network management (telecommunications companies)</a></li>
+              </ul>
+
+            </li>
+            <li class="dropdown--item dropdown--trigger" data-dropdown="dropdown-indicators-privacy">
+              <a href="{{ site.baseurl }}/indicators/privacy">Privacy</a></li>
+              <ul class="dropdown" id="dropdown-indicators-privacy">
+                <li class="dropdown--item"><a href="">P1. Access to privacy policies</a></li>
+                <li class="dropdown--item"><a href="">P2. Changes to privacy policies</a></li>
+                <li class="dropdown--item"><a href="">P3. Collection of user information</a></li>
+                <li class="dropdown--item"><a href="">P4. Sharing of user information</a></li>
+                <li class="dropdown--item"><a href="">P5. Purpose for collecting and sharing user information</a></li>
+                <li class="dropdown--item"><a href="">P6. Retention of user information  </a></li>
+                <li class="dropdown--item"><a href="">P7. Users’ control over their own user information</a></li>
+                <li class="dropdown--item"><a href="">P8. Users’ access to their own user information</a></li>
+                <li class="dropdown--item"><a href="">P9. Collection of user information from third parties (Internet companies)</a></li>
+                <li class="dropdown--item"><a href="">P10. Process for responding to third-party requests for user information</a></li>
+                <li class="dropdown--item"><a href="">P11. Data about third-party requests for user information</a></li>
+                <li class="dropdown--item"><a href="">P12. User notification about third-party requests for user information</a></li>
+                <li class="dropdown--item"><a href="">P13. Security oversight</a></li>
+                <li class="dropdown--item"><a href="">P14. Addressing security vulnerabilities</a></li>
+                <li class="dropdown--item"><a href="">P15. Data breaches</a></li>
+                <li class="dropdown--item"><a href="">P16. Encryption of user communication and private content (Internet, software, and device companies)</a></li>
+                <li class="dropdown--item"><a href="">P17. Account Security (Internet, software, and device companies)</a></li>
+                <li class="dropdown--item"><a href="">P18. Inform and educate users about potential risks</a></li>
+              </ul>
+          </ul>
         </li>
         <li class="nav--item download"><a href="{{ site.baseurl }}/download">Download</a></li>
+        <!--<li class="nav&#45;&#45;item findings dropdown&#45;&#45;trigger" data-dropdown="dropdown-findings">-->
+          <!--<a href="#">Findings</a>-->
+          <!--<ul class="dropdown" id="dropdown-findings">-->
+            <!--<li class="dropdown&#45;&#45;item"><a href="{{ site.baseurl }}/findings/keyfindings/">Key Findings</a></li>-->
+            <!--<li class="dropdown&#45;&#45;item"><a href="{{ site.baseurl }}/findings/recommendations">Recommendations</a></li>-->
+            <!--<li class="dropdown&#45;&#45;item"><a href="{{ site.baseurl }}/findings/methodologyandscoring/">Methodology and scoring</a></li>-->
+<!--&lt;!&ndash;       -->
+<!--<li class="dropdown&#45;&#45;item"><a href="{{ site.baseurl }}/findings/">Key stories</a></li>-->
+<!--&ndash;&gt;-->
+            <!--<li class="dropdown&#45;&#45;item"><a href="{{ site.baseurl }}/findings/mobileecosystems/">Mobile ecosystems</a></li>-->
+            <!--<li class="dropdown&#45;&#45;item"><a href="{{ site.baseurl }}/findings/networkshutdowns/">Network shutdowns</a></li>-->
+            <!--<li class="dropdown&#45;&#45;item"><a href="{{ site.baseurl }}/findings/russia/">Russian companies</a></li>-->
+            <!--<li class="dropdown&#45;&#45;item"><a href="{{ site.baseurl }}/findings/china/">Chinese Companies</a></li>                        -->
+          <!--</ul>          -->
+        <!--</li>-->
+
       </ul>
     </div>
   </div>

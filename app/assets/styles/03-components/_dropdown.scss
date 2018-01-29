@@ -157,8 +157,6 @@ margin: 0;
   }
 }
 
-
-
 .dropdown--category {
   border-top: none;
   border-bottom: none;
@@ -183,4 +181,11 @@ margin: 0;
     margin-left: 0;
     margin-right: .75em;
   }
+}
+
+#dropdown-indicators-privacy,#dropdown-indicators-freedom,#dropdown-indicators-governance{
+  .dropdown{
+    left: -325px;
+  }
+
 }
