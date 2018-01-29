@@ -1,6 +1,6 @@
 .secondary-navigation {
 background-color: $dark-grey;
-	padding: 22px 0 17px 0;
+padding: 10px 0;
 display: none;
 box-shadow: 0 2px 4px 0 rgba(0,0,0,0.25);
 	@include media(small-up) {
@@ -24,7 +24,7 @@ box-shadow: 0 2px 4px 0 rgba(0,0,0,0.25);
 				a {
 				padding: 16px 0 3px 0;
 				font-family: $simplon-regular;
-				font-size: 21px;
+				font-size: 15px;
 				font-weight: 500;
 				color: $black-lighter;
 				line-height: 1;
