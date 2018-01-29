@@ -43,7 +43,7 @@ $maincolor:  #231f20;
     padding: 0 20px 0 0;
     border-right: 2px solid $base-color;
     margin: 0;
-    width: 16%;
+    width: 18%;
     position: absolute;
     display: block;
     @media(max-width: 767px){
@@ -124,7 +124,7 @@ $maincolor:  #231f20;
                       &:hover{
                           cursor: pointer;
                           color: $base-color;
-                          font-family: "Simplon-Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
                       }
                   }
                 .active-base-color{
@@ -170,8 +170,8 @@ $maincolor:  #231f20;
         justify-content: space-between;
         h1{
           color: $black;
-          margin-bottom: 28px;
-          font-size: 3.8em;
+          margin-bottom: 20px;
+          font-size: 3em;
           text-transform: none;
         }
         a{
@@ -190,8 +190,9 @@ $maincolor:  #231f20;
         h2{
           color: $base-color;
           margin-bottom: 0;
-          font-size: 3em;
+          font-size: 2em;
           text-transform: none;
+          margin-top: 0.5em;
         }
         a{
           padding-top: 14px;
@@ -246,9 +247,9 @@ $maincolor:  #231f20;
       .firstcharacter {
         color:$base-color;
         float: left;
-        font-size: 4em;
+        font-size: 4.5em;
         line-height: 60px;
-        padding-top: 18px;
+        padding-top: 10px;
         padding-right: 20px;
         padding-left: 3px;
         font-weight: bold;
