@@ -1,3 +1,14 @@
+#dropdown-indicators-governance,#dropdown-indicators-privacy,#dropdown-indicators-freedom{
+  left: -350px !important;
+  top: -25px !important;
+  width: 350px;
+  a{
+    text-transform: capitalize !important;
+    line-height: 1.2em;
+  }
+
+}
+
 .dropdown--trigger {
   position: relative;
   @include noselect;
@@ -25,7 +36,6 @@
 }
 
 .dropdown {
-/*top: 15px !important;  */
 width: auto;
 z-index: 0;
 visibility: hidden;
@@ -136,7 +146,6 @@ margin: 0;
     &:hover {
     background:transparent;
     text-decoration: none;
-    //border-bottom: 1px solid $dropdown-bg;
       &::after {
         display: block;
         content: '';
@@ -183,9 +192,14 @@ margin: 0;
   }
 }
 
-#dropdown-indicators-privacy,#dropdown-indicators-freedom,#dropdown-indicators-governance{
-  .dropdown{
-    left: -325px;
-  }
+.dropdown--item{
+  position: relative;
+  #dropdown-indicators-privacy,#dropdown-indicators-freedom{
+    position: absolute !important;
+    text-align: left;
+    top: 0;
 
+
+  }
 }
+
