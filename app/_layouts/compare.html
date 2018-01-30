@@ -17,17 +17,15 @@
   {% include banner.html %}
 
 
-  <div class="page--intro">
-    <div class="row contain">
-      <p>{{ page.intro }}</p>
-    </div>
-  </div>
+  <div id="site-canvas" class="page-content-dynamic" data-type="{{ page.visualization }}" data-id="{{ page.entity }}">
 
-  <div id="site-canvas" data-type="{{ page.visualization }}" data-id="{{ page.entity }}">
+    <div id="top"></div>
+
     <section class="page-introduction">
       <div class="row contain spaced-row">
         <h1 class="page--title">{{ page.header }}</h1>
-      </div>          
+        <p>{{ page.introduction }}</p>
+      </div>
     </section>
 
     <section class="compare-graph highlihted-bg">
@@ -36,7 +34,25 @@
       </div>
     </section>
 
-    <section class="compare--companies" id="compare--companies"></section>
+    {% if page.items %}
+    {% for item in page.items %}
+    <section class="item">
+      <div class="contain spaced-row row">
+        <div class="container--score">
+          &nbsp;{% if item.score %}<span>{{item.score}}</span>{% endif %}
+        </div>
+        <div class="container--title">
+          <h2>{{item.title}}</h2>
+        </div>
+        <div class="container--body">
+          <p>{{item.body}}</p>
+          <a href="#top"><i class="fa fa-angle-double-up" aria-hidden="true"></i></a>
+        </div>
+      </div>
+    </section>
+    {% endfor %}
+    {% endif %}
+
 
   </div>
 
@@ -109,6 +125,19 @@
         });
       });      
     </script>
+
+    <!-- Read more -->
+    <script type="text/javascript" src="https://cdn.rawgit.com/vaakash/jquery-collapser/master/jquery.collapser.min.js"></script>
+    <script type="text/javascript">
+      jQuery(document).ready(function($){
+        $('.container--body p').collapser({
+          mode: 'words',
+          truncate: 50,
+          showText: '[+]',
+          hideText: '[-]',
+        });
+      });
+  </script>
 
 </body>
 

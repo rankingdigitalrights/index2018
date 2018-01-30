@@ -1,0 +1,86 @@
+#page--compare {
+
+  .page--intro {
+    padding-bottom: 0;
+  }
+
+  .highlihted-bg {
+    margin-bottom: 1.5em;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+  }
+
+  .item {
+    padding: 0px;
+    .row {
+      border-top: 2px solid $black;
+      margin-top: 0px !important;
+      margin-bottom: 0px !important;
+      padding-top: 3em;
+      padding-bottom: 2.2em;
+      position: relative;
+
+      .container--score {
+        @include media(small-up) {
+          @include span-columns(12);
+        }
+        @include media(medium-up) {
+          @include span-columns(12);
+        }
+        @include media(large-up) {
+          @include span-columns(1);
+        }
+      }
+
+      .container--title {
+        @include media(small-up) {
+          @include span-columns(12);
+        }
+        @include media(medium-up) {
+          @include span-columns(12);
+        }
+        @include media(large-up) {
+          @include span-columns(3);
+        }
+      }
+
+      .container--body {
+        @include media(small-up) {
+          @include span-columns(12);
+        }
+        @include media(medium-up) {
+          @include span-columns(12);
+        }
+        @include media(large-up) {
+          @include span-columns(8);
+        }
+      }
+
+      .container--score {
+        span{
+          background-color: #00A65A;
+          border-radius: 2px;
+          color: #FFFFFF;
+          display: inline-block;
+          font-weight: bold;
+          padding: 4px 5px 1px;
+          margin-top: 6px;
+        }
+      }
+      .container--body {
+        margin: 0;
+        a{
+          color: #313131;
+          font-weight: bold;
+          i {
+            bottom: 10px;
+            font-size: 20px;
+            right: 10px;
+            position: absolute;
+          }
+        }
+      }
+    }
+  }
+}
+
