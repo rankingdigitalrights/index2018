@@ -5,6 +5,36 @@
 
 {% include head.html %}
 
+
+<style>
+
+.chart rect {
+  stroke: white;
+  fill-opacity: .6;
+  fill: steelblue;
+
+}
+.bar.positive {
+  fill: steelblue;
+}
+
+.bar.negative {
+  fill: brown;
+}
+
+.axis text {
+  font: 10px sans-serif;
+}
+
+.axis path, .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+
+</style>
+
 <body id="page--compare">
 
   <!--[if lt IE 10]>
