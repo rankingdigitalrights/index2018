@@ -8,7 +8,6 @@
   }
 
 }
-
 .dropdown--trigger {
   position: relative;
   @include noselect;
@@ -196,10 +195,6 @@ margin: 0;
   position: relative;
   #dropdown-indicators-privacy,#dropdown-indicators-freedom{
     position: absolute !important;
-    text-align: left;
-    top: 0;
-
-
   }
 }
 
