@@ -14,65 +14,66 @@
     <![endif]-->
 
     {% include banner.html %}
+    <div class="main-content">
+        <div id="site-canvas" class="page-content-dynamic" data-type="{{ page.visualization }}" data-id="{{ page.entity }}">
 
-    <div id="site-canvas" class="page-content-dynamic" data-type="{{ page.visualization }}" data-id="{{ page.entity }}">
+            <section class="page-introduction">
 
-      <section class="page-introduction">
+                <div class="row contain spaced-row">
 
-        <div class="row contain spaced-row">
+                    <div class="page-title-overtext">Category</div>
 
-          <div class="page-title-overtext">Category</div>
+                    <h1 class="page--title">{{ page.display }}</h1>
 
-          <h1 class="page--title">{{ page.display }}</h1>
+                    <p>{{ page.introduction }}</p>
 
-          <p>{{ page.introduction }}</p>
+                    <div class="action-links">
+                        <a href="#category--indicators">
+                            <span>Go to Indicators</span>
+                            <i class="fa fa-arrow-circle-down" aria-hidden="true"></i>
+                        </a>
+                    </div>
 
-          <div class="action-links">
-            <a href="#category--indicators">
-               <span>Go to Indicators</span>
-               <i class="fa fa-arrow-circle-down" aria-hidden="true"></i>
-            </a>  
-          </div>
-
-        </div>          
-      </section>
-
-      <section class="category-graph highlihted-bg">
-        
-        <div class="row spaced-row contain">
-        
-          <div id="category--overview_chart" class="category-chart"></div>
-
-          <div class="graph-legend">
-
-            <div class="graph-legend-values">
-                <div class="graph-legend-values-item">
-                   <div class="graph-legend-values-value service-rank">
-                      <i class="fa fa-circle"></i> Rank
-                   </div>                                        
-                </div>                                    
-            </div>
-
-            <div class="graph-legend-interaction">
-                <div class="graph-legend-interaction-item">
-                   <a href="{{ site.baseurl }}/download/"><i class="fa fa-arrow-down" aria-hidden="true"></i></a>
                 </div>
-                <div class="graph-legend-interaction-item">
-                   <a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i></a>
-                </div>                      
-            </div>
+            </section>
 
-          </div>
+            <section class="category-graph highlihted-bg">
 
-        </div>  
-      </section>
+                <div class="row spaced-row contain">
 
-      <section id="category--indicators" class="row spaced-row contain category-indicators">
-        <h2 class="page--subtitle">{{ page.display }}</h2>
-      </section>
+                    <div id="category--overview_chart" class="category-chart"></div>
 
+                    <div class="graph-legend">
+
+                        <div class="graph-legend-values">
+                            <div class="graph-legend-values-item">
+                                <div class="graph-legend-values-value service-rank">
+                                    <i class="fa fa-circle"></i> Rank
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="graph-legend-interaction">
+                            <div class="graph-legend-interaction-item">
+                                <a href="{{ site.baseurl }}/download/"><i class="fa fa-arrow-down" aria-hidden="true"></i></a>
+                            </div>
+                            <div class="graph-legend-interaction-item">
+                                <a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i></a>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+            </section>
+
+            <section id="category--indicators" class="row spaced-row contain category-indicators">
+                <h2 class="page--subtitle">{{ page.display }}</h2>
+            </section>
+
+        </div>
     </div>
-    
+
     {% include footer.html %}
 
     <script src="{{ site.baseurl }}/assets/scripts/bundle.js"></script>

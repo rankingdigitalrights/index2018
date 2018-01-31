@@ -16,45 +16,48 @@
   <!-- Header -->
   {% include banner.html %}
 
+  <div class="main-content">
+    <div id="site-canvas" class="page-content-dynamic" data-type="{{ page.visualization }}" data-id="{{ page.entity }}">
 
-  <div id="site-canvas" class="page-content-dynamic" data-type="{{ page.visualization }}" data-id="{{ page.entity }}">
+      <div id="top"></div>
 
-    <div id="top"></div>
-
-    <section class="page-introduction">
-      <div class="row contain spaced-row">
-        <h1 class="page--title">{{ page.header }}</h1>
-        <p>{{ page.introduction }}</p>
-      </div>
-    </section>
-
-    <section class="compare-graph highlihted-bg">
-      <div class="row spaced-row contain">
-        <div id="compare--overview_chart" class="compare-chart"></div>
-      </div>
-    </section>
-
-    {% if page.items %}
-    {% for item in page.items %}
-    <section class="item">
-      <div class="contain spaced-row row">
-        <div class="container--score">
-          &nbsp;{% if item.score %}<span>{{item.score}}</span>{% endif %}
+      <section class="page-introduction">
+        <div class="row contain spaced-row">
+          <h1 class="page--title">{{ page.header }}</h1>
+          <p>{{ page.introduction }}</p>
         </div>
-        <div class="container--title">
-          <h2>{{item.title}}</h2>
+      </section>
+
+      <section class="compare-graph highlihted-bg">
+        <div class="row spaced-row contain">
+          <div id="compare--overview_chart" class="compare-chart"></div>
         </div>
-        <div class="container--body">
-          <p>{{item.body}}</p>
-          <a href="#top"><i class="fa fa-angle-double-up" aria-hidden="true"></i></a>
+      </section>
+
+      {% if page.items %}
+      {% for item in page.items %}
+      <section class="item">
+        <div class="contain spaced-row row">
+          <div class="container--score">
+            &nbsp;{% if item.score %}<span>{{item.score}}</span>{% endif %}
+          </div>
+          <div class="container--title">
+            <h2>{{item.title}}</h2>
+          </div>
+          <div class="container--body">
+            <p>{{item.body}}</p>
+            <a href="#top"><i class="fa fa-angle-double-up" aria-hidden="true"></i></a>
+          </div>
         </div>
-      </div>
-    </section>
-    {% endfor %}
-    {% endif %}
+      </section>
+      {% endfor %}
+      {% endif %}
 
 
+    </div>
   </div>
+
+
 
   <!-- Footer -->
   {% include footer.html %}

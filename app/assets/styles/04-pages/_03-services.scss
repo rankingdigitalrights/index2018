@@ -21,6 +21,7 @@
 				margin-right: 5px;
 				line-height: 1;
     			text-align: center;
+				display: none;
 					@include media(small-up) {
 					font-size: 18px;    							
 					margin-right: 5px;
@@ -41,22 +42,30 @@
 				a {
 				color: $black;
 				font-family: $platform-bold;
-				text-transform: uppercase;
-	    		font-size: 17px;
+				text-transform: normal;
+	    		font-size: 28px;//17
 	    		line-height: 1.5;	
 	    		letter-spacing: 1px;
 					@include media(small-up) {
-					font-size: 18px;
+					font-size: 30px;//18
 					}
 					@include media(medium-up) {
-					font-size: 18px;
+					font-size: 30px;//18
 					}
 					@include media(large-up) {
-					font-size: 20px;
+					font-size: 32px;//20
 					}
 					@include media(xlarge-up) {
-					font-size: 23px;
-					}	    		
+					font-size: 36px;//23
+					}
+
+				}
+				p{
+				color: $black;
+					span{
+					font-size: inherit;
+					color: $base-text-color;
+					}
 				}
 			}
 		}
