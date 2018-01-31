@@ -33,7 +33,11 @@
             {% for item in page.services %}
             <li>
               <i class="fa fa-circle"></i>
-              <a href={{ item.href }}>{{ item.title }}</a>
+              <a href={{ item.href }}>{{ item.title }}</a><br>
+              {% for company in item.companies %}
+                <span>{{ company.service}} <span class="gray-color">[{{company.name}}]</span></span>
+
+              {% endfor %}
             </li>
             {% endfor %}
           </ul>

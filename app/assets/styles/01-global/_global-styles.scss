@@ -18,6 +18,8 @@ overflow-x: hidden;
 /* Main-content */
 .main-content{
   padding: 0 2.7em;
+  top: 5px;
+  position: relative;
   @include media(medium-up) {
     padding: 0 3.7em;
   }

@@ -15,6 +15,7 @@
 		}		
 		#index--services {
 			li {
+			margin-bottom: 15px;
 				i {
 				color: $violet;	
 				font-size: 17px;    							
@@ -60,12 +61,21 @@
 					}
 
 				}
-				p{
+				span{
 				color: $black;
-					span{
-					font-size: inherit;
+				font-size: 20px;
+				}
+				span:not(:first-child):after {
+					content: ", ";
+				}
+				span:last-child:after {
+					content: "";
+				}
+				.gray-color{
 					color: $base-text-color;
-					}
+				}
+				&:last-child{
+				margin-bottom: 0;
 				}
 			}
 		}
