@@ -15,352 +15,352 @@
 
   <!-- Header -->
   {% include banner.html %}
-
-  <!-- Page itro -->
-  <div class="page--intro non-highlihted-bg">
-    <div class="row contain">
-      <p>{{ page.intro }}</p>
+  <div class="main-content">
+    <!-- Page itro -->
+    <div class="page--intro non-highlihted-bg">
+      <div class="row contain">
+        <p>{{ page.intro }}</p>
+      </div>
     </div>
-  </div>
+    <div id="site-canvas" class="non-highlihted-bg" data-type="{{ page.visualization }}" data-id="{{ page.entity }}">
 
+      <!-- World map -->
+      <section class="world-map non-highlihted-bg">
 
-  <div id="site-canvas" class="non-highlihted-bg" data-type="{{ page.visualization }}" data-id="{{ page.entity }}">
+        <div class="contain row">
 
-    <!-- World map -->
-    <section class="world-map non-highlihted-bg">
+          <div id="container"></div>
 
-      <div class="contain row">
+          <!--<img class="img-responsive" src="assets/graphics/content/Map_v.4 copy 8.svg">-->
 
-        <div id="container"></div>
-
-        <!--<img class="img-responsive" src="assets/graphics/content/Map_v.4 copy 8.svg">-->
-
-        <div class="graph-legend">
-          <div class="graph-legend-content">
-            <div class="graph-legend-content-item">
-              <div class="graph-legend-content-item-value">22</div>
-              <div class="graph-legend-content-item-label">companies</div>
+          <div class="graph-legend">
+            <div class="graph-legend-content">
+              <div class="graph-legend-content-item">
+                <div class="graph-legend-content-item-value">22</div>
+                <div class="graph-legend-content-item-label">companies</div>
+              </div>
+              <div class="graph-legend-content-item">
+                <div class="graph-legend-content-item-value">62</div>
+                <div class="graph-legend-content-item-label">services</div>
+              </div>
+              <div class="graph-legend-content-item">
+                <div class="graph-legend-content-item-value">35</div>
+                <div class="graph-legend-content-item-label">indicators</div>
+              </div>
             </div>
-            <div class="graph-legend-content-item">
-              <div class="graph-legend-content-item-value">62</div>
-              <div class="graph-legend-content-item-label">services</div>
+            <div class="graph-legend-values">
+              <div class="graph-legend-values-item">
+                <div class="graph-legend-values-label">Industry</div>
+                <div class="graph-legend-values-value internet-and-mobile-companies">
+                  <i class="fa fa-circle"></i> Internet and Mobile
+                </div>
+                <div class="graph-legend-values-value telecommunications-companies">
+                  <i class="fa fa-circle"></i> Telecomunications
+                </div>
+              </div>
+              <div class="graph-legend-values-item">
+                <div class="graph-legend-values-label">Company Headquarters</div>
+                <div class="graph-legend-values-value">
+                  <span class="graph-legend-values-value-bar"></span>
+                </div>
+              </div>
             </div>
-            <div class="graph-legend-content-item">
-              <div class="graph-legend-content-item-value">35</div>
-              <div class="graph-legend-content-item-label">indicators</div>
+            <div class="graph-legend-interaction">
+              <div class="graph-legend-interaction-item">
+                <a href="{{ site.baseurl }}/download/"><i class="fa fa-arrow-down" aria-hidden="true"></i></a>
+              </div>
+              <div class="graph-legend-interaction-item">
+                <div class="dropdown--trigger_mobile" data-dropdown="dropdown-share">
+                  <a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i></a>
+                  <ul class="dropdown--share" id="dropdown-share">
+                    <li class="dropdown--item">
+                      <textarea id="linkToCopy" readonly></textarea>
+                      <button id="CopyToClipboard">Copy</button>
+                    </li>
+                  </ul>
+                </div>
+              </div>
             </div>
           </div>
-          <div class="graph-legend-values">
-            <div class="graph-legend-values-item">
-              <div class="graph-legend-values-label">Industry</div>
-              <div class="graph-legend-values-value internet-and-mobile-companies">
-                <i class="fa fa-circle"></i> Internet and Mobile
-              </div>
-              <div class="graph-legend-values-value telecommunications-companies">
-                <i class="fa fa-circle"></i> Telecomunications
-              </div>
+
+        </div>
+
+      </section>
+
+      <!-- Key findings -->
+      <section class="key-findings highlihted-bg" id="key-findings">
+        <div class="contain spaced-row row">
+          <h2 class="page--subtitle">Key findings</h2>
+          <div class="description--texts">
+            <div class="description--text">
+
+              <ul>
+                <li><b>Company disclosure is inadequate across the board.</b> Most of the world’s internet users lack the information
+                  they need to make informed choices. </li>
+                <li><b>Mobile ecosystems have the least amount of disclosure.</b> We don’t know enough about the impact of smartphones
+                  on our digital rights.</li>
+                <li><b>Freedom of expression is getting short-changed.</b> Most companies disclosed less about policies affecting
+                  freedom of expression than privacy.</li>
+                <li><b>Handling of user information is opaque.</b> How and why is our information collected, shared, retained,
+                  and used? They don’t tell us enough.</li>
+                <li><b>Security commitments lack evidence.</b> Trust will be elusive unless companies share credible information
+                  about security</li>
+              </ul>
             </div>
-            <div class="graph-legend-values-item">
-              <div class="graph-legend-values-label">Company Headquarters</div>
-              <div class="graph-legend-values-value">
-                <span class="graph-legend-values-value-bar"></span>
-              </div>
+            <div class="description--text">
+              <p>The 2017 Index ranks 22 companies on <a href="{{ site.baseurl }}/indicators/">35 indicators across three categories</a>.
+                The indicators measure if and how well companies disclose policies affecting users’ freedom of expression and
+                privacy. The Index evaluates policies of the parent company, operating company and those of selected services
+                (depending on company structure). </p>
+              <p>Read more about <a href="{{ site.baseurl }}/findings/methodologyandscoring/">the methodology</a>, <a href="https://rankingdigitalrights.org/2017-research-process/">research</a>              process and how we <a href="{{ site.baseurl }}/findings/methodologyandscoring/">score</a> each company.</p>
             </div>
           </div>
-          <div class="graph-legend-interaction">
-            <div class="graph-legend-interaction-item">
-              <a href="{{ site.baseurl }}/download/"><i class="fa fa-arrow-down" aria-hidden="true"></i></a>
+          <div class="action-links">
+            <a href="{{ site.baseurl }}/findings/keyfindings/">
+              <span>Go to Key Findings</span>
+              <i class="fa fa-arrow-circle-right" aria-hidden="true"></i>
+            </a>
+            <a href="{{ site.baseurl }}/findings/recommendations/">
+              <span>Read our Recommendations</span>
+              <i class="fa fa-arrow-circle-right" aria-hidden="true"></i>
+            </a>
+            <a href="{{ site.baseurl }}/download/">
+              <span>Download The Full Report</span>
+              <i class="fa fa-arrow-circle-right" aria-hidden="true"></i>
+            </a>
+          </div>
+        </div>
+      </section>
+
+
+      <!-- Company ranking -->
+      <section class="company-ranking non-highlihted-bg" id="company-ranking">
+        <div class="contain spaced-row row">
+
+          <h2 class="page--subtitle">2017 Company ranking</h2>
+          <div class="page--subtitle--undertext">How do the companies compare?</div>
+
+          <div class="company-ranking-chart">
+            <div id="category--internet--home">
+              <label><i class="fa fa-circle"></i> Internet and Mobile</label>
             </div>
-            <div class="graph-legend-interaction-item">
-              <div class="dropdown--trigger_mobile" data-dropdown="dropdown-share">
+            <div id="category--telco--home">
+              <label><i class="fa fa-circle"></i> Telecomunications</label>
+            </div>
+          </div>
+
+          <div class="graph-legend">
+            <div class="graph-legend-interaction">
+              <div class="graph-legend-interaction-item">
+                <a href="{{ site.baseurl }}/download/"><i class="fa fa-arrow-down" aria-hidden="true"></i></a>
+              </div>
+              <div class="graph-legend-interaction-item">
                 <a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i></a>
-                <ul class="dropdown--share" id="dropdown-share">
-                  <li class="dropdown--item">
-                    <textarea id="linkToCopy" readonly></textarea>
-                    <button id="CopyToClipboard">Copy</button>
-                  </li>
-                </ul>
               </div>
             </div>
           </div>
         </div>
+      </section>
 
-      </div>
 
-    </section>
+      <!-- Services ranking -->
+      <section class="services-ranking highlihted-bg-colored" id="services-ranking">
+        <div class="contain spaced-row row">
 
-    <!-- Key findings -->
-    <section class="key-findings highlihted-bg" id="key-findings">
-      <div class="contain spaced-row row">
-        <h2 class="page--subtitle">Key findings</h2>
-        <div class="description--texts">
-          <div class="description--text">
+          <h2 class="page--subtitle">How did the services compare?</h2>
+          <div class="page--subtitle--undertext">The Index evaluates select services offered by each company. Here’s how they stack up. Go how each service performance,
+            go to the <a href="{{ site.baseurl }}/service/">services page.</a></div>
 
-            <ul>
-              <li><b>Company disclosure is inadequate across the board.</b> Most of the world’s internet users lack the information
-                they need to make informed choices. </li>
-              <li><b>Mobile ecosystems have the least amount of disclosure.</b> We don’t know enough about the impact of smartphones
-                on our digital rights.</li>
-              <li><b>Freedom of expression is getting short-changed.</b> Most companies disclosed less about policies affecting
-                freedom of expression than privacy.</li>
-              <li><b>Handling of user information is opaque.</b> How and why is our information collected, shared, retained,
-                and used? They don’t tell us enough.</li>
-              <li><b>Security commitments lack evidence.</b> Trust will be elusive unless companies share credible information
-                about security</li>
+          <div class="tabbed-graphs">
+            <ul class="nav-tabs">
+              <li class="tab-link" data-tab="tab-1">Cloud services</li>
+              <li class="tab-link" data-tab="tab-2">Email service</li>
+              <li class="tab-link" data-tab="tab-3">Fixed broadband</li>
+              <li class="tab-link" data-tab="tab-4">Messaging & VOIP</li>
+              <li class="tab-link current" data-tab="tab-5">Mobile ecosystems</li>
+              <li class="tab-link" data-tab="tab-6">Pre and Post-paid mobile</li>
+              <li class="tab-link" data-tab="tab-7">Search</li>
+              <li class="tab-link" data-tab="tab-8">Social Network & Blog</li>
+              <li class="tab-link" data-tab="tab-9">Video/Photo</li>
             </ul>
+            <div class="tab-content">
+              <div id="tab-1" class="tab-pane-wrapper">
+                <div class="tab-pane">
+                  <div class="tab-pane-chart-row">
+                    <div id="circle--chart--1" class="service--circle--chart"></div>
+                    <div id="circle--chart--2" class="service--circle--chart"></div>
+                    <div id="circle--chart--3" class="service--circle--chart"></div>
+                  </div>
+                  <i class="fa fa-angle-double-down"></i>
+                </div>
+              </div>
+              <div id="tab-2" class="tab-pane-wrapper">
+                <div class="tab-pane">
+                  <div class="tab-pane-chart-row">
+                    <div id="circle--chart--4" class="service--circle--chart"></div>
+                    <div id="circle--chart--5" class="service--circle--chart"></div>
+                    <div id="circle--chart--6" class="service--circle--chart"></div>
+                  </div>
+                  <div class="tab-pane-chart-row">
+                    <div id="circle--chart--7" class="service--circle--chart"></div>
+                    <div id="circle--chart--8" class="service--circle--chart"></div>
+                    <div id="circle--chart--9" class="service--circle--chart"></div>
+                  </div>
+                  <i class="fa fa-angle-double-down"></i>
+                </div>
+              </div>
+              <div id="tab-3" class="tab-pane-wrapper">
+                <div class="tab-pane">
+                  <div class="tab-pane-chart-row">
+                    <div id="circle--chart--10" class="service--circle--chart"></div>
+                    <div id="circle--chart--11" class="service--circle--chart"></div>
+                    <div id="circle--chart--12" class="service--circle--chart"></div>
+                    <div id="circle--chart--13" class="service--circle--chart"></div>
+                  </div>
+                  <div class="tab-pane-chart-row">
+                    <div id="circle--chart--14" class="service--circle--chart"></div>
+                    <div id="circle--chart--15" class="service--circle--chart"></div>
+                    <div id="circle--chart--16" class="service--circle--chart"></div>
+                  </div>
+                  <i class="fa fa-angle-double-down"></i>
+                </div>
+              </div>
+              <div id="tab-4" class="tab-pane-wrapper">
+                <div class="tab-pane">
+                  <div class="tab-pane-chart-row">
+                    <div id="circle--chart--17" class="service--circle--chart"></div>
+                    <div id="circle--chart--18" class="service--circle--chart"></div>
+                    <div id="circle--chart--19" class="service--circle--chart"></div>
+                    <div id="circle--chart--20" class="service--circle--chart"></div>
+                  </div>
+                  <div class="tab-pane-chart-row">
+                    <div id="circle--chart--21" class="service--circle--chart"></div>
+                    <div id="circle--chart--22" class="service--circle--chart"></div>
+                    <div id="circle--chart--23" class="service--circle--chart"></div>
+                    <div id="circle--chart--24" class="service--circle--chart"></div>
+                  </div>
+                  <i class="fa fa-angle-double-down"></i>
+                </div>
+              </div>
+              <div id="tab-5" class="tab-pane-wrapper current">
+                <div class="tab-pane">
+                  <div class="tab-pane-chart-row">
+                    <div id="circle--chart--25" class="service--circle--chart"></div>
+                    <div id="circle--chart--26" class="service--circle--chart"></div>
+                    <div id="circle--chart--27" class="service--circle--chart"></div>
+                  </div>
+                  <i class="fa fa-angle-double-down"></i>
+                </div>
+              </div>
+              <div id="tab-6" class="tab-pane-wrapper">
+                <div class="tab-pane">
+                  <div class="tab-pane-chart-row">
+                    <div id="circle--chart--28" class="service--circle--chart"></div>
+                    <div id="circle--chart--29" class="service--circle--chart"></div>
+                    <div id="circle--chart--30" class="service--circle--chart"></div>
+                    <div id="circle--chart--31" class="service--circle--chart"></div>
+                    <div id="circle--chart--32" class="service--circle--chart"></div>
+                  </div>
+                  <div class="tab-pane-chart-row">
+                    <div id="circle--chart--33" class="service--circle--chart"></div>
+                    <div id="circle--chart--34" class="service--circle--chart"></div>
+                    <div id="circle--chart--35" class="service--circle--chart"></div>
+                    <div id="circle--chart--36" class="service--circle--chart"></div>
+                    <div id="circle--chart--37" class="service--circle--chart"></div>
+                  </div>
+                  <i class="fa fa-angle-double-down"></i>
+                </div>
+              </div>
+              <div id="tab-7" class="tab-pane-wrapper">
+                <div class="tab-pane">
+                  <div class="tab-pane-chart-row">
+                    <div id="circle--chart--38" class="service--circle--chart"></div>
+                    <div id="circle--chart--39" class="service--circle--chart"></div>
+                    <div id="circle--chart--40" class="service--circle--chart"></div>
+                  </div>
+                  <div class="tab-pane-chart-row">
+                    <div id="circle--chart--41" class="service--circle--chart"></div>
+                    <div id="circle--chart--42" class="service--circle--chart"></div>
+                  </div>
+                  <i class="fa fa-angle-double-down"></i>
+                </div>
+              </div>
+              <div id="tab-8" class="tab-pane-wrapper">
+                <div class="tab-pane">
+                  <div class="tab-pane-chart-row">
+                    <div id="circle--chart--43" class="service--circle--chart"></div>
+                    <div id="circle--chart--44" class="service--circle--chart"></div>
+                    <div id="circle--chart--45" class="service--circle--chart"></div>
+                  </div>
+                  <div class="tab-pane-chart-row">
+                    <div id="circle--chart--46" class="service--circle--chart"></div>
+                    <div id="circle--chart--47" class="service--circle--chart"></div>
+                    <div id="circle--chart--48" class="service--circle--chart"></div>
+                  </div>
+                  <i class="fa fa-angle-double-down"></i>
+                </div>
+              </div>
+              <div id="tab-9" class="tab-pane-wrapper">
+                <div class="tab-pane">
+                  <div class="tab-pane-chart-row">
+                    <div id="circle--chart--49" class="service--circle--chart"></div>
+                    <div id="circle--chart--50" class="service--circle--chart"></div>
+                    <div id="circle--chart--51" class="service--circle--chart"></div>
+                  </div>
+                  <div class="tab-pane-chart-row">
+                    <div id="circle--chart--52" class="service--circle--chart"></div>
+                    <div id="circle--chart--53" class="service--circle--chart"></div>
+                  </div>
+                  <i class="fa fa-angle-double-down"></i>
+                </div>
+              </div>
+            </div>
           </div>
-          <div class="description--text">
-            <p>The 2017 Index ranks 22 companies on <a href="{{ site.baseurl }}/indicators/">35 indicators across three categories</a>.
-              The indicators measure if and how well companies disclose policies affecting users’ freedom of expression and
-              privacy. The Index evaluates policies of the parent company, operating company and those of selected services
-              (depending on company structure). </p>
-            <p>Read more about <a href="{{ site.baseurl }}/findings/methodologyandscoring/">the methodology</a>, <a href="https://rankingdigitalrights.org/2017-research-process/">research</a>              process and how we <a href="{{ site.baseurl }}/findings/methodologyandscoring/">score</a> each company.</p>
-          </div>
-        </div>
-        <div class="action-links">
-          <a href="{{ site.baseurl }}/findings/keyfindings/">
-            <span>Go to Key Findings</span>
-            <i class="fa fa-arrow-circle-right" aria-hidden="true"></i>
-          </a>
-          <a href="{{ site.baseurl }}/findings/recommendations/">
-            <span>Read our Recommendations</span>
-            <i class="fa fa-arrow-circle-right" aria-hidden="true"></i>
-          </a>
-          <a href="{{ site.baseurl }}/download/">
-            <span>Download The Full Report</span>
-            <i class="fa fa-arrow-circle-right" aria-hidden="true"></i>
-          </a>
-        </div>
-      </div>
-    </section>
+      </section>
 
 
-    <!-- Company ranking -->
-    <section class="company-ranking non-highlihted-bg" id="company-ranking">
-      <div class="contain spaced-row row">
-
-        <h2 class="page--subtitle">2017 Company ranking</h2>
-        <div class="page--subtitle--undertext">How do the companies compare?</div>
-
-        <div class="company-ranking-chart">
-          <div id="category--internet--home">
-            <label><i class="fa fa-circle"></i> Internet and Mobile</label>
-          </div>
-          <div id="category--telco--home">
-            <label><i class="fa fa-circle"></i> Telecomunications</label>
-          </div>
-        </div>
-
-        <div class="graph-legend">
-          <div class="graph-legend-interaction">
-            <div class="graph-legend-interaction-item">
-              <a href="{{ site.baseurl }}/download/"><i class="fa fa-arrow-down" aria-hidden="true"></i></a>
+      <!-- Data stories -->
+      <section class="data-stories non-highlihted-bg" id="key-stories">
+        <div class="contain spaced-row row">
+          <h2 class="page--subtitle">Key Stories</h2>
+          <div class="page--subtitle--undertext">In addition to our main findings, here are some key stories that emerged from the 2017 Index data.</div>
+          <div class="data-stories-items">
+            <div class="data-stories-item">
+              <img class="img-responsive" src="{{ site.baseurl }}/assets/graphics/content/mobileecoStory.svg">
+              <h3><a href="{{ site.baseurl }}/findings/mobileecosystems">Mobile Ecosystems</a></h3>
+              <p>The 2017 Index added three mobile ecosystems to this year’s ranking: Apple iOS, Google Android, and Samsung’s
+                implementation of Android. Our analysis shows that all three failed to sufficiently disclose policies affecting
+                users’ freedom of expression and privacy. <a href="{{ site.baseurl }}/findings/mobileecosystems">Read more.</a></p>
             </div>
-            <div class="graph-legend-interaction-item">
-                <a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i></a>
+            <div class="data-stories-item">
+              <img class="img-responsive" src="{{ site.baseurl }}/assets/graphics/content/networkStory.svg">
+              <h3><a href="{{ site.baseurl }}/findings/networkshutdowns">Network Shutdowns</a></h3>
+              <p>Network shutdowns are a growing threat to human rights around the world. But all telecommunication companies
+                failed to provide sufficient disclosure of their policies for responding to requests by governments to shut
+                down their networks. <a href="{{ site.baseurl }}/findings/networkshutdowns">Read more.</a></p>
             </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-
-    <!-- Services ranking -->
-    <section class="services-ranking highlihted-bg-colored" id="services-ranking">
-      <div class="contain spaced-row row">
-
-        <h2 class="page--subtitle">How did the services compare?</h2>
-        <div class="page--subtitle--undertext">The Index evaluates select services offered by each company. Here’s how they stack up. Go how each service performance,
-          go to the <a href="{{ site.baseurl }}/service/">services page.</a></div>
-
-        <div class="tabbed-graphs">
-          <ul class="nav-tabs">
-            <li class="tab-link" data-tab="tab-1">Cloud services</li>
-            <li class="tab-link" data-tab="tab-2">Email service</li>
-            <li class="tab-link" data-tab="tab-3">Fixed broadband</li>
-            <li class="tab-link" data-tab="tab-4">Messaging & VOIP</li>
-            <li class="tab-link current" data-tab="tab-5">Mobile ecosystems</li>
-            <li class="tab-link" data-tab="tab-6">Pre and Post-paid mobile</li>
-            <li class="tab-link" data-tab="tab-7">Search</li>
-            <li class="tab-link" data-tab="tab-8">Social Network & Blog</li>
-            <li class="tab-link" data-tab="tab-9">Video/Photo</li>
-          </ul>
-          <div class="tab-content">
-            <div id="tab-1" class="tab-pane-wrapper">
-              <div class="tab-pane">
-                <div class="tab-pane-chart-row">
-                  <div id="circle--chart--1" class="service--circle--chart"></div>
-                  <div id="circle--chart--2" class="service--circle--chart"></div>
-                  <div id="circle--chart--3" class="service--circle--chart"></div>
-                </div>
-                <i class="fa fa-angle-double-down"></i>
-              </div>
+            <div class="data-stories-item">
+              <img class="img-responsive" src="{{ site.baseurl }}/assets/graphics/content/russianStory.svg">
+              <h3><a href="{{ site.baseurl }}/findings/russia">Russian Companies</a></h3>
+              <p>Russian internet companies operate in an increasingly restrictive environment, but our data shows there is room
+                for companies to disclose more about policies affecting users’ freedom of expression and privacy. <a href="{{ site.baseurl }}/findings/russia">Read more about how Russian internet companies Mail.Ru and Yandex compared.</a></p>
             </div>
-            <div id="tab-2" class="tab-pane-wrapper">
-              <div class="tab-pane">
-                <div class="tab-pane-chart-row">
-                  <div id="circle--chart--4" class="service--circle--chart"></div>
-                  <div id="circle--chart--5" class="service--circle--chart"></div>
-                  <div id="circle--chart--6" class="service--circle--chart"></div>
-                </div>
-                <div class="tab-pane-chart-row">
-                  <div id="circle--chart--7" class="service--circle--chart"></div>
-                  <div id="circle--chart--8" class="service--circle--chart"></div>
-                  <div id="circle--chart--9" class="service--circle--chart"></div>
-                </div>
-                <i class="fa fa-angle-double-down"></i>
-              </div>
-            </div>
-            <div id="tab-3" class="tab-pane-wrapper">
-              <div class="tab-pane">
-                <div class="tab-pane-chart-row">
-                  <div id="circle--chart--10" class="service--circle--chart"></div>
-                  <div id="circle--chart--11" class="service--circle--chart"></div>
-                  <div id="circle--chart--12" class="service--circle--chart"></div>
-                  <div id="circle--chart--13" class="service--circle--chart"></div>
-                </div>
-                <div class="tab-pane-chart-row">
-                  <div id="circle--chart--14" class="service--circle--chart"></div>
-                  <div id="circle--chart--15" class="service--circle--chart"></div>
-                  <div id="circle--chart--16" class="service--circle--chart"></div>
-                </div>
-                <i class="fa fa-angle-double-down"></i>
-              </div>
-            </div>
-            <div id="tab-4" class="tab-pane-wrapper">
-              <div class="tab-pane">
-                <div class="tab-pane-chart-row">
-                  <div id="circle--chart--17" class="service--circle--chart"></div>
-                  <div id="circle--chart--18" class="service--circle--chart"></div>
-                  <div id="circle--chart--19" class="service--circle--chart"></div>
-                  <div id="circle--chart--20" class="service--circle--chart"></div>
-                </div>
-                <div class="tab-pane-chart-row">
-                  <div id="circle--chart--21" class="service--circle--chart"></div>
-                  <div id="circle--chart--22" class="service--circle--chart"></div>
-                  <div id="circle--chart--23" class="service--circle--chart"></div>
-                  <div id="circle--chart--24" class="service--circle--chart"></div>
-                </div>
-                <i class="fa fa-angle-double-down"></i>
-              </div>
-            </div>
-            <div id="tab-5" class="tab-pane-wrapper current">
-              <div class="tab-pane">
-                <div class="tab-pane-chart-row">
-                  <div id="circle--chart--25" class="service--circle--chart"></div>
-                  <div id="circle--chart--26" class="service--circle--chart"></div>
-                  <div id="circle--chart--27" class="service--circle--chart"></div>
-                </div>
-                <i class="fa fa-angle-double-down"></i>
-              </div>
-            </div>
-            <div id="tab-6" class="tab-pane-wrapper">
-              <div class="tab-pane">
-                <div class="tab-pane-chart-row">
-                  <div id="circle--chart--28" class="service--circle--chart"></div>
-                  <div id="circle--chart--29" class="service--circle--chart"></div>
-                  <div id="circle--chart--30" class="service--circle--chart"></div>
-                  <div id="circle--chart--31" class="service--circle--chart"></div>
-                  <div id="circle--chart--32" class="service--circle--chart"></div>
-                </div>
-                <div class="tab-pane-chart-row">
-                  <div id="circle--chart--33" class="service--circle--chart"></div>
-                  <div id="circle--chart--34" class="service--circle--chart"></div>
-                  <div id="circle--chart--35" class="service--circle--chart"></div>
-                  <div id="circle--chart--36" class="service--circle--chart"></div>
-                  <div id="circle--chart--37" class="service--circle--chart"></div>
-                </div>
-                <i class="fa fa-angle-double-down"></i>
-              </div>
-            </div>
-            <div id="tab-7" class="tab-pane-wrapper">
-              <div class="tab-pane">
-                <div class="tab-pane-chart-row">
-                  <div id="circle--chart--38" class="service--circle--chart"></div>
-                  <div id="circle--chart--39" class="service--circle--chart"></div>
-                  <div id="circle--chart--40" class="service--circle--chart"></div>
-                </div>
-                <div class="tab-pane-chart-row">
-                  <div id="circle--chart--41" class="service--circle--chart"></div>
-                  <div id="circle--chart--42" class="service--circle--chart"></div>
-                </div>
-                <i class="fa fa-angle-double-down"></i>
-              </div>
-            </div>
-            <div id="tab-8" class="tab-pane-wrapper">
-              <div class="tab-pane">
-                <div class="tab-pane-chart-row">
-                  <div id="circle--chart--43" class="service--circle--chart"></div>
-                  <div id="circle--chart--44" class="service--circle--chart"></div>
-                  <div id="circle--chart--45" class="service--circle--chart"></div>
-                </div>
-                <div class="tab-pane-chart-row">
-                  <div id="circle--chart--46" class="service--circle--chart"></div>
-                  <div id="circle--chart--47" class="service--circle--chart"></div>
-                  <div id="circle--chart--48" class="service--circle--chart"></div>
-                </div>
-                <i class="fa fa-angle-double-down"></i>
-              </div>
-            </div>
-            <div id="tab-9" class="tab-pane-wrapper">
-              <div class="tab-pane">
-                <div class="tab-pane-chart-row">
-                  <div id="circle--chart--49" class="service--circle--chart"></div>
-                  <div id="circle--chart--50" class="service--circle--chart"></div>
-                  <div id="circle--chart--51" class="service--circle--chart"></div>
-                </div>
-                <div class="tab-pane-chart-row">
-                  <div id="circle--chart--52" class="service--circle--chart"></div>
-                  <div id="circle--chart--53" class="service--circle--chart"></div>
-                </div>
-                <i class="fa fa-angle-double-down"></i>
-              </div>
+            <div class="data-stories-item">
+              <img class="img-responsive" src="{{ site.baseurl }}/assets/graphics/content/chineseStory.svg">
+              <h3><a href="{{ site.baseurl }}/findings/china">Chinese Companies</a></h3>
+              <p>Chinese internet company Tencent disclosed more information about its policies affecting users’ rights than Baidu—and
+                both disclosed more about policies affecting users’ privacy than those affecting freedom of expression.
+                <a
+                        href="{{ site.baseurl }}/findings/china">Read more about how these two Chinese internet companies compared.</a>
+              </p>
             </div>
           </div>
         </div>
-    </section>
-
-
-    <!-- Data stories -->
-    <section class="data-stories non-highlihted-bg" id="key-stories">
-      <div class="contain spaced-row row">
-        <h2 class="page--subtitle">Key Stories</h2>
-        <div class="page--subtitle--undertext">In addition to our main findings, here are some key stories that emerged from the 2017 Index data.</div>
-        <div class="data-stories-items">
-          <div class="data-stories-item">
-            <img class="img-responsive" src="{{ site.baseurl }}/assets/graphics/content/mobileecoStory.svg">
-            <h3><a href="{{ site.baseurl }}/findings/mobileecosystems">Mobile Ecosystems</a></h3>
-            <p>The 2017 Index added three mobile ecosystems to this year’s ranking: Apple iOS, Google Android, and Samsung’s
-              implementation of Android. Our analysis shows that all three failed to sufficiently disclose policies affecting
-              users’ freedom of expression and privacy. <a href="{{ site.baseurl }}/findings/mobileecosystems">Read more.</a></p>
-          </div>
-          <div class="data-stories-item">
-            <img class="img-responsive" src="{{ site.baseurl }}/assets/graphics/content/networkStory.svg">
-            <h3><a href="{{ site.baseurl }}/findings/networkshutdowns">Network Shutdowns</a></h3>
-            <p>Network shutdowns are a growing threat to human rights around the world. But all telecommunication companies
-              failed to provide sufficient disclosure of their policies for responding to requests by governments to shut
-              down their networks. <a href="{{ site.baseurl }}/findings/networkshutdowns">Read more.</a></p>
-          </div>
-          <div class="data-stories-item">
-            <img class="img-responsive" src="{{ site.baseurl }}/assets/graphics/content/russianStory.svg">
-            <h3><a href="{{ site.baseurl }}/findings/russia">Russian Companies</a></h3>
-            <p>Russian internet companies operate in an increasingly restrictive environment, but our data shows there is room
-              for companies to disclose more about policies affecting users’ freedom of expression and privacy. <a href="{{ site.baseurl }}/findings/russia">Read more about how Russian internet companies Mail.Ru and Yandex compared.</a></p>
-          </div>
-          <div class="data-stories-item">
-            <img class="img-responsive" src="{{ site.baseurl }}/assets/graphics/content/chineseStory.svg">
-            <h3><a href="{{ site.baseurl }}/findings/china">Chinese Companies</a></h3>
-            <p>Chinese internet company Tencent disclosed more information about its policies affecting users’ rights than Baidu—and
-              both disclosed more about policies affecting users’ privacy than those affecting freedom of expression.
-              <a
-                href="{{ site.baseurl }}/findings/china">Read more about how these two Chinese internet companies compared.</a>
-            </p>
-          </div>
-        </div>
-      </div>
-    </section>
+      </section>
 
     </div>
+
+  </div>
 
 
 

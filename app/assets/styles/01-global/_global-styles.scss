@@ -15,6 +15,19 @@ width: 100%;
 overflow-x: hidden;
 }
 
+/* Main-content */
+.main-content{
+  padding: 0 2.7em;
+  @include media(medium-up) {
+    padding: 0 3.7em;
+  }
+  @include media(large-up) {
+    padding: 0 4em;
+  }
+  @include media(xlarge-up) {
+    padding: 0 4.7em;
+  }
+}
 
 /* Headlines */
 
