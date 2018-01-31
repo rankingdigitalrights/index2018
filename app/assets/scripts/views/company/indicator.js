@@ -29,8 +29,9 @@ module.exports = BaseChart.extend({
         var category = ['freedom', 'privacy', 'commitment'];
         category.forEach(function (i, dd) {
 
-            //console.info(x);
+            // console.info(comp);
             var data = comp.attributes[i].reverse();
+
 
             //set up svg using margin conventions - we'll need plenty of room on the left for labels
             var margin = {
