@@ -84,3 +84,24 @@
   }
 }
 
+#compare--overview_chart {
+
+  .chart rect {
+    fill: #D0DBCB;
+  }
+  .bar.positive {
+    fill: #D0DBCB;
+  }
+  .bar.negative {
+    fill: #DFD8CE;
+  }
+  .axis path, .axis line {
+    fill: none;
+    stroke: #DFD8CE;
+    shape-rendering: crispEdges;
+  }
+  .company--name {
+    font-size: 16px;
+  }
+
+}
