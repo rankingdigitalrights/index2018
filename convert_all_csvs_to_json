@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import os
 from csv_json_converters.overview_json_converter import convert_overview_type_csv_to_json
 from csv_json_converters.multiple_services_json_converter import convert_multiple_services_type_csv_to_json
 from csv_json_converters.indicator_overview_json_converter import convert_scores_overview_type_csv_to_indicator_overview_json
@@ -9,17 +10,16 @@ from csv_json_converters.difference_json_converter import convert_difference_typ
 from csv_json_converters.sub_indicators_json_converter import convert_sub_indicator_type_to_jsons
 
 if __name__ == '__main__':
-    # quick_overview_csv_location = '/home/filip/Downloads/RDRindex2017data/RDR2017 - Quick overview.csv'
-    quick_overview_csv_location = '/home/filip/Downloads/2018 Summary Scores - Quick overview.csv'
-    # services_list_csv_location = '/home/filip/Downloads/Companies and services list 2017 - Services.csv'
-    services_list_csv_location = '/home/filip/Downloads/2018 Service Level Analysis.csv'
-    # scores_overview_csv_location = '/home/filip/Downloads/RDRindex2017data - Scores overview.csv'
-    scores_overview_csv_location = '/home/filip/Downloads/2018 Summary Scores - overview.csv'
-    difference_csv_location = '/home/filip/Downloads/2018 Difference.csv'
-    governance_csv_location = '/home/filip/Downloads/2018 Governance Sub Indicators.csv'
-    foe_csv_location = '/home/filip/Downloads/2018 Freedom of Expresion Sub Indicators.csv'
-    privacy_csv_location = '/home/filip/Downloads/2018 Privacy Sub Indicators.csv'
-    output_directory = '/home/filip/workspace/rdr-2018/output/'
+    current_dir = os.path.dirname(os.path.realpath(__file__))
+    data_dir = os.path.join(current_dir, 'RDRIndex/2018data')
+    quick_overview_csv_location = os.path.join(data_dir, 'Quick Overview.csv')
+    services_list_csv_location = os.path.join(data_dir, 'Service Level Analysis.csv')
+    scores_overview_csv_location = os.path.join(data_dir, 'Scores Overview.csv')
+    difference_csv_location = os.path.join(data_dir, 'Difference.csv')
+    governance_csv_location = os.path.join(data_dir, 'Governance Sub Indicators.csv')
+    foe_csv_location = os.path.join(data_dir, 'Freedom of Expresion Sub Indicators.csv')
+    privacy_csv_location = os.path.join(data_dir, 'Privacy Sub Indicators.csv')
+    output_directory = os.path.join(current_dir, 'output/')
 
     convert_overview_type_csv_to_json(quick_overview_csv_location, output_directory)
     convert_multiple_services_type_csv_to_json(services_list_csv_location, output_directory)
@@ -27,8 +27,8 @@ if __name__ == '__main__':
     convert_scores_overview_type_csv_to_all_indicator_json(scores_overview_csv_location, output_directory,
                                                            check_csv_structure=False)
     # already checked in function convert_scores_overview_type_csv_to_indicator_overview_json
-    # convert_multiple_services_type_csv_to_index_service_json(services_list_csv_location, output_directory,
-    #                                                          check_csv_structure=True)
+    convert_multiple_services_type_csv_to_index_service_json(services_list_csv_location, output_directory,
+                                                             check_csv_structure=True)
     # it has additional checks for multiple services csv
     convert_scores_overview_type_csv_to_categories_overview_json(
         scores_overview_csv_location, quick_overview_csv_location, output_directory, check_csv_structure=True)
