@@ -910,6 +910,9 @@
 
 
 	/* Data stories items */
+	#key-stories{
+		padding-top: 3em;
+	}
 	.data-stories {
 		.data-stories-items {
 		clear: both;
@@ -989,6 +992,48 @@
 					}				
 				}		
 			}
+		}
+	}
+
+	.data-stories-tabs{
+		section{
+			display: none;
+			padding: 20px 0 0;
+			h3{
+				color: #3a4b5c;
+				padding: 20px 0 15px;
+			}
+		}
+		input {
+			display: none;
+		}
+		label {
+			display: inline-block;
+			background-color: #ccc;
+			margin: 0 5px -1px 0;
+			padding: 10px 25px;
+			text-align: center;
+			color: #3a4b5c;
+			border: 1px solid transparent;
+			border-radius: 15px;
+			font-family: $simplon-regular;
+			&:hover {
+				cursor: pointer;
+			}
+		}
+
+		input:checked + label {
+			color: $white;
+			background-color: #3a4b5c;
+			border: 1px solid #3a4b5c;
+		}
+
+		#tab1:checked ~ #content1,
+		#tab2:checked ~ #content2,
+		#tab3:checked ~ #content3,
+		#tab4:checked ~ #content4,
+		#tab5:checked ~ #content5{
+			display: block;
 		}
 	}
 
