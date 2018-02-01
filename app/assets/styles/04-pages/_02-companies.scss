@@ -31,11 +31,11 @@
           .vis--row_title {
           text-align: right; 
             a {
-            font-family: $simplon-bold;
+            font-family: $simplon-light;
             color: $black;
             font-size: 12px;
             line-height: 1;
-            text-transform: uppercase;
+            text-transform: capitalize;
             vertical-align: middle;
               @include media(small-up) {
               font-size: 12px;  

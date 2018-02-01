@@ -38,6 +38,7 @@ class _ServiceObjectsCreator(object):
             ServiceJSONFields.company: self._get_column_value(service_column, ServiceCSVFields.company),
             ServiceJSONFields.service: self._get_column_value(service_column, ServiceCSVFields.service),
             ServiceJSONFields.total: self._parse_numeric_value(service_column, ServiceCSVFields.total),
+            ServiceCSVFields.difference: self._parse_numeric_value(service_column, ServiceCSVFields.difference),
             ServiceJSONFields.g: self._parse_numeric_value(service_column, ServiceCSVFields.g),
             ServiceJSONFields.foe: self._parse_numeric_value(service_column, ServiceCSVFields.foe),
             ServiceJSONFields.p: self._parse_numeric_value(service_column, ServiceCSVFields.p)
