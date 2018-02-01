@@ -26,13 +26,13 @@ module.exports = Backbone.View.extend({
         });
 
         $data.reverse();
-        
+
         //var _data = [["A",0.012], ["B",-0.025], ["C",0.008], ["D",0.023], ["E",-0.009], ["F", 0.005]];
         
         d3.select("#compare--overview_chart")
             .datum($data)
             .call(columnChart()
-            .width(960)
+            .width($('#compare--overview_chart').width())
             .height(500)
             .x(function(d, i) { return d.name; })
             .y(function(d, i) { return d.total_difference; }));
@@ -43,9 +43,9 @@ module.exports = Backbone.View.extend({
 
 function columnChart() {
   var margin = {top: 30, right: 10, bottom: 50, left: 50},
-      width = 420,
-      height = 420,
-      xRoundBands = 0.2,
+      width = 100,
+      height = 400,
+      xRoundBands = 0.05,
       xValue = function(d) { return d[0]; },
       yValue = function(d) { return d[1]; },
       xScale = d3.scale.ordinal(),
@@ -104,21 +104,30 @@ function columnChart() {
           .attr("width", xScale.rangeBand())
           .attr("height", function(d, i) { return Math.abs( Y(d) - Y0() ); });
 
-    // x axis at the bottom of the chart
-     g.select(".x.axis")
-        .attr("transform", "translate(0," + (height - margin.top - margin.bottom) + ")")
-        .call(xAxis.orient("bottom"));
-    
-    // zero line
-     g.select(".x.axis.zero")
+
+      // x axis at the bottom of the chart
+      /*
+      g.select(".x.axis")
+       .attr("transform", "translate(0," + (height - margin.top - margin.bottom) + ")")
+       .call(xAxis.orient("bottom"));
+      */
+
+      g.select(".x.axis.zero")
         .attr("transform", "translate(0," + Y0() + ")")
-        .call(xAxis.tickFormat("").tickSize(0));
-    
-    
-      // Update the y-axis.
-      g.select(".y.axis")
-        .call(yAxis);
-          
+        .call(xAxis.tickSize(0))
+        .selectAll('text')
+        .attr('x', '0')
+        .attr('y', '0')
+        .style('text-anchor', function(d, i) { return data[i][1] < 0 ? 'start' : 'end' })
+        .attr('class', 'company--name')
+        .attr('transform', function(d, i) { return data[i][1] < 0 ? 'rotate(-45), translate(10, -10)' : 'rotate(-45), translate(-5, 5)' });
+
+
+        // Update the y-axis.
+      // g.select(".y.axis").call(yAxis);
+
+
+
     });
   }
 
