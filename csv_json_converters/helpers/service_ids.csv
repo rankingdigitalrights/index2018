@@ -1,0 +1,53 @@
+Service,Id
+iCloud,1
+Baidu Cloud,2
+Yandex Disk (cloud storage),3
+Gmail,4
+Kakao Mail,5
+Mail.ru email,6
+Outlook.com,7
+Yahoo Mail,8
+Yandex Mail,9
+Fixed line broadband (Vodafone UK),10
+Fixed line broadband (Movistar),11
+fixed line broadband (Orange France),12
+fixed line broadband (Ooredoo Qatar),13
+Fixed line broadband (Etisalat UAE),14
+Fixed line broadband (Airtel India),15
+Fixed line broadband (AT&T),16
+Skype,17
+Messenger,18
+WhatsApp,19
+Kakao Talk,20
+Mail.ru Agent messaging,21
+QQ,22
+WeChat,23
+iMessage,24
+Android mobile ecosystem,25
+iOS mobile ecosystem,26
+Samsung implementation of Android,27
+Yandex Search,28
+Bing,29
+Kakao Search,30
+Search,31
+Baidu Search,32
+Twitter,33
+Tumblr,34
+Facebook,35
+Vkontakte,36
+QZone,37
+Baidu PostBar,38
+Flickr,39
+Periscope,40
+Instagram,41
+Youtube,42
+Mobile Service (Telcel),43
+Mobile service (AT&T),44
+Mobile service (Telcel),45
+Mobile service (Airtel India),46
+Mobile service (Etisalat UAE),47
+mobile service (MTN SA),48
+mobile service (Ooredoo Qatar),49
+mobile service (orange france),50
+mobile service (Movistar),51
+mobile service (Vodafone UK),52

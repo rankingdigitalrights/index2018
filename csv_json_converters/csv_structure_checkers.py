@@ -8,6 +8,7 @@ try:
         SCORES_OVERVIEW_CSV_SUMMED_INDICATORS_NAMES, DIFFERENCE_COLUMN_NAMES, DifferenceCSVMappings
     from .helpers.csv_json_rw import load_rows_as_list_of_lists
     from .helpers.errors import InvalidRowStructure, InvalidColumnNames
+    from .helpers.service_id_reader import ServiceIdReader
 except SystemError:
     from helpers.fields import SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS, COMPANIES_COLUMNS, ORDERED_SERVICE_ROWS, \
         ServiceCSVFields, PREDEFINED_SERVICE_IDS_BY_THEIR_NAMES, QUICK_OVERVIEW_COLUMN_NAMES, QuickOverviewCSVMappings,\
@@ -15,6 +16,7 @@ except SystemError:
         SCORES_OVERVIEW_CSV_SUMMED_INDICATORS_NAMES, DIFFERENCE_COLUMN_NAMES, DifferenceCSVMappings
     from helpers.csv_json_rw import load_rows_as_list_of_lists
     from helpers.errors import InvalidRowStructure, InvalidColumnNames
+    from helpers.service_id_reader import ServiceIdReader
 
 
 def check_overview_type_csv_structure(csv_file_location):
@@ -98,11 +100,14 @@ class MultipleServicesTypeCsvCheckerForIndexServiceJsonConversion(MultipleServic
         for service_names_row in service_names_rows:
             all_services_in_current_csv += service_names_row
 
-        for predefined_service_name in PREDEFINED_SERVICE_IDS_BY_THEIR_NAMES.keys():
-            if predefined_service_name not in all_services_in_current_csv:
-                raise InvalidRowStructure(self.NO_PREDEFINED_SERVICES_ERR_MSG % (
-                    predefined_service_name, ', '.join(all_services_in_current_csv)
-                ))
+        service_id_reader = ServiceIdReader()
+        for input_service in all_services_in_current_csv:
+            service_id_reader.get_id(input_service, True)  # this will throw exception on unrecognized service
+        # for predefined_service_name in PREDEFINED_SERVICE_IDS_BY_THEIR_NAMES.keys():
+        #     if predefined_service_name not in all_services_in_current_csv:
+        #         raise InvalidRowStructure(self.NO_PREDEFINED_SERVICES_ERR_MSG % (
+        #             predefined_service_name, ', '.join(all_services_in_current_csv)
+        #         ))
 
     def check(self):
         super(MultipleServicesTypeCsvCheckerForIndexServiceJsonConversion, self).check()
