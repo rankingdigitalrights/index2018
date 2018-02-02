@@ -911,7 +911,10 @@
 
 	/* Data stories items */
 	#key-stories{
-		padding-top: 3em;
+		padding-top: 5em;
+		h1{
+			margin-bottom: .6em;
+		}
 	}
 	.data-stories {
 		.data-stories-items {
@@ -996,11 +999,12 @@
 	}
 
 	.data-stories-tabs{
+
 		section{
 			display: none;
 			padding: 20px 0 0;
 			h3{
-				color: #3a4b5c;
+				color: $dark-blue;
 				padding: 20px 0 15px;
 			}
 		}
@@ -1013,7 +1017,7 @@
 			margin: 0 5px -1px 0;
 			padding: 10px 25px;
 			text-align: center;
-			color: #3a4b5c;
+			color: $dark-blue;
 			border: 1px solid transparent;
 			border-radius: 15px;
 			font-family: $simplon-regular;
@@ -1024,8 +1028,8 @@
 
 		input:checked + label {
 			color: $white;
-			background-color: #3a4b5c;
-			border: 1px solid #3a4b5c;
+			background-color: $dark-blue;
+			border: 1px solid $dark-blue;
 		}
 
 		#tab1:checked ~ #content1,

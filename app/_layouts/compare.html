@@ -16,15 +16,17 @@
   <!-- Header -->
   {% include banner.html %}
 
-  <div class="main-content">
-    <div id="site-canvas" class="page-content-dynamic" data-type="{{ page.visualization }}" data-id="{{ page.entity }}">
+
+  <div id="site-canvas" class="page-content-dynamic" data-type="{{ page.visualization }}" data-id="{{ page.entity }}">
 
       <div id="top"></div>
 
       <section class="page-introduction">
-        <div class="row contain spaced-row">
-          <h1 class="page--title">{{ page.header }}</h1>
-          <p>{{ page.introduction }}</p>
+        <div class="main-content-with-padding">
+          <div class="row contain spaced-row">
+            <h1 class="page--title">{{ page.header }}</h1>
+            <p>{{ page.introduction }}</p>
+          </div>
         </div>
       </section>
 
@@ -37,7 +39,8 @@
       {% if page.items %}
       {% for item in page.items %}
       <section class="item">
-        <div class="contain spaced-row row">
+        <div class="main-content-with-padding">
+            <div class="contain spaced-row row">
           <div class="container--score">
             &nbsp;{% if item.score %}<span>{{item.score}}</span>{% endif %}
           </div>
@@ -49,13 +52,14 @@
             <a href="#top"><i class="fa fa-angle-double-up" aria-hidden="true"></i></a>
           </div>
         </div>
+        </div>
       </section>
       {% endfor %}
       {% endif %}
 
 
     </div>
-  </div>
+
 
 
 

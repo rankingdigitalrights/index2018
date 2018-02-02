@@ -16,18 +16,22 @@ overflow-x: hidden;
 }
 
 /* Main-content */
-.main-content{
-  padding: 0 1em;
+.main-content-with-padding{
+  padding-left: 1em;
+  padding-right: 1em;
   top: 5px;
   position: relative;
   @include media(medium-up) {
-    padding: 0 3.7em;
+    padding-left: 3.7em;
+    padding-right: 3.7em;
   }
   @include media(large-up) {
-    padding: 0 4em;
+    padding-left: 4em;
+    padding-right: 4em;
   }
   @include media(xlarge-up) {
-    padding: 0 4.7em;
+    padding-left: 4.7em;
+    padding-right: 4.7em;
   }
 }
 

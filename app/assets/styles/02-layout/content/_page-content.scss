@@ -83,18 +83,23 @@
 
 
 .page--intro {
-padding: 1.5em 0 0.5em 0;
+	padding-top: 1.5em;
+	padding-bottom: 0.5em;
 	@include media(small-up) {
-	padding: 1.5em 0;
+		padding-top: 1.5em;
+		padding-bottom: 1.5em;
 	}
 	@include media(medium-up) {
-	padding: 1.5em 0;
+		padding-top: 1.5em;
+		padding-bottom: 1.5em;
 	}
 	@include media(large-up) {
-	padding: 2em 0;
+		padding-top: 2em;
+		padding-bottom: 2em;
 	}
 	@include media(xlarge-up) {
-	padding: 4em 0;
+		padding-top: 4em;
+		padding-bottom: 4em;
 	} 
 }
 
