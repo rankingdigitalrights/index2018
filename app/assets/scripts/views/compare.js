@@ -122,11 +122,23 @@ function columnChart() {
         .attr('class', 'company--name')
         .attr('transform', function(d, i) { return data[i][1] < 0 ? 'rotate(-45), translate(10, -10)' : 'rotate(-45), translate(-5, 5)' });
 
-
-        // Update the y-axis.
+      // Update the y-axis.
       // g.select(".y.axis").call(yAxis);
 
-
+      gEnter.append("g").attr("class", "x axis label");
+      g.select(".x.axis.label")
+        .attr("transform", "translate(0," + Y0() + ")")
+        .call(xAxis.tickSize(0))
+        .selectAll('text')
+        .attr('x', '0')
+        .attr('y', function(d, i) {
+          var $height = Math.abs(Y(data[i]) - Y0());
+          var $retval  = data[i][1] >= 0 ? $height*(-1)-20 : $height + 5 ;
+          return $retval;
+        })
+        .attr('class', function(d,i) { return data[i][1] < 0 ? 'label positive' : 'label negative' } )
+        .data(data)
+        .html(function(d,i) { return d[1] });
 
     });
   }
