@@ -104,14 +104,25 @@
     font-size: 16px;
   }
 
-  .label div {
-    background-color: #00A65A;
+  .legend {
     border-radius: 2px;
     color: #FFFFFF;
-    display: inline-block;
     font-weight: bold;
-    padding: 4px 5px 1px;
-    margin-top: 6px;
+  }
+  .legend--zero {
+    fill: #777777;
+  }
+  .legend--positive {
+    fill: #00A65A;
+  }
+  .legend--negative {
+    fill: #B7000D;
+  }
+
+  .rank {
+    fill: #ffffff;
+    font-size: 13px;
+    font-weight: bold;
   }
 
 }
