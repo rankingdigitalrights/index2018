@@ -138,12 +138,15 @@
     <script type="text/javascript" src="https://cdn.rawgit.com/vaakash/jquery-collapser/master/jquery.collapser.min.js"></script>
     <script type="text/javascript">
       jQuery(document).ready(function($){
-        $('.container--body p').collapser({
-          mode: 'words',
-          truncate: 20,
-          showText: '[+]',
-          hideText: '[-]',
-        });
+        setTimeout(function() {
+          $('.container--body p').collapser({
+            mode: 'words',
+            truncate: 25,
+            showText: '[+]',
+            hideText: '[-]',
+          });
+        }, 10);
+
       });
   </script>
 
