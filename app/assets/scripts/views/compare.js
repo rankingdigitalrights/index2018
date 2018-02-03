@@ -5,27 +5,19 @@ var $ = require('jquery');
 var d3 = require('d3');
 d3.tip = require('d3-tip')(d3);
 var baseurl = require('../util/base-url');
+var template = require('../templates/compare.tpl');
 
 module.exports = Backbone.View.extend({
-
-
-    // We want to render four circle graphs:
-    // the overview, and each category graph.
     render: function (el) {
-
         var data = this.collection.models;
-
         var $data = [];
         data.forEach(function (i) {
-            $data.push({name:i.attributes.name,total_difference:i.attributes.total_difference});
+            $data.push({name:i.attributes.name,total_difference:i.attributes.total_difference, description:i.attributes.description});
         });
-
         $data.sort(function(a, b) {
             return parseFloat(a.total_difference) - parseFloat(b.total_difference);
         });
-
         $data.reverse();
-
         d3.select("#compare--overview_chart")
             .datum($data)
             .call(columnChart()
@@ -34,6 +26,11 @@ module.exports = Backbone.View.extend({
             .x(function(d, i) { return d.name; })
             .y(function(d, i) { return d.total_difference; }));
 
+        $data.forEach(function (i) {
+          $("#compare--overview_list").append(
+            template({name:i.name, total_difference:i.total_difference, description:i.description})
+          );
+        });
     },
 });
 
@@ -49,8 +46,7 @@ function columnChart() {
       yScale = d3.scale.linear(),
       yAxis = d3.svg.axis().scale(yScale).orient("left"),
       xAxis = d3.svg.axis().scale(xScale);
-      
-
+  
   function chart(selection) {
     selection.each(function(data) {
 

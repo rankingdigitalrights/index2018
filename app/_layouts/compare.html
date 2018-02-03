@@ -57,6 +57,7 @@
       {% endfor %}
       {% endif %}
 
+      <div id="compare--overview_list"></div>
 
     </div>
 
@@ -139,7 +140,7 @@
       jQuery(document).ready(function($){
         $('.container--body p').collapser({
           mode: 'words',
-          truncate: 50,
+          truncate: 25,
           showText: '[+]',
           hideText: '[-]',
         });

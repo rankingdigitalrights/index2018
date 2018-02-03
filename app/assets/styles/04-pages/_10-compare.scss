@@ -58,14 +58,25 @@
 
       .container--score {
         span{
-          background-color: #00A65A;
           border-radius: 2px;
           color: #FFFFFF;
           display: inline-block;
           font-weight: bold;
-          padding: 4px 5px 1px;
+          padding-top:5px;
+          height: 25px;
+          width: 80%;
+          text-align: center;
           margin-top: 6px;
         }
+        .positive {
+            background-color: #00A65A;
+          }
+          .negative {
+            background-color: #B7000D;
+          }
+          .zero {
+            background-color: #777777;
+          }
       }
       .container--body {
         margin: 0;
