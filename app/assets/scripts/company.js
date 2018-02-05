@@ -24,6 +24,8 @@ module.exports = function (companyName) {
 
   var companyIndicator = new CompanyIndicator();
 
+  console.info(companyIndicator);
+
   var category = new CategoryChart({
     collection: overview,
     highlighted: companyName

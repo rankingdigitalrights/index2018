@@ -15,111 +15,108 @@
 
     {% include banner.html %}
 
+    <div class="main-content">
       <div id="site-canvas" data-type="company" data-id="{{ page.entity }}">
 
         <!-- Introduction -->
         <section class="introduction">
-          <div class="main-content-with-padding">
-            <div class="contain row">
 
-              <div class="container--left">
+          <div class="contain row">
 
-                <div class="company-type">
-                  <i class="fa fa-circle"></i> {{ page.company_type }}
-                </div>
+            <div class="container--left">
 
-                <h1 class="page--title">
-                  {{ page.display }}
-                </h1>
-
-                <div class="comp--sub_headquarters">
-                  <i class="fa fa-map-marker" aria-hidden="true"></i>
-
-                  <label>Domicile:</label>
-                  {{ page.headquarters }}
-                </div>
-
-                <div class="comp--sub_website">
-                  <i class="fa fa-link" aria-hidden="true"></i>
-                  <label>Link:</label>
-                  <a href="{{ page.link }}" target="_blank">
-                    {{ page.link }}
-                  </a>
-                </div>
-
-                {% if page.operating %}
-                <div class="comp--sub_operating">
-                  <label><strong>Operating Company Evaluated:</strong></label>
-                  {{ page.operating }}
-                </div>
-                {% endif %}
-
+              <div class="company-type">
+                <i class="fa fa-circle"></i> {{ page.company_type }}
               </div>
 
-              <div class="container--right">
+              <h1 class="page--title">
+                {{ page.display }}
+              </h1>
 
-                <div class="comp--rank">
-                  <label>Rank</label>
-                  <div class="comp--rank--value">10</div>
-                </div> <!-- comp--rank -->
+              <div class="comp--sub_headquarters">
+                <i class="fa fa-map-marker" aria-hidden="true"></i>
 
-                <div class="comp--score">
-                  <label>Score</label>
-                  <div class="comp--score--value">{{ page.total }}%</div>
-                </div> <!-- overall score -->
-
-                <div class="comp--difference">
-                  <label>Difference</label>
-                  <div class="comp--difference--value">25 <i class="fa fa-chevron-down" aria-hidden="true"></i></div>
-                </div> <!-- comp--rank -->
-
-                <div class="comp--among">
-                  <label id="comp--position_among_label" >Rank among {{ page.company_type }}</label>
-                  <!--<div id="comp&#45;&#45;position_among" class="comp&#45;&#45;bar_chart"></div>-->
-                  <div id="commitment--dot_chart" class="comp--dot_chart"></div>
-                </div> <!-- position among other companies -->
-
+                <label>Domicile:</label>
+                {{ page.headquarters }}
               </div>
+
+              <div class="comp--sub_website">
+                <i class="fa fa-link" aria-hidden="true"></i>
+                <label>Link:</label>
+                <a href="{{ page.link }}" target="_blank">
+                  {{ page.link }}
+                </a>
+              </div>
+
+              {% if page.operating %}
+              <div class="comp--sub_operating">
+                <label><strong>Operating Company Evaluated:</strong></label>
+                {{ page.operating }}
+              </div>
+              {% endif %}
 
             </div>
+
+            <div class="container--right">
+
+              <div class="comp--rank">
+                <label>Rank</label>
+                <div class="comp--rank--value">10</div>
+              </div> <!-- comp--rank -->
+
+              <div class="comp--score">
+                <label>Score</label>
+                <div class="comp--score--value">{{ page.total }}%</div>
+              </div> <!-- overall score -->
+
+              <div class="comp--difference">
+                <label>Difference</label>
+                <div class="comp--difference--value">25 <i class="fa fa-chevron-down" aria-hidden="true"></i></div>
+              </div> <!-- comp--rank -->
+
+              <div class="comp--among">
+                <label id="comp--position_among_label" >Rank among {{ page.company_type }}</label>
+                <!--<div id="comp&#45;&#45;position_among" class="comp&#45;&#45;bar_chart"></div>-->
+                <div id="commitment--dot_chart" class="comp--dot_chart"></div>
+              </div> <!-- position among other companies -->
+
+            </div>
+
           </div>
         </section>
 
 
         <!-- Key fiindings-->
         <section class="key-findings">
-          <div class="main-content-with-padding">
-            <div class="contain row">
-              <div class="container--left">
-                <div class="comp--key_findings">
-                  <h2>Key findings</h2>
-                  <ul>
-                    {% for item in page.key_findings %}
-                    <li>{{ item }}</li>
-                    {% endfor %}
-                  </ul>
-                </div>
+          <div class="contain row">
+            <div class="container--left">
+              <div class="comp--key_findings">
+                <h2>Key findings</h2>
+                <ul>
+                  {% for item in page.key_findings %}
+                  <li>{{ item }}</li>
+                  {% endfor %}
+                </ul>
               </div>
-              <div class="container--right">
-                <div class="comp--services_evaluated">
-                  {% if page.services_evaluated %}
-                  <div class="comp--services_evaluated-title">Services evaluated</div>
-                  <div class="comp--instant_mess-wrapper">
-                    {% for item in page.services_evaluated %}
-                    <div class="comp--instant_mess">
-                      <label><a href="{{ site.baseurl }}/services/{{ item.key_href }}">{{ item.key }}</a></label>
-                      <div class="comp--name">{{ item.name }}</div>
-                      <div class="comp--value">{{ item.value }}</div>
-                      <div class="comp--desc">{{ item.desc }}</div>
-                    </div>
-                    {% endfor %}
+            </div>
+            <div class="container--right">
+              <div class="comp--services_evaluated">
+                {% if page.services_evaluated %}
+                <div class="comp--services_evaluated-title">Services evaluated</div>
+                <div class="comp--instant_mess-wrapper">
+                  {% for item in page.services_evaluated %}
+                  <div class="comp--instant_mess">
+                    <label><a href="{{ site.baseurl }}/services/{{ item.key_href }}">{{ item.key }}</a></label>
+                    <div class="comp--name">{{ item.name }}</div>
+                    <div class="comp--value">{{ item.value }}</div>
+                    <div class="comp--desc">{{ item.desc }}</div>
                   </div>
-                  {% endif %}
+                  {% endfor %}
                 </div>
+                {% endif %}
               </div>
             </div>
           </div>
-
         </section>
 
 
@@ -131,261 +128,254 @@
 
         <!-- Section analysis -->
         <section class="section--analysis">
-          <div class="main-content-with-padding">
-            <div class="contain spaced-row row">
 
-              <div class="title-section">
-                <h2>Analysis</h2>
+          <div class="contain spaced-row row">
 
-              </div>
-
-
-              <div class="container--left">
-                <div class="title-line-chart">
-                  <div class="title-line-chart-value" style="width:{{ page.total }}%;"></div>
-                </div>
-                <div class="overall-score">
-                  <label class="label-black-style overall-score-label">Overall score <span class="overall-score-value">{{ page.total }}%</span></label>
-                </div>
-                <p>{{ page.analysis_text_left }}</p>
-              </div>
-
-              <div class="container--right">
-                <div class="key-recommendation">
-                  <label class="label-black-style key-recommendation-label">Key Recommendation</label>
-                  <p>Ranking Digital Rights identified three areas where we think improved disclosure by Facebook would have the greatest positive effect for Facebook users and investors. We did not identify any legal or regulatory obstacles that would prevent Facebook from disclosing this information:
-                  </p>
-                  <ul>
-                    <li>Disclose information about Facebook’s actual rules for enforcing its terms of service.</li>
-                    <li>Provide clearer remedy and response mechanisms for cases where a user has been unfairly punished for content they’ve posted or actions they have taken on the platform.</li>
-                    <li>Bullet point about targeted advertising?</li>
-                  </ul>
-
-                </div>
-                <div class="border-line"></div>
-                <p>{{ page.analysis_text_right }}</p>
-                <div class="comp--industry">
-                  <label>Industry: </label>{{ page.analysis_industry }}
-                </div>
-                <div class="comp--mark">
-                  <label>Market cap: </label>{{ page.analysis_market_cap }}
-                </div>
-                <div class="comp--sank">
-                  <label>Stock symbol: </label>{{ page.analysis_stock_symbol }}
-                </div>
-              </div>
+            <div class="title-section">
+              <h2>Analysis</h2>
 
             </div>
+
+
+            <div class="container--left">
+              <div class="title-line-chart">
+                <div class="title-line-chart-value" style="width:{{ page.total }}%;"></div>
+              </div>
+              <div class="overall-score">
+                <label class="label-black-style overall-score-label">Overall score <span class="overall-score-value">{{ page.total }}%</span></label>
+              </div>
+              <p>{{ page.analysis_text_left }}</p>
+            </div>
+
+            <div class="container--right">
+              <div class="key-recommendation">
+                <label class="label-black-style key-recommendation-label">Key Recommendation</label>
+                <p>Ranking Digital Rights identified three areas where we think improved disclosure by Facebook would have the greatest positive effect for Facebook users and investors. We did not identify any legal or regulatory obstacles that would prevent Facebook from disclosing this information:
+                </p>
+                <ul>
+                  <li>Disclose information about Facebook’s actual rules for enforcing its terms of service.</li>
+                  <li>Provide clearer remedy and response mechanisms for cases where a user has been unfairly punished for content they’ve posted or actions they have taken on the platform.</li>
+                  <li>Bullet point about targeted advertising?</li>
+                </ul>
+
+              </div>
+              <div class="border-line"></div>
+              <p>{{ page.analysis_text_right }}</p>
+              <div class="comp--industry">
+                <label>Industry: </label>{{ page.analysis_industry }}
+              </div>
+              <div class="comp--mark">
+                <label>Market cap: </label>{{ page.analysis_market_cap }}
+              </div>
+              <div class="comp--sank">
+                <label>Stock symbol: </label>{{ page.analysis_stock_symbol }}
+              </div>
+            </div>
+
           </div>
         </section>
 
 
         <!-- Section governance -->
         <section class="section--governance">
-          <div class="main-content-with-padding">
-            <div class="contain spaced-row row">
-              <div class="title-section">
-                <div class="category-label">
-                  <label>Category</label>
-                  <h2 class="governance">Governance <span class="score-value">{{ page.governance }}%</span></h2>
-                </div>
+          <div class="contain spaced-row row">
+
+            <div class="title-section">
+              <div class="category-label">
+                <label>Category</label>
+                <h2 class="governance">Governance <span class="score-value">{{ page.governance }}%</span></h2>
               </div>
-              <div class="container--left">
+            </div>
+            <div class="container--left">
 
-                <ul class="scores-and-difference">
-                  <li>
-                    <label>Score 2017</label>
-                    <div class="label-black-style score-value">45%</div>
-                  </li>
-                  <li>
-                    <label>Score 2018</label>
-                    <div class="label-black-style score-value">81%</div>
-                  </li>
-                  <li>
-                    <label>Difference</label>
-                    <div class="label-black-style score-value">25 <i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
-                  </li>
-                </ul>
-                <p>{{ page.governance_text }}</p>
+              <ul class="scores-and-difference">
+                <li>
+                  <label>Score 2017</label>
+                  <div class="label-black-style score-value">45%</div>
+                </li>
+                <li>
+                  <label>Score 2018</label>
+                  <div class="label-black-style score-value">81%</div>
+                </li>
+                <li>
+                  <label>Difference</label>
+                  <div class="label-black-style score-value">25 <i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
+                </li>
+              </ul>
+              <p>{{ page.governance_text }}</p>
+
+            </div>
+
+            <div class="container--right">
+              <div class="company-indicators">
+                <label>Indicators</label>
+                <div id="indicators--commitment" class="company-indicators company-line-chart">
+                </div>
 
               </div>
-              <div class="container--right">
-                <div class="company-indicators">
-                  <label>Indicators</label>
-                  <div id="indicators--commitment" class="company-indicators company-line-chart">
+              <div class="summary-of-changes">
+                <label> Summary of changes</label>
+                <div class="positive-change">
+                  <div class="arrow"><i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
+                  <div class="text-change">
+                    <p class="title-change">F4. data about terms of service enforcement</p>
+                    <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
+                      of any company evaluated(after Twitter). The company improved its public commitment.</p>
                   </div>
-
                 </div>
-                <div class="summary-of-changes">
-                  <label> Summary of changes</label>
-                  <div class="positive-change">
-                    <div class="arrow"><i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
-                    <div class="text-change">
-                      <p class="title-change">F4. data about terms of service enforcement</p>
-                      <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
-                        of any company evaluated(after Twitter). The company improved its public commitment.</p>
-                    </div>
-                  </div>
-                  <div class="negative-change">
-                    <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
-                    <div class="text-change">
-                      <p class="title-change">F4. data about terms of service enforcement</p>
-                      <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
-                        of any company evaluated(after Twitter). The company improved its public commitment.</p>
-                    </div>
+                <div class="negative-change">
+                  <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
+                  <div class="text-change">
+                    <p class="title-change">F4. data about terms of service enforcement</p>
+                    <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
+                      of any company evaluated(after Twitter). The company improved its public commitment.</p>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-
         </section>
 
 
         <!-- Section freedom -->
         <section class="section--freedom">
-          <div class="main-content-with-padding">
-            <div class="contain spaced-row row">
+          <div class="contain spaced-row row">
 
-              <div class="title-section">
-                <div class="category-label">
-                  <label>Category</label>
-                  <h2 class="freedom">Freedom of expression <span class="score-value">{{ page.freedom }}%</span></h2>
-                </div>
-
+            <div class="title-section">
+              <div class="category-label">
+                <label>Category</label>
+                <h2 class="freedom">Freedom of expression <span class="score-value">{{ page.freedom }}%</span></h2>
               </div>
-              <div class="container--left">
 
-                <ul class="scores-and-difference">
-                  <li>
-                    <label>Score 2017</label>
-                    <div class="label-black-style score-value">45%</div>
-                  </li>
-                  <li>
-                    <label>Score 2018</label>
-                    <div class="label-black-style score-value">64%</div>
-                  </li>
-                  <li>
-                    <label>Difference</label>
-                    <div class="label-black-style score-value">25 <i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
-                  </li>
-                </ul>
-                <p>{{ page.freedom_text }}</p>
+            </div>
+            <div class="container--left">
 
+              <ul class="scores-and-difference">
+                <li>
+                  <label>Score 2017</label>
+                  <div class="label-black-style score-value">45%</div>
+                </li>
+                <li>
+                  <label>Score 2018</label>
+                  <div class="label-black-style score-value">64%</div>
+                </li>
+                <li>
+                  <label>Difference</label>
+                  <div class="label-black-style score-value">25 <i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
+                </li>
+              </ul>
+              <p>{{ page.freedom_text }}</p>
+
+            </div>
+            <div class="container--right">
+              <div class="company-indicators">
+                <label> Summary of changes</label>
+                <div id="indicators--freedom"  class="company-line-chart"></div>
               </div>
-              <div class="container--right">
-                <div class="company-indicators">
-                  <label> Summary of changes</label>
-                  <div id="indicators--freedom"  class="company-line-chart"></div>
+              <div class="summary-of-changes">
+                <label> Summary of changes</label>
+                <div class="positive-change">
+                  <div class="arrow"><i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
+                  <div class="text-change">
+                    <p class="title-change">F4. data about terms of service enforcement</p>
+                    <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
+                      of any company evaluated(after Twitter). The company improved its public commitment.</p>
+                  </div>
                 </div>
-                <div class="summary-of-changes">
-                  <label> Summary of changes</label>
-                  <div class="positive-change">
-                    <div class="arrow"><i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
-                    <div class="text-change">
-                      <p class="title-change">F4. data about terms of service enforcement</p>
-                      <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
-                        of any company evaluated(after Twitter). The company improved its public commitment.</p>
-                    </div>
+                <div class="negative-change">
+                  <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
+                  <div class="text-change">
+                    <p class="title-change">F4. data about terms of service enforcement</p>
+                    <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
+                      of any company evaluated(after Twitter). The company improved its public commitment.</p>
                   </div>
-                  <div class="negative-change">
-                    <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
-                    <div class="text-change">
-                      <p class="title-change">F4. data about terms of service enforcement</p>
-                      <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
-                        of any company evaluated(after Twitter). The company improved its public commitment.</p>
-                    </div>
-                  </div>
-                  <div class="negative-change">
-                    <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
-                    <div class="text-change">
-                      <p class="title-change">F4. data about terms of service enforcement</p>
-                      <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
-                        of any company evaluated(after Twitter). The company improved its public commitment.</p>
-                    </div>
+                </div>
+                <div class="negative-change">
+                  <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
+                  <div class="text-change">
+                    <p class="title-change">F4. data about terms of service enforcement</p>
+                    <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
+                      of any company evaluated(after Twitter). The company improved its public commitment.</p>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-
         </section>
 
         <!-- Section privacy -->
         <section class="section--privacy">
-          <div class="main-content-with-padding">
-            <div class="contain spaced-row row">
+          <div class="contain spaced-row row">
 
-              <div class="title-section">
-                <div class="category-label">
-                  <label>Category</label>
-                  <h2 class="privacy">Privacy <span class="score-value">{{ page.privacy }}%</span></h2>
-                </div>
-
-              </div>
-
-              <div class="container--left">
-
-                <ul class="scores-and-difference">
-                  <li>
-                    <label>Score 2017</label>
-                    <div class="label-black-style score-value">45%</div>
-                  </li>
-                  <li>
-                    <label>Score 2018</label>
-                    <div class="label-black-style score-value">64%</div>
-                  </li>
-                  <li>
-                    <label>Difference</label>
-                    <div class="label-black-style score-value">25 <i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
-                  </li>
-                </ul>
-                <p>{{ page.privacy_text }}</p>
-
-              </div>
-
-              <div class="container--right">
-
-                <div class="company-indicators">
-                  <label> Summary of changes</label>
-                  <div id="indicators--privacy"  class="company-line-chart"></div>
-                </div>
-                <div class="summary-of-changes">
-                  <label> Summary of changes</label>
-                  <div class="positive-change">
-                    <div class="arrow"><i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
-                    <div class="text-change">
-                      <p class="title-change">F4. data about terms of service enforcement</p>
-                      <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
-                        of any company evaluated(after Twitter). The company improved its public commitment.</p>
-                    </div>
-                  </div>
-                  <div class="negative-change">
-                    <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
-                    <div class="text-change">
-                      <p class="title-change">F4. data about terms of service enforcement</p>
-                      <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
-                        of any company evaluated(after Twitter). The company improved its public commitment.</p>
-                    </div>
-                  </div>
-                  <div class="negative-change">
-                    <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
-                    <div class="text-change">
-                      <p class="title-change">F4. data about terms of service enforcement</p>
-                      <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
-                        of any company evaluated(after Twitter). The company improved its public commitment.</p>
-                    </div>
-                  </div>
-                </div>
+            <div class="title-section">
+              <div class="category-label">
+                <label>Category</label>
+                <h2 class="privacy">Privacy <span class="score-value">{{ page.privacy }}%</span></h2>
               </div>
 
             </div>
-          </div>
 
+            <div class="container--left">
+
+              <ul class="scores-and-difference">
+                <li>
+                  <label>Score 2017</label>
+                  <div class="label-black-style score-value">45%</div>
+                </li>
+                <li>
+                  <label>Score 2018</label>
+                  <div class="label-black-style score-value">64%</div>
+                </li>
+                <li>
+                  <label>Difference</label>
+                  <div class="label-black-style score-value">25 <i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
+                </li>
+              </ul>
+              <p>{{ page.privacy_text }}</p>
+
+            </div>
+
+            <div class="container--right">
+
+              <div class="company-indicators">
+                <label> Summary of changes</label>
+                <div id="indicators--privacy"  class="company-line-chart"></div>
+              </div>
+              <div class="summary-of-changes">
+                <label> Summary of changes</label>
+                <div class="positive-change">
+                  <div class="arrow"><i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
+                  <div class="text-change">
+                    <p class="title-change">F4. data about terms of service enforcement</p>
+                    <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
+                      of any company evaluated(after Twitter). The company improved its public commitment.</p>
+                  </div>
+                </div>
+                <div class="negative-change">
+                  <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
+                  <div class="text-change">
+                    <p class="title-change">F4. data about terms of service enforcement</p>
+                    <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
+                      of any company evaluated(after Twitter). The company improved its public commitment.</p>
+                  </div>
+                </div>
+                <div class="negative-change">
+                  <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
+                  <div class="text-change">
+                    <p class="title-change">F4. data about terms of service enforcement</p>
+                    <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
+                      of any company evaluated(after Twitter). The company improved its public commitment.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
         </section>
 
       </div>
-    
+    </div>
+
 
     {% include footer.html %}
 
