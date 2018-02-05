@@ -57,26 +57,84 @@
       }
 
       .container--score {
-        span{
-          border-radius: 2px;
-          color: #FFFFFF;
+        //span{
+        //  border-radius: 2px;
+        //  color: #FFFFFF;
+        //  display: inline-block;
+        //  font-weight: bold;
+        //  padding-top:5px;
+        //  height: 25px;
+        //  width: 80%;
+        //  text-align: center;
+        //  margin-top: 6px;
+        //}
+        span {
+          position: relative;
+          //background-color: #00A65A;
+          //border: 1px solid #00A65A;
           display: inline-block;
           font-weight: bold;
+          color: #FFFFFF;
           padding-top:5px;
           height: 25px;
-          width: 80%;
+          width: 70%;
           text-align: center;
           margin-top: 6px;
+          border-radius: 2px;
+        }
+        span:after, span:before {
+          left: 100%;
+          top: 50%;
+          border: solid transparent;
+          content: " ";
+          height: 0;
+          width: 0;
+          position: absolute;
+          pointer-events: none;
+        }
+
+        span:after {
+          border-color: rgba(0, 166, 90, 0);
+          //border-left-color: #00A65A;
+          border-width: 5px;
+          margin-top: -5px;
+        }
+        span:before {
+          border-color: rgba(0, 166, 90, 0);
+          //border-left-color: #00A65A;
+          border-width: 6px;
+          margin-top: -6px;
         }
         .positive {
-            background-color: #00A65A;
+          background-color: #00A65A;
+          border: 1px solid #00A65A;
+          &:after{
+            border-left-color: #00A65A;
           }
-          .negative {
-            background-color: #B7000D;
+          &:before{
+            border-left-color: #00A65A;
           }
-          .zero {
-            background-color: #777777;
+        }
+        .negative {
+          background-color: #B7000D;
+          border: 1px solid #B7000D;
+          &:after{
+            border-left-color: #B7000D;
           }
+          &:before{
+            border-left-color: #B7000D;
+          }
+        }
+        .zero {
+          background-color: #777777;
+          border: 1px solid #777777;
+          &:after{
+            border-left-color: #777777;
+          }
+          &:before{
+            border-left-color: #777777;
+          }
+        }
       }
       .container--body {
         margin: 0;
