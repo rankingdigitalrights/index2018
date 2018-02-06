@@ -352,18 +352,18 @@
 
             <div class="data-stories-tabs">
 
-              <input id="tab1" type="radio" name="tabs" checked>
-              <label for="tab1">Company Disclosure</label>
-              <input id="tab2" type="radio" name="tabs">
-              <label for="tab2">Mobile Ecosystems</label>
-              <input id="tab3" type="radio" name="tabs">
-              <label for="tab3">User Information</label>
-              <input id="tab4" type="radio" name="tabs">
-              <label for="tab4">Security</label>
-              <input id="tab5" type="radio" name="tabs">
-              <label for="tab5">Recommendation</label>
+              <!--<input id="tab1" type="radio" name="tabs" checked>-->
+              <!--<label for="tab1"></label>-->
+              <!--<input id="tab2" type="radio" name="tabs">-->
+              <!--<label for="tab2">Mobile Ecosystems</label>-->
+              <!--<input id="tab3" type="radio" name="tabs">-->
+              <!--<label for="tab3">User Information</label>-->
+              <!--<input id="tab4" type="radio" name="tabs">-->
+              <!--<label for="tab4">Security</label>-->
+              <!--<input id="tab5" type="radio" name="tabs">-->
+              <!--<label for="tab5">Recommendation</label>-->
 
-              <section id="content1">
+              <div id="tab-1" class="tab-content current">
                 <h3>Company Disclosure</h3>
                 <p>
                   The 2017 Index ranks 22 companies on 35 indicators across three categories. The indicators measure if and how well companies
@@ -371,43 +371,51 @@
                   operating company and those of selected services (depending on company structure. Read more about the methodology, research process
                   and how we score each company.
                 </p>
-              </section>
-              <section id="content2">
+              </div>
+              <div id="tab-2" class="tab-content">
                 <h3>Mobile Ecosystems</h3>
                 <p>
-                  The 2017 Index ranks 22 companies on 35 indicators across three categories. The indicators measure if and how well companies
+                  Mobile Ecosystems Text The 2017 Index ranks 22 companies on 35 indicators across three categories. The indicators measure if and how well companies
                   disclose policies affecting users’ freedom of expression and privacy. The Index evaluates policies of the parent company,
                   operating company and those of selected services (depending on company structure. Read more about the methodology, research process
                   and how we score each company.
                 </p>
-              </section>
-              <section id="content3">
+              </div>
+              <div id="tab-3" class="tab-content">
                 <h3>User Information</h3>
                 <p>
-                  The 2017 Index ranks 22 companies on 35 indicators across three categories. The indicators measure if and how well companies
+                  User Information Text - The 2017 Index ranks 22 companies on 35 indicators across three categories. The indicators measure if and how well companies
                   disclose policies affecting users’ freedom of expression and privacy. The Index evaluates policies of the parent company,
                   operating company and those of selected services (depending on company structure. Read more about the methodology, research process
                   and how we score each company.
                 </p>
-              </section>
-              <section id="content4">
+              </div>
+              <div id="tab-4" class="tab-content">
                 <h3>Security</h3>
                 <p>
-                  The 2017 Index ranks 22 companies on 35 indicators across three categories. The indicators measure if and how well companies
+                  Security - The 2017 Index ranks 22 companies on 35 indicators across three categories. The indicators measure if and how well companies
                   disclose policies affecting users’ freedom of expression and privacy. The Index evaluates policies of the parent company,
                   operating company and those of selected services (depending on company structure. Read more about the methodology, research process
                   and how we score each company.
                 </p>
-              </section>
-              <section id="content5">
+              </div>
+              <div id="tab-5" class="tab-content">
                 <h3>Recommendation</h3>
                 <p>
-                  The 2017 Index ranks 22 companies on 35 indicators across three categories. The indicators measure if and how well companies
+                  Recommendation - The 2017 Index ranks 22 companies on 35 indicators across three categories. The indicators measure if and how well companies
                   disclose policies affecting users’ freedom of expression and privacy. The Index evaluates policies of the parent company,
                   operating company and those of selected services (depending on company structure. Read more about the methodology, research process
                   and how we score each company.
                 </p>
-              </section>
+              </div>
+
+              <ul class="tabs">
+                <li class="tab-link current" data-tab="tab-1">Company Disclosure</li>
+                <li class="tab-link" data-tab="tab-2">Mobile Ecosystems</li>
+                <li class="tab-link" data-tab="tab-3">User Information</li>
+                <li class="tab-link" data-tab="tab-4">Security</li>
+                <li class="tab-link" data-tab="tab-5">Recommendation</li>
+              </ul>
 
             </div>
 
@@ -500,6 +508,19 @@
           $(this).addClass('current');
           $("#" + tab_id).addClass('current');
         })
+      })
+
+      // Current tab - Report
+      $(document).ready(function () {
+          $('ul.tabs li').click(function(){
+              var tab_id = $(this).attr('data-tab');
+
+              $('ul.tabs li').removeClass('current');
+              $('.tab-content').removeClass('current');
+
+              $(this).addClass('current');
+              $("#"+tab_id).addClass('current');
+          })
       })
     </script>
     
