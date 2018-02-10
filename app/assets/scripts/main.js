@@ -6,7 +6,6 @@ var renderAllIndicators = require('./indicators');
 var renderCategoryPage = require('./category');
 var renderServicePage = require('./services');
 var renderIndexPage = require('./index');
-var renderMapPage = require('./map');
 var renderComparePage = require('./compare')
 var renderCompaniesPage = require('./companies');
 
@@ -38,9 +37,6 @@ resize.start();
   }
   else if (type === 'index') {
     renderIndexPage();
-  }
-  else if (type === 'map') {
-    renderMapPage();
   }
   // Companies page
   else if (type === 'companies') {

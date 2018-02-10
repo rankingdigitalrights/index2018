@@ -5,6 +5,8 @@ var IndexService = require('./collections/index-service');
 var Companies = require('./views/index');
 var VIndexService = require('./views/index-service');
 var Map = require('./views/map');
+var Compare = require('./collections/compare');
+var CompareView = require('./views/compare');
 
 module.exports = function () {
   var $parent = $('#site-canvas');
@@ -38,7 +40,19 @@ module.exports = function () {
     }
   });
 
+  // Map
   var map = new Map();
   //map.render();
+
+  // Compare
+  var compare = new Compare();
+  var compareView = new CompareView({
+    collection: compare,
+  });
+  compare.fetch({
+    success: function () {
+      compareView.render();
+    }
+  });
 
 };
