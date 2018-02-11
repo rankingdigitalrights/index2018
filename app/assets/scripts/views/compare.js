@@ -36,7 +36,7 @@ module.exports = Backbone.View.extend({
 
 
 function columnChart() {
-  var margin = {top: 30, right: 10, bottom: 50, left: 50},
+  var margin = {top: 30, right: 20, bottom: 30, left: 20},
       width = 100,
       height = 400,
       xRoundBands = 0.05,

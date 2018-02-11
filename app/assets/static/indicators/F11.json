@@ -1,945 +1,695 @@
 {
-   "id":"F11",
-   "name":"F11. IDENTITY POLICY",
-   "paragraph_1":"The company should not require users to verify their identity with their government-issued identification, or other forms of identification that could be connected to their offline identity.",
-   "companies":[
-      {
-         "name":"América Móvil",
-         "id":"americamovil",
-         "headers":[
-            {
-               "text":"Prepaid Mobile"
-            },
-            {
-               "text":"Postpaid Mobile"
-            }
-         ],
-         "average":[
-            {
-               "value":"0"
-            },
-            {
-               "value":"N/A"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"exclude"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Apple",
-         "id":"apple",
-         "headers":[
-            {
-               "text":"iOS mobile ecosystem"
-            },
-            {
-               "text":"iMessage"
-            },
-            {
-               "text":"iCloud"
-            }
-         ],
-         "average":[
-            {
-               "value":"50"
-            },
-            {
-               "value":"50"
-            },
-            {
-               "value":"50"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"AT&T",
-         "id":"att",
-         "headers":[
-            {
-               "text":"Prepaid Mobile (GoPhone)"
-            },
-            {
-               "text":"Postpaid Mobile"
-            },
-            {
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[
-            {
-               "value":"100"
-            },
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"N/A"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"N/A"
-                  },
-                  {
-                     "value":"N/A"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Axiata",
-         "id":"axiata",
-         "headers":[
-            {
-               "text":"Prepaid Mobile"
-            },
-            {
-               "text":"Postpaid Mobile"
-            }
-         ],
-         "average":[
-            {
-               "value":"0"
-            },{
-               "value":"N/A"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"N/A"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Baidu",
-         "id":"baidu",
-         "headers":[
-            {
-               "text":"Baidu Search"
-            },
-            {
-               "text":"Baidu Cloud"
-            },
-            {
-               "text":"Baidu PostBar"
-            }
-         ],
-         "average":[
-            {
-               "value":"0"
-            },
-            {
-               "value":"0"
-            },
-            {
-               "value":"0"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Bharti Airtel",
-         "id":"bhartiairtel",
-         "headers":[
-            {
-               "text":"Prepaid Mobile"
-            },
-            {
-               "text":"Postpaid Mobile"
-            },
-            {
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[
-            {
-               "value":"0"
-            },
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"N/A"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"N/A"
-                  },
-                  {
-                     "value":"N/A"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Etisalat",
-         "id":"etisalat",
-         "headers":[
-            {
-               "text":"Prepaid Mobile"
-            },
-            {
-               "text":"Postpaid Mobile"
-            },
-            {
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[
-            {
-               "value":"0"
-            },
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"N/A"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"N/A"
-                  },
-                  {
-                     "value":"N/A"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Facebook",
-         "id":"facebook",
-         "headers":[
-            {
-               "text":"Facebook"
-            },
-            {
-               "text":"Instagram"
-            },
-            {
-               "text":"WhatsApp"
-            },
-            {
-               "text":"Messenger"
-            }
-         ],
-         "average":[
-            {
-               "value":"0"
-            },
-            {
-               "value":"100"
-            },
-            {
-               "value":"100"
-            },
-            {
-               "value":"0"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Google",
-         "id":"google",
-         "headers":[
-            {
-               "text":"Search"
-            },
-            {
-               "text":"Gmail"
-            },
-            {
-               "text":"Youtube"
-            },
-            {
-               "text":"Android mobile ecosystem"
-            }
-         ],
-         "average":[
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"100"
-            },
-            {
-               "value":"100"
-            },
-            {
-               "value":"50"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Kakao",
-         "id":"kakao",
-         "headers":[
-            {
-               "text":"Daum Search"
-            },
-            {
-               "text":"Daum Mail"
-            },
-            {
-               "text":"Kakao Talk"
-            }
-         ],
-         "average":[
-            {
-               "value":"50"
-            },
-            {
-               "value":"50"
-            },
-            {
-               "value":"50"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Mail.ru",
-         "id":"mailru",
-         "headers":[
-            {
-               "text":"Vkontakte"
-            },
-            {
-               "text":"Mail.Ru"
-            },
-            {
-               "text":"Mail.Ru Agent"
-            }
-         ],
-         "average":[
-            {
-               "value":"0"
-            },
-            {
-               "value":"100"
-            },
-            {
-               "value":"100"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Microsoft",
-         "id":"microsoft",
-         "headers":[
-            {
-               "text":"Bing"
-            },
-            {
-               "text":"Outlook.com"
-            },
-            {
-               "text":"Skype"
-            }
-         ],
-         "average":[
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"100"
-            },
-            {
-               "value":"100"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"MTN",
-         "id":"mtn",
-         "headers":[
-            {
-               "text":"Prepaid Mobile"
-            },
-            {
-               "text":"Postpaid Mobile"
-            }
-         ],
-         "average":[
-            {
-               "value":"0"
-            },{
-               "value":"N/A"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"N/A"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Ooredoo",
-         "id":"ooredoo",
-         "headers":[
-            {
-               "text":"Prepaid Mobile"
-            },
-            {
-               "text":"Postpaid Mobile"
-            },
-            {
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[
-            {
-               "value":"0"
-            },
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"N/A"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"N/A"
-                  },
-            {
-               "value":"N/A"
-            }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Orange",
-         "id":"Orange",
-         "headers":[
-            {
-               "text":"Prepaid Mobile"
-            },
-            {
-               "text":"Postpaid Mobile"
-            },
-            {
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[
-            {
-               "value":"0"
-            },
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"N/A"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"N/A"
-                  },
-                  {
-                     "value":"N/A"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Samsung",
-         "id":"samsung",
-         "headers":[
-            {
-               "text":"Samsung implementation of Android"
-            }
-         ],
-         "average":[
-            {
-               "value":"0"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Telefonica",
-         "id":"telefonica",
-         "headers":[
-            {
-               "text":"Prepaid Mobile"
-            },
-            {
-               "text":"Postpaid Mobile"
-            },
-            {
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[
-            {
-               "value":"0"
-            },
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"N/A"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"N/A"
-                  },
-                  {
-                     "value":"N/A"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Tencent",
-         "id":"tencent",
-         "headers":[
-            {
-               "text":"QZone"
-            },
-            {
-               "text":"QQ"
-            },
-            {
-               "text":"WeChat"
-            }
-         ],
-         "average":[
-            {
-               "value":"0"
-            },
-            {
-               "value":"0"
-            },
-            {
-               "value":"0"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Twitter",
-         "id":"twitter",
-         "headers":[
-            {
-               "text":"Twitter"
-            },{
-               "text":"Vine"
-            },
-            {
-               "text":"Periscope"
-            }
-         ],
-         "average":[
-            {
-               "value":"100"
-            },
-            {
-               "value":"100"
-            },
-            {
-               "value":"100"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-            {
-               "value":"100"
-            }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Vodafone",
-         "id":"vodafone",
-         "headers":[
-            {
-               "text":"Prepaid Mobile"
-            },
-            {
-               "text":"Postpaid Mobile"
-            },
-            {
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[
-            {
-               "value":"100"
-            },
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"N/A"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"N/A"
-                  },
-                  {
-                     "value":"N/A"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Yahoo",
-         "id":"yahoo",
-         "headers":[
-            {
-               "text":"Yahoo Mail"
-            },
-            {
-               "text":"Flickr"
-            },
-            {
-               "text":"Tumblr"
-            }
-         ],
-         "average":[
-            {
-               "value":"0"
-            },
-            {
-               "value":"0"
-            },
-            {
-               "value":"100"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Yandex",
-         "id":"yandex",
-         "headers":[
-            {
-               "text":"Yandex Mail"
-            },
-            {
-               "text":"Yandex Search"
-            },
-            {
-               "text":"Yandex Disk (cloud storage)"
-            }
-         ],
-         "average":[
-            {
-               "value":"0"
-            },
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"0"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            }
-         ]
-      }
-   ]
+    "id": "F11",
+    "name": "F11. Identity policy",
+    "companies": [
+        {
+            "id": "americamovil",
+            "name": "América Móvil",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile"
+            ],
+            "average": [
+                "0",
+                "N/A"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "apple",
+            "name": "Apple",
+            "headers": [
+                "iOS mobile ecosystem",
+                "iMessage",
+                "iCloud"
+            ],
+            "average": [
+                "50",
+                "50",
+                "50"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "att",
+            "name": "AT&T",
+            "headers": [
+                "Prepaid Mobile (GoPhone)",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "100",
+                "",
+                "N/A"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "axiata",
+            "name": "Axiata",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile"
+            ],
+            "average": [
+                "0",
+                ""
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "baidu",
+            "name": "Baidu",
+            "headers": [
+                "Baidu Search",
+                "Baidu Cloud",
+                "Baidu PostBar"
+            ],
+            "average": [
+                "0",
+                "0",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "bhartiairtel",
+            "name": "Bharti Airtel",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "0",
+                "",
+                "N/A"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "etisalat",
+            "name": "Etisalat",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "0",
+                "",
+                "N/A"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "facebook",
+            "name": "Facebook",
+            "headers": [
+                "Facebook",
+                "Instagram",
+                "WhatsApp",
+                "Messenger"
+            ],
+            "average": [
+                "0",
+                "100",
+                "100",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "google",
+            "name": "Google",
+            "headers": [
+                "Search",
+                "Gmail",
+                "Youtube",
+                "Android mobile ecosystem"
+            ],
+            "average": [
+                "N/A",
+                "100",
+                "100",
+                "50"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "kakao",
+            "name": "Kakao",
+            "headers": [
+                "Daum Search",
+                "Daum Mail",
+                "Kakao Talk"
+            ],
+            "average": [
+                "50",
+                "50",
+                "50"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "mailru",
+            "name": "Mail.Ru",
+            "headers": [
+                "Vkontakte",
+                "Mail.Ru",
+                "Mail.Ru Agent"
+            ],
+            "average": [
+                "0",
+                "100",
+                "100"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "microsoft",
+            "name": "Microsoft",
+            "headers": [
+                "Bing",
+                "Outlook.com",
+                "Skype"
+            ],
+            "average": [
+                "N/A",
+                "100",
+                "100"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "mtn",
+            "name": "MTN",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile"
+            ],
+            "average": [
+                "0",
+                ""
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ooredoo",
+            "name": "Ooredoo",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "0",
+                "",
+                "N/A"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "orange",
+            "name": "Orange",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "0",
+                "",
+                "N/A"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "samsung",
+            "name": "Samsung",
+            "headers": [
+                "Samsung implementation of Android"
+            ],
+            "average": [
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "telefonica",
+            "name": "Telefónica",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "0",
+                "",
+                "N/A"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tencent",
+            "name": "TenCent",
+            "headers": [
+                "QZone",
+                "QQ",
+                "WeChat"
+            ],
+            "average": [
+                "0",
+                "0",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "twitter",
+            "name": "Twitter",
+            "headers": [
+                "Twitter",
+                "Vine",
+                "Periscope"
+            ],
+            "average": [
+                "100",
+                "100",
+                "100"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vodafone",
+            "name": "Vodafone",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "100",
+                "",
+                "N/A"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "yahoo",
+            "name": "Yahoo",
+            "headers": [
+                "Yahoo Mail",
+                "Flickr",
+                "Tumblr"
+            ],
+            "average": [
+                "0",
+                "0",
+                "100"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "yandex",
+            "name": "Yandex",
+            "headers": [
+                "Yandex Mail",
+                "Yandex Search",
+                "Yandex Disk (cloud storage)"
+            ],
+            "average": [
+                "0",
+                "N/A",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company require users to verify their identity with their government-issued identification, or with other forms of identification that could be connected to their offline identity?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

@@ -16,6 +16,7 @@ module.exports = Backbone.View.extend({
   },
 
   render: function (id) {
+
     var pageId = this.pageId;
     var $el = this.$el;
     var template = this.template;

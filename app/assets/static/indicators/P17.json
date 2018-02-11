@@ -1,1634 +1,1370 @@
 {
-   "id":"P17",
-   "name":"P17. ACCOUNT SECURITY (INTERNET, SOFTWARE, AND DEVICE COMPANIES)",
-   "paragraph_1":"The company should help users keep their accounts secure.",
-   "companies":[
-      {
-         "name":"América Móvil",
-         "id":"americamovil",
-         "headers":[
-            {
-               "text":"Prepaid Mobile"
-            },
-            {
-               "text":"Postpaid Mobile"
-            }
-         ],
-         "average":[
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"N/A"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                     {
-      "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that users can view their recent account activity?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Apple",
-         "id":"apple",
-         "headers":[
-            {
-               "text":"iOS mobile ecosystem"
-            },
-            {
-               "text":"iMessage"
-            },
-            {
-               "text":"iCloud"
-            }
-         ],
-         "average":[
-            {
-               "value":"83"
-            },
-            {
-               "value":"67"
-            },
-            {
-               "value":"67"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   }
-               ]
-            },
-            {
-               "cells":[
-                     {
-      "value": "Does the company clearly disclose that users can view their recent account activity?"
-   },
-   {
-      "value": "50"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"AT&T",
-         "id":"att",
-         "headers":[
-            {
-               "text":"Prepaid Mobile"
-            },
-            {
-               "text":"Postpaid Mobile"
-            },
-            {
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"N/A"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                     {
-      "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that users can view their recent account activity?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Axiata",
-         "id":"axiata",
-         "headers":[
-            {
-               "text":"Prepaid Mobile"
-            },
-            {
-               "text":"Postpaid Mobile"
-            }
-         ],
-         "average":[
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"N/A"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                     {
-      "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {
-               "cells":[
-                     {
-      "value": "Does the company clearly disclose that users can view their recent account activity?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Baidu",
-         "id":"baidu",
-         "headers":[
-            {
-               "text":"Baidu Search"
-            },
-            {
-               "text":"Baidu Cloud"
-            },
-            {
-               "text":"Baidu PostBar"
-            }
-         ],
-         "average":[
-            {
-               "value":"33"
-            },
-            {
-               "value":"33"
-            },
-            {
-               "value":"33"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   }
-               ]
-            },
-            {
-               "cells":[
-                     {
-      "value": "Does the company clearly disclose that users can view their recent account activity?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Bharti Airtel",
-         "id":"bhartiAirtel",
-         "headers":[
-            {
-               "text":"Prepaid Mobile"
-            },
-            {
-               "text":"Postpaid Mobile"
-            },
-            {
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"N/A"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                     {
-      "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that users can view their recent account activity?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Etisalat",
-         "id":"etisalat",
-         "headers":[
-            {
-               "text":"Prepaid Mobile"
-            },
-            {
-               "text":"Postpaid Mobile"
-            },
-            {
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"N/A"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                     {
-      "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that users can view their recent account activity?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Facebook",
-         "id":"facebook",
-         "headers":[
-            {
-               "text":"Facebook"
-            },
-            {
-               "text":"Instagram"
-            },
-            {
-               "text":"WhatsApp"
-            },
-            {
-               "text":"Messenger"
-            }
-         ],
-         "average":[
-            {
-               "value":"83"
-            },
-            {
-               "value":"0"
-            },
-            {
-               "value":"50"
-            },
-            {
-               "value":"83"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "50"
-   },
-   {
-      "value": "100"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that users can view their recent account activity?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "100"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
-   },
-   {
-      "value": "50"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "50"
-   }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Google",
-         "id":"google",
-         "headers":[
-            {
-               "text":"Search"
-            },
-            {
-               "text":"Gmail"
-            },
-            {
-               "text":"Youtube"
-            },
-            {
-               "text":"Android mobile ecosystem"
-            }
-         ],
-         "average":[
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"100"
-            },
-            {
-               "value":"100"
-            },
-            {
-               "value":"83"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that users can view their recent account activity?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "50"
-   }
-               ]
-            },
-            {
-               "cells":[
+    "id": "P17",
+    "name": "P17. Account Security (Internet, software, and device companies)",
+    "companies": [
+        {
+            "id": "americamovil",
+            "name": "América Móvil",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile"
+            ],
+            "average": [
+                "N/A",
+                "N/A"
+            ],
+            "rows": [
                 {
-      "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Kakao",
-         "id":"kakao",
-         "headers":[
-            {
-               "text":"Daum Search"
-            },
-            {
-               "text":"Daum Mail"
-            },
-            {
-               "text":"Kakao Talk"
-            }
-         ],
-         "average":[
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"100"
-            },
-            {
-               "value":"50"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                     {
-      "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {
-               "cells":[
-                     {
-      "value": "Does the company clearly disclose that users can view their recent account activity?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "50"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Mail.ru",
-         "id":"mailru",
-         "headers":[
-            {
-               "text":"Vkontakte"
-            },
-            {
-               "text":"Mail.Ru"
-            },
-            {
-               "text":"Mail.Ru Agent"
-            }
-         ],
-         "average":[
-            {
-               "value":"100"
-            },
-            {
-               "value":"100"
-            },
-            {
-               "value":"33"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                     {
-      "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that users can view their recent account activity?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {
-               "cells":[
-                     {
-      "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Microsoft",
-         "id":"microsoft",
-         "headers":[
-            {
-               "text":"Bing"
-            },
-            {
-               "text":"Outlook.com"
-            },
-            {
-               "text":"Skype"
-            }
-         ],
-         "average":[
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"100"
-            },
-            {
-               "value":"100"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   }
-               ]
-            },
-            {
-               "cells":[
-                     {
-      "value": "Does the company clearly disclose that users can view their recent account activity?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"MTN",
-         "id":"mtn",
-         "headers":[
-            {
-               "text":"Prepaid Mobile"
-            },
-            {
-               "text":"Postpaid Mobile"
-            }
-         ],
-         "average":[
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"N/A"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                     {
-      "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {
-               "cells":[
-                     {
-      "value": "Does the company clearly disclose that users can view their recent account activity?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Ooredoo",
-         "id":"ooredoo",
-         "headers":[
-            {
-               "text":"Prepaid Mobile"
-            },
-            {
-               "text":"Postpaid Mobile"
-            },
-            {
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"N/A"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that users can view their recent account activity?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Orange",
-         "id":"orange",
-         "headers":[
-            {
-               "text":"Prepaid Mobile"
-            },
-            {
-               "text":"Postpaid Mobile"
-            },
-            {
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"N/A"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                     {
-      "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that users can view their recent account activity?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Samsung",
-         "id":"samsung",
-         "headers":[
-            {
-               "text":"Samsung implementation of Android"
-            }
-         ],
-         "average":[
-            {
-               "value":"17"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                     {
-      "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
-   },
-   {
-      "value": "50"
-   }
-               ]
-            },
-            {
-               "cells":[
-                     {
-      "value": "Does the company clearly disclose that users can view their recent account activity?"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Telefónica",
-         "id":"telefonica",
-         "headers":[
-            {
-               "text":"Prepaid Mobile"
-            },
-            {
-               "text":"Postpaid Mobile"
-            },
-            {
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"N/A"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {
-               "cells":[
-                     {
-      "value": "Does the company clearly disclose that users can view their recent account activity?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Tencent",
-         "id":"tencent",
-         "headers":[
-            {
-               "text":"QZone"
-            },
-            {
-               "text":"QQ"
-            },
-            {
-               "text":"WeChat"
-            }
-         ],
-         "average":[
-            {
-               "value":"0"
-            },
-            {
-               "value":"50"
-            },
-            {
-               "value":"33"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that users can view their recent account activity?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {
-               "cells":[
-                     {
-      "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "50"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Twitter",
-         "id":"twitter",
-         "headers":[
-            {
-               "text":"Twitter"
-            },
-            {
-               "text":"Vine"
-            },
-            {
-               "text":"Periscope"
-            }
-         ],
-         "average":[
-            {
-               "value":"83"
-            },
-            {
-               "value":"0"
-            },
-            {
-               "value":"0"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that users can view their recent account activity?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {
-               "cells":[
-                     {
-      "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
-   },
-   {
-      "value": "50"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Vodafone",
-         "id":"vodafone",
-         "headers":[
-            {
-               "text":"Prepaid Mobile"
-            },
-            {
-               "text":"Postpaid Mobile"
-            },
-            {
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"N/A"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                     {
-      "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that users can view their recent account activity?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Yahoo",
-         "id":"yahoo",
-         "headers":[
-            {
-               "text":"Yahoo Mail"
-            },
-            {
-               "text":"Flickr"
-            },
-            {
-               "text":"Tumblr"
-            }
-         ],
-         "average":[
-            {
-               "value":"100"
-            },
-            {
-               "value":"100"
-            },
-            {
-               "value":"83"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                     {
-      "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   }
-               ]
-            },
-            {
-               "cells":[
-                     {
-      "value": "Does the company clearly disclose that users can view their recent account activity?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "50"
-   }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Yandex",
-         "id":"yandex",
-         "headers":[
-            {
-               "text":"Yandex Mail"
-            },
-            {
-               "text":"Yandex Search"
-            },
-            {
-               "text":"Yandex Disk (cloud storage)"
-            }
-         ],
-         "average":[
-            {
-               "value":"100"
-            },
-            {
-               "value":"N/A"
-            },
-            {
-               "value":"100"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "100"
-   }
-               ]
-            },
-            {
-               "cells":[
-                  {
-      "value": "Does the company clearly disclose that users can view their recent account activity?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "100"
-   }
-               ]
-            },
-            {
-               "cells":[
-               {
-      "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "100"
-   }
-               ]
-            }
-         ]
-      }
-   ]
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that users can view their recent account activity?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "apple",
+            "name": "Apple",
+            "headers": [
+                "iOS mobile ecosystem",
+                "iMessage",
+                "iCloud"
+            ],
+            "average": [
+                "83.33",
+                "66.67",
+                "66.67"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that users can view their recent account activity?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "att",
+            "name": "AT&T",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "N/A",
+                "N/A",
+                "N/A"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that users can view their recent account activity?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "axiata",
+            "name": "Axiata",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile"
+            ],
+            "average": [
+                "N/A",
+                "N/A"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that users can view their recent account activity?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "baidu",
+            "name": "Baidu",
+            "headers": [
+                "Baidu Search",
+                "Baidu Cloud",
+                "Baidu PostBar"
+            ],
+            "average": [
+                "33.33",
+                "33.33",
+                "33.33"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that users can view their recent account activity?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "bhartiairtel",
+            "name": "Bharti Airtel",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "N/A",
+                "N/A",
+                "N/A"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that users can view their recent account activity?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "etisalat",
+            "name": "Etisalat",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "N/A",
+                "N/A",
+                "N/A"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that users can view their recent account activity?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "facebook",
+            "name": "Facebook",
+            "headers": [
+                "Facebook",
+                "Instagram",
+                "WhatsApp",
+                "Messenger"
+            ],
+            "average": [
+                "83.33",
+                "0",
+                "50",
+                "83.33"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that users can view their recent account activity?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "google",
+            "name": "Google",
+            "headers": [
+                "Search",
+                "Gmail",
+                "Youtube",
+                "Android mobile ecosystem"
+            ],
+            "average": [
+                "N/A",
+                "100",
+                "100",
+                "83.33"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that users can view their recent account activity?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "kakao",
+            "name": "Kakao",
+            "headers": [
+                "Daum Search",
+                "Daum Mail",
+                "Kakao Talk"
+            ],
+            "average": [
+                "N/A",
+                "100",
+                "50"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that users can view their recent account activity?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "mailru",
+            "name": "Mail.Ru",
+            "headers": [
+                "Vkontakte",
+                "Mail.Ru",
+                "Mail.Ru Agent"
+            ],
+            "average": [
+                "100",
+                "100",
+                "33.33"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that users can view their recent account activity?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "microsoft",
+            "name": "Microsoft",
+            "headers": [
+                "Bing",
+                "Outlook.com",
+                "Skype"
+            ],
+            "average": [
+                "N/A",
+                "100",
+                "100"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that users can view their recent account activity?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "mtn",
+            "name": "MTN",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile"
+            ],
+            "average": [
+                "N/A",
+                "N/A"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that users can view their recent account activity?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ooredoo",
+            "name": "Ooredoo",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile"
+            ],
+            "average": [
+                "N/A",
+                "N/A"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that users can view their recent account activity?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "orange",
+            "name": "Orange",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "N/A",
+                "N/A",
+                "N/A"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that users can view their recent account activity?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "samsung",
+            "name": "Samsung",
+            "headers": [
+                "Samsung implementation of Android"
+            ],
+            "average": [
+                "16.67"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that users can view their recent account activity?"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "telefonica",
+            "name": "Telefónica",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "N/A",
+                "N/A",
+                "N/A"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that users can view their recent account activity?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tencent",
+            "name": "TenCent",
+            "headers": [
+                "QZone",
+                "QQ",
+                "WeChat"
+            ],
+            "average": [
+                "0",
+                "50",
+                "33.33"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that users can view their recent account activity?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "twitter",
+            "name": "Twitter",
+            "headers": [
+                "Twitter",
+                "Vine",
+                "Periscope"
+            ],
+            "average": [
+                "83.33",
+                "0",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that users can view their recent account activity?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vodafone",
+            "name": "Vodafone",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "N/A",
+                "N/A",
+                "N/A"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that users can view their recent account activity?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "yahoo",
+            "name": "Yahoo",
+            "headers": [
+                "Yahoo Mail",
+                "Flickr",
+                "Tumblr"
+            ],
+            "average": [
+                "100",
+                "100",
+                "83.33"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that users can view their recent account activity?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "yandex",
+            "name": "Yandex",
+            "headers": [
+                "Yandex Mail",
+                "Yandex Search",
+                "Yandex Disk (cloud storage)"
+            ],
+            "average": [
+                "100",
+                "N/A",
+                "100"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that users can view their recent account activity?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
