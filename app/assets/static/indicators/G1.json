@@ -1,690 +1,940 @@
 {
-    "id": "G1",
-    "name": "Policy Commitment",
-    "companies": [
-        {
-            "id": "americamovil",
-            "name": "América Móvil",
-            "headers": [
-                "Group - América Móvil - Freedom of Expression",
-                "Group - América Móvil - Privacy",
-                "OperatingCo - Telcel - Freedom of Expression",
-                "OperatingCo - Telcel - Privacy"
-            ],
-            "average": [
-                "50",
-                "50",
-                "50",
-                "50"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "apple",
-            "name": "Apple",
-            "headers": [
-                "Group - Apple - Freedom of Expression ",
-                "Group - Apple - Privacy"
-            ],
-            "average": [
-                "50",
-                "50"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "att",
-            "name": "AT&T",
-            "headers": [
-                "Group - AT&T - Freedom of Expression",
-                "Group - AT&T - Privacy"
-            ],
-            "average": [
-                "50",
-                "50"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "axiata",
-            "name": "Axiata",
-            "headers": [
-                "Group - Axiata - Freedom of Expression",
-                "Group - Axiata - Privacy",
-                "OperatingCo - Celcom - Freedom of Expression",
-                "OperatingCo - Celcom - Privacy"
-            ],
-            "average": [
-                "0",
-                "0",
-                "0",
-                "0"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "baidu",
-            "name": "Baidu",
-            "headers": [
-                "Group - Baidu - Freedom of Expression ",
-                "Group - Baidu - Privacy"
-            ],
-            "average": [
-                "50",
-                "50"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "bhartiairtel",
-            "name": "Bharti Airtel",
-            "headers": [
-                "Group - Bharti Airtel - Freedom of Expression",
-                "Group - Bharti Airtel - Privacy",
-                "OperatingCo - Airtel India - Freedom of Expression",
-                "OperatingCo - Airtel India - Privacy"
-            ],
-            "average": [
-                "0",
-                "0",
-                "0",
-                "0"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "etisalat",
-            "name": "Etisalat",
-            "headers": [
-                "Group - Etisalat - Freedom of Expression",
-                "Group - Etisalat - Privacy",
-                "OperatingCo - Etisalat UAE - Freedom of Expression",
-                "OperatingCo - Etisalat UAE - Privacy"
-            ],
-            "average": [
-                "0",
-                "0",
-                "0",
-                "0"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "facebook",
-            "name": "Facebook",
-            "headers": [
-                "Group - Facebook - Freedom of Expression ",
-                "Group - Facebook - Privacy"
-            ],
-            "average": [
-                "50",
-                "50"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "google",
-            "name": "Google",
-            "headers": [
-                "Group - Google - Freedom of Expression ",
-                "Group - Google - Privacy"
-            ],
-            "average": [
-                "50",
-                "50"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "kakao",
-            "name": "Kakao",
-            "headers": [
-                "Group - Kakao - Freedom of Expression ",
-                "Group - Kakao - Privacy"
-            ],
-            "average": [
-                "50",
-                "50"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "mailru",
-            "name": "Mail.Ru",
-            "headers": [
-                "Group - Mail.Ru - Freedom of Expression ",
-                "Group - Mail.Ru - Privacy"
-            ],
-            "average": [
-                "50",
-                "50"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "microsoft",
-            "name": "Microsoft",
-            "headers": [
-                "Group - Microsoft - Freedom of Expression ",
-                "Group - Microsoft - Privacy"
-            ],
-            "average": [
-                "50",
-                "50"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "mtn",
-            "name": "MTN",
-            "headers": [
-                "Group - MTN - Freedom of Expression",
-                "Group - MTN - Privacy",
-                "OperatingCo - MTN South Africa - Freedom of Expression",
-                "OperatingCo - MTN South Africa - Privacy"
-            ],
-            "average": [
-                "100",
-                "100",
-                "100",
-                "100"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "ooredoo",
-            "name": "Ooredoo",
-            "headers": [
-                "Group - Ooredoo - Freedom of Expression",
-                "Group - Ooredoo - Privacy",
-                "OperatingCo - Ooredoo Qatar - Freedom of Expression",
-                "OperatingCo - Ooredoo Qatar - Privacy"
-            ],
-            "average": [
-                "0",
-                "0",
-                "0",
-                "0"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "orange",
-            "name": "Orange",
-            "headers": [
-                "Group - Orange - Freedom of Expression",
-                "Group - Orange - Privacy",
-                "OperatingCo - Orange France - Freedom of Expression",
-                "OperatingCo - Orange France - Privacy"
-            ],
-            "average": [
-                "100",
-                "100",
-                "100",
-                "100"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "samsung",
-            "name": "Samsung",
-            "headers": [
-                "Group - Samsung - Freedom of Expression ",
-                "Group - Samsung - Privacy"
-            ],
-            "average": [
-                "100",
-                "100"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "telefonica",
-            "name": "Telefónica",
-            "headers": [
-                "Group - Telefónica - Freedom of Expression",
-                "Group - Telefónica - Privacy",
-                "OperatingCo - Telefónica de España - Freedom of Expression",
-                "OperatingCo - Telefónica de España - Privacy"
-            ],
-            "average": [
-                "100",
-                "100",
-                "100",
-                "100"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "tencent",
-            "name": "TenCent",
-            "headers": [
-                "Group - TenCent - Freedom of Expression ",
-                "Group - TenCent - Privacy"
-            ],
-            "average": [
-                "50",
-                "50"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "twitter",
-            "name": "Twitter",
-            "headers": [
-                "Group - Twitter - Freedom of Expression ",
-                "Group - Twitter - Privacy"
-            ],
-            "average": [
-                "50",
-                "50"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "vodafone",
-            "name": "Vodafone",
-            "headers": [
-                "Group - Vodafone - Freedom of Expression",
-                "Group - Vodafone - Privacy",
-                "OperatingCo - Vodafone UK - Freedom of Expression",
-                "OperatingCo - Vodafone UK - Privacy"
-            ],
-            "average": [
-                "100",
-                "100",
-                "100",
-                "100"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "yahoo",
-            "name": "Yahoo",
-            "headers": [
-                "Group - Yahoo - Freedom of Expression ",
-                "Group - Yahoo - Privacy"
-            ],
-            "average": [
-                "50",
-                "50"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "yandex",
-            "name": "Yandex",
-            "headers": [
-                "Group - Yandex - Freedom of Expression ",
-                "Group - Yandex - Privacy"
-            ],
-            "average": [
-                "50",
-                "50"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
+   "id":"G1",
+   "name":"G1. Policy commitment",
+   "paragraph_1":"The company should publicly commit to respect users? human rights to freedom of expression and privacy.",
+   "paragraph_2":" ",
+   "companies":[
+      {
+         "name":"América Móvil",
+         "id":"americamovil",
+         "headers":[
+            {
+               "text":"Group - Freedom of Expression"
+            },
+            {
+               "text":"Group - Privacy"
+            },
+            {
+               "text":"OperatingCo - Telcel - Freedom of Expression"
+            },
+            {
+               "text":"OperatingCo - Telcel - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"50"
+            },
+            {
+               "value":"50"
+            },
+            {
+               "value":"50"
+            },
+            {
+               "value":"50"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Apple",
+         "id":"apple",
+         "headers":[
+            {
+               "text":"Group - Freedom of Expression"
+            },
+            {
+               "text":"Group - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"0"
+            },
+            {
+               "value":"50"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"AT&T",
+         "id":"att",
+         "headers":[
+            {
+               "text":"Group - Freedom of Expression"
+            },
+            {
+               "text":"Group - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Axiata",
+         "id":"axiata",
+         "headers":[
+            {
+               "text":"Group - Freedom of Expression"
+            },
+            {
+               "text":"Group - Privacy"
+            },
+            {
+               "text":"OperatingCo - Celcom - Freedom of Expression"
+            },
+            {
+               "text":"OperatingCo - Celcom - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Baidu",
+         "id":"baidu",
+         "headers":[
+            {
+               "text":"Group - Freedom of Expression"
+            },
+            {
+               "text":"Group - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Bharti Airtel",
+         "id":"bhartiairtel",
+         "headers":[
+            {
+               "text":"Group - Freedom of Expression"
+            },
+            {
+               "text":"Group - Privacy"
+            },
+            {
+               "text":"OperatingCo - Airtel India - Freedom of Expression"
+            },
+            {
+               "text":"OperatingCo - Airtel India - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Etisalat",
+         "id":"etisalat",
+         "headers":[
+            {
+               "text":"Group - Freedom of Expression"
+            },
+            {
+               "text":"Group - Privacy"
+            },
+            {
+               "text":"OperatingCo - Etisalat UAE - Freedom of Expression"
+            },
+            {
+               "text":"OperatingCo - Etisalat UAE - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Facebook",
+         "id":"facebook",
+         "headers":[
+            {
+               "text":"Group - Freedom of Expression"
+            },
+            {
+               "text":"Group - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Google",
+         "id":"google",
+         "headers":[
+            {
+               "text":"Group - Freedom of Expression"
+            },
+            {
+               "text":"Group - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Kakao",
+         "id":"kakao",
+         "headers":[
+            {
+               "text":"Group - Freedom of Expression"
+            },
+            {
+               "text":"Group - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"0"
+            },
+            {
+               "value":"50"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Mail.ru",
+         "id":"mailru",
+         "headers":[
+            {
+               "text":"Group - Freedom of Expression"
+            },
+            {
+               "text":"Group - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Microsoft",
+         "id":"microsoft",
+         "headers":[
+            {
+               "text":"Group - Freedom of Expression"
+            },
+            {
+               "text":"Group - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"MTN",
+         "id":"mtn",
+         "headers":[
+            {
+               "text":"Group - Freedom of Expression"
+            },
+            {
+               "text":"Group - Privacy"
+            },
+            {
+               "text":"OperatingCo - MTN South Africa - Freedom of Expression"
+            },
+            {
+               "text":"OperatingCo - MTN South Africa - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Ooredoo",
+         "id":"ooredoo",
+         "headers":[
+            {
+               "text":"Group - Freedom of Expression"
+            },
+            {
+               "text":"Group - Privacy"
+            },
+            {
+               "text":"OperatingCo - Ooredoo Qatar - Freedom of Expression"
+            },
+            {
+               "text":"OperatingCo - Ooredoo Qatar - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Orange",
+         "id":"orange",
+         "headers":[
+            {
+               "text":"Group - Freedom of Expression"
+            },
+            {
+               "text":"Group - Privacy"
+            },
+            {
+               "text":"OperatingCo - Orange France - Freedom of Expression"
+            },
+            {
+               "text":"OperatingCo - Orange France - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Samsung",
+         "id":"samsung",
+         "headers":[
+            {
+               "text":"Group - Freedom of Expression"
+            },
+            {
+               "text":"Group - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Telefónica",
+         "id":"telefonica",
+         "headers":[
+            {
+               "text":"Group - Freedom of Expression"
+            },
+            {
+               "text":"Group - Privacy"
+            },
+            {
+               "text":"OperatingCo - TelefÃ³nica de EspaÃ±a - Freedom of Expression"
+            },
+            {
+               "text":"OperatingCo - TelefÃ³nica de EspaÃ±a - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Tencent",
+         "id":"tencent",
+         "headers":[
+            {
+               "text":"Group - Freedom of Expression"
+            },
+            {
+               "text":"Group - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"0"
+            },
+            {
+               "value":"50"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Twitter",
+         "id":"twitter",
+         "headers":[
+            {
+               "text":"Group - Freedom of Expression"
+            },
+            {
+               "text":"Group - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"50"
+            },
+            {
+               "value":"50"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Vodafone",
+         "id":"vodafone",
+         "headers":[
+            {
+               "text":"Group - Freedom of Expression"
+            },
+            {
+               "text":"Group - Privacy"
+            },
+            {
+               "text":"OperatingCo - Vodafone UK - Freedom of Expression"
+            },
+            {
+               "text":"OperatingCo - Vodafone UK - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Yahoo",
+         "id":"yahoo",
+         "headers":[
+            {
+               "text":"Group - Freedom of Expression"
+            },
+            {
+               "text":"Group - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Yandex",
+         "id":"yandex",
+         "headers":[
+            {
+               "text":"Group - Freedom of Expression"
+            },
+            {
+               "text":"Group - Privacy"
+            }
+         ],
+         "average":[
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Does the company make an explicit, clearly articulated policy commitment to human rights, including freedom of expression and privacy?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
 }

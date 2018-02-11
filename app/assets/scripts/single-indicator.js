@@ -1,6 +1,7 @@
 var $ = require('jquery');
 var _ = require('underscore');
 
+
 var SingleIndicator = require('./collections/single-indicator');
 var SingleIndicatorView = require('./views/single-indicator');
 
@@ -11,7 +12,6 @@ var barsort = require('./util/barsort');
 var Collapse = require('./views/collapse');
 
 module.exports = function generateIndicator (indicatorName) {
-
   var toggles = [];
   toggles.push(new Collapse({
     el: $('.trigger'),
@@ -19,14 +19,15 @@ module.exports = function generateIndicator (indicatorName) {
   }));
 
   var $parent = $('#indicator--overview_chart');
-  var indicator = new SingleIndicator({indicator: indicatorName});
 
+  var indicators = new Indicators();
+
+  var indicator = new SingleIndicator({indicator: indicatorName});
   var indicatorView = new SingleIndicatorView({
     collection: indicator,
     indicatorName
   });
   var className = categoryClasses[indicatorName.charAt(0).toLowerCase()];
-
   var success = function () {
     var data = indicator.map(function (model) {
       return {
@@ -39,11 +40,10 @@ module.exports = function generateIndicator (indicatorName) {
     var barchart = new Barchart({
       width: $parent.width(),
       height: 400,
-      data: data
+      data: this.model.getSortedScores()
     });
-
-    //barchart.render($parent[0]);
-    indicatorView.render('indicator--companies');
+    barchart.render($parent[0]);
+    //indicatorView.render('indicator--companies');
   };
   indicator.fetch({success: success});
 }

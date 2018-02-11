@@ -1,1370 +1,1616 @@
-{
-    "id": "P12",
-    "name": "P12. User notification about third-party requests for user information",
-    "companies": [
-        {
-            "id": "americamovil",
-            "name": "América Móvil",
-            "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile"
-            ],
-            "average": [
-                "0",
-                "0"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose situations when it might not notify users, including a description of the types of government requests it is prohibited by law from disclosing to users?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "apple",
-            "name": "Apple",
-            "headers": [
-                "iOS mobile ecosystem",
-                "iMessage",
-                "iCloud"
-            ],
-            "average": [
-                "66.67",
-                "66.67",
-                "66.67"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose situations when it might not notify users, including a description of the types of government requests it is prohibited by law from disclosing to users?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "att",
-            "name": "AT&T",
-            "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile",
-                "Fixed Line Broadband"
-            ],
-            "average": [
-                "0",
-                "0",
-                "0"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose situations when it might not notify users, including a description of the types of government requests it is prohibited by law from disclosing to users?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "axiata",
-            "name": "Axiata",
-            "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile"
-            ],
-            "average": [
-                "0",
-                "0"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose situations when it might not notify users, including a description of the types of government requests it is prohibited by law from disclosing to users?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "baidu",
-            "name": "Baidu",
-            "headers": [
-                "Baidu Search",
-                "Baidu Cloud",
-                "Baidu PostBar"
-            ],
-            "average": [
-                "0",
-                "0",
-                "0"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose situations when it might not notify users, including a description of the types of government requests it is prohibited by law from disclosing to users?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "bhartiairtel",
-            "name": "Bharti Airtel",
-            "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile",
-                "Fixed Line Broadband"
-            ],
-            "average": [
-                "0",
-                "0",
-                "0"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose situations when it might not notify users, including a description of the types of government requests it is prohibited by law from disclosing to users?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "etisalat",
-            "name": "Etisalat",
-            "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile",
-                "Fixed Line Broadband"
-            ],
-            "average": [
-                "0",
-                "0",
-                "0"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose situations when it might not notify users, including a description of the types of government requests it is prohibited by law from disclosing to users?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "facebook",
-            "name": "Facebook",
-            "headers": [
-                "Facebook",
-                "Instagram",
-                "WhatsApp",
-                "Messenger"
-            ],
-            "average": [
-                "66.67",
-                "66.67",
-                "0",
-                "66.67"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose situations when it might not notify users, including a description of the types of government requests it is prohibited by law from disclosing to users?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "google",
-            "name": "Google",
-            "headers": [
-                "Search",
-                "Gmail",
-                "Youtube",
-                "Android mobile ecosystem"
-            ],
-            "average": [
-                "66.67",
-                "66.67",
-                "66.67",
-                "66.67"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose situations when it might not notify users, including a description of the types of government requests it is prohibited by law from disclosing to users?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "kakao",
-            "name": "Kakao",
-            "headers": [
-                "Daum Search",
-                "Daum Mail",
-                "Kakao Talk"
-            ],
-            "average": [
-                "33.33",
-                "33.33",
-                "33.33"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose situations when it might not notify users, including a description of the types of government requests it is prohibited by law from disclosing to users?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "mailru",
-            "name": "Mail.Ru",
-            "headers": [
-                "Vkontakte",
-                "Mail.Ru",
-                "Mail.Ru Agent"
-            ],
-            "average": [
-                "0",
-                "0",
-                "0"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose situations when it might not notify users, including a description of the types of government requests it is prohibited by law from disclosing to users?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "microsoft",
-            "name": "Microsoft",
-            "headers": [
-                "Bing",
-                "Outlook.com",
-                "Skype"
-            ],
-            "average": [
-                "66.67",
-                "66.67",
-                "66.67"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose situations when it might not notify users, including a description of the types of government requests it is prohibited by law from disclosing to users?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "mtn",
-            "name": "MTN",
-            "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile"
-            ],
-            "average": [
-                "0",
-                "0"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose situations when it might not notify users, including a description of the types of government requests it is prohibited by law from disclosing to users?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "ooredoo",
-            "name": "Ooredoo",
-            "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile"
-            ],
-            "average": [
-                "0",
-                "0"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose situations when it might not notify users, including a description of the types of government requests it is prohibited by law from disclosing to users?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "orange",
-            "name": "Orange",
-            "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile",
-                "Fixed Line Broadband"
-            ],
-            "average": [
-                "0",
-                "0",
-                "0"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose situations when it might not notify users, including a description of the types of government requests it is prohibited by law from disclosing to users?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "samsung",
-            "name": "Samsung",
-            "headers": [
-                "Samsung implementation of Android"
-            ],
-            "average": [
-                "0"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose situations when it might not notify users, including a description of the types of government requests it is prohibited by law from disclosing to users?"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "telefonica",
-            "name": "Telefónica",
-            "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile",
-                "Fixed Line Broadband"
-            ],
-            "average": [
-                "0",
-                "0",
-                "0"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose situations when it might not notify users, including a description of the types of government requests it is prohibited by law from disclosing to users?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "tencent",
-            "name": "TenCent",
-            "headers": [
-                "QZone",
-                "QQ",
-                "WeChat"
-            ],
-            "average": [
-                "0",
-                "0",
-                "0"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose situations when it might not notify users, including a description of the types of government requests it is prohibited by law from disclosing to users?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "twitter",
-            "name": "Twitter",
-            "headers": [
-                "Twitter",
-                "Vine",
-                "Periscope"
-            ],
-            "average": [
-                "66.67",
-                "66.67",
-                "66.67"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose situations when it might not notify users, including a description of the types of government requests it is prohibited by law from disclosing to users?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "vodafone",
-            "name": "Vodafone",
-            "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile",
-                "Fixed Line Broadband"
-            ],
-            "average": [
-                "0",
-                "0",
-                "0"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose situations when it might not notify users, including a description of the types of government requests it is prohibited by law from disclosing to users?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "yahoo",
-            "name": "Yahoo",
-            "headers": [
-                "Yahoo Mail",
-                "Flickr",
-                "Tumblr"
-            ],
-            "average": [
-                "66.67",
-                "66.67",
-                "100"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose situations when it might not notify users, including a description of the types of government requests it is prohibited by law from disclosing to users?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "yandex",
-            "name": "Yandex",
-            "headers": [
-                "Yandex Mail",
-                "Yandex Search",
-                "Yandex Disk (cloud storage)"
-            ],
-            "average": [
-                "0",
-                "0",
-                "0"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose situations when it might not notify users, including a description of the types of government requests it is prohibited by law from disclosing to users?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
+{  
+   "id":"12",
+   "name":"P12. USER NOTIFICATION ABOUT THIRD-PARTY REQUESTS FOR USER INFORMATION",
+   "paragraph_1":"The company should notify users to the extent legally possible when their user information has been requested by governments and other third parties",
+   "companies":[  
+      {  
+         "name":"América Móvil",
+         "id":"americaMovil",
+         "headers":[  
+            {  
+               "text":"Prepaid Mobile"
+            },
+            {  
+               "text":"Postpaid Mobile"
+            }
+         ],
+         "average":[  
+            {  
+               "value":"0"
+            },
+            {  
+               "value":"0"
+            }
+         ],
+         "rows":[  
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose situations when it might not notify users"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {  
+         "name":"Apple",
+         "id":"apple",
+         "headers":[  
+            {  
+               "text":"iOS mobile ecosystem"
+            },
+            {  
+               "text":"iMessage"
+            },
+            {  
+               "text":"iCloud"
+            }
+         ],
+         "average":[  
+            {  
+               "value":"67"
+            },
+            {  
+               "value":"67"
+            },
+            {  
+               "value":"67"
+            }
+         ],
+         "rows":[  
+            {  
+               "cells":[  
+                     {
+      "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose situations when it might not notify users"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            }
+         ]
+      },
+      {  
+         "name":"AT&T",
+         "id":"att",
+         "headers":[  
+            {  
+               "text":"Prepaid Mobile"
+            },
+            {  
+               "text":"Postpaid Mobile"
+            },
+            {  
+               "text":"Fixed Line Broadband"
+            }
+         ],
+         "average":[  
+            {  
+               "value":"0"
+            },
+            {  
+               "value":"0"
+            },
+            {  
+               "value":"0"
+            }
+         ],
+         "rows":[  
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose situations when it might not notify users"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {  
+         "name":"Axiata",
+         "id":"axiata",
+         "headers":[  
+            {  
+               "text":"Prepaid Mobile"
+            },
+            {  
+               "text":"Postpaid Mobile"
+            }
+         ],
+         "average":[  
+            {  
+               "value":"0"
+            },
+            {  
+               "value":"0"
+            }
+         ],
+         "rows":[  
+            {  
+               "cells":[  
+                     {
+      "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                     {
+      "value": "Does the company clearly disclose situations when it might not notify users"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {  
+         "name":"Baidu",
+         "id":"baidu",
+         "headers":[  
+            {  
+               "text":"Baidu Search"
+            },
+            {  
+               "text":"Baidu Cloud"
+            },
+            {  
+               "text":"Baidu PostBar"
+            }
+         ],
+         "average":[  
+            {  
+               "value":"0"
+            },
+            {  
+               "value":"0"
+            },
+            {  
+               "value":"0"
+            }
+         ],
+         "rows":[  
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                     {
+      "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose situations when it might not notify users"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {  
+         "name":"Bharti Airtel",
+         "id":"bhartiairtel",
+         "headers":[  
+            {  
+               "text":"Prepaid Mobile"
+            },
+            {  
+               "text":"Postpaid Mobile"
+            },
+            {  
+               "text":"Fixed Line Broadband"
+            }
+         ],
+         "average":[  
+            {  
+               "value":"0"
+            },
+            {  
+               "value":"0"
+            },
+            {  
+               "value":"0"
+            }
+         ],
+         "rows":[  
+            {  
+               "cells":[  
+                     {
+      "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose situations when it might not notify users"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {  
+         "name":"Etisalat",
+         "id":"etisalat",
+         "headers":[  
+            {  
+               "text":"Prepaid Mobile"
+            },
+            {  
+               "text":"Postpaid Mobile"
+            },
+            {  
+               "text":"Fixed Line Broadband"
+            }
+         ],
+         "average":[  
+            {  
+               "value":"0"
+            },
+            {  
+               "value":"0"
+            },
+            {  
+               "value":"0"
+            }
+         ],
+         "rows":[  
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose situations when it might not notify users"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {  
+         "name":"Facebook",
+         "id":"facebook",
+         "headers":[  
+            {  
+               "text":"Instagram"
+            },
+            {  
+               "text":"WhatsApp"
+            },
+            {  
+               "text":"Messenger"
+            }
+         ],
+         "average":[  
+            {  
+               "value":"67"
+            },
+            {  
+               "value":"67"
+            },
+            {  
+               "value":"0"
+            },
+            {  
+               "value":"67"
+            }
+         ],
+         "rows":[  
+            {  
+               "cells":[  
+                     {
+      "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose situations when it might not notify users"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            }
+         ]
+      },
+      {  
+         "name":"Google",
+         "id":"google",
+         "headers":[  
+            {  
+               "text":"Search"
+            },
+            {  
+               "text":"Gmail"
+            },
+            {  
+               "text":"Youtube"
+            },
+            {  
+               "text":"Android mobile ecosystem"
+            }
+         ],
+         "average":[  
+            {  
+               "value":"67"
+            },
+            {  
+               "value":"67"
+            },
+            {  
+               "value":"67"
+            },
+            {  
+               "value":"67"
+            }
+         ],
+         "rows":[  
+            {  
+               "cells":[  
+                 {
+      "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose situations when it might not notify users"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            }
+         ]
+      },
+      {  
+         "name":"Kakao",
+         "id":"kakao",
+         "headers":[  
+            {  
+               "text":"Daum Search"
+            },
+            {  
+               "text":"Daum Mail"
+            },
+            {  
+               "text":"Kakao Talk"
+            }
+         ],
+         "average":[  
+            {  
+               "value":"33"
+            },
+            {  
+               "value":"33"
+            },
+            {  
+               "value":"33"
+            }
+         ],
+         "rows":[  
+            {  
+               "cells":[  
+                     {
+      "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                     {
+      "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose situations when it might not notify users"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            }
+         ]
+      },
+      {  
+         "name":"Mail.ru",
+         "id":"mailru",
+         "headers":[  
+            {  
+               "text":"Vkontakte"
+            },
+            {  
+               "text":"Mail.Ru"
+            },
+            {  
+               "text":"Mail.Ru Agent"
+            }
+         ],
+         "average":[  
+            {  
+               "value":"0"
+            },
+            {  
+               "value":"0"
+            },
+            {  
+               "value":"0"
+            }
+         ],
+         "rows":[  
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                     {
+      "value": "Does the company clearly disclose situations when it might not notify users"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {  
+         "name":"Microsoft",
+         "id":"microsoft",
+         "headers":[  
+            {  
+               "text":"Bing"
+            },
+            {  
+               "text":"Outlook.com"
+            },
+            {  
+               "text":"Skype"
+            }
+         ],
+         "average":[  
+            {  
+               "value":"67"
+            },
+            {  
+               "value":"67"
+            },
+            {  
+               "value":"67"
+            }
+         ],
+         "rows":[  
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                     {
+      "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose situations when it might not notify users"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            }
+         ]
+      },
+      {  
+         "name":"MTN",
+         "id":"mtn",
+         "headers":[  
+            {  
+               "text":"Prepaid Mobile"
+            },
+            {  
+               "text":"Postpaid Mobile"
+            }
+         ],
+         "average":[  
+            {  
+               "value":"0"
+            },
+            {  
+               "value":"0"
+            }
+         ],
+         "rows":[  
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                     {
+      "value": "Does the company clearly disclose situations when it might not notify users"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {  
+         "name":"Ooredoo",
+         "id":"ooredoo",
+         "headers":[  
+            {  
+               "text":"Prepaid Mobile"
+            },
+            {  
+               "text":"Postpaid Mobile"
+            }
+         ],
+         "average":[  
+            {  
+               "value":"0"
+            },
+            {  
+               "value":"0"
+            }
+         ],
+         "rows":[  
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose situations when it might not notify users"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {  
+         "name":"Orange",
+         "id":"orange",
+         "headers":[  
+            {  
+               "text":"Prepaid Mobile"
+            },
+            {  
+               "text":"Postpaid Mobile"
+            },
+            {  
+               "text":"Fixed Line Broadband"
+            }
+         ],
+         "average":[  
+            {  
+               "value":"0"
+            },
+            {  
+               "value":"0"
+            },
+            {  
+               "value":"0"
+            }
+         ],
+         "rows":[  
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose situations when it might not notify users"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {  
+         "name":"Samsung",
+         "id":"samsung",
+         "headers":[  
+            {  
+               "text":"Samsung implementation of Android"
+            }
+         ],
+         "average":[  
+            {  
+               "value":"0"
+            }
+         ],
+         "rows":[  
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                     {
+      "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose situations when it might not notify users"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {  
+         "name":"Telefónica",
+         "id":"telefonica",
+         "headers":[  
+            {  
+               "text":"Prepaid Mobile"
+            },
+            {  
+               "text":"Postpaid Mobile"
+            },
+            {  
+               "text":"Fixed Line Broadband"
+            }
+         ],
+         "average":[  
+            {  
+               "value":"0"
+            },
+            {  
+               "value":"0"
+            },
+            {  
+               "value":"0"
+            }
+         ],
+         "rows":[  
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose situations when it might not notify users"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {  
+         "name":"Tencent",
+         "id":"tencent",
+         "headers":[  
+            {  
+               "text":"QZone"
+            },
+            {  
+               "text":"QQ"
+            },
+            {  
+               "text":"WeChat"
+            }
+         ],
+         "average":[  
+            {  
+               "value":"0"
+            },
+            {  
+               "value":"0"
+            },
+            {  
+               "value":"0"
+            }
+         ],
+         "rows":[  
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose situations when it might not notify users"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {  
+         "name":"Twitter",
+         "id":"twitter",
+         "headers":[  
+            {  
+               "text":"Twitter"
+            },
+            {  
+               "text":"Vine"
+            },
+            {  
+               "text":"Periscope"
+            }
+         ],
+         "average":[  
+            {  
+               "value":"67"
+            },
+            {  
+               "value":"67"
+            },
+            {  
+               "value":"67"
+            }
+         ],
+         "rows":[  
+            {  
+               "cells":[  
+                     {
+      "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                     {
+      "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose situations when it might not notify users"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            }
+         ]
+      },
+      {  
+         "name":"Vodafone",
+         "id":"vodafone",
+         "headers":[  
+            {  
+               "text":"Prepaid Mobile"
+            },
+            {  
+               "text":"Postpaid Mobile"
+            },
+            {  
+               "text":"Fixed Line Broadband"
+            }
+         ],
+         "average":[  
+            {  
+               "value":"0"
+            },
+            {  
+               "value":"0"
+            },
+            {  
+               "value":"0"
+            }
+         ],
+         "rows":[  
+            {  
+               "cells":[  
+                     {
+      "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose situations when it might not notify users"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      },
+      {  
+         "name":"Yahoo",
+         "id":"yahoo",
+         "headers":[  
+            {  
+               "text":"Yahoo Mail"
+            },
+            {  
+               "text":"Flickr"
+            },
+            {  
+               "text":"Tumblr"
+            }
+         ],
+         "average":[  
+            {  
+               "value":"67"
+            },
+            {  
+               "value":"67"
+            },
+            {  
+               "value":"100"
+            }
+         ],
+         "rows":[  
+            {  
+               "cells":[  
+                     {
+      "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                     {
+      "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "exclude"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose situations when it might not notify users"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   },
+   {
+      "value": "100"
+   }
+               ]
+            }
+         ]
+      },
+      {  
+         "name":"Yandex",
+         "id":"yandex",
+         "headers":[  
+            {  
+               "text":"Yandex Mail"
+            },
+            {  
+               "text":"Yandex Search"
+            },
+            {  
+               "text":"Yandex Disk (cloud storage)"
+            }
+         ],
+         "average":[  
+            {  
+               "value":"0"
+            },
+            {  
+               "value":"0"
+            },
+            {  
+               "value":"0"
+            }
+         ],
+         "rows":[  
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose that it notifies users when government entities (including courts or other judicial bodies) request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                 {
+      "value": "Does the company clearly disclose that it notifies users when private parties request their user information?"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            },
+            {  
+               "cells":[  
+                  {
+      "value": "Does the company clearly disclose situations when it might not notify users"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   },
+   {
+      "value": "0"
+   }
+               ]
+            }
+         ]
+      }
+   ]
 }

@@ -1,1381 +1,1616 @@
 {
-    "id": "F1",
-    "name": "F1. Access to terms of service",
-    "companies": [
-        {
-            "id": "americamovil",
-            "name": "América Móvil",
-            "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile"
-            ],
-            "average": [
-                "66.67",
-                "66.67"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Are the company’s terms of service easy to find?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service available in the language(s) most commonly spoken by the company’s users?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service are presented in an understandable manner?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "apple",
-            "name": "Apple",
-            "headers": [
-                "iOS mobile ecosystem",
-                "iMessage",
-                "iCloud"
-            ],
-            "average": [
-                "50",
-                "50",
-                "83.33333333"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Are the company’s terms of service easy to find?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service available in the language(s) most commonly spoken by the company’s users?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service are presented in an understandable manner?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "att",
-            "name": "AT&T",
-            "headers": [
-                "Prepaid Mobile (GoPhone)",
-                "Postpaid Mobile",
-                "Fixed Line Broadband"
-            ],
-            "average": [
-                "83.33333333",
-                "83.33333333",
-                "83.33333333"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Are the company’s terms of service easy to find?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service available in the language(s) most commonly spoken by the company’s users?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service are presented in an understandable manner?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "axiata",
-            "name": "Axiata",
-            "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile"
-            ],
-            "average": [
-                "66.66666667",
-                "50"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Are the company’s terms of service easy to find?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service available in the language(s) most commonly spoken by the company’s users?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service are presented in an understandable manner?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "baidu",
-            "name": "Baidu",
-            "headers": [
-                "Baidu Search",
-                "Baidu Cloud",
-                "Baidu PostBar"
-            ],
-            "average": [
-                "50",
-                "83.33333333",
-                "83.33333333"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Are the company’s terms of service easy to find?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service available in the language(s) most commonly spoken by the company’s users?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service are presented in an understandable manner?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "bhartiairtel",
-            "name": "Bharti Airtel",
-            "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile",
-                "Fixed Line Broadband"
-            ],
-            "average": [
-                "50",
-                "50",
-                "50"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Are the company’s terms of service easy to find?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service available in the language(s) most commonly spoken by the company’s users?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service are presented in an understandable manner?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "etisalat",
-            "name": "Etisalat",
-            "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile",
-                "Fixed Line Broadband"
-            ],
-            "average": [
-                "83.33333333",
-                "83.33333333",
-                "83.33333333"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Are the company’s terms of service easy to find?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service available in the language(s) most commonly spoken by the company’s users?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service are presented in an understandable manner?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "facebook",
-            "name": "Facebook",
-            "headers": [
-                "Facebook",
-                "Instagram",
-                "WhatsApp",
-                "Messenger"
-            ],
-            "average": [
-                "100",
-                "66.66666667",
-                "100",
-                "100"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Are the company’s terms of service easy to find?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service available in the language(s) most commonly spoken by the company’s users?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service are presented in an understandable manner?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "google",
-            "name": "Google",
-            "headers": [
-                "Search",
-                "Gmail",
-                "Youtube",
-                "Android mobile ecosystem"
-            ],
-            "average": [
-                "100",
-                "100",
-                "83.33333333",
-                "66.66666667"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Are the company’s terms of service easy to find?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service available in the language(s) most commonly spoken by the company’s users?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service are presented in an understandable manner?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "kakao",
-            "name": "Kakao",
-            "headers": [
-                "Daum Search",
-                "Daum Mail",
-                "Kakao Talk"
-            ],
-            "average": [
-                "83.33333333",
-                "83.33333333",
-                "83.33333333"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Are the company’s terms of service easy to find?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service available in the language(s) most commonly spoken by the company’s users?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service are presented in an understandable manner?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "mailru",
-            "name": "Mail.Ru",
-            "headers": [
-                "Vkontakte",
-                "Mail.Ru",
-                "Mail.Ru Agent"
-            ],
-            "average": [
-                "83.33333333",
-                "66.66666667",
-                "66.66666667"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Are the company’s terms of service easy to find?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service available in the language(s) most commonly spoken by the company’s users?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service are presented in an understandable manner?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "microsoft",
-            "name": "Microsoft",
-            "headers": [
-                "Bing",
-                "Outlook.com",
-                "Skype"
-            ],
-            "average": [
-                "100",
-                "100",
-                "100"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Are the company’s terms of service easy to find?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service available in the language(s) most commonly spoken by the company’s users?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service are presented in an understandable manner?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "mtn",
-            "name": "MTN",
-            "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile"
-            ],
-            "average": [
-                "33.33333333",
-                "33.33333333"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Are the company’s terms of service easy to find?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service available in the language(s) most commonly spoken by the company’s users?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service are presented in an understandable manner?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "ooredoo",
-            "name": "Ooredoo",
-            "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile",
-                "Fixed Line Broadband"
-            ],
-            "average": [
-                "100",
-                "100",
-                "100"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Are the company’s terms of service easy to find?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service available in the language(s) most commonly spoken by the company’s users?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service are presented in an understandable manner?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "orange",
-            "name": "Orange",
-            "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile",
-                "Fixed Line Broadband"
-            ],
-            "average": [
-                "66.66666667",
-                "66.66666667",
-                "66.66666667"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Are the company’s terms of service easy to find?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service available in the language(s) most commonly spoken by the company’s users?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service are presented in an understandable manner?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "samsung",
-            "name": "Samsung",
-            "headers": [
-                "Samsung implementation of Android"
-            ],
-            "average": [
-                "33.33333333"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Are the company’s terms of service easy to find?"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service available in the language(s) most commonly spoken by the company’s users?"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service are presented in an understandable manner?"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "telefonica",
-            "name": "Telefónica",
-            "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile",
-                "Fixed Line Broadband"
-            ],
-            "average": [
-                "83.33333333",
-                "83.33333333",
-                "66.66666667"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Are the company’s terms of service easy to find?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service available in the language(s) most commonly spoken by the company’s users?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service are presented in an understandable manner?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "tencent",
-            "name": "TenCent",
-            "headers": [
-                "QZone",
-                "QQ",
-                "WeChat"
-            ],
-            "average": [
-                "66.66666667",
-                "66.66666667",
-                "83.33333333"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Are the company’s terms of service easy to find?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service available in the language(s) most commonly spoken by the company’s users?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service are presented in an understandable manner?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "twitter",
-            "name": "Twitter",
-            "headers": [
-                "Twitter",
-                "Vine",
-                "Periscope"
-            ],
-            "average": [
-                "100",
-                "66.66666667",
-                "66.66666667"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Are the company’s terms of service easy to find?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service available in the language(s) most commonly spoken by the company’s users?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service are presented in an understandable manner?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "vodafone",
-            "name": "Vodafone",
-            "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile",
-                "Fixed Line Broadband"
-            ],
-            "average": [
-                "83.33333333",
-                "83.33333333",
-                "83.33333333"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Are the company’s terms of service easy to find?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service available in the language(s) most commonly spoken by the company’s users?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service are presented in an understandable manner?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "yahoo",
-            "name": "Yahoo",
-            "headers": [
-                "Yahoo Mail",
-                "Flickr",
-                "Tumblr"
-            ],
-            "average": [
-                "83.33333333",
-                "83.33333333",
-                "83.33333333"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Are the company’s terms of service easy to find?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service available in the language(s) most commonly spoken by the company’s users?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service are presented in an understandable manner?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "yandex",
-            "name": "Yandex",
-            "headers": [
-                "Yandex Mail",
-                "Yandex Search",
-                "Yandex Disk (cloud storage)"
-            ],
-            "average": [
-                "83.33333333",
-                "83.33333333",
-                "83.33333333"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "Are the company’s terms of service easy to find?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service available in the language(s) most commonly spoken by the company’s users?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Are the terms of service are presented in an understandable manner?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
+   "id":"F1",
+   "name":"F1. ACCESS TO TERMS OF SERVICE",
+   "paragraph_1":"The company should offer terms of service that are easy to find and easy to understand.",
+   "companies":[
+      {
+         "name":"América Móvil",
+         "id":"americamovil",
+         "headers":[
+            {
+               "text":"Prepaid Mobile"
+            },
+            {
+               "text":"Postpaid Mobile"
+            }
+         ],
+         "average":[
+            {
+               "value":"67"
+            },
+            {
+               "value":"67"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Are the company's terms of service easy to find?"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service available in the language(s) most commonly spoken by the company's users?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service are presented in an understandable manner?"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Apple",
+         "id":"apple",
+         "headers":[
+            {
+               "text":"iOS mobile ecosystem"
+            },
+            {
+               "text":"iMessage"
+            },
+            {
+               "text":"iCloud"
+            }
+         ],
+         "average":[
+            {
+               "value":"50"
+            },
+            {
+               "value":"50"
+            },
+            {
+               "value":"83.33333333"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Are the company's terms of service easy to find?"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service available in the language(s) most commonly spoken by the company's users?"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service are presented in an understandable manner?"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"AT&T",
+         "id":"att",
+         "headers":[
+            {
+               "text":"Prepaid Mobile (GoPhone)"
+            },
+            {
+               "text":"Postpaid Mobile"
+            },
+            {
+               "text":"Fixed Line Broadband"
+            }
+         ],
+         "average":[
+            {
+               "value":"83"
+            },
+            {
+               "value":"83"
+            },
+            {
+               "value":"83"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Are the company's terms of service easy to find?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service available in the language(s) most commonly spoken by the company's users?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service are presented in an understandable manner?"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Axiata",
+         "id":"axiata",
+         "headers":[
+            {
+               "text":"Prepaid Mobile"
+            },
+            {
+               "text":"Postpaid Mobile"
+            }
+         ],
+         "average":[
+            {
+               "value":"67"
+            },
+            {
+               "value":"50"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Are the company's terms of service easy to find?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service available in the language(s) most commonly spoken by the company's users?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service are presented in an understandable manner?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Baidu",
+         "id":"baidu",
+         "headers":[
+            {
+               "text":"Baidu Search"
+            },
+            {
+               "text":"Baidu Cloud"
+            },
+            {
+               "text":"Baidu PostBar"
+            }
+         ],
+         "average":[
+            {
+               "value":"50"
+            },
+            {
+               "value":"83"
+            },
+            {
+               "value":"83"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Are the company's terms of service easy to find?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service available in the language(s) most commonly spoken by the company's users?"
+                  },
+                  {
+                     "value":"Are the terms of service available in the language(s) most commonly spoken by the company’s users?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service are presented in an understandable manner?"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Bharti Airtel",
+         "id":"bhartiairtel",
+         "headers":[
+            {
+               "text":"Prepaid Mobile"
+            },
+            {
+               "text":"Postpaid Mobile"
+            },
+            {
+               "text":"Fixed Line Broadband"
+            }
+         ],
+         "average":[
+            {
+               "value":"50"
+            },
+            {
+               "value":"50"
+            },
+            {
+               "value":"50"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Are the company's terms of service easy to find?"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service available in the language(s) most commonly spoken by the company's users?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service are presented in an understandable manner?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Etisalat",
+         "id":"etisalat",
+         "headers":[
+            {
+               "text":"Prepaid Mobile"
+            },
+            {
+               "text":"Postpaid Mobile"
+            },
+            {
+               "text":"Fixed Line Broadband"
+            }
+         ],
+         "average":[
+            {
+               "value":"83"
+            },
+            {
+               "value":"83"
+            },
+            {
+               "value":"83"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Are the company's terms of service easy to find?"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service available in the language(s) most commonly spoken by the company’s users?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service are presented in an understandable manner?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Facebook",
+         "id":"facebook",
+         "headers":[
+            {
+               "text":"Facebook"
+            },
+            {
+               "text":"Instagram"
+            },
+            {
+               "text":"WhatsApp"
+            },
+            {
+               "text":"Messenger"
+            }
+         ],
+         "average":[
+            {
+               "value":"100"
+            },
+            {
+               "value":"67"
+            },
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Are the company's terms of service easy to find?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service available in the language(s) most commonly spoken by the company's users?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service are presented in an understandable manner?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Google",
+         "id":"google",
+         "headers":[
+            {
+               "text":"Search"
+            },
+            {
+               "text":"Gmail"
+            },
+            {
+               "text":"Youtube"
+            },
+            {
+               "text":"Android mobile ecosystem"
+            }
+         ],
+         "average":[
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            },
+            {
+               "value":"83"
+            },
+            {
+               "value":"67"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Are the company's terms of service easy to find?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service available in the language(s) most commonly spoken by the company's users?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Kakao",
+         "id":"kakao",
+         "headers":[
+            {
+               "text":"Daum Search"
+            },
+            {
+               "text":"Daum Mail"
+            },
+            {
+               "text":"Kakao Talk"
+            }
+         ],
+         "average":[
+            {
+               "value":"83"
+            },
+            {
+               "value":"83"
+            },
+            {
+               "value":"83"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Are the company's terms of service easy to find?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service available in the language(s) most commonly spoken by the company's users?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service are presented in an understandable manner?"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Mail.ru",
+         "id":"mailru",
+         "headers":[
+            {
+               "text":"Vkontakte"
+            },
+            {
+               "text":"Mail.Ru"
+            },
+            {
+               "text":"Mail.Ru Agent"
+            }
+         ],
+         "average":[
+            {
+               "value":"83"
+            },
+            {
+               "value":"67"
+            },
+            {
+               "value":"67"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Are the company's terms of service easy to find?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service available in the language(s) most commonly spoken by the company's users?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service are presented in an understandable manner?"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Microsoft",
+         "id":"microsoft",
+         "headers":[
+            {
+               "text":"Bing"
+            },
+            {
+               "text":"Outlook.com"
+            },
+            {
+               "text":"Skype"
+            }
+         ],
+         "average":[
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Are the company's terms of service easy to find?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service available in the language(s) most commonly spoken by the company's users?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service are presented in an understandable manner?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"MTN",
+         "id":"mtn",
+         "headers":[
+            {
+               "text":"Prepaid Mobile"
+            },
+            {
+               "text":"Postpaid Mobile"
+            }
+         ],
+         "average":[
+            {
+               "value":"33"
+            },
+            {
+               "value":"33"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Are the company's terms of service easy to find?"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service available in the language(s) most commonly spoken by the company's users?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service are presented in an understandable manner?"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Ooredoo",
+         "id":"ooredoo",
+         "headers":[
+            {
+               "text":"Prepaid Mobile"
+            },
+            {
+               "text":"Postpaid Mobile"
+            }
+         ],
+         "average":[
+            {
+               "value":"100"
+            },
+            {
+               "value":"100"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Are the company's terms of service easy to find?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service available in the language(s) most commonly spoken by the company's users?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service are presented in an understandable manner?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Orange",
+         "id":"orange",
+         "headers":[
+            {
+               "text":"Prepaid Mobile"
+            },
+            {
+               "text":"Postpaid Mobile"
+            },
+            {
+               "text":"Fixed Line Broadband"
+            }
+         ],
+         "average":[
+            {
+               "value":"67"
+            },
+            {
+               "value":"67"
+            },
+            {
+               "value":"67"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Are the company's terms of service easy to find?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service available in the language(s) most commonly spoken by the company's users?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service are presented in an understandable manner?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Samsung",
+         "id":"samsung",
+         "headers":[
+            {
+               "text":"Samsung implementation of Android"
+            }
+         ],
+         "average":[
+            {
+               "value":"33"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Are the company's terms of service easy to find?"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service available in the language(s) most commonly spoken by the company's users?"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service are presented in an understandable manner?"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Telefonica",
+         "id":"telefonica",
+         "headers":[
+            {
+               "text":"Prepaid Mobile"
+            },
+            {
+               "text":"Postpaid Mobile"
+            },
+            {
+               "text":"Fixed Line Broadband"
+            }
+         ],
+         "average":[
+            {
+               "value":"83"
+            },
+            {
+               "value":"83"
+            },
+            {
+               "value":"67"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Are the company's terms of service easy to find?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service available in the language(s) most commonly spoken by the company's users?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service are presented in an understandable manner?"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Tencent",
+         "id":"tencent",
+         "headers":[
+            {
+               "text":"QZone"
+            },
+            {
+               "text":"QQ"
+            },
+            {
+               "text":"WeChat"
+            }
+         ],
+         "average":[
+            {
+               "value":"67"
+            },
+            {
+               "value":"67"
+            },
+            {
+               "value":"83"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Are the company's terms of service easy to find?"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service available in the language(s) most commonly spoken by the company's users?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service are presented in an understandable manner?"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Twitter",
+         "id":"twitter",
+         "headers":[
+            {
+               "text":"Vine"
+            },
+            {
+               "text":"Periscope"
+            }
+         ],
+         "average":[
+            {
+               "value":"100"
+            },
+            {
+               "value":"67"
+            },
+            {
+               "value":"67"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Are the company's terms of service easy to find?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service available in the language(s) most commonly spoken by the company's users?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service are presented in an understandable manner?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Vodafone",
+         "id":"vodafone",
+         "headers":[
+            {
+               "text":"Prepaid Mobile"
+            },
+            {
+               "text":"Postpaid Mobile"
+            },
+            {
+               "text":"Fixed Line Broadband"
+            }
+         ],
+         "average":[
+            {
+               "value":"83"
+            },
+            {
+               "value":"83"
+            },
+            {
+               "value":"83"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Are the company's terms of service easy to find?"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service available in the language(s) most commonly spoken by the company's users?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service are presented in an understandable manner?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Yahoo",
+         "id":"yahoo",
+         "headers":[
+            {
+               "text":"Yahoo Mail"
+            },
+            {
+               "text":"Flickr"
+            },
+            {
+               "text":"Tumblr"
+            }
+         ],
+         "average":[
+            {
+               "value":"83"
+            },
+            {
+               "value":"83"
+            },
+            {
+               "value":"83"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Are the company's terms of service easy to find?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service available in the language(s) most commonly spoken by the company's users?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service are presented in an understandable manner?"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Yandex",
+         "id":"yandex",
+         "headers":[
+            {
+               "text":"Yandex Mail"
+            },
+            {
+               "text":"Yandex Search"
+            },
+            {
+               "text":"Yandex Disk (cloud storage)"
+            }
+         ],
+         "average":[
+            {
+               "value":"83"
+            },
+            {
+               "value":"83"
+            },
+            {
+               "value":"83"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"Are the company's terms of service easy to find?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service available in the language(s) most commonly spoken by the company's users?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Are the terms of service are presented in an understandable manner?"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
 }

@@ -1,6 +1,7 @@
 var $ = require('jquery');
 var _ = require('underscore');
 var Backbone = require('backbone');
+var baseurl = require('../util/base-url');
 var template = require('../templates/indicators.tpl');
 
 module.exports = Backbone.View.extend({
@@ -16,8 +17,9 @@ module.exports = Backbone.View.extend({
     var $data = $indicators.filter(model => model.get('indicator').charAt(0) === el.charAt(0));
     $data.forEach(function (item) {
 
+      console.info(item);
       $('#overview_list--'+$el).append(
-        template({name:item.attributes.name})
+        template({name:item.attributes.name, indicator:item.attributes.indicator, baseurl})
       );
 
     });

@@ -1,2390 +1,2636 @@
 {
-    "id": "P4",
-    "name": "P4. Sharing of user information",
-    "companies": [
-        {
-            "id": "americamovil",
-            "name": "América Móvil",
-            "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile"
-            ],
-            "average": [
-                "37.5",
-                "37.5"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company collects, does the company clearly disclose whether it shares that user information?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the types of third parties with which it shares that user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the names of all third parties with which it shares user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "apple",
-            "name": "Apple",
-            "headers": [
-                "iOS mobile ecosystem",
-                "iMessage",
-                "iCloud"
-            ],
-            "average": [
-                "33.33",
-                "50",
-                "50"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company collects, does the company clearly disclose whether it shares that user information?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the types of third parties with which it shares that user information?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the names of all third parties with which it shares user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "att",
-            "name": "AT&T",
-            "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile",
-                "Fixed Line Broadband"
-            ],
-            "average": [
-                "37.5",
-                "37.5",
-                "37.5"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company collects, does the company clearly disclose whether it shares that user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the types of third parties with which it shares that user information?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the names of all third parties with which it shares user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "axiata",
-            "name": "Axiata",
-            "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile"
-            ],
-            "average": [
-                "25",
-                "25"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company collects, does the company clearly disclose whether it shares that user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the types of third parties with which it shares that user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the names of all third parties with which it shares user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "baidu",
-            "name": "Baidu",
-            "headers": [
-                "Baidu Search",
-                "Baidu Cloud",
-                "Baidu PostBar"
-            ],
-            "average": [
-                "25",
-                "25",
-                "25"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company collects, does the company clearly disclose whether it shares that user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the types of third parties with which it shares that user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the names of all third parties with which it shares user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "bhartiairtel",
-            "name": "Bharti Airtel",
-            "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile",
-                "Fixed Line Broadband"
-            ],
-            "average": [
-                "37.5",
-                "37.5",
-                "37.5"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company collects, does the company clearly disclose whether it shares that user information?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the types of third parties with which it shares that user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the names of all third parties with which it shares user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "etisalat",
-            "name": "Etisalat",
-            "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile",
-                "Fixed Line Broadband"
-            ],
-            "average": [
-                "12.5",
-                "12.5",
-                "12.5"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company collects, does the company clearly disclose whether it shares that user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the types of third parties with which it shares that user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the names of all third parties with which it shares user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "facebook",
-            "name": "Facebook",
-            "headers": [
-                "Facebook",
-                "Instagram",
-                "WhatsApp",
-                "Messenger"
-            ],
-            "average": [
-                "50",
-                "50",
-                "62.5",
-                "50"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company collects, does the company clearly disclose whether it shares that user information?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the types of third parties with which it shares that user information?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the names of all third parties with which it shares user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "google",
-            "name": "Google",
-            "headers": [
-                "Search",
-                "Gmail",
-                "Youtube",
-                "Android mobile ecosystem"
-            ],
-            "average": [
-                "50",
-                "50",
-                "50",
-                "33.33"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company collects, does the company clearly disclose whether it shares that user information?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the types of third parties with which it shares that user information?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the names of all third parties with which it shares user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "kakao",
-            "name": "Kakao",
-            "headers": [
-                "Daum Search",
-                "Daum Mail",
-                "Kakao Talk"
-            ],
-            "average": [
-                "75",
-                "75",
-                "87.5"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company collects, does the company clearly disclose whether it shares that user information?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the types of third parties with which it shares that user information?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the names of all third parties with which it shares user information?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "mailru",
-            "name": "Mail.Ru",
-            "headers": [
-                "Vkontakte",
-                "Mail.Ru",
-                "Mail.Ru Agent"
-            ],
-            "average": [
-                "37.5",
-                "25",
-                "25"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company collects, does the company clearly disclose whether it shares that user information?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the types of third parties with which it shares that user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the names of all third parties with which it shares user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "microsoft",
-            "name": "Microsoft",
-            "headers": [
-                "Bing",
-                "Outlook.com",
-                "Skype"
-            ],
-            "average": [
-                "50",
-                "50",
-                "50"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company collects, does the company clearly disclose whether it shares that user information?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the types of third parties with which it shares that user information?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the names of all third parties with which it shares user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "mtn",
-            "name": "MTN",
-            "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile"
-            ],
-            "average": [
-                "0",
-                "0"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company collects, does the company clearly disclose whether it shares that user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the types of third parties with which it shares that user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the names of all third parties with which it shares user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "ooredoo",
-            "name": "Ooredoo",
-            "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile"
-            ],
-            "average": [
-                "0",
-                "0"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company collects, does the company clearly disclose whether it shares that user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the types of third parties with which it shares that user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the names of all third parties with which it shares user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "orange",
-            "name": "Orange",
-            "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile",
-                "Fixed Line Broadband"
-            ],
-            "average": [
-                "25",
-                "25",
-                "25"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company collects, does the company clearly disclose whether it shares that user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the types of third parties with which it shares that user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the names of all third parties with which it shares user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "samsung",
-            "name": "Samsung",
-            "headers": [
-                "Samsung implementation of Android"
-            ],
-            "average": [
-                "41.67"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company collects, does the company clearly disclose whether it shares that user information?"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the types of third parties with which it shares that user information?"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the names of all third parties with which it shares user information?"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "telefonica",
-            "name": "Telefónica",
-            "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile",
-                "Fixed Line Broadband"
-            ],
-            "average": [
-                "25",
-                "25",
-                "25"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company collects, does the company clearly disclose whether it shares that user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the types of third parties with which it shares that user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the names of all third parties with which it shares user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "tencent",
-            "name": "TenCent",
-            "headers": [
-                "QZone",
-                "QQ",
-                "WeChat"
-            ],
-            "average": [
-                "50",
-                "50",
-                "50"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company collects, does the company clearly disclose whether it shares that user information?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the types of third parties with which it shares that user information?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the names of all third parties with which it shares user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "twitter",
-            "name": "Twitter",
-            "headers": [
-                "Twitter",
-                "Vine",
-                "Periscope"
-            ],
-            "average": [
-                "62.5",
-                "62.5",
-                "62.5"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company collects, does the company clearly disclose whether it shares that user information?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the types of third parties with which it shares that user information?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the names of all third parties with which it shares user information?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "vodafone",
-            "name": "Vodafone",
-            "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile",
-                "Fixed Line Broadband"
-            ],
-            "average": [
-                "50",
-                "50",
-                "50"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company collects, does the company clearly disclose whether it shares that user information?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the types of third parties with which it shares that user information?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the names of all third parties with which it shares user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "yahoo",
-            "name": "Yahoo",
-            "headers": [
-                "Yahoo Mail",
-                "Flickr",
-                "Tumblr"
-            ],
-            "average": [
-                "75",
-                "75",
-                "37.5"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company collects, does the company clearly disclose whether it shares that user information?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the types of third parties with which it shares that user information?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the names of all third parties with which it shares user information?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "yandex",
-            "name": "Yandex",
-            "headers": [
-                "Yandex Mail",
-                "Yandex Search",
-                "Yandex Disk (cloud storage)"
-            ],
-            "average": [
-                "50",
-                "50",
-                "50"
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company collects, does the company clearly disclose whether it shares that user information?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the types of third parties with which it shares that user information?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "For each type of user information the company shares, does the company clearly disclose the names of all third parties with which it shares user information?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
+   "id":"P4",
+   "name":"P4. SHARING OF USER INFORMATION",
+   "paragraph_1":"The company should clearly disclose what user information it shares and with whom.",
+   "companies":[
+      {
+         "name":"América Móvil",
+         "id":"americaMovil",
+         "headers":[
+            {
+               "text":"Prepaid Mobile"
+            },
+            {
+               "text":"Postpaid Mobile"
+            }
+         ],
+         "average":[
+            {
+               "value":"38"
+            },
+            {
+               "value":"38"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company collects"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company shares"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company shares"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Apple",
+         "id":"apple",
+         "headers":[
+            {
+               "text":"iOS mobile ecosystem"
+            },
+            {
+               "text":"iMessage"
+            },
+            {
+               "text":"iCloud"
+            }
+         ],
+         "average":[
+            {
+               "value":"33"
+            },
+            {
+               "value":"50"
+            },
+            {
+               "value":"50"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company collects"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company shares"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company shares"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"AT&T",
+         "id":"att",
+         "headers":[
+            {
+               "text":"Prepaid Mobile"
+            },
+            {
+               "text":"Postpaid Mobile"
+            },
+            {
+               "text":"Fixed Line Broadband"
+            }
+         ],
+         "average":[
+            {
+               "value":"38"
+            },
+            {
+               "value":"38"
+            },
+            {
+               "value":"38"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company collects"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company shares"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company shares"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Axiata",
+         "id":"axiata",
+         "headers":[
+            {
+               "text":"Prepaid Mobile"
+            },
+            {
+               "text":"Postpaid Mobile"
+            }
+         ],
+         "average":[
+            {
+               "value":"25"
+            },
+            {
+               "value":"25"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company collects"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company shares"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company shares"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Baidu",
+         "id":"baidu",
+         "headers":[
+            {
+               "text":"Baidu Search"
+            },
+            {
+               "text":"Baidu Cloud"
+            },
+            {
+               "text":"Baidu PostBar"
+            }
+         ],
+         "average":[
+            {
+               "value":"25"
+            },
+            {
+               "value":"25"
+            },
+            {
+               "value":"25"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company collects"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company shares"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company shares"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Bharti Airtel",
+         "id":"bhartiairtel",
+         "headers":[
+            {
+               "text":"Prepaid Mobile"
+            },
+            {
+               "text":"Postpaid Mobile"
+            },
+            {
+               "text":"Fixed Line Broadband"
+            }
+         ],
+         "average":[
+            {
+               "value":"38"
+            },
+            {
+               "value":"38"
+            },
+            {
+               "value":"38"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company collects"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company shares"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company shares"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Etisalat",
+         "id":"etisalat",
+         "headers":[
+            {
+               "text":"Prepaid Mobile"
+            },
+            {
+               "text":"Postpaid Mobile"
+            },
+            {
+               "text":"Fixed Line Broadband"
+            }
+         ],
+         "average":[
+            {
+               "value":"13"
+            },
+            {
+               "value":"13"
+            },
+            {
+               "value":"13"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company collects"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company shares"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company shares"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Facebook",
+         "id":"facebook",
+         "headers":[
+            {
+               "text":"Instagram"
+            },
+            {
+               "text":"WhatsApp"
+            },
+            {
+               "text":"Messenger"
+            }
+         ],
+         "average":[
+            {
+               "value":"50"
+            },
+            {
+               "value":"50"
+            },
+            {
+               "value":"63"
+            },
+            {
+               "value":"50"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company collects"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company shares"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company shares"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Google",
+         "id":"google",
+         "headers":[
+            {
+               "text":"Search"
+            },
+            {
+               "text":"Gmail"
+            },
+            {
+               "text":"Youtube"
+            },
+            {
+               "text":"Android mobile ecosystem"
+            }
+         ],
+         "average":[
+            {
+               "value":"50"
+            },
+            {
+               "value":"50"
+            },
+            {
+               "value":"50"
+            },
+            {
+               "value":"33"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company collects"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company shares"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company shares"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Kakao",
+         "id":"kakao",
+         "headers":[
+            {
+               "text":"Daum Search"
+            },
+            {
+               "text":"Daum Mail"
+            },
+            {
+               "text":"Kakao Talk"
+            }
+         ],
+         "average":[
+            {
+               "value":"75"
+            },
+            {
+               "value":"75"
+            },
+            {
+               "value":"88"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company collects"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company shares"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company shares"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Mail.ru",
+         "id":"mailru",
+         "headers":[
+            {
+               "text":"Vkontakte"
+            },
+            {
+               "text":"Mail.Ru"
+            },
+            {
+               "text":"Mail.Ru Agent"
+            }
+         ],
+         "average":[
+            {
+               "value":"38"
+            },
+            {
+               "value":"25"
+            },
+            {
+               "value":"25"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company collects"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company shares"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company shares"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Microsoft",
+         "id":"microsoft",
+         "headers":[
+            {
+               "text":"Bing"
+            },
+            {
+               "text":"Outlook.com"
+            },
+            {
+               "text":"Skype"
+            }
+         ],
+         "average":[
+            {
+               "value":"50"
+            },
+            {
+               "value":"50"
+            },
+            {
+               "value":"50"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company collects"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company shares"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  },
+                  {
+                     "value":"100"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company shares"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"MTN",
+         "id":"mtn",
+         "headers":[
+            {
+               "text":"Prepaid Mobile"
+            },
+            {
+               "text":"Postpaid Mobile"
+            }
+         ],
+         "average":[
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company collects"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company shares"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company shares"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Ooredoo",
+         "id":"ooredoo",
+         "headers":[
+            {
+               "text":"Prepaid Mobile"
+            },
+            {
+               "text":"Postpaid Mobile"
+            }
+         ],
+         "average":[
+            {
+               "value":"0"
+            },
+            {
+               "value":"0"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company collects"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company shares"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company shares"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  }
+               ]
+            },
+            {
+               "cells":[
+                  {
+                     "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
+                  },
+                  {
+                     "value":"exclude"
+                  },
+                  {
+                     "value":"exclude"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Orange",
+         "id":"orange",
+         "headers":[
+            {
+               "text":"Prepaid Mobile"
+            },
+            {
+               "text":"Postpaid Mobile"
+            },
+            {
+               "text":"Fixed Line Broadband"
+            }
+         ],
+         "average":[
+            {
+               "value":"25"
+            },
+            {
+               "value":"25"
+            },
+            {
+               "value":"25"
+            }
+         ],
+         "rows":[
+            {
+               "cells":[
+                  {
+                     "value":"For each type of user information the company collects"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "value":"0"
+                  },
+                  {
+                     "cells":[
+                        {
+                           "value":"For each type of user information the company shares"
+                        },
+                        {
+                           "value":"0"
+                        },
+                        {
+                           "value":"0"
+                        },
+                        {
+                           "value":"0"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "value":"Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
+                        },
+                        {
+                           "value":"100"
+                        },
+                        {
+                           "value":"100"
+                        },
+                        {
+                           "value":"100"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "value":"For each type of user information the company shares"
+                        },
+                        {
+                           "value":"0"
+                        },
+                        {
+                           "value":"0"
+                        },
+                        {
+                           "value":"0"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
+                        },
+                        {
+                           "value":"exclude"
+                        },
+                        {
+                           "value":"exclude"
+                        },
+                        {
+                           "value":"exclude"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
+                        },
+                        {
+                           "value":"exclude"
+                        },
+                        {
+                           "value":"exclude"
+                        },
+                        {
+                           "value":"exclude"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Samsung",
+               "id":"samsung",
+               "headers":[
+                  {
+                     "text":"Samsung implementation of Android"
+                  }
+               ],
+               "average":[
+                  {
+                     "value":"42"
+                  }
+               ],
+               "rows":[
+                  {
+                     "cells":[
+                        {
+                           "value":"For each type of user information the company collects"
+                        },
+                        {
+                           "value":"50"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "value":"For each type of user information the company shares"
+                        },
+                        {
+                           "value":"50"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "value":"Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
+                        },
+                        {
+                           "value":"100"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "value":"For each type of user information the company shares"
+                        },
+                        {
+                           "value":"50"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "value":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
+                        },
+                        {
+                           "value":"0"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "value":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
+                        },
+                        {
+                           "value":"0"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Telefónica",
+               "id":"telefonica",
+               "headers":[
+                  {
+                     "text":"Prepaid Mobile"
+                  },
+                  {
+                     "text":"Postpaid Mobile"
+                  },
+                  {
+                     "text":"Fixed Line Broadband"
+                  }
+               ],
+               "average":[
+                  {
+                     "value":"25"
+                  },
+                  {
+                     "value":"25"
+                  },
+                  {
+                     "value":"25"
+                  }
+               ],
+               "rows":[
+                  {
+                     "cells":[
+                        {
+                           "value":"For each type of user information the company collects"
+                        },
+                        {
+                           "value":"0"
+                        },
+                        {
+                           "value":"0"
+                        },
+                        {
+                           "value":"0"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "value":"For each type of user information the company shares"
+                        },
+                        {
+                           "value":"0"
+                        },
+                        {
+                           "value":"0"
+                        },
+                        {
+                           "value":"0"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "value":"Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
+                        },
+                        {
+                           "value":"100"
+                        },
+                        {
+                           "value":"100"
+                        },
+                        {
+                           "value":"100"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "value":"For each type of user information the company shares"
+                        },
+                        {
+                           "value":"0"
+                        },
+                        {
+                           "value":"0"
+                        },
+                        {
+                           "value":"0"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
+                        },
+                        {
+                           "value":"exclude"
+                        },
+                        {
+                           "value":"exclude"
+                        },
+                        {
+                           "value":"exclude"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
+                        },
+                        {
+                           "value":"exclude"
+                        },
+                        {
+                           "value":"exclude"
+                        },
+                        {
+                           "value":"exclude"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Tencent",
+               "id":"tencent",
+               "headers":[
+                  {
+                     "text":"QZone"
+                  },
+                  {
+                     "text":"QQ"
+                  },
+                  {
+                     "text":"WeChat"
+                  }
+               ],
+               "average":[
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ],
+               "rows":[
+                  {
+                     "cells":[
+                        {
+                           "value":"For each type of user information the company collects"
+                        },
+                        {
+                           "value":"50"
+                        },
+                        {
+                           "value":"50"
+                        },
+                        {
+                           "value":"50"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "value":"For each type of user information the company shares"
+                        },
+                        {
+                           "value":"50"
+                        },
+                        {
+                           "value":"50"
+                        },
+                        {
+                           "value":"50"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "value":"Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
+                        },
+                        {
+                           "value":"100"
+                        },
+                        {
+                           "value":"100"
+                        },
+                        {
+                           "value":"100"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "value":"For each type of user information the company shares"
+                        },
+                        {
+                           "value":"0"
+                        },
+                        {
+                           "value":"0"
+                        },
+                        {
+                           "value":"0"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
+                        },
+                        {
+                           "value":"exclude"
+                        },
+                        {
+                           "value":"exclude"
+                        },
+                        {
+                           "value":"exclude"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
+                        },
+                        {
+                           "value":"exclude"
+                        },
+                        {
+                           "value":"exclude"
+                        },
+                        {
+                           "value":"exclude"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Twitter",
+               "id":"Twitter",
+               "headers":[
+                  {
+                     "text":"Twitter"
+                  },
+                  {
+                     "text":"Vine"
+                  },
+                  {
+                     "text":"Periscope"
+                  }
+               ],
+               "average":[
+                  {
+                     "value":"63"
+                  },
+                  {
+                     "value":"63"
+                  },
+                  {
+                     "value":"63"
+                  }
+               ],
+               "rows":[
+                  {
+                     "cells":[
+                        {
+                           "value":"For each type of user information the company collects"
+                        },
+                        {
+                           "value":"50"
+                        },
+                        {
+                           "value":"50"
+                        },
+                        {
+                           "value":"50"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "value":"For each type of user information the company shares"
+                        },
+                        {
+                           "value":"50"
+                        },
+                        {
+                           "value":"50"
+                        },
+                        {
+                           "value":"50"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "value":"Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
+                        },
+                        {
+                           "value":"100"
+                        },
+                        {
+                           "value":"100"
+                        },
+                        {
+                           "value":"100"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "value":"For each type of user information the company shares"
+                        },
+                        {
+                           "value":"50"
+                        },
+                        {
+                           "value":"50"
+                        },
+                        {
+                           "value":"50"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
+                        },
+                        {
+                           "value":"exclude"
+                        },
+                        {
+                           "value":"exclude"
+                        },
+                        {
+                           "value":"exclude"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
+                        },
+                        {
+                           "value":"exclude"
+                        },
+                        {
+                           "value":"exclude"
+                        },
+                        {
+                           "value":"exclude"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Vodafone",
+               "id":"vodafone",
+               "headers":[
+                  {
+                     "text":"Prepaid Mobile"
+                  },
+                  {
+                     "text":"Postpaid Mobile"
+                  },
+                  {
+                     "text":"Fixed Line Broadband"
+                  }
+               ],
+               "average":[
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ],
+               "rows":[
+                  {
+                     "cells":[
+                        {
+                           "value":"For each type of user information the company collects"
+                        },
+                        {
+                           "value":"50"
+                        },
+                        {
+                           "value":"50"
+                        },
+                        {
+                           "value":"50"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "value":"For each type of user information the company shares"
+                        },
+                        {
+                           "value":"50"
+                        },
+                        {
+                           "value":"50"
+                        },
+                        {
+                           "value":"50"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "value":"Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
+                        },
+                        {
+                           "value":"100"
+                        },
+                        {
+                           "value":"100"
+                        },
+                        {
+                           "value":"100"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "value":"For each type of user information the company shares"
+                        },
+                        {
+                           "value":"0"
+                        },
+                        {
+                           "value":"0"
+                        },
+                        {
+                           "value":"0"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
+                        },
+                        {
+                           "value":"exclude"
+                        },
+                        {
+                           "value":"exclude"
+                        },
+                        {
+                           "value":"exclude"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
+                        },
+                        {
+                           "value":"exclude"
+                        },
+                        {
+                           "value":"exclude"
+                        },
+                        {
+                           "value":"exclude"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Yahoo",
+               "id":"Yahoo",
+               "headers":[
+                  {
+                     "text":"Yahoo Mail"
+                  },
+                  {
+                     "text":"Flickr"
+                  },
+                  {
+                     "text":"Tumblr"
+                  }
+               ],
+               "average":[
+                  {
+                     "value":"75"
+                  },
+                  {
+                     "value":"75"
+                  },
+                  {
+                     "value":"38"
+                  }
+               ],
+               "rows":[
+                  {
+                     "cells":[
+                        {
+                           "value":"For each type of user information the company collects"
+                        },
+                        {
+                           "value":"50"
+                        },
+                        {
+                           "value":"50"
+                        },
+                        {
+                           "value":"0"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "value":"For each type of user information the company shares"
+                        },
+                        {
+                           "value":"50"
+                        },
+                        {
+                           "value":"50"
+                        },
+                        {
+                           "value":"50"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "value":"Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
+                        },
+                        {
+                           "value":"100"
+                        },
+                        {
+                           "value":"100"
+                        },
+                        {
+                           "value":"100"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "value":"For each type of user information the company shares"
+                        },
+                        {
+                           "value":"100"
+                        },
+                        {
+                           "value":"100"
+                        },
+                        {
+                           "value":"0"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
+                        },
+                        {
+                           "value":"exclude"
+                        },
+                        {
+                           "value":"exclude"
+                        },
+                        {
+                           "value":"exclude"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
+                        },
+                        {
+                           "value":"exclude"
+                        },
+                        {
+                           "value":"exclude"
+                        },
+                        {
+                           "value":"exclude"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Yandex",
+               "id":"Yandex",
+               "headers":[
+                  {
+                     "text":"Yandex Mail"
+                  },
+                  {
+                     "text":"Yandex Search"
+                  },
+                  {
+                     "text":"Yandex Disk (cloud storage)"
+                  }
+               ],
+               "average":[
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  },
+                  {
+                     "value":"50"
+                  }
+               ],
+               "rows":[
+                  {
+                     "cells":[
+                        {
+                           "value":"For each type of user information the company collects"
+                        },
+                        {
+                           "value":"50"
+                        },
+                        {
+                           "value":"50"
+                        },
+                        {
+                           "value":"50"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "value":"For each type of user information the company shares"
+                        },
+                        {
+                           "value":"50"
+                        },
+                        {
+                           "value":"50"
+                        },
+                        {
+                           "value":"50"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "value":"Does the company clearly disclose that it may share user information with government(s) or legal authorities?"
+                        },
+                        {
+                           "value":"100"
+                        },
+                        {
+                           "value":"100"
+                        },
+                        {
+                           "value":"100"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "value":"For each type of user information the company shares"
+                        },
+                        {
+                           "value":"0"
+                        },
+                        {
+                           "value":"0"
+                        },
+                        {
+                           "value":"0"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose what user information the apps share?"
+                        },
+                        {
+                           "value":"exclude"
+                        },
+                        {
+                           "value":"exclude"
+                        },
+                        {
+                           "value":"exclude"
+                        }
+                     ]
+                  },
+                  {
+                     "cells":[
+                        {
+                           "values":"(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose the types of third parties with whom they share user information?"
+                        },
+                        {
+                           "value":"exclude"
+                        },
+                        {
+                           "value":"exclude"
+                        },
+                        {
+                           "value":"exclude"
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      }
+   ]
 }

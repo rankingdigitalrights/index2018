@@ -1,1 +1,1 @@
-<li><a href="#"><%= name %></a><li>
+<li><a href="<%= baseurl %>/indicators/<%= indicator %>"><%= name %></a><li>
