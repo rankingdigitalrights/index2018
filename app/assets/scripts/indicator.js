@@ -2,42 +2,20 @@ var $ = require('jquery');
 var _ = require('underscore');
 
 var Indicators = require('./collections/indicators-overview');
-var Barchart = require('./views/barchart');
-var barsort = require('./util/barsort');
+var IndicatorView = require('./views/indicator');
 
-module.exports = function generateIndicator (indicatorName) {
+module.exports = function generateIndicator (indicator) {
 
   var indicators = new Indicators();
+  var indicatorView = new IndicatorView({
+    collection: indicators,
+    indicator: indicator
+  });
 
   indicators.fetch({
       success: function () {
-          overviewSuccess();
+          indicatorView.render();
       }
   });
-
-
-      var $parent = $('#indicator--overview_chart');
-      var overviewSuccess = function () {
-          var comp = indicators.findWhere({indicator: indicatorName});
-          var $scores = comp.attributes.scores;
-
-          var $data = [];
-          $.each( $scores, function( key, value ) {
-              $data.push({name:key,val:value});
-          });
-
-          $data.sort(barsort);
-
-          var barchart = new Barchart({
-              width: $('#indicator--overview_chart').width(),
-              height: 340,
-              data: $data,
-          });
-
-          barchart.render('#indicator--overview_chart');
-
-      }
-
-
 
 }
