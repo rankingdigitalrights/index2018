@@ -21,6 +21,7 @@ module.exports = function generateCategory (category) {
     // var data = overview.map(function (model) {
       if (category === 'governance') { 
         var data = overview.map(function (model) {
+          console.info(model);
           var cat = model.get(category);
           return {
             name: model.get('display'),

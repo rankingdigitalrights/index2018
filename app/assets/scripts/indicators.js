@@ -3,9 +3,10 @@
 var Indicators = require('./collections/indicators-overview');
 var AllIndicatorsView = require('./views/all-indicators');
 
-module.exports = function generateIndicator () {
+module.exports = function generateIndicators () {
   
   var indicators = new Indicators();
+  console.info(indicators);
   var indicatorView = new AllIndicatorsView({
     collection: indicators
   });
