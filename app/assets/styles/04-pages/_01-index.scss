@@ -635,6 +635,10 @@
 
 	/* Services ranking */
 	.services-ranking {
+		background-color: $dark-blue;
+		h1, p{
+			color: $white;
+		}
 		a {
 		color: $white-pure;
 		}

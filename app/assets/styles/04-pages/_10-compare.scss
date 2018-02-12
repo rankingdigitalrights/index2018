@@ -14,18 +14,19 @@
     padding: 0px;
     .row {
       border-top: 2px solid $black;
-      margin-top: 0px !important;
-      margin-bottom: 0px !important;
+      margin-top: 0 !important;
+      margin-bottom: 0 !important;
       padding-top: 3em;
       padding-bottom: 2.2em;
       position: relative;
 
       .container--score {
+        @include span-columns(2);
         @include media(small-up) {
-          @include span-columns(12);
+          @include span-columns(2);
         }
         @include media(medium-up) {
-          @include span-columns(12);
+          @include span-columns(2);
         }
         @include media(large-up) {
           @include span-columns(1);
@@ -33,11 +34,12 @@
       }
 
       .container--title {
+        @include span-columns(6);
         @include media(small-up) {
-          @include span-columns(12);
+          @include span-columns(6);
         }
         @include media(medium-up) {
-          @include span-columns(12);
+          @include span-columns(6);
         }
         @include media(large-up) {
           @include span-columns(3);
@@ -45,6 +47,7 @@
       }
 
       .container--body {
+        @include span-columns(12);
         @include media(small-up) {
           @include span-columns(12);
         }
@@ -75,9 +78,8 @@
           display: inline-block;
           font-weight: bold;
           color: #FFFFFF;
-          padding-top:5px;
-          height: 25px;
-          width: 70%;
+          padding:5px;
+          height: 28px;
           text-align: center;
           margin-top: 6px;
           border-radius: 2px;
@@ -171,6 +173,7 @@
   }
   .company--name {
     font-size: 16px;
+    color: #FFFFFF;
   }
 
   .legend {
@@ -179,13 +182,13 @@
     font-weight: bold;
   }
   .legend--zero {
-    fill: #777777;
+    fill: #787878;
   }
   .legend--positive {
-    fill: #00A65A;
+    fill: #8BC43F;
   }
   .legend--negative {
-    fill: #B7000D;
+    fill: #F05A28;
   }
 
   .rank {
