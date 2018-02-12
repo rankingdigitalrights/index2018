@@ -1,8 +1,8 @@
 var $ = require('jquery');
 var _ = require('underscore');
 var renderCompanyPage = require('./company');
-var renderIndicatorPage = require('./single-indicator');
-var renderAllIndicators = require('./indicators');
+var renderIndicatorPage = require('./indicator');
+var renderIndicatorsPage = require('./indicators');
 var renderCategoryPage = require('./category');
 var renderServicePage = require('./services');
 var renderIndexPage = require('./index');
@@ -30,7 +30,7 @@ resize.start();
     renderIndicatorPage(dataId);
   }
   else if (type === 'indicators') {
-    renderAllIndicators();
+    renderIndicatorsPage();
   }
   else if (type === 'category') {
     renderCategoryPage(dataId);

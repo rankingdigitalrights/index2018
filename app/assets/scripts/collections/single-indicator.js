@@ -6,7 +6,7 @@ module.exports = Backbone.Collection.extend({
   url: baseurl + '/assets/static/indicators/',
   model: model,
   initialize: function (options) {
-    this.url += options.indicator + '.json';
+    this.url += options.indicator.toUpperCase() + '.json';
   },
   parse: function (resp) {
     this.indicatorId = resp.id;

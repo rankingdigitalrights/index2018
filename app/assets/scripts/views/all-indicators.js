@@ -16,8 +16,6 @@ module.exports = Backbone.View.extend({
     var $indicators = this.collection;
     var $data = $indicators.filter(model => model.get('indicator').charAt(0) === el.charAt(0));
     $data.forEach(function (item) {
-
-      console.info(item);
       $('#overview_list--'+$el).append(
         template({name:item.attributes.name, indicator:item.attributes.indicator, baseurl})
       );
