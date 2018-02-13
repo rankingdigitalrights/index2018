@@ -9,9 +9,8 @@ module.exports = Backbone.Collection.extend({
     this.url += options.indicator.toUpperCase() + '.json';
   },
   parse: function (resp) {
-    this.indicatorId = resp.id;
     this.indicatorName = resp.name;
-    this.indicatorFollow = resp.follow;
-    return resp.companies;
+    this.companies = resp.companies;
+    return resp;
   }
 });

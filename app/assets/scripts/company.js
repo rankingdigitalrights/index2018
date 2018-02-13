@@ -42,10 +42,6 @@ module.exports = function (companyName) {
     companyName: companyName,
   });
 /* ===========================================================*/
-
-
-  
-
   
   companyIndicator.fetch({
     success: function () {

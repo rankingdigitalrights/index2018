@@ -99,7 +99,7 @@ $maincolor:  #231f20;
       &:last-child {
         border-bottom: 0;
       }
-      ol{
+      ul{
         list-style-type: none;
         margin: 0;
         padding: 0;
@@ -107,24 +107,35 @@ $maincolor:  #231f20;
         li{
           padding: 5px 0 0 20px;
           background: none;
-          color: #a5a8ab;
+          color: #5E5E5E;
           display: block;
           &:last-child {
             border-bottom: 0;
           }
           &:hover{
             cursor: pointer;
-            color: $base-color;
+            text-decoration: underline;
           }
           a{
-            color: #a5a8ab;
+            color: #5E5E5E;
             text-decoration: none;
             width: 100%;
             display: block;
             &:hover{
               cursor: pointer;
-              color: $base-color;
+              text-decoration: underline;
 
+            }
+            i {
+              font-size: 14px;
+              line-height: 1;
+              margin-right: 7px;
+            }
+            i.true {
+              color: #ED1B24;
+            }
+            i.false {
+              color: #F8931F;
             }
           }
           .active-base-color{
@@ -136,9 +147,7 @@ $maincolor:  #231f20;
       }
 
     }
-    .sidebar-menu-active{
 
-    }
   }
   .fixed{
     position: fixed;
@@ -324,5 +333,20 @@ $maincolor:  #231f20;
         }
       }
     }
+
+
+    #indicator--companies {
+      table {
+        th.cell--first {
+          text-align: left;
+          width: 50%;
+        }
+        thead tr,
+        tfoot tr {
+          background-color: #E2D9D0;
+        }
+      }
+    }
+
   }
 }
