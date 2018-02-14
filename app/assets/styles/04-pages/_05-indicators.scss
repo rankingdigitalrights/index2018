@@ -46,3 +46,66 @@
 		}
 	}
 }
+
+#indicator-page-content{
+	#indicator--companies{
+		.company--table{
+			h2{}
+			table{
+				thead{
+					tr{
+						background-color: white;
+						border-bottom: 2px solid #E2D9D0;
+						th{
+							padding: 0 0 15px 0;
+							vertical-align: middle;
+						}
+						th:nth-child(2n+2) {
+							background: #f1f1f3;
+						}
+						.cell--first{
+							font-size: 1.25em;
+							line-height: 1.3em;
+						}
+					}
+				}
+				tbody,tfoot{
+					tr{
+						td{
+							text-align: center;
+							padding-top: 15px;
+							padding-bottom: 15px;
+							line-height: 1.3em;
+							&:first-child{
+								text-align: left;
+								padding-left: 5px;
+								padding-right: 5px;
+							}
+						}
+
+					}
+				}
+				tbody{
+					tr{
+						td:nth-child(2n+2) {
+							background: #f1f1f3;
+						}
+					}
+				}
+				tfoot{
+					tr{
+						td{
+							font-weight: bold;
+							padding-top: 5px;
+							padding-bottom: 5px;
+							&:first-child{
+								text-transform: uppercase;
+								font-size: 1.5em;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
