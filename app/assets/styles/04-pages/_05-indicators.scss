@@ -48,6 +48,17 @@
 }
 
 #indicator-page-content{
+
+	a.toogle {
+		color: #313131 !important;
+		font-size: 1.250em;
+		line-height: 1.5em;
+		font-weight: 600;
+	}
+	p.text {
+		display: none;
+	}
+
 	#indicator--companies{
 		.company--table{
 			h2{}

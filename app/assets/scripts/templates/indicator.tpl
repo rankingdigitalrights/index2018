@@ -1,5 +1,9 @@
 <section class="company--table">
-    <h2><a id="<%= item.id %>"></a><%= item.name %></h2>
+    <h2>
+        <a id="<%= item.id %>"></a>
+        <%= item.name %>
+        <span class="percent">21%</span>
+    </h2>
     <table>
         <thead>
             <tr>
