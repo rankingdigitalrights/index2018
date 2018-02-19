@@ -132,13 +132,13 @@
           }
         }
         .zero {
-          background-color: #777777;
-          border: 1px solid #777777;
+          background-color: $black;
+          border: 1px solid $black;
           &:after{
-            border-left-color: #777777;
+            border-left-color: $black;
           }
           &:before{
-            border-left-color: #777777;
+            border-left-color: $black;
           }
         }
       }
