@@ -31,7 +31,7 @@ class OverviewJsonFields(object):
     telco = 'telco'
 
 
-ORDERED_SERVICE_ROWS = ['Category', 'Company', 'Service', 'Total', 'Difference', 'G', 'FoE', 'P']
+ORDERED_SERVICE_ROWS = ['Category', 'Company', 'Service', 'Total', 'Difference', 'G', 'FoE', 'P', 'Description']
 
 
 class ServiceCSVFields(object):
@@ -43,6 +43,7 @@ class ServiceCSVFields(object):
     g = ORDERED_SERVICE_ROWS[5]
     foe = ORDERED_SERVICE_ROWS[6]
     p = ORDERED_SERVICE_ROWS[7]
+    description = ORDERED_SERVICE_ROWS[8]
 
 
 class ServiceJSONFields(object):
@@ -54,6 +55,7 @@ class ServiceJSONFields(object):
     g = ServiceCSVFields.g
     foe = ServiceCSVFields.foe
     p = ServiceCSVFields.p
+    description = ServiceCSVFields.description
 
 
 SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS = [

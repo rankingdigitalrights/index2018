@@ -41,7 +41,8 @@ class _ServiceObjectsCreator(object):
             ServiceCSVFields.difference: self._parse_numeric_value(service_column, ServiceCSVFields.difference),
             ServiceJSONFields.g: self._parse_numeric_value(service_column, ServiceCSVFields.g),
             ServiceJSONFields.foe: self._parse_numeric_value(service_column, ServiceCSVFields.foe),
-            ServiceJSONFields.p: self._parse_numeric_value(service_column, ServiceCSVFields.p)
+            ServiceJSONFields.p: self._parse_numeric_value(service_column, ServiceCSVFields.p),
+            ServiceJSONFields.description: self._get_column_value(service_column, ServiceCSVFields.description),
         }
 
     def create(self):
