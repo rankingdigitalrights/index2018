@@ -564,7 +564,7 @@
             {
                "cells":[
                   {
-                     "values":"Are the privacy policies available in the language(s) most commonly spoken by the company's users'"
+                     "values":"Are the privacy policies available in the language(s) most commonly spoken by the company?s users'"
                   },
                   {
                      "value":"0"
@@ -599,13 +599,13 @@
                      "values":"(For mobile ecosystems): Does the company disclose that it requires apps made available through its app store to provide users with a privacy policy?"
                   },
                   {
-                     "value":"exclude"
+                     "value":"0"
                   },
                   {
-                     "value":"exclude"
+                     "value":"0"
                   },
                   {
-                     "value":"exclude"
+                     "value":"0"
                   }
                ]
             }
@@ -616,8 +616,6 @@
          "id":"facebook",
          "headers":[
             {
-               "text":"Facebook"
-            },{
                "text":"Instagram"
             },
             {
@@ -859,7 +857,7 @@
             {
                "cells":[
                   {
-                     "value":"Are the company's privacy policies easy to find?"
+                     "values":"Are the company?s privacy policies easy to find?"
                   },
                   {
                      "value":"100"
@@ -875,7 +873,7 @@
             {
                "cells":[
                   {
-                     "value":"Are the privacy policies available in the language(s) most commonly spoken by the company's users'"
+                     "values":"Are the privacy policies available in the language(s) most commonly spoken by the company?s users'"
                   },
                   {
                      "value":"100"
@@ -891,7 +889,7 @@
             {
                "cells":[
                   {
-                     "value":"Are the policies presented in an understandable manner?"
+                     "values":"Are the policies presented in an understandable manner?"
                   },
                   {
                      "value":"100"
@@ -982,9 +980,6 @@
             },
             {
                "cells":[
-                    {
-                     "value":"Are the policies presented in an understandable manner?"
-                  },
                   {
                      "value":"50"
                   },
@@ -1489,6 +1484,9 @@
                   },
                   {
                      "value":"exclude"
+                  },
+                  {
+                     "value":"Tencent"
                   }
                ]
             }

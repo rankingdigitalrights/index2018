@@ -780,15 +780,9 @@
             },
             {
                "text":"Postpaid Mobile"
-            },
-            {
-               "text":"Fixed Line Broadband"
             }
          ],
          "average":[
-            {
-               "value":"0"
-            },
             {
                "value":"0"
             },
@@ -807,10 +801,7 @@
                   },
                   {
                      "value":"0"
-                  },
-            {
-               "value":"0"
-            }
+                  }
                ]
             },
             {
@@ -823,10 +814,7 @@
                   },
                   {
                      "value":"0"
-                  },
-            {
-               "value":"0"
-            }
+                  }
                ]
             }
          ]
@@ -975,10 +963,10 @@
                      "value":"If the company does engage in these practices, does it clearly disclose its purpose for doing so?"
                   },
                   {
-                     "value":"50"
+                     "value":"0"
                   },
                   {
-                     "value":"50"
+                     "value":"0"
                   },
                   {
                      "value":"0"

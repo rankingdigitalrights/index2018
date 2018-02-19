@@ -1,30 +1,30 @@
-{
+{  
    "id":"P8",
    "name":"P8. USERS ACCESS TO THEIR OWN USER INFORMATION",
    "paragraph_1":"Companies should allow users to obtain all of their user information the company holds.",
-   "companies":[
-      {
+   "companies":[  
+      {  
          "name":"América Móvil",
          "id":"americaMovil",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Prepaid Mobile"
             },
-            {
+            {  
                "text":"Postpaid Mobile"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"0"
             },
-            {
+            {  
                "value":"0"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that users can obtain a copy of their user information?"
    },
@@ -36,8 +36,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose what user information users can obtain?"
    },
@@ -49,8 +49,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain their user information in a structured data format?"
    },
@@ -62,8 +62,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that users can obtain all public-facing and private user information a company holds about them?"
    },
@@ -75,10 +75,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
    },
    {
       "value": "exclude"
@@ -90,34 +90,34 @@
             }
          ]
       },
-      {
+      {  
          "name":"Apple",
          "id":"apple",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"iOS mobile ecosystem"
             },
-            {
+            {  
                "text":"iMessage"
             },
-            {
+            {  
                "text":"iCloud"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"0"
             },
-            {
+            {  
                "value":"0"
             },
-            {
+            {  
                "value":"0"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain a copy of their user information?"
    },
@@ -132,8 +132,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose what user information users can obtain?"
    },
@@ -148,8 +148,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                  {
       "value": "Does the company clearly disclose that users can obtain their user information in a structured data format?"
    },
@@ -164,8 +164,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain all public-facing and private user information a company holds about them?"
    },
@@ -180,10 +180,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
    },
    {
       "value": "0"
@@ -198,34 +198,34 @@
             }
          ]
       },
-      {
+      {  
          "name":"AT&T",
          "id":"att",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Prepaid Mobile"
             },
-            {
+            {  
                "text":"Postpaid Mobile"
             },
-            {
+            {  
                "text":"Fixed Line Broadband"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"0"
             },
-            {
+            {  
                "value":"75"
             },
-            {
+            {  
                "value":"0"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that users can obtain a copy of their user information?"
    },
@@ -240,8 +240,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose what user information users can obtain?"
    },
@@ -256,8 +256,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain their user information in a structured data format?"
    },
@@ -272,8 +272,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain all public-facing and private user information a company holds about them?"
    },
@@ -288,10 +288,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
    },
    {
       "value": "exclude"
@@ -306,28 +306,28 @@
             }
          ]
       },
-      {
+      {  
          "name":"Axiata",
          "id":"axiata",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Prepaid Mobile"
             },
-            {
+            {  
                "text":"Postpaid Mobile"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"0"
             },
-            {
+            {  
                "value":"0"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain a copy of their user information?"
    },
@@ -339,8 +339,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose what user information users can obtain?"
    },
@@ -352,8 +352,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that users can obtain their user information in a structured data format?"
    },
@@ -365,8 +365,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain all public-facing and private user information a company holds about them?"
    },
@@ -378,10 +378,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
    },
    {
       "value": "exclude"
@@ -393,34 +393,34 @@
             }
          ]
       },
-      {
+      {  
          "name":"Baidu",
          "id":"baidu",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Baidu Search"
             },
-            {
+            {  
                "text":"Baidu Cloud"
             },
-            {
+            {  
                "text":"Baidu PostBar"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"0"
             },
-            {
+            {  
                "value":"0"
             },
-            {
+            {  
                "value":"0"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain a copy of their user information?"
    },
@@ -435,8 +435,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose what user information users can obtain?"
    },
@@ -451,8 +451,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain their user information in a structured data format?"
    },
@@ -467,8 +467,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain all public-facing and private user information a company holds about them?"
    },
@@ -483,10 +483,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
    },
    {
       "value": "exclude"
@@ -501,34 +501,34 @@
             }
          ]
       },
-      {
+      {  
          "name":"Bharti Airtel",
          "id":"bhartiairtel",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Prepaid Mobile"
             },
-            {
+            {  
                "text":"Postpaid Mobile"
             },
-            {
+            {  
                "text":"Fixed Line Broadband"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"0"
             },
-            {
+            {  
                "value":"0"
             },
-            {
+            {  
                "value":"0"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain a copy of their user information?"
    },
@@ -543,8 +543,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose what user information users can obtain?"
    },
@@ -559,8 +559,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                  {
       "value": "Does the company clearly disclose that users can obtain their user information in a structured data format?"
    },
@@ -575,8 +575,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain all public-facing and private user information a company holds about them?"
    },
@@ -591,10 +591,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
    },
    {
       "value": "exclude"
@@ -609,34 +609,34 @@
             }
          ]
       },
-      {
+      {  
          "name":"Etisalat",
          "id":"etisalat",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Prepaid Mobile"
             },
-            {
+            {  
                "text":"Postpaid Mobile"
             },
-            {
+            {  
                "text":"Fixed Line Broadband"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"0"
             },
-            {
+            {  
                "value":"0"
             },
-            {
+            {  
                "value":"0"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that users can obtain a copy of their user information?"
    },
@@ -651,8 +651,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose what user information users can obtain?"
    },
@@ -667,8 +667,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain their user information in a structured data format?"
    },
@@ -683,8 +683,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain all public-facing and private user information a company holds about them?"
    },
@@ -699,10 +699,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
    },
    {
       "value": "exclude"
@@ -717,40 +717,37 @@
             }
          ]
       },
-      {
+      {  
          "name":"Facebook",
          "id":"facebook",
-         "headers":[
-            {
-               "text":"Facebook"
-            },
-            {
+         "headers":[  
+            {  
                "text":"Instagram"
             },
-            {
+            {  
                "text":"WhatsApp"
             },
-            {
+            {  
                "text":"Messenger"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"75"
             },
-            {
+            {  
                "value":"0"
             },
-            {
+            {  
                "value":"75"
             },
-            {
+            {  
                "value":"75"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain a copy of their user information?"
    },
@@ -768,8 +765,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose what user information users can obtain?"
    },
@@ -787,8 +784,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                 {
       "value": "Does the company clearly disclose that users can obtain their user information in a structured data format?"
    },
@@ -806,8 +803,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain all public-facing and private user information a company holds about them?"
    },
@@ -825,10 +822,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
    },
    {
       "value": "exclude"
@@ -846,40 +843,40 @@
             }
          ]
       },
-      {
+      {  
          "name":"Google",
          "id":"google",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Search"
             },
-            {
+            {  
                "text":"Gmail"
             },
-            {
+            {  
                "text":"Youtube"
             },
-            {
+            {  
                "text":"Android mobile ecosystem"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"75"
             },
-            {
+            {  
                "value":"75"
             },
-            {
+            {  
                "value":"75"
             },
-            {
+            {  
                "value":"30"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain a copy of their user information?"
    },
@@ -897,8 +894,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose what user information users can obtain?"
    },
@@ -916,8 +913,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                  {
       "value": "Does the company clearly disclose that users can obtain their user information in a structured data format?"
    },
@@ -935,8 +932,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain all public-facing and private user information a company holds about them?"
    },
@@ -954,10 +951,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
    },
    {
       "value": "exclude"
@@ -967,42 +964,41 @@
    },
    {
       "value": "exclude"
-   },
-   {
+   },{
       "value": "0"
    }
                ]
             }
          ]
       },
-      {
+      {  
          "name":"Kakao",
          "id":"kakao",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Daum Search"
             },
-            {
+            {  
                "text":"Daum Mail"
             },
-            {
+            {  
                "text":"Kakao Talk"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"0"
             },
-            {
+            {  
                "value":"50"
             },
-            {
+            {  
                "value":"50"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that users can obtain a copy of their user information?"
    },
@@ -1017,8 +1013,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose what user information users can obtain?"
    },
@@ -1033,8 +1029,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that users can obtain their user information in a structured data format?"
    },
@@ -1049,8 +1045,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain all public-facing and private user information a company holds about them?"
    },
@@ -1065,10 +1061,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
    },
    {
       "value": "exclude"
@@ -1083,34 +1079,34 @@
             }
          ]
       },
-      {
+      {  
          "name":"Mail.ru",
          "id":"mailru",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Vkontakte"
             },
-            {
+            {  
                "text":"Mail.Ru"
             },
-            {
+            {  
                "text":"Mail.Ru Agent"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"0"
             },
-            {
+            {  
                "value":"0"
             },
-            {
+            {  
                "value":"0"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain a copy of their user information?"
    },
@@ -1125,8 +1121,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose what user information users can obtain?"
    },
@@ -1141,8 +1137,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain their user information in a structured data format?"
    },
@@ -1157,8 +1153,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that users can obtain all public-facing and private user information a company holds about them?"
    },
@@ -1173,10 +1169,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
    },
    {
       "value": "exclude"
@@ -1191,34 +1187,34 @@
             }
          ]
       },
-      {
+      {  
          "name":"Microsoft",
          "id":"microsoft",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Bing"
             },
-            {
+            {  
                "text":"Outlook.com"
             },
-            {
+            {  
                "text":"Skype"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"0"
             },
-            {
+            {  
                "value":"75"
             },
-            {
+            {  
                "value":"75"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain a copy of their user information?"
    },
@@ -1233,8 +1229,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose what user information users can obtain?"
    },
@@ -1249,8 +1245,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                  {
       "value": "Does the company clearly disclose that users can obtain their user information in a structured data format?"
    },
@@ -1265,8 +1261,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that users can obtain all public-facing and private user information a company holds about them?"
    },
@@ -1281,10 +1277,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
    },
    {
       "value": "exclude"
@@ -1299,28 +1295,28 @@
             }
          ]
       },
-      {
+      {  
          "name":"MTN",
          "id":"mtn",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Prepaid Mobile"
             },
-            {
+            {  
                "text":"Postpaid Mobile"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"0"
             },
-            {
+            {  
                "value":"0"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain a copy of their user information?"
    },
@@ -1332,8 +1328,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose what user information users can obtain?"
    },
@@ -1345,8 +1341,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain their user information in a structured data format?"
    },
@@ -1358,8 +1354,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain all public-facing and private user information a company holds about them?"
    },
@@ -1371,10 +1367,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                  {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
    },
    {
       "value": "exclude"
@@ -1386,34 +1382,28 @@
             }
          ]
       },
-      {
+      {  
          "name":"Ooredoo",
          "id":"ooredoo",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Prepaid Mobile"
             },
-            {
+            {  
                "text":"Postpaid Mobile"
-            },
-            {
-               "text":"Fixed Line Broadband"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"0"
             },
-            {
-               "value":"0"
-            },
-            {
+            {  
                "value":"0"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that users can obtain a copy of their user information?"
    },
@@ -1422,14 +1412,11 @@
    },
    {
       "value": "0"
-   },
-   {
-      "value": "0"
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose what user information users can obtain?"
    },
@@ -1438,14 +1425,11 @@
    },
    {
       "value": "0"
-   },
-   {
-      "value": "0"
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain their user information in a structured data format?"
    },
@@ -1454,14 +1438,11 @@
    },
    {
       "value": "0"
-   },
-   {
-      "value": "0"
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain all public-facing and private user information a company holds about them?"
    },
@@ -1470,19 +1451,13 @@
    },
    {
       "value": "0"
-   },
-   {
-      "value": "0"
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
-   },
-   {
-      "value": "exclude"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
    },
    {
       "value": "exclude"
@@ -1494,34 +1469,34 @@
             }
          ]
       },
-      {
+      {  
          "name":"Orange",
          "id":"orange",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Prepaid Mobile"
             },
-            {
+            {  
                "text":"Postpaid Mobile"
             },
-            {
+            {  
                "text":"Fixed Line Broadband"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"25"
             },
-            {
+            {  
                "value":"25"
             },
-            {
+            {  
                "value":"25"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain a copy of their user information?"
    },
@@ -1536,8 +1511,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose what user information users can obtain?"
    },
@@ -1552,8 +1527,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain their user information in a structured data format?"
    },
@@ -1568,8 +1543,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain all public-facing and private user information a company holds about them?"
    },
@@ -1584,10 +1559,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
    },
    {
       "value": "exclude"
@@ -1602,22 +1577,22 @@
             }
          ]
       },
-      {
+      {  
          "name":"Samsung",
          "id":"samsung",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Samsung implementation of Android"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"0"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain a copy of their user information?"
    },
@@ -1626,8 +1601,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose what user information users can obtain?"
    },
@@ -1636,8 +1611,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that users can obtain their user information in a structured data format?"
    },
@@ -1646,8 +1621,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that users can obtain all public-facing and private user information a company holds about them?"
    },
@@ -1656,10 +1631,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
    },
    {
       "value": "0"
@@ -1668,66 +1643,66 @@
             }
          ]
       },
-      {
+      {  
          "name":"Telefónica",
          "id":"telefonica",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Prepaid Mobile"
             },
-            {
+            {  
                "text":"Postpaid Mobile"
             },
-            {
+            {  
                "text":"Fixed Line Broadband"
             }
          ],
-         "average":[
-            {
-               "value":"0"
+         "average":[  
+            {  
+               "value":"25"
             },
-            {
-               "value":"0"
+            {  
+               "value":"25"
             },
-            {
-               "value":"0"
+            {  
+               "value":"25"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain a copy of their user information?"
    },
    {
-      "value": "0"
+      "value": "50"
    },
    {
-      "value": "0"
+      "value": "50"
    },
    {
-      "value": "0"
+      "value": "50"
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose what user information users can obtain?"
    },
    {
-      "value": "0"
+      "value": "50"
    },
    {
-      "value": "0"
+      "value": "50"
    },
    {
-      "value": "0"
+      "value": "50"
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that users can obtain their user information in a structured data format?"
    },
@@ -1742,8 +1717,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that users can obtain all public-facing and private user information a company holds about them?"
    },
@@ -1758,10 +1733,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
    },
    {
       "value": "exclude"
@@ -1776,34 +1751,34 @@
             }
          ]
       },
-      {
+      {  
          "name":"Tencent",
          "id":"tencent",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"QZone"
             },
-            {
+            {  
                "text":"QQ"
             },
-            {
+            {  
                "text":"WeChat"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"25"
             },
-            {
+            {  
                "value":"25"
             },
-            {
+            {  
                "value":"25"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain a copy of their user information?"
    },
@@ -1818,8 +1793,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose what user information users can obtain?"
    },
@@ -1834,8 +1809,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that users can obtain their user information in a structured data format?"
    },
@@ -1850,8 +1825,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that users can obtain all public-facing and private user information a company holds about them?"
    },
@@ -1866,10 +1841,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
    },
    {
       "value": "exclude"
@@ -1884,34 +1859,34 @@
             }
          ]
       },
-      {
+      {  
          "name":"Twitter",
          "id":"twitter",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Twitter"
             },
-            {
+            {  
                "text":"Vine"
             },
-            {
+            {  
                "text":"Periscope"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"75"
             },
-            {
+            {  
                "value":"0"
             },
-            {
+            {  
                "value":"0"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that users can obtain a copy of their user information?"
    },
@@ -1926,8 +1901,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose what user information users can obtain?"
    },
@@ -1942,8 +1917,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that users can obtain their user information in a structured data format?"
    },
@@ -1958,8 +1933,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain all public-facing and private user information a company holds about them?"
    },
@@ -1974,10 +1949,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
    },
    {
       "value": "exclude"
@@ -1992,34 +1967,34 @@
             }
          ]
       },
-      {
+      {  
          "name":"Vodafone",
          "id":"vodafone",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Prepaid Mobile"
             },
-            {
+            {  
                "text":"Postpaid Mobile"
             },
-            {
+            {  
                "text":"Fixed Line Broadband"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"50"
             },
-            {
+            {  
                "value":"50"
             },
-            {
+            {  
                "value":"50"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that users can obtain a copy of their user information?"
    },
@@ -2034,8 +2009,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose what user information users can obtain?"
    },
@@ -2050,8 +2025,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain their user information in a structured data format?"
    },
@@ -2066,8 +2041,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain all public-facing and private user information a company holds about them?"
    },
@@ -2082,10 +2057,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
    },
    {
       "value": "exclude"
@@ -2100,34 +2075,34 @@
             }
          ]
       },
-      {
+      {  
          "name":"Yahoo",
          "id":"yahoo",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Yahoo Mail"
             },
-            {
+            {  
                "text":"Flickr"
             },
-            {
+            {  
                "text":"Tumblr"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"75"
             },
-            {
-               "value":"75"
+            {  
+               "value":"67"
             },
-            {
+            {  
                "value":"38"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that users can obtain a copy of their user information?"
    },
@@ -2142,8 +2117,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose what user information users can obtain?"
    },
@@ -2158,8 +2133,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that users can obtain their user information in a structured data format?"
    },
@@ -2167,15 +2142,15 @@
       "value": "100"
    },
    {
-      "value": "100"
+      "value": "exclude"
    },
    {
       "value": "50"
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain all public-facing and private user information a company holds about them?"
    },
@@ -2190,10 +2165,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
    },
    {
       "value": "exclude"
@@ -2208,34 +2183,34 @@
             }
          ]
       },
-      {
+      {  
          "name":"Yandex",
          "id":"yandex",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Yandex Mail"
             },
-            {
+            {  
                "text":"Yandex Search"
             },
-            {
+            {  
                "text":"Yandex Disk (cloud storage)"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"0"
             },
-            {
+            {  
                "value":"0"
             },
-            {
+            {  
                "value":"0"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain a copy of their user information?"
    },
@@ -2250,8 +2225,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose what user information users can obtain?"
    },
@@ -2266,8 +2241,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                 {
       "value": "Does the company clearly disclose that users can obtain their user information in a structured data format?"
    },
@@ -2282,8 +2257,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that users can obtain all public-facing and private user information a company holds about them?"
    },
@@ -2298,10 +2273,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
    },
    {
       "value": "exclude"

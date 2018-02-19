@@ -18,23 +18,26 @@
         <div id="site-canvas" class="page-content-dynamic" data-type="{{ page.visualization }}" data-id="{{ page.entity }}">
 
             <section class="page-introduction">
+                <div class="main-content-with-padding">
+                    <div class="row contain spaced-row">
 
-                <div class="row contain spaced-row">
+                        <div class="page-title-overtext">Category</div>
 
-                    <div class="page-title-overtext">Category</div>
+                        <h1 class="page--title">{{ page.display }}</h1>
 
-                    <h1 class="page--title">{{ page.display }}</h1>
+                        <p>{{ page.introduction }}</p>
 
-                    <p>{{ page.introduction }}</p>
+                        <div class="action-links">
+                            <a href="#category--indicators">
+                                <span>Go to Indicators</span>
+                                <i class="fa fa-arrow-circle-down" aria-hidden="true"></i>
+                            </a>
+                        </div>
 
-                    <div class="action-links">
-                        <a href="#category--indicators">
-                            <span>Go to Indicators</span>
-                            <i class="fa fa-arrow-circle-down" aria-hidden="true"></i>
-                        </a>
                     </div>
-
                 </div>
+
+
             </section>
 
             <section class="category-graph highlihted-bg">
@@ -68,7 +71,10 @@
             </section>
 
             <section id="category--indicators" class="row spaced-row contain category-indicators">
-                <h2 class="page--subtitle">{{ page.display }}</h2>
+                <div class="main-content-with-padding">
+                    <h2 class="page--subtitle">{{ page.display }}</h2>
+                </div>
+
             </section>
 
         </div>

@@ -471,6 +471,9 @@
                      "value":"Does the company identify the specific legal authority or type of legal process through which law enforcement and national security demands are made?"
                   },
                   {
+                     "value":"Does the company identify the specific legal authority or type of legal process through which law enforcement and national security demands are made?"
+                  },
+                  {
                      "value":"100"
                   },
                   {
@@ -1366,9 +1369,6 @@
          "name":"Facebook",
          "id":"facebook",
          "headers":[
-            {
-               "text":"Facebook"
-            },
             {
                "text":"Instagram"
             },
@@ -2384,13 +2384,13 @@
                      "value":"Does the company list the number of requests it receives from private parties?"
                   },
                   {
-                     "value":"0"
+                     "value":"100"
                   },
                   {
-                     "value":"0"
+                     "value":"100"
                   },
                   {
-                     "value":"0"
+                     "value":"100"
                   }
                ]
             },
@@ -2634,15 +2634,9 @@
             },
             {
                "text":"Postpaid Mobile"
-            },
-            {
-               "text":"Fixed Line Broadband"
             }
          ],
          "average":[
-            {
-               "value":"0"
-            },
             {
                "value":"0"
             },
@@ -2655,9 +2649,6 @@
                "cells":[
                   {
                      "value":"Does the company list the number of requests it receives by country?"
-                  },
-                  {
-                     "value":"0"
                   },
                   {
                      "value":"0"
@@ -2677,9 +2668,6 @@
                   },
                   {
                      "value":"0"
-                  },
-                  {
-                     "value":"0"
                   }
                ]
             },
@@ -2687,9 +2675,6 @@
                "cells":[
                   {
                      "value":"Does the company list the number of accounts affected?"
-                  },
-                  {
-                     "value":"0"
                   },
                   {
                      "value":"0"
@@ -2709,9 +2694,6 @@
                   },
                   {
                      "value":"0"
-                  },
-                  {
-                     "value":"0"
                   }
                ]
             },
@@ -2719,9 +2701,6 @@
                "cells":[
                   {
                      "value":"Does the company identify the specific legal authority or type of legal process through which law enforcement and national security demands are made?"
-                  },
-                  {
-                     "value":"0"
                   },
                   {
                      "value":"0"
@@ -2741,9 +2720,6 @@
                   },
                   {
                      "value":"0"
-                  },
-                  {
-                     "value":"0"
                   }
                ]
             },
@@ -2751,9 +2727,6 @@
                "cells":[
                   {
                      "value":"Does the company list the number of requests it receives from private parties?"
-                  },
-                  {
-                     "value":"0"
                   },
                   {
                      "value":"0"
@@ -2773,9 +2746,6 @@
                   },
                   {
                      "value":"0"
-                  },
-                  {
-                     "value":"0"
                   }
                ]
             },
@@ -2783,9 +2753,6 @@
                "cells":[
                   {
                      "value":"Does the company list what types of government requests it is prohibited by law from disclosing?"
-                  },
-                  {
-                     "value":"0"
                   },
                   {
                      "value":"0"
@@ -2805,9 +2772,6 @@
                   },
                   {
                      "value":"0"
-                  },
-                  {
-                     "value":"0"
                   }
                ]
             },
@@ -2815,9 +2779,6 @@
                "cells":[
                   {
                      "value":"Can the data reported by the company be exported as a structured data file?"
-                  },
-                  {
-                     "value":"0"
                   },
                   {
                      "value":"0"
@@ -3178,13 +3139,13 @@
          ],
          "average":[
             {
-               "value":"18"
+               "value":"32"
             },
             {
-               "value":"18"
+               "value":"32"
             },
             {
-               "value":"18"
+               "value":"32"
             }
          ],
          "rows":[
@@ -3210,13 +3171,13 @@
                      "value":"Does the company list the number of requests it receives for stored user information and for real-time communications access?"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   }
                ]
             },
@@ -3242,13 +3203,13 @@
                      "value":"Does the company list whether a demand sought communications content or non-content or both?"
                   },
                   {
-                     "value":"0"
+                     "value":"100"
                   },
                   {
-                     "value":"0"
+                     "value":"100"
                   },
                   {
-                     "value":"0"
+                     "value":"100"
                   }
                ]
             },
@@ -3338,13 +3299,13 @@
                      "value":"Does the company report this data at least once per year?"
                   },
                   {
-                     "value":"0"
+                     "value":"100"
                   },
                   {
-                     "value":"0"
+                     "value":"100"
                   },
                   {
-                     "value":"0"
+                     "value":"100"
                   }
                ]
             },
@@ -3618,13 +3579,13 @@
                      "value":"Does the company list the number of requests it receives for stored user information and for real-time communications access?"
                   },
                   {
-                     "value":"50"
+                     "value":"0"
                   },
                   {
-                     "value":"50"
+                     "value":"0"
                   },
                   {
-                     "value":"50"
+                     "value":"0"
                   }
                ]
             },
@@ -3634,13 +3595,13 @@
                      "value":"Does the company list the number of accounts affected?"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   }
                ]
             },
@@ -3650,13 +3611,13 @@
                      "value":"Does the company list whether a demand sought communications content or non-content or both?"
                   },
                   {
-                     "value":"50"
+                     "value":"0"
                   },
                   {
-                     "value":"50"
+                     "value":"0"
                   },
                   {
-                     "value":"50"
+                     "value":"0"
                   }
                ]
             },
@@ -3666,13 +3627,13 @@
                      "value":"Does the company identify the specific legal authority or type of legal process through which law enforcement and national security demands are made?"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   }
                ]
             },
@@ -3698,13 +3659,13 @@
                      "value":"Does the company list the number of requests it receives from private parties?"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   }
                ]
             },
@@ -3714,13 +3675,13 @@
                      "value":"Does the company list the number of requests it complied with, broken down by category of demand?"
                   },
                   {
-                     "value":"50"
+                     "value":"0"
                   },
                   {
-                     "value":"50"
+                     "value":"0"
                   },
                   {
-                     "value":"50"
+                     "value":"0"
                   }
                ]
             },
@@ -3730,13 +3691,13 @@
                      "value":"Does the company list what types of government requests it is prohibited by law from disclosing?"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   }
                ]
             },
@@ -3746,13 +3707,13 @@
                      "value":"Does the company report this data at least once per year?"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   }
                ]
             },
@@ -3762,13 +3723,13 @@
                      "value":"Can the data reported by the company be exported as a structured data file?"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   }
                ]
             }
@@ -3966,6 +3927,9 @@
                      "value":"Can the data reported by the company be exported as a structured data file?"
                   },
                   {
+                     "value":"Can the data reported by the company be exported as a structured data file?"
+                  },
+                  {
                      "value":"0"
                   },
                   {
@@ -4070,6 +4034,9 @@
             },
             {
                "cells":[
+                  {
+                     "value":"Does the company identify the specific legal authority or type of legal process through which law enforcement and national security demands are made?"
+                  },
                   {
                      "value":"Does the company identify the specific legal authority or type of legal process through which law enforcement and national security demands are made?"
                   },

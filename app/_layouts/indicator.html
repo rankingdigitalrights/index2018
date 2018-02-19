@@ -5,7 +5,7 @@
 
   {% include head.html %}
 
-  <body  id="page--indicator">
+  <body id="page--indicator" class="non-highlihted-bg">
 
     <!--[if lt IE 10]>
       <div id="nocando">
@@ -14,83 +14,112 @@
     <![endif]-->
 
     {% include banner.html %}
-    <div class="main-content">
-      <div id="site-canvas" data-type="{{ page.entity_type}}" data-id="{{ page.entity }}">
-        <div class="row contain spaced-row">
 
-          <h1 class="page--title">{{ page.name }}</h1>
-          {% if page.entity == "f10" %}
-          <p class="label">This indicator only applies to telecommunications companies.</p>
-          {% endif %}
-
-          {% if page.entity == "f11" or page.entity == "p8" or page.entity == "p13" %}
-          <p class="label">This indicator only applies to internet companies.</p>
-          {% endif %}
-
-
-          <div class="displaytext">
-
-            {% if page.text %}
-            <h2 style="margin-bottom: .5em;">{{ page.text }}</h2>
-            {% endif %}
-
-            {% if page.levels.size %}
-            {% for level in page.levels %}
-            <p class="indicator--sub_text">{{ level.text }}</p>
-
-            {% if page.follow == true and forloop.index == 1 %}
-            <p class="indicator--sub_text">B. If not, does the company satisfy any of the following elements?</p>
-            {% endif %}
-
-
-            {% if level.choices.size %}
-            <ul class="indicator--sub_choices">
-              {% for choice in level.choices %}
-              <li>{{ choice.text }} Possible score: {{ choice.score }}</li>
-              {% endfor %}
-            </ul>
-            {% endif %}
-            {% endfor %}
-            {% endif %}
-
-            {% if page.choices.size %}
-            <ul class="indicator--choices">
-              {% for choice in page.choices %}
-              <li>{{ choice.text }} Possible score: {{ choice.score }}</li>
-              {% endfor %}
-            </ul>
-            {% endif %}
-
-
-            <div class="trigger">
-              <a class="js--expand">Show research guidance <span class="collecticon collecticon-sm-triangle-down"></span></a>
-              <a class="js--collapse">Hide research guidance <span class="collecticon collecticon-sm-triangle-down"></span></a>
+    <div id="site-canvas" class="page-content-dynamic" data-type="{{ page.entity_type }}" data-id="{{ page.entity }}">
+      <div class="page--intro">
+        <div id="indicator-page-content" class="contain">
+          <div class="sidebar">
+            <div class="sidebar-menu sidebar-menu-active">{{ page.name }}</div>
+            <div class="submenu">
+              <ul id="company--list"></ul>
             </div>
-            <div class="collapse--target">
-              {{ content }}
-              <p>For more information, <a href="https://rankingdigitalrights.org/project-documents/2015-indicators/#appendix1">click here for a glossary of terms</a>.</p>
-            </div>
-
           </div>
+
+          <div class="indicator-content">
+            <div class="chapter-title">
+              <h1>{{ page.name }}</h1>
+              <a><i class="fa fa-link" aria-hidden="true"></i></a>
+            </div>
+            <div class="section">
+              <p>{{ content }}</p>
+            </div>
+            <div class="section">
+              <a id="toogle_element" class="toogle close">Elements</a>
+              <p id="element" class="text">{{ page.element }}</p>
+            </div>
+            <div class="section">
+              <a id="toogle_research" class="toogle close">Research guidance</a>
+              <p id="research" class="text">{{ page.research }}</p>
+            </div>
+
+            <div class="section">
+              <div id="indicator--overview_chart"></div>
+            </div>
+            <div class="section">
+              <div id="indicator--companies"></div>
+            </div>
+          </div><!--end of #indicator-page-content-->
         </div>
-
-        <div class="row spaced-row contain">
-          <h2 class="">Overall Company Performance</h2>
-          <div class="barchart--container" id="indicator--overview_chart"></div>
-        </div>
-
-
-        <div class="row spaced-row contain" id="indicator--companies">
-          <h2 class="">Company Performance</h2>
-        </div>
-
       </div>
     </div>
-
+    
     {% include footer.html %}
 
+
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
     <script src="{{ site.baseurl }}/assets/scripts/bundle.js"></script>
+    <script>
+
+        $( document ).ready(function() {
+
+            //add animation for show section
+
+            $(function() {
+                $('.submenu ol li > a').click(function(){
+                    $('html, body').animate({
+                        scrollTop: $( $(this).attr('href') ).offset().top - 40
+                    }, 1000);
+                    return false;
+                });
+            });
+
+            // click on submenu-ling changed color
+
+            $(function() {
+                $('.submenu-link').click(function() {
+                    $('.submenu-link').removeClass('active-base-color');
+                    $(this).addClass('active-base-color');
+                });
+            });
+
+            // on scroll added fixed class
+
+            $(function() {
+                $(window).scroll(function() {
+                    if ($(this).scrollTop() >= 160) {
+                        $('.sidebar').addClass('fixed');
+                    } else {
+                        $('.sidebar').removeClass('fixed');
+                    }
+                });
+            });
+
+            // open and close
+
+            $('.sidebar-menu-link').click(function() {
+                if($('.submenu').is(':visible')){
+                    $('.submenu').css("display","none");
+                }
+                else{
+                    $('.submenu').css("display","block");
+                }
+            });
+
+            // toogle
+
+            $( "#toogle_element" ).click(function() {
+              $('#element').slideToggle( "slow" );
+            });
+
+            $( "#toogle_research" ).click(function() {
+              $('#research').slideToggle( "slow" );
+            });
+
+        });
+    </script>
 
   </body>
-  
+
 </html>

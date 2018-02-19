@@ -186,7 +186,7 @@
                      "value":"50"
                   },
                   {
-                     "value":"50"
+                     "value":"100"
                   }
                ]
             },
@@ -1805,9 +1805,6 @@
             },
             {
                "text":"Postpaid Mobile"
-            },
-            {
-               "text":"Fixed Line Broadband"
             }
          ],
          "average":[
@@ -1816,9 +1813,6 @@
             },
             {
                "value":"40"
-            },
-            {
-               "value":"29"
             }
          ],
          "rows":[
@@ -1826,9 +1820,6 @@
                "cells":[
                   {
                      "value":"Does the company clearly disclose what types of content or activities it does not permit?"
-                  },
-                  {
-                     "value":"100"
                   },
                   {
                      "value":"100"
@@ -1848,9 +1839,6 @@
                   },
                   {
                      "value":"100"
-                  },
-                  {
-                     "value":"100"
                   }
                ]
             },
@@ -1858,9 +1846,6 @@
                "cells":[
                   {
                      "value":"Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company's rules?"
-                  },
-                  {
-                     "value":"0"
                   },
                   {
                      "value":"0"
@@ -1880,9 +1865,6 @@
                   },
                   {
                      "value":"exclude"
-                  },
-                  {
-                     "value":"0"
                   }
                ]
             },
@@ -1896,9 +1878,6 @@
                   },
                   {
                      "value":"exclude"
-                  },
-                  {
-                     "value":"0"
                   }
                ]
             },
@@ -1908,13 +1887,10 @@
                      "value":"Does the company clearly disclose its process for enforcing its rules?"
                   },
                   {
-                     "value":"0"
+                     "value":"exclude"
                   },
                   {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
+                     "value":"exclude"
                   }
                ]
             },
@@ -1924,13 +1900,10 @@
                      "value":"Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
                   },
                   {
-                     "value":"0"
+                     "value":"exclude"
                   },
                   {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
+                     "value":"exclude"
                   }
                ]
             }
@@ -2447,8 +2420,6 @@
          "id":"twitter",
          "headers":[
             {
-               "text":"Twitter"
-            },{
                "text":"Vine"
             },
             {

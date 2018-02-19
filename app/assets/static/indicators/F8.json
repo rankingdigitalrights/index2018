@@ -1190,15 +1190,9 @@
             },
             {
                "text":"Postpaid Mobile"
-            },
-            {
-               "text":"Fixed Line Broadband"
             }
          ],
          "average":[
-            {
-               "value":"0"
-            },
             {
                "value":"0"
             },
@@ -1211,9 +1205,6 @@
                "cells":[
                   {
                      "value":"If the company hosts user-generated content, does the company clearly disclose that it notifies users who generated the content when it is restricted?"
-                  },
-                  {
-                     "value":"exclude"
                   },
                   {
                      "value":"exclude"
@@ -1233,10 +1224,7 @@
                   },
                   {
                      "value":"0"
-                  },
-            {
-               "value":"0"
-            }
+                  }
                ]
             },
             {
@@ -1249,10 +1237,7 @@
                   },
                   {
                      "value":"0"
-                  },
-            {
-               "value":"0"
-            }
+                  }
                ]
             },
             {
@@ -1265,10 +1250,7 @@
                   },
                   {
                      "value":"0"
-                  },
-            {
-               "value":"0"
-            }
+                  }
                ]
             }
          ]
@@ -1614,9 +1596,6 @@
             },
             {
                "text":"Periscope"
-            },
-            {
-               "text":"Twitter"
             }
          ],
          "average":[
@@ -1791,7 +1770,7 @@
       },
       {
          "name":"Yahoo",
-         "id":"yahoo",
+         "id":"Yahoo",
          "headers":[
             {
                "text":"Yahoo Mail"

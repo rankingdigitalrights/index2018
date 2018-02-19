@@ -15,60 +15,40 @@
 
     {% include banner.html %}
 
-    <div class="main-content">
-        <!-- Introduction -->
-        <section class="introduction contain spaced-row row">
+    <div id="site-canvas" class="page-content-dynamic" data-type="{{ page.visualization }}" data-id="{{ page.entity }}">
 
-            <div class="indicator-item">
-                <label>Indicators</label>
-                <h2 class="page--subtitle governance"><a href="#G1" class="governance">Governance</a></h2>
+        <!-- Page itro -->
+        <div class="main-content-with-padding">
+          <div class="page--intro non-highlihted-bg">
+            <div class="row contain">
+              <p>{{ page.intro }}</p>
             </div>
+          </div>
+        </div>
 
-            <div class="indicator-item">
-                <label>Indicators</label>
-                <h2 class="page--subtitle freedom"><a href="#F1" class="freedom">Freedom of Expression</a></h2>
+        <div class="main-content">
+            <div class="main-content-with-padding">
+                <section class="indicators-wrapper contain spaced-row row">
+                    <div class="container--left">
+                        <div class="indicator-item">
+                            <h2 class="page--subtitle governance"><a href="#G1" class="governance">Governance</a></h2>
+                            <ul id="overview_list--governance" class="indicator-list"></ul>
+                        </div>
+                        <div class="indicator-item">
+                            <h2 class="page--subtitle freedom"><a href="#F1" class="freedom">Freedom of Expression</a></h2>
+                            <ul id="overview_list--freedom" class="indicator-list"></ul>
+                        </div>
+                    </div>
+                    
+                    <div class="container--right">
+                        <div class="indicator-item">
+                            <h2 class="page--subtitle privacy"><a href="#P1" class="privacy">Privacy</a></h2>
+                            <ul id="overview_list--privacy" class="indicator-list"></ul>
+                        </div>
+                    </div>
+                </section>
             </div>
-
-            <div class="indicator-item">
-                <label>Indicators</label>
-                <h2 class="page--subtitle privacy"><a href="#P1" class="privacy">Privacy</a></h2>
-            </div>
-
-        </section>
-
-        <!-- Indicators -->
-        <section id="site-canvas" class="indicators-wrapper contain spaced-row row" data-type="{{ page.visualization }}" data-id="{{ page.entity }}">
-
-
-            <!-- The Modal -->
-            <div class="modal">
-                <div class="modal-content contain">
-
-                    <span class="close">&times;</span>
-
-                    <h3 class="indicator--name"></h3>
-
-                    <p id="paragraph--1"></p>
-                    <p id="paragraph--2"></p>
-
-                    <h3 id="company--name"></h3>
-                    <span id="company--score"></span>
-
-                    <table id="indicatorsTable">
-                        <!--
-                        <tr>
-                          <th class="indicator--name"></th>
-                          <th>Privacy</th>
-                          <th>FoF</th>
-                        </tr>
-                      -->
-                    </table>
-
-                </div>
-            </div>
-
-
-        </section>
+        </div>
     </div>
 
 

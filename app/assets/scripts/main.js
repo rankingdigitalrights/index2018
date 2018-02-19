@@ -1,12 +1,11 @@
 var $ = require('jquery');
 var _ = require('underscore');
 var renderCompanyPage = require('./company');
-var renderIndicatorPage = require('./single-indicator');
-var renderAllIndicators = require('./indicators');
+var renderIndicatorPage = require('./indicator');
+var renderIndicatorsPage = require('./indicators');
 var renderCategoryPage = require('./category');
 var renderServicePage = require('./services');
 var renderIndexPage = require('./index');
-var renderMapPage = require('./map');
 var renderComparePage = require('./compare')
 var renderCompaniesPage = require('./companies');
 
@@ -31,16 +30,13 @@ resize.start();
     renderIndicatorPage(dataId);
   }
   else if (type === 'indicators') {
-    renderAllIndicators();
+    renderIndicatorsPage();
   }
   else if (type === 'category') {
     renderCategoryPage(dataId);
   }
   else if (type === 'index') {
     renderIndexPage();
-  }
-  else if (type === 'map') {
-    renderMapPage();
   }
   // Companies page
   else if (type === 'companies') {

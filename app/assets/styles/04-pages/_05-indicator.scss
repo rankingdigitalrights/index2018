@@ -1,12 +1,12 @@
 .col-6 {
-	@include media(medium-up) {
-    	@include span-columns(6);
-  	}
+  @include media(medium-up) {
+    @include span-columns(6);
+  }
 }
 $maincolor:  #231f20;
 
 
-#narrative-page-content{
+#indicator-page-content{
   display: flex;
   @media(max-width: 1365px){
     margin: 0 5%;
@@ -21,12 +21,12 @@ $maincolor:  #231f20;
     }
   }
   .expand {
-  		float: right;
-  		display: inline;
-  		transition: all .2s ease;
-  		-webkit-transition: all .2s ease;
-  		margin: 0 10px;
-  	}
+    float: right;
+    display: inline;
+    transition: all .2s ease;
+    -webkit-transition: all .2s ease;
+    margin: 0 10px;
+  }
   .open:before {
     animation: turn-plus;
     animation-duration: .3s;
@@ -41,7 +41,7 @@ $maincolor:  #231f20;
   .sidebar{
     text-align: left;
     padding: 0 20px 0 0;
-    border-right: 2px solid $base-color;
+    border-right: 2px solid $border-gray-color;
     margin: 0;
     width: 18%;
     position: absolute;
@@ -50,13 +50,13 @@ $maincolor:  #231f20;
       display: none;
     }
     .sidebar-menu {
-        cursor: pointer;
-        padding: 10px 0;
-        position: relative;
-        font-size: 1em;
-        font-weight: 300;
-        text-rendering: optimizeLegibility;
-        letter-spacing: .5px;
+      cursor: pointer;
+      padding: 10px 0;
+      position: relative;
+      font-size: 1em;
+      font-weight: 300;
+      text-rendering: optimizeLegibility;
+      letter-spacing: .5px;
       a{
         line-height: 1.5em;
         color: $black-lighter;
@@ -83,62 +83,71 @@ $maincolor:  #231f20;
       }
     }
     .open:before {
-        animation: turn-sign;
-        animation-duration: .3s;
-        animation-fill-mode: forwards;
+      animation: turn-sign;
+      animation-duration: .3s;
+      animation-fill-mode: forwards;
     }
     .open:after {
-        animation: turn-crossbar;
-        animation-duration: .3s;
-        animation-fill-mode: forwards;
+      animation: turn-crossbar;
+      animation-duration: .3s;
+      animation-fill-mode: forwards;
     }
     .submenu {
-          color: darken($maincolor,30%);
-          font-size: 1em;
+      color: darken($maincolor,30%);
+      font-size: 1em;
+      display: block;
+      &:last-child {
+        border-bottom: 0;
+      }
+      ul{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        counter-reset: item;
+        li{
+          padding: 5px 0 0 20px;
+          background: none;
+          color: #5E5E5E;
           display: block;
           &:last-child {
-              border-bottom: 0;
+            border-bottom: 0;
           }
-          ol{
-              list-style-type: none;
-              margin: 0;
-              padding: 0;
-              counter-reset: item;
-              li{
-                  padding: 5px 0 0 20px;
-                  background: none;
-                  color: #a5a8ab;
-                  display: block;
-                  &:last-child {
-                      border-bottom: 0;
-                  }
-                  &:hover{
-                      cursor: pointer;
-                      color: $base-color;
-                  }
-                  a{
-                      color: #a5a8ab;
-                      text-decoration: none;
-                      width: 100%;
-                      display: block;
-                      &:hover{
-                          cursor: pointer;
-                          color: $base-color;
-
-                      }
-                  }
-                .active-base-color{
-                  color: $base-color;
-                  font-family: "Simplon-Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
-                }
-              }
-
+          &:hover{
+            cursor: pointer;
+            text-decoration: underline;
           }
+          a{
+            color: #5E5E5E;
+            text-decoration: none;
+            width: 100%;
+            display: block;
+            &:hover{
+              cursor: pointer;
+              text-decoration: underline;
+
+            }
+            i {
+              font-size: 14px;
+              line-height: 1;
+              margin-right: 7px;
+            }
+            i.true {
+              color: #ED1B24;
+            }
+            i.false {
+              color: #F8931F;
+            }
+          }
+          .active-base-color{
+            color: $base-color;
+            font-family: "Simplon-Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+          }
+        }
 
       }
-    .sidebar-menu-active{
 
-      }
+    }
+
   }
   .fixed{
     position: fixed;
@@ -147,7 +156,7 @@ $maincolor:  #231f20;
     overflow: auto;
   }
 
-  .narrative-content{
+  .indicator-content{
     width: auto;
     margin-left: 25%;
     h1, h2,h3,h4,h5,h6{
@@ -167,22 +176,22 @@ $maincolor:  #231f20;
       }
     }
     .chapter-title{
-        border-bottom: 2px solid $border-gray-color;
-        display: flex;
-        justify-content: space-between;
-        h1{
-          color: $black;
-          margin-bottom: 20px;
-          font-size: 3em;
-          text-transform: none;
+      border-bottom: 2px solid $border-gray-color;
+      display: flex;
+      justify-content: space-between;
+      h1{
+        color: $base-color;
+        margin-bottom: 20px;
+        font-size: 2.8em;
+        text-transform: none;
+      }
+      a{
+        padding-top: 14px;
+        i{
+          font-size: 2em;
+          color: $border-gray-color;
         }
-        a{
-          padding-top: 14px;
-          i{
-            font-size: 2em;
-            color: $border-gray-color;
-          }
-        }
+      }
     }
     .section{
       .section-title{
@@ -204,13 +213,13 @@ $maincolor:  #231f20;
           }
         }
       }
-        a{
-            color: $link-color;
-            cursor: pointer;
-            &:hover{
-                text-decoration: underline;
-            }
+      a{
+        color: $link-color;
+        cursor: pointer;
+        &:hover{
+          text-decoration: underline;
         }
+      }
       .ref-number{
         color: $black;
         &:hover{
@@ -218,7 +227,7 @@ $maincolor:  #231f20;
         }
       }
       .bold{
-          font-weight: bold;
+        font-weight: bold;
       }
       .quote{
         font-size: 1.75em;
@@ -271,50 +280,50 @@ $maincolor:  #231f20;
     }
     .introduction{
       margin-top: 44px;
-        p {
-          font-size: 1.250em;
-          line-height: 1.5em;
-        }
-        //p:first-child::first-letter {
-        //  font-size: 55px;
-        //  float: left;
-        //  text-transform: uppercase;
-        //  margin-top:0.13em;
-        //  margin-right:0.05em;
-        //  margin-left:-0.03em;
-        //  color: $base-color;
-        //}
+      p {
+        font-size: 1.250em;
+        line-height: 1.5em;
+      }
+      //p:first-child::first-letter {
+      //  font-size: 55px;
+      //  float: left;
+      //  text-transform: uppercase;
+      //  margin-top:0.13em;
+      //  margin-right:0.05em;
+      //  margin-left:-0.03em;
+      //  color: $base-color;
+      //}
     }
     .pagination{
       margin: 40px 0;
 
-      	a{
-          cursor: pointer;
-          color: $black-lighter ;
-          font-family: "Simplon-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
-          &:hover{
+      a{
+        cursor: pointer;
+        color: $black-lighter ;
+        font-family: "Simplon-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        &:hover{
+          text-decoration: none;
+          span{
+            color: $maincolor;
+            border-bottom: 2px solid $border-gray-color;
             text-decoration: none;
-            span{
-              color: $maincolor;
-              border-bottom: 2px solid $border-gray-color;
-              text-decoration: none;
-            }
-            i{
-              color: $maincolor;
-            }
           }
           i{
-            padding: 0 5px;
-            position: relative;
-            top: -2px;
+            color: $maincolor;
           }
+        }
+        i{
+          padding: 0 5px;
+          position: relative;
+          top: -2px;
+        }
 
-      	}
-      	.next{
-      		float:right;
-      	}
       }
-     footnotes{
+      .next{
+        float:right;
+      }
+    }
+    footnotes{
       h2{
         font-size: 2em;
         text-transform: none;
@@ -327,8 +336,19 @@ $maincolor:  #231f20;
       }
     }
 
+
+    #indicator--companies {
+      table {
+        th.cell--first {
+          text-align: left;
+          width: 50%;
+        }
+        thead tr,
+        tfoot tr {
+          background-color: #E2D9D0;
+        }
+      }
+    }
+
   }
-
-
 }
-

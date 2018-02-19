@@ -16,10 +16,10 @@
          ],
          "average":[
             {
-               "value":"8"
+               "value":"50"
             },
             {
-               "value":"8"
+               "value":"50"
             }
          ],
          "rows":[
@@ -197,13 +197,13 @@
          ],
          "average":[
             {
-               "value":"58"
+               "value":"50"
             },
             {
-               "value":"58"
+               "value":"50"
             },
             {
-               "value":"58"
+               "value":"50"
             }
          ],
          "rows":[
@@ -341,13 +341,13 @@
                      "values":"Does the company commit to push back on inappropriate or overbroad private requests?"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   }
                ]
             },
@@ -417,13 +417,13 @@
          ],
          "average":[
             {
-               "value":"75"
+               "value":"100"
             },
             {
-               "value":"75"
+               "value":"100"
             },
             {
-               "value":"75"
+               "value":"100"
             }
          ],
          "rows":[
@@ -561,13 +561,13 @@
                      "values":"Does the company commit to push back on inappropriate or overbroad private requests?"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   }
                ]
             },
@@ -634,10 +634,10 @@
          ],
          "average":[
             {
-               "value":"0"
+               "value":"50"
             },
             {
-               "value":"0"
+               "value":"50"
             }
          ],
          "rows":[
@@ -821,7 +821,7 @@
                "value":"0"
             },
             {
-               "value":"8"
+               "value":"0"
             }
          ],
          "rows":[
@@ -885,7 +885,7 @@
                      "value":"0"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   }
                ]
             },
@@ -1035,13 +1035,13 @@
          ],
          "average":[
             {
-               "value":"4"
+               "value":"33"
             },
             {
-               "value":"4"
+               "value":"33"
             },
             {
-               "value":"4"
+               "value":"33"
             }
          ],
          "rows":[
@@ -1255,13 +1255,13 @@
          ],
          "average":[
             {
-               "value":"0"
+               "value":"17"
             },
             {
-               "value":"0"
+               "value":"17"
             },
             {
-               "value":"0"
+               "value":"17"
             }
          ],
          "rows":[
@@ -1464,9 +1464,6 @@
          "id":"facebook",
          "headers":[
             {
-               "text":"Facebook"
-            },
-            {
                "text":"Instagram"
             },
             {
@@ -1478,16 +1475,16 @@
          ],
          "average":[
             {
-               "value":"75"
+               "value":"33"
             },
             {
-               "value":"58"
+               "value":"0"
             },
             {
-               "value":"29"
+               "value":"0"
             },
             {
-               "value":"75"
+               "value":"33"
             }
          ],
          "rows":[
@@ -1561,9 +1558,6 @@
                   },
                   {
                      "value":"0"
-                  },
-                  {
-                     "value":"100"
                   }
                ]
             },
@@ -1649,16 +1643,16 @@
                      "values":"Does the company commit to push back on inappropriate or overbroad private requests?"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   }
                ]
             },
@@ -1911,16 +1905,16 @@
                      "values":"Does the company commit to push back on inappropriate or overbroad private requests?"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   }
                ]
             },
@@ -1999,13 +1993,13 @@
          ],
          "average":[
             {
-               "value":"42"
+               "value":"100"
             },
             {
-               "value":"42"
+               "value":"100"
             },
             {
-               "value":"42"
+               "value":"100"
             }
          ],
          "rows":[
@@ -2146,13 +2140,13 @@
                      "values":"Does the company commit to push back on inappropriate or overbroad private requests?"
                   },
                   {
-                     "value":"50"
+                     "value":"0"
                   },
                   {
-                     "value":"50"
+                     "value":"0"
                   },
                   {
-                     "value":"50"
+                     "value":"0"
                   }
                ]
             },
@@ -2222,13 +2216,13 @@
          ],
          "average":[
             {
-               "value":"0"
+               "value":"17"
             },
             {
-               "value":"0"
+               "value":"17"
             },
             {
-               "value":"0"
+               "value":"17"
             }
          ],
          "rows":[
@@ -2442,13 +2436,13 @@
          ],
          "average":[
             {
-               "value":"83"
+               "value":"50"
             },
             {
-               "value":"83"
+               "value":"50"
             },
             {
-               "value":"83"
+               "value":"50"
             }
          ],
          "rows":[
@@ -2659,10 +2653,10 @@
          ],
          "average":[
             {
-               "value":"8"
+               "value":"17"
             },
             {
-               "value":"8"
+               "value":"17"
             }
          ],
          "rows":[
@@ -2833,20 +2827,14 @@
             },
             {
                "text":"Postpaid Mobile"
-            },
-            {
-               "text":"Fixed Line Broadband"
             }
          ],
          "average":[
             {
-               "value":"0"
+               "value":"17"
             },
             {
-               "value":"0"
-            },
-            {
-               "value":"0"
+               "value":"17"
             }
          ],
          "rows":[
@@ -2854,9 +2842,6 @@
                "cells":[
                   {
                      "values":"Does the company clearly disclose its process for responding to non-judicial government requests?"
-                  },
-                  {
-                     "value":"0"
                   },
                   {
                      "value":"0"
@@ -2876,9 +2861,6 @@
                   },
                   {
                      "value":"0"
-                  },
-                  {
-                     "value":"0"
                   }
                ]
             },
@@ -2886,9 +2868,6 @@
                "cells":[
                   {
                      "values":"Does the company clearly disclose its process for responding to government requests from foreign jurisdictions?"
-                  },
-                  {
-                     "value":"0"
                   },
                   {
                      "value":"0"
@@ -2908,9 +2887,6 @@
                   },
                   {
                      "value":"0"
-                  },
-                  {
-                     "value":"0"
                   }
                ]
             },
@@ -2918,9 +2894,6 @@
                "cells":[
                   {
                      "values":"Do the company’s explanations clearly disclose the legal basis under which it may comply with government requests?"
-                  },
-                  {
-                     "value":"0"
                   },
                   {
                      "value":"0"
@@ -2940,9 +2913,6 @@
                   },
                   {
                      "value":"0"
-                  },
-                  {
-                     "value":"0"
                   }
                ]
             },
@@ -2950,9 +2920,6 @@
                "cells":[
                   {
                      "values":"Does the company clearly disclose that it carries out due diligence on government requests before deciding how to respond?"
-                  },
-                  {
-                     "value":"0"
                   },
                   {
                      "value":"0"
@@ -2972,9 +2939,6 @@
                   },
                   {
                      "value":"0"
-                  },
-                  {
-                     "value":"0"
                   }
                ]
             },
@@ -2988,9 +2952,6 @@
                   },
                   {
                      "value":"0"
-                  },
-                  {
-                     "value":"0"
                   }
                ]
             },
@@ -2998,9 +2959,6 @@
                "cells":[
                   {
                      "values":"Does the company commit to push back on inappropriate or overbroad private requests?"
-                  },
-                  {
-                     "value":"0"
                   },
                   {
                      "value":"0"
@@ -3020,9 +2978,6 @@
                   },
                   {
                      "value":"0"
-                  },
-                  {
-                     "value":"0"
                   }
                ]
             },
@@ -3030,9 +2985,6 @@
                "cells":[
                   {
                      "values":"Does the company provide clear guidance or examples of implementation of its process for private requests?"
-                  },
-                  {
-                     "value":"0"
                   },
                   {
                      "value":"0"
@@ -3060,13 +3012,13 @@
          ],
          "average":[
             {
-               "value":"8"
+               "value":"33"
             },
             {
-               "value":"8"
+               "value":"33"
             },
             {
-               "value":"8"
+               "value":"33"
             }
          ],
          "rows":[
@@ -3274,7 +3226,7 @@
          ],
          "average":[
             {
-               "value":"0"
+               "value":"83"
             }
          ],
          "rows":[
@@ -3636,13 +3588,13 @@
          ],
          "average":[
             {
-               "value":"4"
+               "value":"0"
             },
             {
                "value":"0"
             },
             {
-               "value":"4"
+               "value":"0"
             }
          ],
          "rows":[
@@ -3856,13 +3808,13 @@
          ],
          "average":[
             {
-               "value":"54"
+               "value":"67"
             },
             {
-               "value":"54"
+               "value":"67"
             },
             {
-               "value":"54"
+               "value":"67"
             }
          ],
          "rows":[
@@ -3888,6 +3840,9 @@
                      "values":"Does the company clearly disclose its process for responding to court orders?"
                   },
                   {
+                     "value":"Does the company clearly disclose its process for responding to court orders?"
+                  },
+                  {
                      "value":"100"
                   },
                   {
@@ -3904,6 +3859,9 @@
                      "values":"Does the company clearly disclose its process for responding to government requests from foreign jurisdictions?"
                   },
                   {
+                     "value":"Does the company clearly disclose its process for responding to government requests from foreign jurisdictions?"
+                  },
+                  {
                      "value":"100"
                   },
                   {
@@ -3918,6 +3876,9 @@
                "cells":[
                   {
                      "values":"Does the company clearly disclose its process for responding to requests made by private parties?"
+                  },
+                  {
+                     "value":"Does the company clearly disclose its process for responding to requests made by private parties?"
                   },
                   {
                      "value":"0"
@@ -4000,13 +3961,13 @@
                      "values":"Does the company commit to push back on inappropriate or overbroad private requests?"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   }
                ]
             },
@@ -4076,13 +4037,13 @@
          ],
          "average":[
             {
-               "value":"54"
+               "value":"67"
             },
             {
-               "value":"54"
+               "value":"67"
             },
             {
-               "value":"54"
+               "value":"67"
             }
          ],
          "rows":[
@@ -4220,13 +4181,13 @@
                      "values":"Does the company commit to push back on inappropriate or overbroad private requests?"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   }
                ]
             },
@@ -4296,13 +4257,13 @@
          ],
          "average":[
             {
-               "value":"71"
+               "value":"17"
             },
             {
-               "value":"71"
+               "value":"17"
             },
             {
-               "value":"100"
+               "value":"0"
             }
          ],
          "rows":[
@@ -4446,10 +4407,10 @@
                      "value":"Does the company commit to push back on inappropriate or overbroad private requests?"
                   },
                   {
-                     "value":"100"
+                     "value":"50"
                   },
                   {
-                     "value":"100"
+                     "value":"50"
                   },
                   {
                      "value":"100"
@@ -4531,13 +4492,13 @@
          ],
          "average":[
             {
-               "value":"8"
+               "value":"17"
             },
             {
-               "value":"8"
+               "value":"17"
             },
             {
-               "value":"8"
+               "value":"17"
             }
          ],
          "rows":[
@@ -4675,6 +4636,9 @@
                      "values":"Does the company commit to push back on inappropriate or overbroad private requests?"
                   },
                   {
+                     "value":"Does the company commit to push back on inappropriate or overbroad private requests?"
+                  },
+                  {
                      "value":"0"
                   },
                   {
@@ -4689,6 +4653,9 @@
                "cells":[
                   {
                      "values":"Does the company commit to push back on inappropriate or overbroad private requests?"
+                  },                 
+                  {
+                     "value":"Does the company commit to push back on inappropriate or overbroad private requests?"
                   },
                   {
                      "value":"0"
@@ -4705,6 +4672,9 @@
                "cells":[
                   {
                      "values":"Does the company provide clear guidance or examples of implementation of its process for government requests?"
+                  },
+                  {
+                     "value":"Does the company provide clear guidance or examples of implementation of its process for government requests?"
                   },
                   {
                      "value":"0"

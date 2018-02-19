@@ -635,8 +635,15 @@
 
 	/* Services ranking */
 	.services-ranking {
+		background-color: $dark-blue;
+		h1, p{
+			color: $white;
+		}
 		a {
 		color: $white-pure;
+		}
+		.company--name {
+			fill: #FFFFFF;
 		}
 		/* Tabbed graphs */
 		.tabbed-graphs { 
@@ -911,7 +918,10 @@
 
 	/* Data stories items */
 	#key-stories{
-		padding-top: 3em;
+		padding-top: 5em;
+		h1{
+			margin-bottom: .6em;
+		}
 	}
 	.data-stories {
 		.data-stories-items {
@@ -996,24 +1006,25 @@
 	}
 
 	.data-stories-tabs{
-		section{
+
+		.tab-content{
 			display: none;
-			padding: 20px 0 0;
+			padding: 0;
 			h3{
-				color: #3a4b5c;
+				color: $dark-blue;
 				padding: 20px 0 15px;
 			}
 		}
-		input {
-			display: none;
+		.tabs{
+			margin-top: 20px;
 		}
-		label {
+		.tab-link {
 			display: inline-block;
 			background-color: #ccc;
-			margin: 0 5px -1px 0;
+			margin: 0 5px 10px 0;
 			padding: 10px 25px;
 			text-align: center;
-			color: #3a4b5c;
+			color: $dark-blue;
 			border: 1px solid transparent;
 			border-radius: 15px;
 			font-family: $simplon-regular;
@@ -1021,20 +1032,20 @@
 				cursor: pointer;
 			}
 		}
-
-		input:checked + label {
-			color: $white;
-			background-color: #3a4b5c;
-			border: 1px solid #3a4b5c;
+		ul{
+			.current{
+				color: $white;
+				background-color: $dark-blue;
+				display: inline-block;
+				margin-bottom: 10px;
+			}
 		}
 
-		#tab1:checked ~ #content1,
-		#tab2:checked ~ #content2,
-		#tab3:checked ~ #content3,
-		#tab4:checked ~ #content4,
-		#tab5:checked ~ #content5{
-			display: block;
+		.current {
+			display: inline-block;
 		}
+
+
 	}
 
 }	

@@ -86,7 +86,7 @@
                "value":"50"
             },
             {
-               "value":"83"
+               "value":"83.33333333"
             }
          ],
          "rows":[
@@ -323,6 +323,9 @@
                "cells":[
                   {
                      "value":"Are the terms of service available in the language(s) most commonly spoken by the company's users?"
+                  },
+                  {
+                     "value":"Are the terms of service available in the language(s) most commonly spoken by the company’s users?"
                   },
                   {
                      "value":"100"
@@ -669,8 +672,6 @@
             {
                "cells":[
                   {
-                     "value":"Are the terms of service are presented in an understandable manner?"
-                  }, {
                      "value":"100"
                   },
                   {
@@ -984,15 +985,9 @@
             },
             {
                "text":"Postpaid Mobile"
-            },
-            {
-               "text":"Fixed Line Broadband"
             }
          ],
          "average":[
-            {
-               "value":"100"
-            },
             {
                "value":"100"
             },
@@ -1005,9 +1000,6 @@
                "cells":[
                   {
                      "value":"Are the company's terms of service easy to find?"
-                  },
-                  {
-                     "value":"100"
                   },
                   {
                      "value":"100"
@@ -1027,9 +1019,6 @@
                   },
                   {
                      "value":"100"
-                  },
-                  {
-                     "value":"100"
                   }
                ]
             },
@@ -1037,9 +1026,6 @@
                "cells":[
                   {
                      "value":"Are the terms of service are presented in an understandable manner?"
-                  },
-                  {
-                     "value":"100"
                   },
                   {
                      "value":"100"
@@ -1329,9 +1315,6 @@
          "name":"Twitter",
          "id":"twitter",
          "headers":[
-           {
-               "text":"Twitter"
-            }, 
             {
                "text":"Vine"
             },

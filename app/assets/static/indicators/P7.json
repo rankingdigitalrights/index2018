@@ -1,30 +1,30 @@
-{
+{  
    "id":"P7",
    "name":"P7. USERS' CONTROL OVER THEIR OWN USER INFORMATION",
    "paragraph_1":"The company should clearly disclose to users what options they have to control the company?s collection, retention and use of their user information.",
-   "companies":[
-      {
+   "companies":[  
+      {  
          "name":"América Móvil",
          "id":"americaMovil",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Prepaid Mobile"
             },
-            {
+            {  
                "text":"Postpaid Mobile"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"25"
             },
-            {
+            {  
                "value":"25"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                   {
       "value": "For each type of user information the company collects"
    },
@@ -36,8 +36,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "For each type of user information the company collects"
    },
@@ -49,8 +49,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
    },
@@ -62,8 +62,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that targeted advertising is off by default?"
    },
@@ -75,10 +75,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
    },
    {
       "value": "exclude"
@@ -90,34 +90,34 @@
             }
          ]
       },
-      {
+      {  
          "name":"Apple",
          "id":"apple",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"iOS mobile ecosystem"
             },
-            {
+            {  
                "text":"iMessage"
             },
-            {
+            {  
                "text":"iCloud"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"30"
             },
-            {
+            {  
                "value":"25"
             },
-            {
+            {  
                "value":"25"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                   {
       "value": "For each type of user information the company collects"
    },
@@ -132,8 +132,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "For each type of user information the company collects"
    },
@@ -148,8 +148,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
    },
@@ -164,8 +164,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that targeted advertising is off by default?"
    },
@@ -180,10 +180,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
    },
    {
       "value": "50"
@@ -198,34 +198,34 @@
             }
          ]
       },
-      {
+      {  
          "name":"AT&T",
          "id":"att",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Prepaid Mobile"
             },
-            {
+            {  
                "text":"Postpaid Mobile"
             },
-            {
+            {  
                "text":"Fixed Line Broadband"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"25"
             },
-            {
+            {  
                "value":"25"
             },
-            {
+            {  
                "value":"25"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                   {
       "value": "For each type of user information the company collects"
    },
@@ -240,8 +240,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "For each type of user information the company collects"
    },
@@ -256,9 +256,9 @@
    }
                ]
             },
-            {
-               "cells":[
-                  {
+            {  
+               "cells":[  
+                  {  
                      "values":"Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
                   }, {
       "value": "Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
@@ -274,8 +274,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that targeted advertising is off by default?"
    },
@@ -290,10 +290,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
    },
    {
       "value": "exclude"
@@ -308,29 +308,29 @@
             }
          ]
       },
-      {
+      {  
          "name":"Axiata",
          "id":"axiata",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Prepaid Mobile"
             },
-            {
+            {  
                "text":"Postpaid Mobile"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"0"
             },
-            {
+            {  
                "value":"0"
             }
          ],
-         "rows":[
-            {
-               "cells":[
-                  {
+         "rows":[  
+            {  
+               "cells":[  
+                  {  
                      "values":"For each type of user information the company collects, does the company clearly disclose whether users can control the company?s collection of this user information?"
                   }, {
       "value": "For each type of user information the company collects"
@@ -343,9 +343,9 @@
    }
                ]
             },
-            {
-               "cells":[
-                  {
+            {  
+               "cells":[  
+                  {  
                      "values":"For each type of user information the company collects, does the company clearly disclose whether users can delete this user information?"
                   }, {
       "value": "For each type of user information the company collects"
@@ -358,9 +358,9 @@
    }
                ]
             },
-            {
-               "cells":[
-                  {
+            {  
+               "cells":[  
+                  {  
                      "values":"Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
                   }, {
       "value": "Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
@@ -373,8 +373,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that targeted advertising is off by default?"
    },
@@ -386,10 +386,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
    },
    {
       "value": "exclude"
@@ -401,35 +401,35 @@
             }
          ]
       },
-      {
+      {  
          "name":"Baidu",
          "id":"baidu",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Baidu Search"
             },
-            {
+            {  
                "text":"Baidu Cloud"
             },
-            {
+            {  
                "text":"Baidu PostBar"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"13"
             },
-            {
+            {  
                "value":"13"
             },
-            {
+            {  
                "value":"13"
             }
          ],
-         "rows":[
-            {
-               "cells":[
-                  {
+         "rows":[  
+            {  
+               "cells":[  
+                  {  
                      "values":"For each type of user information the company collects, does the company clearly disclose whether users can control the company?s collection of this user information?"
                   }, {
       "value": "For each type of user information the company collects"
@@ -445,9 +445,9 @@
    }
                ]
             },
-            {
-               "cells":[
-                  {
+            {  
+               "cells":[  
+                  {  
                      "values":"For each type of user information the company collects, does the company clearly disclose whether users can delete this user information?"
                   }, {
       "value": "For each type of user information the company collects"
@@ -463,9 +463,9 @@
    }
                ]
             },
-            {
-               "cells":[
-                  {
+            {  
+               "cells":[  
+                  {  
                      "values":"Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
                   }, {
       "value": "Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
@@ -481,8 +481,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that targeted advertising is off by default?"
    },
@@ -497,10 +497,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
    },
    {
       "value": "exclude"
@@ -515,35 +515,35 @@
             }
          ]
       },
-      {
+      {  
          "name":"Bharti Airtel",
          "id":"bhartiairtel",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Prepaid Mobile"
             },
-            {
+            {  
                "text":"Postpaid Mobile"
             },
-            {
+            {  
                "text":"Fixed Line Broadband"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"0"
             },
-            {
+            {  
                "value":"0"
             },
-            {
+            {  
                "value":"0"
             }
          ],
-         "rows":[
-            {
-               "cells":[
-                  {
+         "rows":[  
+            {  
+               "cells":[  
+                  {  
                      "values":"For each type of user information the company collects, does the company clearly disclose whether users can control the company?s collection of this user information?"
                   }, {
       "value": "For each type of user information the company collects"
@@ -559,9 +559,9 @@
    }
                ]
             },
-            {
-               "cells":[
-                  {
+            {  
+               "cells":[  
+                  {  
                      "values":"For each type of user information the company collects, does the company clearly disclose whether users can delete this user information?"
                   }, {
       "value": "For each type of user information the company collects"
@@ -577,9 +577,9 @@
    }
                ]
             },
-            {
-               "cells":[
-                  {
+            {  
+               "cells":[  
+                  {  
                      "values":"Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
                   }, {
       "value": "Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
@@ -595,51 +595,51 @@
    }
                ]
             },
-            {
-               "cells":[
-                  {
+            {  
+               "cells":[  
+                  {  
                      "values":"Does the company clearly disclose that targeted advertising is off by default?"
                   }
                ]
             },
-            {
-               "cells":[
-                  {
-                     "values":"(For mobile ecosystems) Does the company clearly disclose that it provides users with options to control the device?s geolocation functions?"
+            {  
+               "cells":[  
+                  {  
+                     "values":"(For mobile ecosystems): Does the company clearly disclose that it provides users with options to control the device?s geolocation functions?"
                   }
                ]
             }
          ]
       },
-      {
+      {  
          "name":"Etisalat",
          "id":"etisalat",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Prepaid Mobile"
             },
-            {
+            {  
                "text":"Postpaid Mobile"
             },
-            {
+            {  
                "text":"Fixed Line Broadband"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"0"
             },
-            {
+            {  
                "value":"0"
             },
-            {
+            {  
                "value":"0"
             }
          ],
-         "rows":[
-            {
-               "cells":[
-                  {
+         "rows":[  
+            {  
+               "cells":[  
+                  {  
                      "values":"For each type of user information the company collects, does the company clearly disclose whether users can control the company?s collection of this user information?"
                   }, {
       "value": "For each type of user information the company collects"
@@ -655,9 +655,9 @@
    }
                ]
             },
-            {
-               "cells":[
-                  {
+            {  
+               "cells":[  
+                  {  
                      "values":"For each type of user information the company collects, does the company clearly disclose whether users can delete this user information?"
                   }, {
       "value": "For each type of user information the company collects"
@@ -673,9 +673,9 @@
    }
                ]
             },
-            {
-               "cells":[
-                  {
+            {  
+               "cells":[  
+                  {  
                      "values":"Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
                   }, {
       "value": "Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
@@ -691,8 +691,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that targeted advertising is off by default?"
    },
@@ -707,10 +707,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
    },
    {
       "value": "exclude"
@@ -725,41 +725,38 @@
             }
          ]
       },
-      {
+      {  
          "name":"Facebook",
          "id":"facebook",
-         "headers":[
-            {
-               "text":"Facebook"
-            },
-            {
+         "headers":[  
+            {  
                "text":"Instagram"
             },
-            {
+            {  
                "text":"WhatsApp"
             },
-            {
+            {  
                "text":"Messenger"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"0"
             },
-            {
+            {  
                "value":"13"
             },
-            {
+            {  
                "value":"13"
             },
-            {
+            {  
                "value":"0"
             }
          ],
-         "rows":[
-            {
-               "cells":[
-                  {
+         "rows":[  
+            {  
+               "cells":[  
+                  {  
                      "values":"For each type of user information the company collects, does the company clearly disclose whether users can control the company?s collection of this user information?"
                   }, {
       "value": "For each type of user information the company collects"
@@ -778,9 +775,9 @@
    }
                ]
             },
-            {
-               "cells":[
-                  {
+            {  
+               "cells":[  
+                  {  
                      "values":"For each type of user information the company collects, does the company clearly disclose whether users can delete this user information?"
                   }, {
       "value": "For each type of user information the company collects"
@@ -799,9 +796,11 @@
    }
                ]
             },
-            {
-               "cells":[
-                    {
+            {  
+               "cells":[  
+                  {  
+                     "values":"Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
+                  }, {
       "value": "Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
    },
    {
@@ -818,13 +817,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that targeted advertising is off by default?"
-   },
-   {
-      "value": "0"
    },
    {
       "value": "0"
@@ -837,13 +833,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
-   },
-   {
-      "value": "exclude"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
    },
    {
       "value": "exclude"
@@ -858,40 +851,40 @@
             }
          ]
       },
-      {
+      {  
          "name":"Google",
          "id":"google",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Search"
             },
-            {
+            {  
                "text":"Gmail"
             },
-            {
+            {  
                "text":"Youtube"
             },
-            {
+            {  
                "text":"Android mobile ecosystem"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"38"
             },
-            {
+            {  
                "value":"38"
             },
-            {
+            {  
                "value":"38"
             },
-            {
+            {  
                "value":"30"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                      {
       "value": "For each type of user information the company collects"
    },
@@ -909,8 +902,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "For each type of user information the company collects"
    },
@@ -928,8 +921,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
    },
@@ -947,8 +940,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that targeted advertising is off by default?"
    },
@@ -966,10 +959,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
    },
    {
       "value": "exclude"
@@ -987,35 +980,35 @@
             }
          ]
       },
-      {
+      {  
          "name":"Kakao",
          "id":"kakao",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Daum Search"
             },
-            {
+            {  
                "text":"Daum Mail"
             },
-            {
+            {  
                "text":"Kakao Talk"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"38"
             },
-            {
+            {  
                "value":"38"
             },
-            {
+            {  
                "value":"13"
             }
          ],
-         "rows":[
-            {
-               "cells":[
-                  {
+         "rows":[  
+            {  
+               "cells":[  
+                  {  
                      "values":"For each type of user information the company collects, does the company clearly disclose whether users can control the company?s collection of this user information?"
                   }, {
       "value": "For each type of user information the company collects"
@@ -1031,9 +1024,9 @@
    }
                ]
             },
-            {
-               "cells":[
-                  {
+            {  
+               "cells":[  
+                  {  
                      "values":"For each type of user information the company collects, does the company clearly disclose whether users can delete this user information?"
                   }, {
       "value": "For each type of user information the company collects"
@@ -1049,9 +1042,9 @@
    }
                ]
             },
-            {
-               "cells":[
-                  {
+            {  
+               "cells":[  
+                  {  
                      "values":"Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
                   }, {
       "value": "Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
@@ -1067,8 +1060,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that targeted advertising is off by default?"
    },
@@ -1083,10 +1076,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
    },
    {
       "value": "exclude"
@@ -1101,35 +1094,35 @@
             }
          ]
       },
-      {
+      {  
          "name":"Mail.ru",
          "id":"mailru",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Vkontakte"
             },
-            {
+            {  
                "text":"Mail.Ru"
             },
-            {
+            {  
                "text":"Mail.Ru Agent"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"25"
             },
-            {
+            {  
                "value":"13"
             },
-            {
+            {  
                "value":"13"
             }
          ],
-         "rows":[
-            {
-               "cells":[
-                  {
+         "rows":[  
+            {  
+               "cells":[  
+                  {  
                      "values":"For each type of user information the company collects, does the company clearly disclose whether users can control the company?s collection of this user information?"
                   }, {
       "value": "For each type of user information the company collects"
@@ -1145,9 +1138,9 @@
    }
                ]
             },
-            {
-               "cells":[
-                  {
+            {  
+               "cells":[  
+                  {  
                      "values":"For each type of user information the company collects, does the company clearly disclose whether users can delete this user information?"
                   }, {
       "value": "For each type of user information the company collects"
@@ -1163,9 +1156,9 @@
    }
                ]
             },
-            {
-               "cells":[
-                  {
+            {  
+               "cells":[  
+                  {  
                      "values":"Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
                   }, {
       "value": "Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
@@ -1181,8 +1174,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that targeted advertising is off by default?"
    },
@@ -1197,10 +1190,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
    },
    {
       "value": "exclude"
@@ -1215,34 +1208,34 @@
             }
          ]
       },
-      {
+      {  
          "name":"Microsoft",
          "id":"microsoft",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Bing"
             },
-            {
+            {  
                "text":"Outlook.com"
             },
-            {
+            {  
                "text":"Skype"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"50"
             },
-            {
+            {  
                "value":"38"
             },
-            {
+            {  
                "value":"38"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                   {
       "value": "For each type of user information the company collects"
    },
@@ -1257,8 +1250,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
             {
       "value": "For each type of user information the company collects"
    },
@@ -1273,8 +1266,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
    },
@@ -1289,8 +1282,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that targeted advertising is off by default?"
    },
@@ -1305,10 +1298,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
    },
    {
       "value": "exclude"
@@ -1323,28 +1316,28 @@
             }
          ]
       },
-      {
+      {  
          "name":"MTN",
          "id":"mtn",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Prepaid Mobile"
             },
-            {
+            {  
                "text":"Postpaid Mobile"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"0"
             },
-            {
+            {  
                "value":"0"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                      {
       "value": "For each type of user information the company collects"
    },
@@ -1356,8 +1349,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "For each type of user information the company collects"
    },
@@ -1369,8 +1362,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
    },
@@ -1382,8 +1375,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that targeted advertising is off by default?"
    },
@@ -1395,10 +1388,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
    },
    {
       "value": "exclude"
@@ -1410,39 +1403,30 @@
             }
          ]
       },
-      {
+      {  
          "name":"Ooredoo",
          "id":"ooredoo",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Prepaid Mobile"
             },
-            {
+            {  
                "text":"Postpaid Mobile"
-            },
-            {
-               "text":"Fixed Line Broadband"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"0"
             },
-            {
-               "value":"0"
-            },
-            {
+            {  
                "value":"0"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                   {
       "value": "For each type of user information the company collects"
-   },
-   {
-      "value": "0"
    },
    {
       "value": "0"
@@ -1452,13 +1436,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "For each type of user information the company collects"
-   },
-   {
-      "value": "0"
    },
    {
       "value": "0"
@@ -1468,8 +1449,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
    },
@@ -1478,14 +1459,11 @@
    },
    {
       "value": "0"
-   },
-   {
-      "value": "0"
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that targeted advertising is off by default?"
    },
@@ -1494,19 +1472,13 @@
    },
    {
       "value": "0"
-   },
-   {
-      "value": "0"
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
-   },
-   {
-      "value": "exclude"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
    },
    {
       "value": "exclude"
@@ -1518,34 +1490,34 @@
             }
          ]
       },
-      {
+      {  
          "name":"Orange",
          "id":"orange",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Prepaid Mobile"
             },
-            {
+            {  
                "text":"Postpaid Mobile"
             },
-            {
+            {  
                "text":"Fixed Line Broadband"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"0"
             },
-            {
+            {  
                "value":"0"
             },
-            {
+            {  
                "value":"13"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                   {
       "value": "For each type of user information the company collects"
    },
@@ -1560,8 +1532,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "For each type of user information the company collects"
    },
@@ -1576,8 +1548,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
    },
@@ -1592,8 +1564,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that targeted advertising is off by default?"
    },
@@ -1608,10 +1580,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
    },
    {
       "value": "exclude"
@@ -1626,22 +1598,22 @@
             }
          ]
       },
-      {
+      {  
          "name":"Samsung",
          "id":"samsung",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Samsung implementation of Android"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"20"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                   {
       "value": "For each type of user information the company collects"
    },
@@ -1650,8 +1622,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "For each type of user information the company collects"
    },
@@ -1660,8 +1632,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
    },
@@ -1670,8 +1642,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that targeted advertising is off by default?"
    },
@@ -1680,10 +1652,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
    },
    {
       "value": "50"
@@ -1692,34 +1664,34 @@
             }
          ]
       },
-      {
+      {  
          "name":"Telefónica",
          "id":"telefonica",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Prepaid Mobile"
             },
-            {
+            {  
                "text":"Postpaid Mobile"
             },
-            {
+            {  
                "text":"Fixed Line Broadband"
             }
          ],
-         "average":[
-            {
-               "value":"13"
+         "average":[  
+            {  
+               "value":"0"
             },
-            {
-               "value":"13"
+            {  
+               "value":"0"
             },
-            {
+            {  
                "value":"13"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                   {
       "value": "For each type of user information the company collects"
    },
@@ -1734,24 +1706,24 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "For each type of user information the company collects"
    },
    {
-      "value": "50"
+      "value": "0"
    },
    {
-      "value": "50"
+      "value": "0"
    },
    {
-      "value": "50"
+      "value": "0"
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
    },
@@ -1760,14 +1732,11 @@
    },
    {
       "value": "0"
-   },
-   {
-      "value": "0"
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that targeted advertising is off by default?"
    },
@@ -1782,10 +1751,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
    },
    {
       "value": "exclude"
@@ -1800,35 +1769,35 @@
             }
          ]
       },
-      {
+      {  
          "name":"Tencent",
          "id":"tencent",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"QZone"
             },
-            {
+            {  
                "text":"QQ"
             },
-            {
+            {  
                "text":"WeChat"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"25"
             },
-            {
+            {  
                "value":"25"
             },
-            {
+            {  
                "value":"25"
             }
          ],
-         "rows":[
-            {
-               "cells":[
-                  {
+         "rows":[  
+            {  
+               "cells":[  
+                  {  
                      "values":"For each type of user information the company collects, does the company clearly disclose whether users can control the company?s collection of this user information?"
                   }, {
       "value": "For each type of user information the company collects"
@@ -1844,9 +1813,9 @@
    }
                ]
             },
-            {
-               "cells":[
-                  {
+            {  
+               "cells":[  
+                  {  
                      "values":"For each type of user information the company collects, does the company clearly disclose whether users can delete this user information?"
                   }, {
       "value": "For each type of user information the company collects"
@@ -1862,9 +1831,9 @@
    }
                ]
             },
-            {
-               "cells":[
-                  {
+            {  
+               "cells":[  
+                  {  
                      "values":"Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
                   }, {
       "value": "Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
@@ -1880,8 +1849,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that targeted advertising is off by default?"
    },
@@ -1896,10 +1865,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
    },
    {
       "value": "exclude"
@@ -1914,34 +1883,34 @@
             }
          ]
       },
-      {
+      {  
          "name":"Twitter",
          "id":"twitter",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Twitter"
             },
-            {
+            {  
                "text":"Vine"
             },
-            {
+            {  
                "text":"Periscope"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"50"
             },
-            {
+            {  
                "value":"25"
             },
-            {
+            {  
                "value":"50"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                      {
       "value": "For each type of user information the company collects"
    },
@@ -1956,8 +1925,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "For each type of user information the company collects"
    },
@@ -1972,8 +1941,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
    },
@@ -1982,14 +1951,13 @@
    },
    {
       "value": "0"
-   }, 
-   {
+   }, {
       "value": "100"
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that targeted advertising is off by default?"
    },
@@ -2004,10 +1972,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
    },
    {
       "value": "exclude"
@@ -2022,34 +1990,34 @@
             }
          ]
       },
-      {
+      {  
          "name":"Vodafone",
          "id":"vodafone",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Prepaid Mobile"
             },
-            {
+            {  
                "text":"Postpaid Mobile"
             },
-            {
+            {  
                "text":"Fixed Line Broadband"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"25"
             },
-            {
+            {  
                "value":"25"
             },
-            {
+            {  
                "value":"25"
             }
          ],
-         "rows":[
-            {
-               "cells":[
+         "rows":[  
+            {  
+               "cells":[  
                   {
       "value": "For each type of user information the company collects"
    },
@@ -2064,8 +2032,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "For each type of user information the company collects"
    },
@@ -2080,8 +2048,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
       "value": "Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
    },
@@ -2096,8 +2064,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that targeted advertising is off by default?"
    },
@@ -2112,10 +2080,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
    },
    {
       "value": "exclude"
@@ -2130,35 +2098,35 @@
             }
          ]
       },
-      {
+      {  
          "name":"Yahoo",
          "id":"yahoo",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Yahoo Mail"
             },
-            {
+            {  
                "text":"Flickr"
             },
-            {
+            {  
                "text":"Tumblr"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"38"
             },
-            {
+            {  
                "value":"38"
             },
-            {
+            {  
                "value":"13"
             }
          ],
-         "rows":[
-            {
-               "cells":[
-                  {
+         "rows":[  
+            {  
+               "cells":[  
+                  {  
                      "values":"For each type of user information the company collects, does the company clearly disclose whether users can control the company?s collection of this user information?"
                   }, {
       "value": "For each type of user information the company collects"
@@ -2174,9 +2142,9 @@
    }
                ]
             },
-            {
-               "cells":[
-                  {
+            {  
+               "cells":[  
+                  {  
                      "values":"For each type of user information the company collects, does the company clearly disclose whether users can delete this user information?"
                   }, {
       "value": "For each type of user information the company collects"
@@ -2192,9 +2160,9 @@
    }
                ]
             },
-            {
-               "cells":[
-                  {
+            {  
+               "cells":[  
+                  {  
                      "values":"Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
                   }, {
       "value": "Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
@@ -2210,8 +2178,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that targeted advertising is off by default?"
    },
@@ -2226,10 +2194,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
    },
    {
       "value": "exclude"
@@ -2244,35 +2212,35 @@
             }
          ]
       },
-      {
+      {  
          "name":"Yandex",
          "id":"yandex",
-         "headers":[
-            {
+         "headers":[  
+            {  
                "text":"Yandex Mail"
             },
-            {
+            {  
                "text":"Yandex Search"
             },
-            {
+            {  
                "text":"Yandex Disk (cloud storage)"
             }
          ],
-         "average":[
-            {
+         "average":[  
+            {  
                "value":"38"
             },
-            {
+            {  
                "value":"38"
             },
-            {
+            {  
                "value":"38"
             }
          ],
-         "rows":[
-            {
-               "cells":[
-                  {
+         "rows":[  
+            {  
+               "cells":[  
+                  {  
                      "values":"For each type of user information the company collects, does the company clearly disclose whether users can control the company?s collection of this user information?"
                   }, {
       "value": "For each type of user information the company collects"
@@ -2288,9 +2256,9 @@
    }
                ]
             },
-            {
-               "cells":[
-                  {
+            {  
+               "cells":[  
+                  {  
                      "values":"For each type of user information the company collects, does the company clearly disclose whether users can delete this user information?"
                   }, {
       "value": "For each type of user information the company collects"
@@ -2306,9 +2274,9 @@
    }
                ]
             },
-            {
-               "cells":[
-                  {
+            {  
+               "cells":[  
+                  {  
                      "values":"Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
                   }, {
       "value": "Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?"
@@ -2324,8 +2292,8 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                      {
       "value": "Does the company clearly disclose that targeted advertising is off by default?"
    },
@@ -2340,10 +2308,10 @@
    }
                ]
             },
-            {
-               "cells":[
+            {  
+               "cells":[  
                   {
-      "value": "(For mobile ecosystems) Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
+      "value": "(For mobile ecosystems): Does the company clearly disclose that it provides users with options to control the device’s geolocation functions?"
    },
    {
       "value": "exclude"

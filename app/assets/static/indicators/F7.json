@@ -16,10 +16,10 @@
          ],
          "average":[
             {
-               "value":"0"
+               "value":"50"
             },
             {
-               "value":"0"
+               "value":"50"
             }
          ],
          "rows":[
@@ -171,13 +171,13 @@
          ],
          "average":[
             {
-               "value":"0"
+               "value":"43"
             },
             {
-               "value":"0"
+               "value":"40"
             },
             {
-               "value":"0"
+               "value":"60"
             }
          ],
          "rows":[
@@ -359,13 +359,13 @@
          ],
          "average":[
             {
-               "value":"0"
+               "value":"60"
             },
             {
-               "value":"0"
+               "value":"50"
             },
             {
-               "value":"0"
+               "value":"43"
             }
          ],
          "rows":[
@@ -544,10 +544,10 @@
          ],
          "average":[
             {
-               "value":"0"
+               "value":"20"
             },
             {
-               "value":"0"
+               "value":"20"
             }
          ],
          "rows":[
@@ -699,13 +699,13 @@
          ],
          "average":[
             {
-               "value":"0"
+               "value":"25"
             },
             {
-               "value":"0"
+               "value":"60"
             },
             {
-               "value":"0"
+               "value":"43"
             }
          ],
          "rows":[
@@ -887,13 +887,13 @@
          ],
          "average":[
             {
-               "value":"0"
+               "value":"20"
             },
             {
-               "value":"0"
+               "value":"20"
             },
             {
-               "value":"0"
+               "value":"14"
             }
          ],
          "rows":[
@@ -1075,13 +1075,13 @@
          ],
          "average":[
             {
-               "value":"0"
+               "value":"60"
             },
             {
-               "value":"0"
+               "value":"60"
             },
             {
-               "value":"0"
+               "value":"43"
             }
          ],
          "rows":[
@@ -1266,16 +1266,16 @@
          ],
          "average":[
             {
-               "value":"6"
+               "value":"64"
             },
             {
-               "value":"6"
+               "value":"64"
             },
             {
-               "value":"6"
+               "value":"60"
             },
             {
-               "value":"6"
+               "value":"90"
             }
          ],
          "rows":[
@@ -1490,16 +1490,16 @@
          ],
          "average":[
             {
-               "value":"75"
+               "value":"58"
             },
             {
-               "value":"N/A"
+               "value":"70"
             },
             {
-               "value":"0"
+               "value":"86"
             },
             {
-               "value":"0"
+               "value":"71"
             }
          ],
          "rows":[
@@ -1711,13 +1711,13 @@
          ],
          "average":[
             {
-               "value":"50"
+               "value":"58"
             },
             {
-               "value":"N/A"
+               "value":"90"
             },
             {
-               "value":"50"
+               "value":"90"
             }
          ],
          "rows":[
@@ -1899,13 +1899,13 @@
          ],
          "average":[
             {
-               "value":"0"
+               "value":"43"
             },
             {
-               "value":"N/A"
+               "value":"50"
             },
             {
-               "value":"0"
+               "value":"50"
             }
          ],
          "rows":[
@@ -2087,13 +2087,13 @@
          ],
          "average":[
             {
-               "value":"75"
+               "value":"42"
             },
             {
-               "value":"N/A"
+               "value":"70"
             },
             {
-               "value":"0"
+               "value":"70"
             }
          ],
          "rows":[
@@ -2215,7 +2215,7 @@
                      "value":"Does the company report this data at least once a year?"
                   },
                   {
-                     "value":"100"
+                     "value":"0"
                   },
                   {
                      "value":"exclude"
@@ -2272,10 +2272,10 @@
          ],
          "average":[
             {
-               "value":"0"
+               "value":"20"
             },
             {
-               "value":"0"
+               "value":"20"
             }
          ],
          "rows":[
@@ -2420,20 +2420,14 @@
             },
             {
                "text":"Postpaid Mobile"
-            },
-            {
-               "text":"Fixed Line Broadband"
             }
          ],
          "average":[
             {
-               "value":"0"
+               "value":"40"
             },
             {
-               "value":"0"
-            },
-            {
-               "value":"0"
+               "value":"40"
             }
          ],
          "rows":[
@@ -2441,9 +2435,6 @@
                "cells":[
                   {
                      "value":"Does the company break out the number of requests it receives by country?"
-                  },
-                  {
-                     "value":"0"
                   },
                   {
                      "value":"0"
@@ -2463,9 +2454,6 @@
                   },
                   {
                      "value":"0"
-                  },
-                  {
-                     "value":"0"
                   }
                ]
             },
@@ -2473,9 +2461,6 @@
                "cells":[
                   {
                      "value":"Does the company list the number of pieces of content or URLs affected?"
-                  },
-                  {
-                     "value":"0"
                   },
                   {
                      "value":"0"
@@ -2495,9 +2480,6 @@
                   },
                   {
                      "value":"0"
-                  },
-                  {
-                     "value":"0"
                   }
                ]
             },
@@ -2505,9 +2487,6 @@
                "cells":[
                   {
                      "value":"Does the company describe the types of parties from which it receives requests?"
-                  },
-                  {
-                     "value":"0"
                   },
                   {
                      "value":"0"
@@ -2527,9 +2506,6 @@
                   },
                   {
                      "value":"0"
-                  },
-                  {
-                     "value":"0"
                   }
                ]
             },
@@ -2537,9 +2513,6 @@
                "cells":[
                   {
                      "value":"Does the company publish the original requests or disclose that it provides copies to a public third-party archive?"
-                  },
-                  {
-                     "value":"0"
                   },
                   {
                      "value":"0"
@@ -2559,9 +2532,6 @@
                   },
                   {
                      "value":"0"
-                  },
-                  {
-                     "value":"0"
                   }
                ]
             },
@@ -2575,9 +2545,6 @@
                   },
                   {
                      "value":"0"
-                  },
-                  {
-                     "value":"0"
                   }
                ]
             },
@@ -2585,9 +2552,6 @@
                "cells":[
                   {
                      "value":"Does the company clearly disclose that its reporting covers all types of private requests that it receives?"
-                  },
-                  {
-                     "value":"0"
                   },
                   {
                      "value":"0"
@@ -2615,13 +2579,13 @@
          ],
          "average":[
             {
-               "value":"0"
+               "value":"70"
             },
             {
-               "value":"0"
+               "value":"70"
             },
             {
-               "value":"0"
+               "value":"57"
             }
          ],
          "rows":[
@@ -2797,7 +2761,7 @@
          ],
          "average":[
             {
-               "value":"0"
+               "value":"36"
             }
          ],
          "rows":[
@@ -2919,13 +2883,13 @@
          ],
          "average":[
             {
-               "value":"0"
+               "value":"70"
             },
             {
-               "value":"0"
+               "value":"70"
             },
             {
-               "value":"0"
+               "value":"50"
             }
          ],
          "rows":[
@@ -3107,13 +3071,13 @@
          ],
          "average":[
             {
-               "value":"0"
+               "value":"50"
             },
             {
-               "value":"0"
+               "value":"70"
             },
             {
-               "value":"0"
+               "value":"43"
             }
          ],
          "rows":[
@@ -3284,8 +3248,6 @@
          "id":"twitter",
          "headers":[
             {
-               "text":"Twitter"
-            }, {
                "text":"Vine"
             },
             {
@@ -3294,13 +3256,13 @@
          ],
          "average":[
             {
-               "value":"50"
+               "value":"64"
             },
             {
-               "value":"44"
+               "value":"64"
             },
             {
-               "value":"44"
+               "value":"64"
             }
          ],
          "rows":[
@@ -3482,13 +3444,13 @@
          ],
          "average":[
             {
-               "value":"0"
+               "value":"60"
             },
             {
-               "value":"0"
+               "value":"60"
             },
             {
-               "value":"0"
+               "value":"43"
             }
          ],
          "rows":[
@@ -3670,13 +3632,13 @@
          ],
          "average":[
             {
-               "value":"N/A"
+               "value":"70"
             },
             {
-               "value":"11"
+               "value":"57"
             },
             {
-               "value":"61"
+               "value":"64"
             }
          ],
          "rows":[
@@ -3858,13 +3820,13 @@
          ],
          "average":[
             {
-               "value":"N/A"
+               "value":"40"
             },
             {
-               "value":"22"
+               "value":"25"
             },
             {
-               "value":"0"
+               "value":"70"
             }
          ],
          "rows":[

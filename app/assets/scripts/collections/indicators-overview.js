@@ -7,7 +7,7 @@ module.exports = Backbone.Collection.extend({
   model: model,
   parse: function (resp) {
     resp.forEach(function (d) {
-      d.indicator = d.id;
+      d.indicator = d.id.toLowerCase();
       delete d.id;
     });
     return resp;

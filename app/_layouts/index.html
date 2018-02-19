@@ -15,81 +15,82 @@
 
   <!-- Header -->
   {% include banner.html %}
-  <div class="main-content">
+  <!--<div class="main-content-with-padding">-->
     <!-- Page itro -->
-    <div class="page--intro non-highlihted-bg">
-      <div class="row contain">
-        <p>{{ page.intro }}</p>
+    <div class="main-content-with-padding">
+      <div class="page--intro non-highlihted-bg">
+        <div class="row contain">
+          <p>{{ page.intro }}</p>
+        </div>
       </div>
     </div>
+
     <div id="site-canvas" class="non-highlihted-bg" data-type="{{ page.visualization }}" data-id="{{ page.entity }}">
 
       <!-- World map -->
       <section class="world-map non-highlihted-bg">
-
         <div class="contain row">
 
           <div id="container"></div>
 
           <!--<img class="img-responsive" src="assets/graphics/content/Map_v.4 copy 8.svg">-->
 
-          <div class="graph-legend">
-            <div class="graph-legend-content">
-              <div class="graph-legend-content-item">
-                <div class="graph-legend-content-item-value">22</div>
-                <div class="graph-legend-content-item-label">companies</div>
+            <div class="graph-legend">
+              <div class="graph-legend-content">
+                <div class="graph-legend-content-item">
+                  <div class="graph-legend-content-item-value">22</div>
+                  <div class="graph-legend-content-item-label">companies</div>
+                </div>
+                <div class="graph-legend-content-item">
+                  <div class="graph-legend-content-item-value">62</div>
+                  <div class="graph-legend-content-item-label">services</div>
+                </div>
+                <div class="graph-legend-content-item">
+                  <div class="graph-legend-content-item-value">35</div>
+                  <div class="graph-legend-content-item-label">indicators</div>
+                </div>
               </div>
-              <div class="graph-legend-content-item">
-                <div class="graph-legend-content-item-value">62</div>
-                <div class="graph-legend-content-item-label">services</div>
+              <div class="graph-legend-values">
+                <div class="graph-legend-values-item">
+                  <div class="graph-legend-values-label">Industry</div>
+                  <div class="graph-legend-values-value internet-and-mobile-companies">
+                    <i class="fa fa-circle"></i> Internet and Mobile
+                  </div>
+                  <div class="graph-legend-values-value telecommunications-companies">
+                    <i class="fa fa-circle"></i> Telecomunications
+                  </div>
+                </div>
+                <div class="graph-legend-values-item">
+                  <div class="graph-legend-values-label">Company HQ</div>
+                  <div class="graph-legend-values-value">
+                    <span class="graph-legend-values-value-bar"></span>
+                  </div>
+                </div>
               </div>
-              <div class="graph-legend-content-item">
-                <div class="graph-legend-content-item-value">35</div>
-                <div class="graph-legend-content-item-label">indicators</div>
-              </div>
+              <!--<div class="graph-legend-interaction">-->
+                <!--<div class="graph-legend-interaction-item">-->
+                  <!--<a href="{{ site.baseurl }}/download/"><i class="fa fa-arrow-down" aria-hidden="true"></i></a>-->
+                <!--</div>-->
+                <!--<div class="graph-legend-interaction-item">-->
+                  <!--<div class="dropdown&#45;&#45;trigger_mobile" data-dropdown="dropdown-share">-->
+                    <!--<a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i></a>-->
+                    <!--<ul class="dropdown&#45;&#45;share" id="dropdown-share">-->
+                      <!--<li class="dropdown&#45;&#45;item">-->
+                        <!--<textarea id="linkToCopy" readonly></textarea>-->
+                        <!--<button id="CopyToClipboard">Copy</button>-->
+                      <!--</li>-->
+                    <!--</ul>-->
+                  <!--</div>-->
+                <!--</div>-->
+              <!--</div>-->
             </div>
-            <div class="graph-legend-values">
-              <div class="graph-legend-values-item">
-                <div class="graph-legend-values-label">Industry</div>
-                <div class="graph-legend-values-value internet-and-mobile-companies">
-                  <i class="fa fa-circle"></i> Internet and Mobile
-                </div>
-                <div class="graph-legend-values-value telecommunications-companies">
-                  <i class="fa fa-circle"></i> Telecomunications
-                </div>
-              </div>
-              <div class="graph-legend-values-item">
-                <div class="graph-legend-values-label">Company HQ</div>
-                <div class="graph-legend-values-value">
-                  <span class="graph-legend-values-value-bar"></span>
-                </div>
-              </div>
-            </div>
-            <div class="graph-legend-interaction">
-              <div class="graph-legend-interaction-item">
-                <a href="{{ site.baseurl }}/download/"><i class="fa fa-arrow-down" aria-hidden="true"></i></a>
-              </div>
-              <div class="graph-legend-interaction-item">
-                <div class="dropdown--trigger_mobile" data-dropdown="dropdown-share">
-                  <a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i></a>
-                  <ul class="dropdown--share" id="dropdown-share">
-                    <li class="dropdown--item">
-                      <textarea id="linkToCopy" readonly></textarea>
-                      <button id="CopyToClipboard">Copy</button>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-
         </div>
-
       </section>
 
       <!-- Key findings -->
       <section class="key-findings highlihted-bg" id="key-findings">
-        <div class="contain spaced-row row">
+        <div class="main-content-with-padding">
+          <div class="contain spaced-row row">
           <h1 class="page--subtitle">Key findings</h1>
           <div class="description--texts">
             <div class="description--text">
@@ -127,269 +128,297 @@
             </a>
           </div>
         </div>
+        </div>
+
       </section>
 
 
       <!-- Company ranking -->
       <section class="company-ranking non-highlihted-bg" id="company-ranking">
-        <div class="contain spaced-row row">
 
-          <h1 class="page--subtitle">2017 Company ranking</h1>
-          <div class="page--subtitle--undertext">How do the companies compare?</div>
+          <div class="main-content-with-padding">
+            <div class="contain spaced-row row">
 
-          <div class="company-ranking-chart">
-            <div id="category--internet--home">
-              <label><i class="fa fa-circle"></i> Internet and Mobile</label>
-            </div>
-            <div id="category--telco--home">
-              <label><i class="fa fa-circle"></i> Telecomunications</label>
+              <h1 class="page--subtitle">2017 Company ranking</h1>
+              <div class="page--subtitle--undertext">How do the companies compare?</div>
+
+              <div class="company-ranking-chart">
+                <div id="category--internet--home">
+                  <label><i class="fa fa-circle"></i> Internet and Mobile</label>
+                </div>
+                <div id="category--telco--home">
+                  <label><i class="fa fa-circle"></i> Telecomunications</label>
+                </div>
+              </div>
+
+              <div class="graph-legend">
+                <div class="graph-legend-interaction">
+                  <div class="graph-legend-interaction-item">
+                    <a href="{{ site.baseurl }}/download/"><i class="fa fa-arrow-down" aria-hidden="true"></i></a>
+                  </div>
+                  <div class="graph-legend-interaction-item">
+                    <a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i></a>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
 
-          <div class="graph-legend">
-            <div class="graph-legend-interaction">
-              <div class="graph-legend-interaction-item">
-                <a href="{{ site.baseurl }}/download/"><i class="fa fa-arrow-down" aria-hidden="true"></i></a>
-              </div>
-              <div class="graph-legend-interaction-item">
-                <a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
+
+
       </section>
 
 
       <!-- Services ranking -->
 
-      <!--<section class="services-ranking highlihted-bg" id="services-ranking">-->
-        <!--<div class="contain spaced-row row">-->
-
-          <!--<h1 class="page&#45;&#45;subtitle">Year-on-year comparison</h1>-->
-          <!--<p>Ullum tempor impetus vel eu, no nam ipsum alienum persecuti. Novum prodesset at sed,-->
-            <!--option mentitum inciderint est no, cum diam theophrastus ut. Per clita omittantur ex,-->
-            <!--in audiam utamur tacimates vis. Ius wisi impedit eligendi in, cum cu possit eleifend.-->
-            <!--Ut essent expetendis consetetur qui.</p>-->
-          <!--<div class="graph">&lt;!&ndash;ubaciti novi graf&ndash;&gt;</div>-->
-        <!--</div>-->
-      <!--</section>-->
-
-      <section class="services-ranking highlihted-bg-colored" id="services-ranking">
-        <div class="contain spaced-row row">
-
-          <h1 class="page--subtitle">How did the services compare?</h1>
-          <div class="page--subtitle--undertext">The Index evaluates select services offered by each company. Here’s how they stack up. Go how each service performance,
-            go to the <a href="{{ site.baseurl }}/service/">services page.</a></div>
-
-          <div class="tabbed-graphs">
-            <ul class="nav-tabs">
-              <li class="tab-link" data-tab="tab-1">Cloud services</li>
-              <li class="tab-link" data-tab="tab-2">Email service</li>
-              <li class="tab-link" data-tab="tab-3">Fixed broadband</li>
-              <li class="tab-link" data-tab="tab-4">Messaging & VOIP</li>
-              <li class="tab-link current" data-tab="tab-5">Mobile ecosystems</li>
-              <li class="tab-link" data-tab="tab-6">Pre and Post-paid mobile</li>
-              <li class="tab-link" data-tab="tab-7">Search</li>
-              <li class="tab-link" data-tab="tab-8">Social Network & Blog</li>
-              <li class="tab-link" data-tab="tab-9">Video/Photo</li>
-            </ul>
-            <div class="tab-content">
-              <div id="tab-1" class="tab-pane-wrapper">
-                <div class="tab-pane">
-                  <div class="tab-pane-chart-row">
-                    <div id="circle--chart--1" class="service--circle--chart"></div>
-                    <div id="circle--chart--2" class="service--circle--chart"></div>
-                    <div id="circle--chart--3" class="service--circle--chart"></div>
-                  </div>
-                  <i class="fa fa-angle-double-down"></i>
-                </div>
-              </div>
-              <div id="tab-2" class="tab-pane-wrapper">
-                <div class="tab-pane">
-                  <div class="tab-pane-chart-row">
-                    <div id="circle--chart--4" class="service--circle--chart"></div>
-                    <div id="circle--chart--5" class="service--circle--chart"></div>
-                    <div id="circle--chart--6" class="service--circle--chart"></div>
-                  </div>
-                  <div class="tab-pane-chart-row">
-                    <div id="circle--chart--7" class="service--circle--chart"></div>
-                    <div id="circle--chart--8" class="service--circle--chart"></div>
-                    <div id="circle--chart--9" class="service--circle--chart"></div>
-                  </div>
-                  <i class="fa fa-angle-double-down"></i>
-                </div>
-              </div>
-              <div id="tab-3" class="tab-pane-wrapper">
-                <div class="tab-pane">
-                  <div class="tab-pane-chart-row">
-                    <div id="circle--chart--10" class="service--circle--chart"></div>
-                    <div id="circle--chart--11" class="service--circle--chart"></div>
-                    <div id="circle--chart--12" class="service--circle--chart"></div>
-                    <div id="circle--chart--13" class="service--circle--chart"></div>
-                  </div>
-                  <div class="tab-pane-chart-row">
-                    <div id="circle--chart--14" class="service--circle--chart"></div>
-                    <div id="circle--chart--15" class="service--circle--chart"></div>
-                    <div id="circle--chart--16" class="service--circle--chart"></div>
-                  </div>
-                  <i class="fa fa-angle-double-down"></i>
-                </div>
-              </div>
-              <div id="tab-4" class="tab-pane-wrapper">
-                <div class="tab-pane">
-                  <div class="tab-pane-chart-row">
-                    <div id="circle--chart--17" class="service--circle--chart"></div>
-                    <div id="circle--chart--18" class="service--circle--chart"></div>
-                    <div id="circle--chart--19" class="service--circle--chart"></div>
-                    <div id="circle--chart--20" class="service--circle--chart"></div>
-                  </div>
-                  <div class="tab-pane-chart-row">
-                    <div id="circle--chart--21" class="service--circle--chart"></div>
-                    <div id="circle--chart--22" class="service--circle--chart"></div>
-                    <div id="circle--chart--23" class="service--circle--chart"></div>
-                    <div id="circle--chart--24" class="service--circle--chart"></div>
-                  </div>
-                  <i class="fa fa-angle-double-down"></i>
-                </div>
-              </div>
-              <div id="tab-5" class="tab-pane-wrapper current">
-                <div class="tab-pane">
-                  <div class="tab-pane-chart-row">
-                    <div id="circle--chart--25" class="service--circle--chart"></div>
-                    <div id="circle--chart--26" class="service--circle--chart"></div>
-                    <div id="circle--chart--27" class="service--circle--chart"></div>
-                  </div>
-                  <i class="fa fa-angle-double-down"></i>
-                </div>
-              </div>
-              <div id="tab-6" class="tab-pane-wrapper">
-                <div class="tab-pane">
-                  <div class="tab-pane-chart-row">
-                    <div id="circle--chart--28" class="service--circle--chart"></div>
-                    <div id="circle--chart--29" class="service--circle--chart"></div>
-                    <div id="circle--chart--30" class="service--circle--chart"></div>
-                    <div id="circle--chart--31" class="service--circle--chart"></div>
-                    <div id="circle--chart--32" class="service--circle--chart"></div>
-                  </div>
-                  <div class="tab-pane-chart-row">
-                    <div id="circle--chart--33" class="service--circle--chart"></div>
-                    <div id="circle--chart--34" class="service--circle--chart"></div>
-                    <div id="circle--chart--35" class="service--circle--chart"></div>
-                    <div id="circle--chart--36" class="service--circle--chart"></div>
-                    <div id="circle--chart--37" class="service--circle--chart"></div>
-                  </div>
-                  <i class="fa fa-angle-double-down"></i>
-                </div>
-              </div>
-              <div id="tab-7" class="tab-pane-wrapper">
-                <div class="tab-pane">
-                  <div class="tab-pane-chart-row">
-                    <div id="circle--chart--38" class="service--circle--chart"></div>
-                    <div id="circle--chart--39" class="service--circle--chart"></div>
-                    <div id="circle--chart--40" class="service--circle--chart"></div>
-                  </div>
-                  <div class="tab-pane-chart-row">
-                    <div id="circle--chart--41" class="service--circle--chart"></div>
-                    <div id="circle--chart--42" class="service--circle--chart"></div>
-                  </div>
-                  <i class="fa fa-angle-double-down"></i>
-                </div>
-              </div>
-              <div id="tab-8" class="tab-pane-wrapper">
-                <div class="tab-pane">
-                  <div class="tab-pane-chart-row">
-                    <div id="circle--chart--43" class="service--circle--chart"></div>
-                    <div id="circle--chart--44" class="service--circle--chart"></div>
-                    <div id="circle--chart--45" class="service--circle--chart"></div>
-                  </div>
-                  <div class="tab-pane-chart-row">
-                    <div id="circle--chart--46" class="service--circle--chart"></div>
-                    <div id="circle--chart--47" class="service--circle--chart"></div>
-                    <div id="circle--chart--48" class="service--circle--chart"></div>
-                  </div>
-                  <i class="fa fa-angle-double-down"></i>
-                </div>
-              </div>
-              <div id="tab-9" class="tab-pane-wrapper">
-                <div class="tab-pane">
-                  <div class="tab-pane-chart-row">
-                    <div id="circle--chart--49" class="service--circle--chart"></div>
-                    <div id="circle--chart--50" class="service--circle--chart"></div>
-                    <div id="circle--chart--51" class="service--circle--chart"></div>
-                  </div>
-                  <div class="tab-pane-chart-row">
-                    <div id="circle--chart--52" class="service--circle--chart"></div>
-                    <div id="circle--chart--53" class="service--circle--chart"></div>
-                  </div>
-                  <i class="fa fa-angle-double-down"></i>
-                </div>
-              </div>
-            </div>
+      <section class="services-ranking" id="services-ranking">
+        <div class="main-content-with-padding">
+          <div class="contain spaced-row row">
+            <h1 class="page--subtitle">Year-on-year comparison</h1>
+            <p>Ullum tempor impetus vel eu, no nam ipsum alienum persecuti. Novum prodesset at sed,
+              option mentitum inciderint est no, cum diam theophrastus ut. Per clita omittantur ex,
+              in audiam utamur tacimates vis. Ius wisi impedit eligendi in, cum cu possit eleifend.
+              Ut essent expetendis consetetur qui.</p>
+            <div id="compare--overview_chart" class="compare-chart"></div>
           </div>
         </div>
       </section>
+
+      <!--<section class="services-ranking highlihted-bg-colored" id="services-ranking">-v class    <!--<div class="main-content-with-padding"></div>-->
+        <!--<div class="contain spaced-row row">-->
+
+          <!--<h1 class="page&#45;&#45;subtitle">How did the services compare?</h1>-->
+          <!--<div class="page&#45;&#45;subtitle&#45;&#45;undertext">The Index evaluates select services offered by each company. Here’s how they stack up. Go how each service performance,-->
+            <!--go to the <a href="{{ site.baseurl }}/service/">services page.</a></div>-->
+
+          <!--<div class="tabbed-graphs">-->
+            <!--<ul class="nav-tabs">-->
+              <!--<li class="tab-link" data-tab="tab-1">Cloud services</li>-->
+              <!--<li class="tab-link" data-tab="tab-2">Email service</li>-->
+              <!--<li class="tab-link" data-tab="tab-3">Fixed broadband</li>-->
+              <!--<li class="tab-link" data-tab="tab-4">Messaging & VOIP</li>-->
+              <!--<li class="tab-link current" data-tab="tab-5">Mobile ecosystems</li>-->
+              <!--<li class="tab-link" data-tab="tab-6">Pre and Post-paid mobile</li>-->
+              <!--<li class="tab-link" data-tab="tab-7">Search</li>-->
+              <!--<li class="tab-link" data-tab="tab-8">Social Network & Blog</li>-->
+              <!--<li class="tab-link" data-tab="tab-9">Video/Photo</li>-->
+            <!--</ul>-->
+            <!--<div class="tab-content">-->
+              <!--<div id="tab-1" class="tab-pane-wrapper">-->
+                <!--<div class="tab-pane">-->
+                  <!--<div class="tab-pane-chart-row">-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;1" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;2" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;3" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                  <!--</div>-->
+                  <!--<i class="fa fa-angle-double-down"></i>-->
+                <!--</div>-->
+              <!--</div>-->
+              <!--<div id="tab-2" class="tab-pane-wrapper">-->
+                <!--<div class="tab-pane">-->
+                  <!--<div class="tab-pane-chart-row">-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;4" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;5" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;6" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                  <!--</div>-->
+                  <!--<div class="tab-pane-chart-row">-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;7" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;8" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;9" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                  <!--</div>-->
+                  <!--<i class="fa fa-angle-double-down"></i>-->
+                <!--</div>-->
+              <!--</div>-->
+              <!--<div id="tab-3" class="tab-pane-wrapper">-->
+                <!--<div class="tab-pane">-->
+                  <!--<div class="tab-pane-chart-row">-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;10" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;11" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;12" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;13" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                  <!--</div>-->
+                  <!--<div class="tab-pane-chart-row">-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;14" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;15" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;16" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                  <!--</div>-->
+                  <!--<i class="fa fa-angle-double-down"></i>-->
+                <!--</div>-->
+              <!--</div>-->
+              <!--<div id="tab-4" class="tab-pane-wrapper">-->
+                <!--<div class="tab-pane">-->
+                  <!--<div class="tab-pane-chart-row">-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;17" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;18" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;19" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;20" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                  <!--</div>-->
+                  <!--<div class="tab-pane-chart-row">-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;21" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;22" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;23" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;24" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                  <!--</div>-->
+                  <!--<i class="fa fa-angle-double-down"></i>-->
+                <!--</div>-->
+              <!--</div>-->
+              <!--<div id="tab-5" class="tab-pane-wrapper current">-->
+                <!--<div class="tab-pane">-->
+                  <!--<div class="tab-pane-chart-row">-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;25" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;26" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;27" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                  <!--</div>-->
+                  <!--<i class="fa fa-angle-double-down"></i>-->
+                <!--</div>-->
+              <!--</div>-->
+              <!--<div id="tab-6" class="tab-pane-wrapper">-->
+                <!--<div class="tab-pane">-->
+                  <!--<div class="tab-pane-chart-row">-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;28" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;29" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;30" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;31" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;32" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                  <!--</div>-->
+                  <!--<div class="tab-pane-chart-row">-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;33" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;34" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;35" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;36" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;37" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                  <!--</div>-->
+                  <!--<i class="fa fa-angle-double-down"></i>-->
+                <!--</div>-->
+              <!--</div>-->
+              <!--<div id="tab-7" class="tab-pane-wrapper">-->
+                <!--<div class="tab-pane">-->
+                  <!--<div class="tab-pane-chart-row">-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;38" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;39" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;40" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                  <!--</div>-->
+                  <!--<div class="tab-pane-chart-row">-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;41" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;42" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                  <!--</div>-->
+                  <!--<i class="fa fa-angle-double-down"></i>-->
+                <!--</div>-->
+              <!--</div>-->
+              <!--<div id="tab-8" class="tab-pane-wrapper">-->
+                <!--<div class="tab-pane">-->
+                  <!--<div class="tab-pane-chart-row">-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;43" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;44" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;45" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                  <!--</div>-->
+                  <!--<div class="tab-pane-chart-row">-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;46" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;47" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;48" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                  <!--</div>-->
+                  <!--<i class="fa fa-angle-double-down"></i>-->
+                <!--</div>-->
+              <!--</div>-->
+              <!--<div id="tab-9" class="tab-pane-wrapper">-->
+                <!--<div class="tab-pane">-->
+                  <!--<div class="tab-pane-chart-row">-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;49" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;50" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;51" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                  <!--</div>-->
+                  <!--<div class="tab-pane-chart-row">-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;52" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                    <!--<div id="circle&#45;&#45;chart&#45;&#45;53" class="service&#45;&#45;circle&#45;&#45;chart"></div>-->
+                  <!--</div>-->
+                  <!--<i class="fa fa-angle-double-down"></i>-->
+                <!--</div>-->
+              <!--</div>-->
+            <!--</div>-->
+          <!--</div>-->
+        <!--</div>-->
+      <!--</section>-->
 
 
       <!-- Data stories -->
 
       <section class="data-stories non-highlihted-bg" id="key-stories">
-        <div class="contain spaced-row row">
-          <h1 class="page--subtitle">Report Highlights</h1>
-          <!--<div class="page&#45;&#45;subtitle&#45;&#45;undertext">Company Disclosure is inadequate Across the Board</div>-->
-          <!--<p>Ullum tempor impetus vel eu, no nam ipsum alienum persecuti. Novum prodesset at sed-->
-            <!--option mentitum inciderint est no, cum diam theophrastus ut. Per clita omittantur ex,-->
-            <!--in audiam utamur tacimates vis. Ius wisi impedit eligendi in, cum cu possit eleifend.-->
-            <!--Ut essent expetendis consetetur qui</p>-->
+        <div class="main-content-with-padding">
+          <div class="contain spaced-row row">
+            <h1 class="page--subtitle">Report Highlights</h1>
 
-          <div class="data-stories-tabs">
+            <div class="data-stories-tabs">
 
+              <!--<input id="tab1" type="radio" name="tabs" checked>-->
+              <!--<label for="tab1"></label>-->
+              <!--<input id="tab2" type="radio" name="tabs">-->
+              <!--<label for="tab2">Mobile Ecosystems</label>-->
+              <!--<input id="tab3" type="radio" name="tabs">-->
+              <!--<label for="tab3">User Information</label>-->
+              <!--<input id="tab4" type="radio" name="tabs">-->
+              <!--<label for="tab4">Security</label>-->
+              <!--<input id="tab5" type="radio" name="tabs">-->
+              <!--<label for="tab5">Recommendation</label>-->
 
+              <div id="tab-1" class="tab-content current">
+                <h3>Company Disclosure</h3>
+                <p>
+                  The 2017 Index ranks 22 companies on 35 indicators across three categories. The indicators measure if and how well companies
+                  disclose policies affecting users’ freedom of expression and privacy. The Index evaluates policies of the parent company,
+                  operating company and those of selected services (depending on company structure. Read more about the methodology, research process
+                  and how we score each company.
+                </p>
+              </div>
+              <div id="tab-2" class="tab-content">
+                <h3>Mobile Ecosystems</h3>
+                <p>
+                  Mobile Ecosystems Text The 2017 Index ranks 22 companies on 35 indicators across three categories. The indicators measure if and how well companies
+                  disclose policies affecting users’ freedom of expression and privacy. The Index evaluates policies of the parent company,
+                  operating company and those of selected services (depending on company structure. Read more about the methodology, research process
+                  and how we score each company.
+                </p>
+              </div>
+              <div id="tab-3" class="tab-content">
+                <h3>User Information</h3>
+                <p>
+                  User Information Text - The 2017 Index ranks 22 companies on 35 indicators across three categories. The indicators measure if and how well companies
+                  disclose policies affecting users’ freedom of expression and privacy. The Index evaluates policies of the parent company,
+                  operating company and those of selected services (depending on company structure. Read more about the methodology, research process
+                  and how we score each company.
+                </p>
+              </div>
+              <div id="tab-4" class="tab-content">
+                <h3>Security</h3>
+                <p>
+                  Security - The 2017 Index ranks 22 companies on 35 indicators across three categories. The indicators measure if and how well companies
+                  disclose policies affecting users’ freedom of expression and privacy. The Index evaluates policies of the parent company,
+                  operating company and those of selected services (depending on company structure. Read more about the methodology, research process
+                  and how we score each company.
+                </p>
+              </div>
+              <div id="tab-5" class="tab-content">
+                <h3>Recommendation</h3>
+                <p>
+                  Recommendation - The 2017 Index ranks 22 companies on 35 indicators across three categories. The indicators measure if and how well companies
+                  disclose policies affecting users’ freedom of expression and privacy. The Index evaluates policies of the parent company,
+                  operating company and those of selected services (depending on company structure. Read more about the methodology, research process
+                  and how we score each company.
+                </p>
+              </div>
 
-            <input id="tab1" type="radio" name="tabs" checked>
-            <label for="tab1">Company Disclosure</label>
-            <input id="tab2" type="radio" name="tabs">
-            <label for="tab2">Mobile Ecosystems</label>
-            <input id="tab3" type="radio" name="tabs">
-            <label for="tab3">User Information</label>
-            <input id="tab4" type="radio" name="tabs">
-            <label for="tab4">Security</label>
-            <input id="tab5" type="radio" name="tabs">
-            <label for="tab5">Recommendation</label>
+              <ul class="tabs">
+                <li class="tab-link current" data-tab="tab-1">Company Disclosure</li>
+                <li class="tab-link" data-tab="tab-2">Mobile Ecosystems</li>
+                <li class="tab-link" data-tab="tab-3">User Information</li>
+                <li class="tab-link" data-tab="tab-4">Security</li>
+                <li class="tab-link" data-tab="tab-5">Recommendation</li>
+              </ul>
 
-            <section id="content1">
-              <h3>Company Disclosure</h3>
-              <p>
-                Brisket meatball turkey short loin boudin leberkas meatloaf chuck andouille pork loin pastrami spare ribs pancetta rump. Frankfurter corned beef beef tenderloin short loin meatloaf swine ground round venison.
-              </p>
-            </section>
-            <section id="content2">
-              <h3>Mobile Ecosystems</h3>
-              <p>
-                Jerky jowl pork chop tongue, kielbasa shank venison. Capicola shank pig ribeye leberkas filet mignon brisket beef kevin tenderloin porchetta. Capicola fatback venison shank kielbasa, drumstick ribeye landjaeger beef kevin tail meatball pastrami prosciutto pancetta. Tail kevin spare ribs ground round ham ham hock brisket shoulder. Corned beef tri-tip leberkas flank sausage ham hock filet mignon beef ribs pancetta turkey.
-              </p>
-            </section>
-            <section id="content3">
-              <h3>User Information</h3>
-              <p>
-                Brisket meatball turkey short loin boudin leberkas meatloaf chuck andouille pork loin pastrami spare ribs pancetta rump. Frankfurter corned beef beef tenderloin short loin meatloaf swine ground round venison.
-              </p>
-            </section>
-            <section id="content4">
-              <h3>Security</h3>
-              <p>
-                Jerky jowl pork chop tongue, kielbasa shank venison. Capicola shank pig ribeye leberkas filet mignon brisket beef kevin tenderloin porchetta. Capicola fatback venison shank kielbasa, drumstick ribeye landjaeger beef kevin tail meatball pastrami prosciutto pancetta. Tail kevin spare ribs ground round ham ham hock brisket shoulder. Corned beef tri-tip leberkas flank sausage ham hock filet mignon beef ribs pancetta turkey.
-              </p>
-            </section>
-            <section id="content5">
-              <h3>Recommendation</h3>
-              <p>
-                Jerky jowl pork chop tongue, kielbasa shank venison. Capicola shank pig ribeye leberkas filet mignon brisket beef kevin tenderloin porchetta. Capicola fatback venison shank kielbasa, drumstick ribeye landjaeger beef kevin tail meatball pastrami prosciutto pancetta. Tail kevin spare ribs ground round ham ham hock brisket shoulder. Corned beef tri-tip leberkas flank sausage ham hock filet mignon beef ribs pancetta turkey.
-              </p>
-            </section>
+            </div>
 
           </div>
-
         </div>
+
       </section>
 
       <!--<section class="data-stories non-highlihted-bg" id="key-stories">-->
@@ -432,7 +461,7 @@
 
     </div>
 
-  </div>
+  <!--</div>-->
 
 
 
@@ -476,6 +505,19 @@
           $(this).addClass('current');
           $("#" + tab_id).addClass('current');
         })
+      })
+
+      // Current tab - Report
+      $(document).ready(function () {
+          $('ul.tabs li').click(function(){
+              var tab_id = $(this).attr('data-tab');
+
+              $('ul.tabs li').removeClass('current');
+              $('.tab-content').removeClass('current');
+
+              $(this).addClass('current');
+              $("#"+tab_id).addClass('current');
+          })
       })
     </script>
     

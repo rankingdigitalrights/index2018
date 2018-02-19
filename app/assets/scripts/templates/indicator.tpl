@@ -1,53 +1,34 @@
-<% if (label) { %>
-<label><%= label %></label>
-<% } %>
-
-<% if (categoryTitle) { %>
-  <h2 class="page--subtitle">
-    <%= categoryTitle.display %>  
-    <!--
-    <a href="<%= baseurl %>/categories/<%= categoryTitle.src %>">
-      <%= categoryTitle.display %>  
-    </a>
-    -->
-  </h2>
-<% } %>
-<h3>
-  <%= name %>
-  <!--<a href="<%= baseurl %>/indicators/<%= indicator %>"><%= name %></a>-->
-</h3>
-<p><%- text %></p>
-
-<% if (indicator_type=='G') { %>
-  <div class="bar--container"></div>
-<% } else { %>
-<% if (no_internet) { %>
-<div class="container--right">
-    <div class="company-type">
-      <i class="fa fa-circle"></i> Telecomunications companies
-    </div>
-    <div class="bar--container--telco"></div>
-  </div>
-<%} else if (no_telco) { %>
-<div class="container--left">
-    <div class="company-type">
-      <i class="fa fa-circle"></i> Internet and mobile companies
-    </div>
-    <div class="bar--container--internet"></div>
-  </div>
-<% } else { %>
-
-  <div class="container--left">
-    <div class="company-type">
-      <i class="fa fa-circle"></i> Internet and mobile companies
-    </div>
-    <div class="bar--container--internet"></div>
-  </div>
-  <div class="container--right">
-    <div class="company-type">
-      <i class="fa fa-circle"></i> Telecomunications companies
-    </div>
-    <div class="bar--container--telco"></div>
-  </div>
-  <% } %>
-<% }%>
+<section class="company--table">
+    <h2>
+        <a id="<%= item.id %>"></a>
+        <%= item.name %>
+        <span class="percent">21%</span>
+    </h2>
+    <table>
+        <thead>
+            <tr>
+                <th class="cell--first"><%= name %></th>
+                <% item.headers.forEach(function(item) { %>
+                <th><%= item.text %></th>
+                <% }); %>
+            </tr>
+        </thead>
+        <tbody>
+            <% item.rows.forEach(function(row) { %>
+            <tr>
+                <% row.cells.forEach(function(data) { %>
+                    <td><%= data.value %></td>
+                <% }); %>
+            </tr>
+            <% }); %>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td>Average score</td>
+                <% item.average.forEach(function(item) { %>
+                <td><%= item.value %></td>
+                <% }); %>
+            </tr>
+        </tfoot>
+    </table>
+</section>
