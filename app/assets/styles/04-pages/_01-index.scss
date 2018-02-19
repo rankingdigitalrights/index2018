@@ -1010,6 +1010,11 @@
 		.tab-content{
 			display: none;
 			padding: 0;
+			-webkit-animation-duration: 0.5s;
+			-o-animation-duration: 0.5s;
+			-moz-animation-duration: 0.5s;
+			animation-duration: 0.5s;
+
 			h3{
 				color: $dark-blue;
 				padding: 20px 0 15px;
@@ -1028,6 +1033,10 @@
 			border: 1px solid transparent;
 			border-radius: 15px;
 			font-family: $simplon-regular;
+			-webkit-transition: all 0.2s ease-in-out;
+			-moz-transition: all 0.2s ease-in-out;
+			-o-transition: all 0.2s ease-in-out;
+			transition: all 0.2s ease-in-out;
 			&:hover {
 				cursor: pointer;
 			}
@@ -1044,8 +1053,6 @@
 		.current {
 			display: inline-block;
 		}
-
-
 	}
 
 }	

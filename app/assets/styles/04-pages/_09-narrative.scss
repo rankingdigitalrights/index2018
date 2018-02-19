@@ -156,6 +156,7 @@ $maincolor:  #231f20;
     }
     @media(max-width: 767px){
       margin-left: 0;
+      width: 100%;
     }
     .ref-number{
       color: $black;
@@ -242,7 +243,7 @@ $maincolor:  #231f20;
       p{
         font-size: 1.250em;
         line-height: 1.5em;
-        font-family: "Simplon-light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-family: "Simplon-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
         span{
           font-size: inherit;
         }
