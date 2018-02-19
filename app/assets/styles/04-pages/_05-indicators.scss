@@ -61,14 +61,48 @@
 
 	#indicator--companies{
 		.company--table{
-			h2{}
+			h2{
+				.percent {
+					position: relative;
+					background: $black;
+					border: 2px solid $black;
+					color: $white;
+					font-size: 0.75em;
+					padding: 4px 2px 2px 2px;
+					margin-left: 1em;
+					top: -5px;
+				}
+				.percent:after, .percent:before {
+					right: 100%;
+					top: 50%;
+					border: solid transparent;
+					content: " ";
+					height: 0;
+					width: 0;
+					position: absolute;
+					pointer-events: none;
+				}
+
+				.percent:after {
+					border-color: rgba(0, 0, 0, 0);
+					border-right-color: $black;
+					border-width: 6px;
+					margin-top: -6px;
+				}
+				.percent:before {
+					border-color: rgba(0, 0, 0, 0);
+					border-right-color: $black;
+					border-width: 9px;
+					margin-top: -9px;
+				}
+			}
 			table{
 				thead{
 					tr{
 						background-color: white;
 						border-bottom: 2px solid $border-gray-color;
 						th{
-							padding: 0 0 15px 0;
+							padding: 10px 0;
 							vertical-align: middle;
 						}
 						th:nth-child(2n+2) {
