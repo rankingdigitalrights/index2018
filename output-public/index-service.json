@@ -1,0 +1,314 @@
+[
+    {
+        "id": "1",
+        "total": "45",
+        "service": "iCloud",
+        "company": "Apple"
+    },
+    {
+        "id": "2",
+        "total": "17",
+        "service": "Baidu Cloud",
+        "company": "Baidu"
+    },
+    {
+        "id": "3",
+        "total": "27",
+        "service": "Yandex Disk (cloud storage)",
+        "company": "Yandex"
+    },
+    {
+        "id": "4",
+        "total": "63",
+        "service": "Gmail",
+        "company": "Google"
+    },
+    {
+        "id": "6",
+        "total": "23",
+        "service": "Mail.ru email",
+        "company": "Mail.ru"
+    },
+    {
+        "id": "7",
+        "total": "63",
+        "service": "Outlook.com",
+        "company": "Microsoft"
+    },
+    {
+        "id": "8",
+        "total": "60",
+        "service": "Yahoo Mail",
+        "company": "Yahoo"
+    },
+    {
+        "id": "9",
+        "total": "27",
+        "service": "Yandex Mail",
+        "company": "Yandex"
+    },
+    {
+        "id": "10",
+        "total": "50",
+        "service": "Fixed line broadband (Vodafone UK)",
+        "company": "Vodafone"
+    },
+    {
+        "id": "11",
+        "total": "41",
+        "service": "Fixed line broadband (Movistar)",
+        "company": "Telefónica"
+    },
+    {
+        "id": "12",
+        "total": "35",
+        "service": "fixed line broadband (Orange France)",
+        "company": "Orange"
+    },
+    {
+        "id": "13",
+        "total": "5",
+        "service": "fixed line broadband (Ooredoo Qatar)",
+        "company": "Ooredoo"
+    },
+    {
+        "id": "14",
+        "total": "8",
+        "service": "Fixed line broadband (Etisalat UAE)",
+        "company": "Etisalat"
+    },
+    {
+        "id": "15",
+        "total": "15",
+        "service": "Fixed line broadband (Airtel India)",
+        "company": "Bharti Airtel"
+    },
+    {
+        "id": "16",
+        "total": "47",
+        "service": "Fixed line broadband (AT&T)",
+        "company": "AT&T"
+    },
+    {
+        "id": "17",
+        "total": "57",
+        "service": "Skype",
+        "company": "Microsoft"
+    },
+    {
+        "id": "18",
+        "total": "56",
+        "service": "Messenger",
+        "company": "Facebook"
+    },
+    {
+        "id": "19",
+        "total": "56",
+        "service": "WhatsApp",
+        "company": "Facebook"
+    },
+    {
+        "id": "20",
+        "total": "49",
+        "service": "Kakao Talk",
+        "company": "Kakao"
+    },
+    {
+        "id": "21",
+        "total": "19",
+        "service": "Mail.ru Agent messaging",
+        "company": "Mail.ru"
+    },
+    {
+        "id": "22",
+        "total": "24",
+        "service": "QQ",
+        "company": "Tencent"
+    },
+    {
+        "id": "23",
+        "total": "25",
+        "service": "WeChat",
+        "company": "Tencent"
+    },
+    {
+        "id": "24",
+        "total": "43",
+        "service": "iMessage",
+        "company": "Apple"
+    },
+    {
+        "id": "25",
+        "total": "57",
+        "service": "Android mobile ecosystem",
+        "company": "Google"
+    },
+    {
+        "id": "26",
+        "total": "42",
+        "service": "iOS mobile ecosystem",
+        "company": "Apple"
+    },
+    {
+        "id": "27",
+        "total": "28",
+        "service": "Samsung implementation of Android",
+        "company": "Samsung"
+    },
+    {
+        "id": "28",
+        "total": "26",
+        "service": "Yandex Search",
+        "company": "Yandex"
+    },
+    {
+        "id": "29",
+        "total": "63",
+        "service": "Bing",
+        "company": "Microsoft"
+    },
+    {
+        "id": "30",
+        "total": "46",
+        "service": "Kakao Search",
+        "company": "Kakao"
+    },
+    {
+        "id": "31",
+        "total": "68",
+        "service": "Search",
+        "company": "Google"
+    },
+    {
+        "id": "32",
+        "total": "15",
+        "service": "Baidu Search",
+        "company": "Baidu"
+    },
+    {
+        "id": "33",
+        "total": "62",
+        "service": "Twitter",
+        "company": "Twitter"
+    },
+    {
+        "id": "34",
+        "total": "59",
+        "service": "Tumblr",
+        "company": "Yahoo"
+    },
+    {
+        "id": "35",
+        "total": "57",
+        "service": "Facebook",
+        "company": "Facebook"
+    },
+    {
+        "id": "36",
+        "total": "23",
+        "service": "Vkontakte",
+        "company": "Mail.ru"
+    },
+    {
+        "id": "37",
+        "total": "19",
+        "service": "QZone",
+        "company": "Tencent"
+    },
+    {
+        "id": "38",
+        "total": "18",
+        "service": "Baidu PostBar",
+        "company": "Baidu"
+    },
+    {
+        "id": "39",
+        "total": "58",
+        "service": "Flickr",
+        "company": "Yahoo"
+    },
+    {
+        "id": "40",
+        "total": "46",
+        "service": "Periscope",
+        "company": "Twitter"
+    },
+    {
+        "id": "41",
+        "total": "50",
+        "service": "Instagram",
+        "company": "Facebook"
+    },
+    {
+        "id": "42",
+        "total": "64",
+        "service": "Youtube",
+        "company": "Google"
+    },
+    {
+        "id": "44",
+        "total": "48",
+        "service": "Mobile service (AT&T)",
+        "company": "AT&T"
+    },
+    {
+        "id": "45",
+        "total": "21",
+        "service": "Mobile Service (Telcel)",
+        "company": "América Móvil"
+    },
+    {
+        "id": "45",
+        "total": "14",
+        "service": "Mobile service (Telcel)",
+        "company": "Axiata"
+    },
+    {
+        "id": "46",
+        "total": "14",
+        "service": "Mobile service (Airtel India)",
+        "company": "Bharti Airtel"
+    },
+    {
+        "id": "47",
+        "total": "8",
+        "service": "Mobile service (Etisalat UAE)",
+        "company": "Etisalat"
+    },
+    {
+        "id": "48",
+        "total": "16",
+        "service": "mobile service (MTN SA)",
+        "company": "MTN"
+    },
+    {
+        "id": "49",
+        "total": "5",
+        "service": "mobile service (Ooredoo Qatar)",
+        "company": "Ooredoo"
+    },
+    {
+        "id": "50",
+        "total": "33",
+        "service": "mobile service (orange france)",
+        "company": "Orange"
+    },
+    {
+        "id": "51",
+        "total": "41",
+        "service": "mobile service (Movistar)",
+        "company": "Telefónica"
+    },
+    {
+        "id": "52",
+        "total": "52",
+        "service": "mobile service (Vodafone UK)",
+        "company": "Vodafone"
+    },
+    {
+        "id": "53",
+        "total": "52",
+        "service": "Daum Mail",
+        "company": "Kakao"
+    }
+]

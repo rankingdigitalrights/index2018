@@ -1,0 +1,328 @@
+{
+    "id": "F5",
+    "name": "F5. Process for responding to third-party requests for content or account restriction",
+    "companies": [
+        {
+            "id": "americamovil",
+            "name": "América Móvil",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile"
+            ],
+            "average": [
+                "0",
+                "0"
+            ],
+            "rows": []
+        },
+        {
+            "id": "apple",
+            "name": "Apple",
+            "headers": [
+                "iOS mobile ecosystem",
+                "iMessage",
+                "iCloud"
+            ],
+            "average": [
+                "67",
+                "58",
+                "67"
+            ],
+            "rows": []
+        },
+        {
+            "id": "att",
+            "name": "AT&T",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "63",
+                "63",
+                "63"
+            ],
+            "rows": []
+        },
+        {
+            "id": "axiata",
+            "name": "Axiata",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile"
+            ],
+            "average": [
+                "0",
+                "0"
+            ],
+            "rows": []
+        },
+        {
+            "id": "baidu",
+            "name": "Baidu",
+            "headers": [
+                "Baidu Search",
+                "Baidu Cloud",
+                "Baidu PostBar"
+            ],
+            "average": [
+                "0",
+                "0",
+                "0"
+            ],
+            "rows": []
+        },
+        {
+            "id": "bhartiairtel",
+            "name": "Bharti Airtel",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "0",
+                "0",
+                "0"
+            ],
+            "rows": []
+        },
+        {
+            "id": "etisalat",
+            "name": "Etisalat",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "0",
+                "0",
+                "8"
+            ],
+            "rows": []
+        },
+        {
+            "id": "facebook",
+            "name": "Facebook",
+            "headers": [
+                "Facebook",
+                "Instagram",
+                "WhatsApp",
+                "Messenger ecosystem"
+            ],
+            "average": [
+                "92",
+                "96",
+                "96",
+                "96"
+            ],
+            "rows": []
+        },
+        {
+            "id": "google",
+            "name": "Google",
+            "headers": [
+                "Search",
+                "Gmail",
+                "Youtube",
+                "Android mobile ecosystem"
+            ],
+            "average": [
+                "96",
+                "N/A",
+                "96",
+                "96"
+            ],
+            "rows": []
+        },
+        {
+            "id": "kakao",
+            "name": "Kakao",
+            "headers": [
+                "Daum Search",
+                "Daum Mail",
+                "KakaoTalk"
+            ],
+            "average": [
+                "50",
+                "N/A",
+                "50"
+            ],
+            "rows": []
+        },
+        {
+            "id": "mailru",
+            "name": "Mail.Ru",
+            "headers": [
+                "VKontakte",
+                "Mail.ru email",
+                "Mail.ru Agent"
+            ],
+            "average": [
+                "13",
+                "N/A",
+                "0"
+            ],
+            "rows": []
+        },
+        {
+            "id": "microsoft",
+            "name": "Microsoft",
+            "headers": [
+                "Bing",
+                "Outlook.com",
+                "Skype"
+            ],
+            "average": [
+                "79",
+                "N/A",
+                "0"
+            ],
+            "rows": []
+        },
+        {
+            "id": "mtn",
+            "name": "MTN",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile"
+            ],
+            "average": [
+                "0",
+                "0"
+            ],
+            "rows": []
+        },
+        {
+            "id": "orange",
+            "name": "Orange",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "0",
+                "0",
+                "0"
+            ],
+            "rows": []
+        },
+        {
+            "id": "ooredoo",
+            "name": "Ooredoo",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "0",
+                "0",
+                "0"
+            ],
+            "rows": []
+        },
+        {
+            "id": "samsung",
+            "name": "Samsung",
+            "headers": [
+                "Samsung"
+            ],
+            "average": [
+                "0"
+            ],
+            "rows": []
+        },
+        {
+            "id": "telefonica",
+            "name": "Telefónica",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "33",
+                "33",
+                "33"
+            ],
+            "rows": []
+        },
+        {
+            "id": "tencent",
+            "name": "TenCent",
+            "headers": [
+                "QZone",
+                "QQ",
+                "WeChat"
+            ],
+            "average": [
+                "0",
+                "4",
+                "4"
+            ],
+            "rows": []
+        },
+        {
+            "id": "twitter",
+            "name": "Twitter",
+            "headers": [
+                "Twitter",
+                "Periscope"
+            ],
+            "average": [
+                "63",
+                "33"
+            ],
+            "rows": []
+        },
+        {
+            "id": "vodafone",
+            "name": "Vodafone",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "75",
+                "75",
+                "75"
+            ],
+            "rows": []
+        },
+        {
+            "id": "yahoo",
+            "name": "Oath (Yahoo)",
+            "headers": [
+                "Yahoo Mail",
+                "Flickr",
+                "Tumblr"
+            ],
+            "average": [
+                "N/A",
+                "92",
+                "83"
+            ],
+            "rows": []
+        },
+        {
+            "id": "yandex",
+            "name": "Yandex",
+            "headers": [
+                "Yandex Mail ecosystem",
+                "Yandex Search",
+                "Yandex Disk"
+            ],
+            "average": [
+                "N/A",
+                "29",
+                "33"
+            ],
+            "rows": []
+        }
+    ]
+}
