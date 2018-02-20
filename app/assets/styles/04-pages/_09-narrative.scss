@@ -41,7 +41,7 @@ $maincolor:  #231f20;
   .sidebar{
     text-align: left;
     padding: 0 20px 0 0;
-    border-right: 2px solid $base-color;
+    border-right: 2px solid $border-gray-color;
     margin: 0;
     width: 18%;
     position: absolute;
@@ -143,9 +143,10 @@ $maincolor:  #231f20;
   .fixed{
     position: fixed;
     top: 50px;
-    height: calc(100% - 50px);
+    height: calc(90% - 50px);
     overflow: auto;
   }
+
 
   .narrative-content{
     width: auto;
@@ -155,6 +156,7 @@ $maincolor:  #231f20;
     }
     @media(max-width: 767px){
       margin-left: 0;
+      width: 100%;
     }
     .ref-number{
       color: $black;
@@ -241,7 +243,7 @@ $maincolor:  #231f20;
       p{
         font-size: 1.250em;
         line-height: 1.5em;
-        font-family: "Simplon-light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-family: "Simplon-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
         span{
           font-size: inherit;
         }
