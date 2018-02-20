@@ -87,13 +87,15 @@ PRIVACY_INDICATORS = [indicator for indicator in SCORES_OVERVIEW_CSV_INDICATOR_F
 COMPANIES_COLUMNS = [
     'América Móvil', 'Apple', 'AT&T', 'Axiata', 'Baidu', 'Bharti Airtel', 'Etisalat', 'Facebook', 'Google', 'Kakao',
     'Mail.Ru', 'Microsoft', 'MTN', 'Ooredoo', 'Orange', 'Samsung', 'Telefónica', 'TenCent', 'Twitter', 'Vodafone',
-    'Yahoo', 'Yandex'
+    'Yahoo', 'Yandex', 'Oath (Yahoo)'
 ]
+
+YAHOO_MULTIPLE_NAMES = ['Yahoo', 'Oath (Yahoo)']
 
 COMPANIES_IDS = [
     'americamovil', 'apple', 'att', 'axiata', 'baidu', 'bhartiairtel', 'etisalat', 'facebook', 'google', 'kakao',
     'mailru', 'microsoft', 'mtn', 'ooredoo', 'orange', 'samsung', 'telefonica', 'tencent', 'twitter', 'vodafone',
-    'yahoo', 'yandex'
+    'yahoo', 'yandex', 'yahoo'
 ]
 # COMPANIES_COLUMNS AND COMPANIES_IDS MUST BE CHANGED AT SAME TIME IF ONE IS MODIFIED WITHOUT OTHER IT WILL CREATE
 # A LOT OF ERRORS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -152,14 +154,16 @@ PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES = OrderedDict([
     ('Facebook', 'facebook'), ('Apple', 'apple'), ('AT&T', 'att'), ('Vodafone', 'vodafone'), ('Yandex', 'yandex'),
     ('TenCent', 'tencent'), ('Samsung', 'samsung'), ('Telefónica', 'telefonica'), ('Mail.Ru', 'mailru'),
     ('Orange', 'orange'), ('América Móvil', 'americamovil'), ('Axiata', 'axiata'), ('Baidu', 'baidu'),
-    ('Bharti Airtel', 'bhartiairtel'), ('MTN', 'mtn'), ('Etisalat', 'etisalat'), ('Ooredoo', 'ooredoo')
+    ('Bharti Airtel', 'bhartiairtel'), ('MTN', 'mtn'), ('Etisalat', 'etisalat'), ('Ooredoo', 'ooredoo'),
+    ('Oath (Yahoo)', 'yahoo')
 ])
 PREDEFINED_COMPANY_NAMES_BY_THEIR_DISPLAY_NAMES = OrderedDict([
     ('Google', 'google'), ('Microsoft', 'microsoft'), ('Yahoo', 'yahoo'), ('Twitter', 'twitter'), ('Kakao', 'kakao'),
     ('Facebook', 'facebook'), ('Apple', 'apple'), ('AT&T', 'at&t'), ('Vodafone', 'vodafone'), ('Yandex', 'yandex'),
     ('TenCent', 'tencent'), ('Samsung', 'samsung'), ('Telefónica', 'telefonica'), ('Mail.Ru', 'mailRu'),
     ('Orange', 'orange'), ('América Móvil', 'americaMovil'), ('Axiata', 'axiata'), ('Baidu', 'baidu'),
-    ('Bharti Airtel', 'bhartiAirtel'), ('MTN', 'mtn'), ('Etisalat', 'etisalat'), ('Ooredoo', 'ooredoo')
+    ('Bharti Airtel', 'bhartiAirtel'), ('MTN', 'mtn'), ('Etisalat', 'etisalat'), ('Ooredoo', 'ooredoo'),
+    ('Oath (Yahoo)', 'yahoo')
 ])
 
 if sorted(PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES.keys()) != sorted(COMPANIES_COLUMNS):

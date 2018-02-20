@@ -33,8 +33,8 @@ if __name__ == '__main__':
     convert_scores_overview_type_csv_to_categories_overview_json(
         scores_overview_csv_location, quick_overview_csv_location, output_directory, check_csv_structure=True)
     convert_difference_type_to_json(difference_csv_location, output_directory)
-    convert_sub_indicator_type_to_jsons(governance_csv_location, output_directory)
     convert_sub_indicator_type_to_jsons(foe_csv_location, output_directory)
+    convert_sub_indicator_type_to_jsons(governance_csv_location, output_directory)
     convert_sub_indicator_type_to_jsons(privacy_csv_location, output_directory)
     # for sub_indicator_csv_location in [governance_csv_location, foe_csv_location, privacy_csv_location]:
     #     convert_sub_indicator_type_to_jsons(sub_indicator_csv_location, output_directory)

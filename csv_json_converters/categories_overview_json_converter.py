@@ -10,6 +10,7 @@ try:
         COMPANIES_COLUMNS, SCORES_OVERVIEW_CSV_SUMMED_INDICATORS_NAMES, CategoriesOverviewJsonFields, \
         TELCO_TRUE, TELCO_FALSE, QuickOverviewCSVTypeFieldValues, SUMMED_INDICATORS_JSON_FIELDS_BY_NAMES, \
         CategoriesOverviewJsonIndicatorSubFields, PREDEFINED_COMPANY_NAMES_BY_THEIR_DISPLAY_NAMES
+    from .helpers.helpers import get_structured_company_data
 except SystemError:
     from helpers.command_line_parser import parse_and_check_for_categories_overview_conversion
     from csv_structure_checkers import ScoresOverviewTypeCsvCheckerForCategoryOverviewConversion, \
@@ -19,6 +20,7 @@ except SystemError:
         COMPANIES_COLUMNS, SCORES_OVERVIEW_CSV_SUMMED_INDICATORS_NAMES, CategoriesOverviewJsonFields, \
         TELCO_TRUE, TELCO_FALSE, QuickOverviewCSVTypeFieldValues, SUMMED_INDICATORS_JSON_FIELDS_BY_NAMES, \
         CategoriesOverviewJsonIndicatorSubFields, PREDEFINED_COMPANY_NAMES_BY_THEIR_DISPLAY_NAMES
+    from helpers.helpers import get_structured_company_data
 
 CATEGORIES_OVERVIEW_SUBDIRECTORY = 'categories/'
 
@@ -34,8 +36,9 @@ class _CompanyCSVData(object):
 
 
 def _determine_companies_csv_data(rows):
-    first_row = rows[0]
-    return [_CompanyCSVData(company, first_row.index(company)) for company in COMPANIES_COLUMNS]
+    return get_structured_company_data(rows, company_structure=_CompanyCSVData)
+    # first_row = rows[0]
+    # return [_CompanyCSVData(company, first_row.index(company)) for company in COMPANIES_COLUMNS]
 
 
 class _IndicatorCSVData(object):

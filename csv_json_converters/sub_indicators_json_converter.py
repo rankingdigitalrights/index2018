@@ -82,7 +82,7 @@ def _get_all_sub_indicators_base_data(indicator, rows):
             # so that means that either descriptors or average rows are next ones
             if row[0].isdigit() and len(row[1]) > 0:
                 sub_indicator_base_data.descriptors.append(SubIndicatorDescriptorData(index, row[1]))
-            elif row[1].lower() == 'average':  # this needs to be checked through structure checkers
+            elif row[1].lower().strip() == 'average':  # this needs to be checked through structure checkers
                 sub_indicator_base_data.average_row_index = index
                 res.append(deepcopy(sub_indicator_base_data))
                 sub_indicator_base_data = None

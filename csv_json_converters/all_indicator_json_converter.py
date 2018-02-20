@@ -6,13 +6,15 @@ try:
     from .helpers.command_line_parser import parse_and_check
     from .helpers.csv_json_rw import load_rows_as_list_of_lists, create_json_file
     from .helpers.fields import COMPANIES_DATA, SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS, COMMITMENT_INDICATORS,\
-        FREEDOM_INDICATORS, PRIVACY_INDICATORS, AllIndicatorsJsonFields, IndicatorSubObjectJsonFields
+        FREEDOM_INDICATORS, PRIVACY_INDICATORS, AllIndicatorsJsonFields, IndicatorSubObjectJsonFields, \
+        YAHOO_MULTIPLE_NAMES
 except SystemError:
     from csv_structure_checkers import ScoresOverviewTypeCsvChecker
     from helpers.command_line_parser import parse_and_check
     from helpers.csv_json_rw import load_rows_as_list_of_lists, create_json_file
     from helpers.fields import COMPANIES_DATA, SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS, COMMITMENT_INDICATORS,\
-        FREEDOM_INDICATORS, PRIVACY_INDICATORS, AllIndicatorsJsonFields, IndicatorSubObjectJsonFields
+        FREEDOM_INDICATORS, PRIVACY_INDICATORS, AllIndicatorsJsonFields, IndicatorSubObjectJsonFields, \
+        YAHOO_MULTIPLE_NAMES
 
 INDICATORS_SUBTYPE_LIST_JSON_FIELD_PAIRS = list(zip(
     [COMMITMENT_INDICATORS, FREEDOM_INDICATORS, PRIVACY_INDICATORS],
@@ -37,9 +39,15 @@ class _IndicatorCSVData(object):
 
 
 def _determine_companies_csv_data(rows):
-    first_row = rows[0]
-    return [_CompanyCSVData(company_data.id, company_data.name, first_row.index(company_data.name))
-            for company_data in COMPANIES_DATA]
+    first_row, result = rows[0], []
+    for company_data in COMPANIES_DATA:
+        if company_data.name in YAHOO_MULTIPLE_NAMES:
+            if company_data.name in first_row:
+                result.append(_CompanyCSVData(company_data.id, company_data.name, first_row.index(company_data.name)))
+        else:
+            result.append(_CompanyCSVData(company_data.id, company_data.name, first_row.index(company_data.name)))
+    # note: This is done more complicated on purpose to throw error if company does not exists
+    return result
 
 
 def _determine_indicators_csv_data(rows):

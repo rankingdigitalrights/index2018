@@ -5,7 +5,8 @@ try:
     from .helpers.fields import SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS, COMPANIES_COLUMNS, ORDERED_SERVICE_ROWS, \
         ServiceCSVFields, PREDEFINED_SERVICE_IDS_BY_THEIR_NAMES, QUICK_OVERVIEW_COLUMN_NAMES, QuickOverviewCSVMappings,\
         QuickOverviewCSVTypeFieldValues, PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES, \
-        SCORES_OVERVIEW_CSV_SUMMED_INDICATORS_NAMES, DIFFERENCE_COLUMN_NAMES, DifferenceCSVMappings
+        SCORES_OVERVIEW_CSV_SUMMED_INDICATORS_NAMES, DIFFERENCE_COLUMN_NAMES, DifferenceCSVMappings, \
+        YAHOO_MULTIPLE_NAMES
     from .helpers.csv_json_rw import load_rows_as_list_of_lists
     from .helpers.errors import InvalidRowStructure, InvalidColumnNames
     from .helpers.service_id_reader import ServiceIdReader
@@ -13,7 +14,8 @@ except SystemError:
     from helpers.fields import SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS, COMPANIES_COLUMNS, ORDERED_SERVICE_ROWS, \
         ServiceCSVFields, PREDEFINED_SERVICE_IDS_BY_THEIR_NAMES, QUICK_OVERVIEW_COLUMN_NAMES, QuickOverviewCSVMappings,\
         QuickOverviewCSVTypeFieldValues, PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES, \
-        SCORES_OVERVIEW_CSV_SUMMED_INDICATORS_NAMES, DIFFERENCE_COLUMN_NAMES, DifferenceCSVMappings
+        SCORES_OVERVIEW_CSV_SUMMED_INDICATORS_NAMES, DIFFERENCE_COLUMN_NAMES, DifferenceCSVMappings, \
+        YAHOO_MULTIPLE_NAMES
     from helpers.csv_json_rw import load_rows_as_list_of_lists
     from helpers.errors import InvalidRowStructure, InvalidColumnNames
     from helpers.service_id_reader import ServiceIdReader
@@ -33,10 +35,16 @@ def check_overview_type_csv_structure(csv_file_location):
             ))
         companies = [row[QuickOverviewCSVMappings.company] for row in rows]
         required_companies = PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES.keys()
+        if not any([yahoo_name in companies for yahoo_name in YAHOO_MULTIPLE_NAMES]):
+            msg = 'File must contain one of yahoo names: %s.' % ', '.join(YAHOO_MULTIPLE_NAMES)
+            raise InvalidColumnNames(msg)
         for required_company in required_companies:
-            if required_company not in companies:
-                raise InvalidColumnNames('File not containing required company %s.\nRequired Companies are: %s.' % (
-                    required_company, ', '.join(required_companies)))
+            if required_company not in companies and required_company not in YAHOO_MULTIPLE_NAMES:
+                base_msg = 'File not containing required company %s.' % required_company
+                required_companies_msg = 'Required Companies are: %s.' % [rc for rc in required_companies
+                                                                          if rc not in YAHOO_MULTIPLE_NAMES]
+                yahoo_msg = 'Also it must contain one or all yahoo company names: %s.' % YAHOO_MULTIPLE_NAMES
+                raise InvalidColumnNames('\n'.join([base_msg, required_companies_msg, yahoo_msg]))
 
 
 class BaseChecker(object):
@@ -120,7 +128,13 @@ class ScoresOverviewTypeCsvChecker(BaseChecker):
     COMPLEX_ERROR_MSG = BaseChecker.COMPLEX_ERROR_MSG.format(
         invalid_base_structure_err_msg=INVALID_BASE_STRUCTURE_ERR_MSG)
     # INVALID_BASE_STRUCTURE_ERR_MSG = INVALID_BASE_STRUCTURE_ERR_MSG.encode('utf-8')
-    MISSING_REQUIRED_COLUMN = BaseChecker.MISSING_REQUIRED_COLUMN.format(all_columns=', '.join(COMPANIES_COLUMNS))
+    MISSING_REQUIRED_COLUMN = '\n'.join([
+        'Missing required column %s in input csv.',
+        'Required columns are: %s.' % [cc for cc in COMPANIES_COLUMNS if cc not in YAHOO_MULTIPLE_NAMES],
+        'Also it must contain one or all yahoo company names: %s.' % YAHOO_MULTIPLE_NAMES
+    ])
+    MISSING_YAHOO_COLUMN = 'File not containing either of one yahoo company names in required columns!\n' \
+                           'Yahoo company names can be: %s.' % ', '.join(YAHOO_MULTIPLE_NAMES)
 
     def _check_indicator_rows(self):
         first_columns = [row[0] for row in self.rows]
@@ -139,7 +153,9 @@ class ScoresOverviewTypeCsvChecker(BaseChecker):
 
     def _check_companies_columns(self):
         first_row = self.rows[0]  # all column names are in first row
-        for required_column in COMPANIES_COLUMNS:
+        if not any([yahoo_name in first_row for yahoo_name in YAHOO_MULTIPLE_NAMES]):
+            raise InvalidColumnNames(self.MISSING_YAHOO_COLUMN)
+        for required_column in filter(lambda comp: comp not in YAHOO_MULTIPLE_NAMES, COMPANIES_COLUMNS):
             if required_column not in first_row:
                 raise InvalidColumnNames(self.MISSING_REQUIRED_COLUMN % required_column)
 

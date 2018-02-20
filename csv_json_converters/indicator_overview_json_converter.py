@@ -1,16 +1,18 @@
 # coding=utf-8
 try:
     from .helpers.fields import SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS, INDICATOR_IDS, COMPANIES_COLUMNS, \
-        IndicatorOverviewJsonFields
+        IndicatorOverviewJsonFields, YAHOO_MULTIPLE_NAMES
     from .helpers.command_line_parser import parse_and_check
     from .helpers.csv_json_rw import load_rows_as_list_of_lists, create_json_file
     from .csv_structure_checkers import ScoresOverviewTypeCsvChecker
+    from .helpers.helpers import get_structured_company_data
 except SystemError:
     from helpers.fields import SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS, INDICATOR_IDS, COMPANIES_COLUMNS, \
-        IndicatorOverviewJsonFields
+        IndicatorOverviewJsonFields, YAHOO_MULTIPLE_NAMES
     from helpers.command_line_parser import parse_and_check
     from helpers.csv_json_rw import load_rows_as_list_of_lists, create_json_file
     from csv_structure_checkers import ScoresOverviewTypeCsvChecker
+    from helpers.helpers import get_structured_company_data
 
 
 class CompanyCSVData(object):
@@ -24,8 +26,16 @@ class IndicatorCSVData(object):
 
 
 def determine_companies_csv_data(rows):
-    first_row, result = rows[0], []
-    return [CompanyCSVData(company, first_row.index(company)) for company in COMPANIES_COLUMNS]
+    return get_structured_company_data(rows, CompanyCSVData)
+    # first_row, result = rows[0], []
+    # for company in COMPANIES_COLUMNS:
+    #     if company in YAHOO_MULTIPLE_NAMES:
+    #         if company in first_row:
+    #             result.append(CompanyCSVData(company, first_row.index(company)))
+    #     else:
+    #         result.append(CompanyCSVData(company, first_row.index(company)))
+    # # note: This is done more complicated on purpose to throw error if company does not exists
+    # return result
 
 
 def determine_indicators_csv_data(rows):
