@@ -23,6 +23,7 @@ def _convert_to_json_object(row):
     result.update({
         OverviewJsonFields.name: row[QuickOverviewCSVMappings.company].lower(),
         OverviewJsonFields.id: PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES[row[QuickOverviewCSVMappings.company]],
+        OverviewJsonFields.total: float(row[QuickOverviewCSVMappings.total]),
         OverviewJsonFields.telco: TELCO_TRUE if row[QuickOverviewCSVMappings.type] == QuickOverviewCSVTypeFieldValues.telco else TELCO_FALSE
     })
     return result

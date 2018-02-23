@@ -29,6 +29,7 @@ class OverviewJsonFields(object):
     name = 'name'
     privacy = 'privacy'
     telco = 'telco'
+    total = 'total'
 
 
 ORDERED_SERVICE_ROWS = ['Category', 'Company', 'Service', 'Total', 'Difference', 'G', 'FoE', 'P', 'Description']
