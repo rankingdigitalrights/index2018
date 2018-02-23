@@ -13,7 +13,60 @@
                 "38",
                 "38"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose its purpose for collection?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose whether it combines user information from various company services and if so, why?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. For each type of user information the company shares, does the company clearly disclose its purpose for sharing?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it limits its use of user information to the purpose for which it was collected?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "apple",
@@ -28,7 +81,72 @@
                 "50",
                 "50"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose its purpose for collection?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose whether it combines user information from various company services and if so, why?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. For each type of user information the company shares, does the company clearly disclose its purpose for sharing?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it limits its use of user information to the purpose for which it was collected?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "att",
@@ -43,7 +161,72 @@
                 "38",
                 "38"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose its purpose for collection?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose whether it combines user information from various company services and if so, why?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. For each type of user information the company shares, does the company clearly disclose its purpose for sharing?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it limits its use of user information to the purpose for which it was collected?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "axiata",
@@ -56,7 +239,60 @@
                 "25",
                 "25"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose its purpose for collection?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose whether it combines user information from various company services and if so, why?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. For each type of user information the company shares, does the company clearly disclose its purpose for sharing?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it limits its use of user information to the purpose for which it was collected?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "baidu",
@@ -71,7 +307,72 @@
                 "38",
                 "38"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose its purpose for collection?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose whether it combines user information from various company services and if so, why?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. For each type of user information the company shares, does the company clearly disclose its purpose for sharing?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it limits its use of user information to the purpose for which it was collected?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "bhartiairtel",
@@ -86,7 +387,72 @@
                 "13",
                 "13"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose its purpose for collection?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose whether it combines user information from various company services and if so, why?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. For each type of user information the company shares, does the company clearly disclose its purpose for sharing?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it limits its use of user information to the purpose for which it was collected?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "etisalat",
@@ -101,7 +467,72 @@
                 "0",
                 "0"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose its purpose for collection?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose whether it combines user information from various company services and if so, why?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. For each type of user information the company shares, does the company clearly disclose its purpose for sharing?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it limits its use of user information to the purpose for which it was collected?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "facebook",
@@ -118,7 +549,84 @@
                 "50",
                 "38"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose its purpose for collection?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose whether it combines user information from various company services and if so, why?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. For each type of user information the company shares, does the company clearly disclose its purpose for sharing?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it limits its use of user information to the purpose for which it was collected?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "google",
@@ -135,7 +643,84 @@
                 "75",
                 "75"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose its purpose for collection?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose whether it combines user information from various company services and if so, why?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. For each type of user information the company shares, does the company clearly disclose its purpose for sharing?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it limits its use of user information to the purpose for which it was collected?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "kakao",
@@ -150,7 +735,72 @@
                 "50",
                 "50"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose its purpose for collection?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose whether it combines user information from various company services and if so, why?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. For each type of user information the company shares, does the company clearly disclose its purpose for sharing?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it limits its use of user information to the purpose for which it was collected?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "mailru",
@@ -165,7 +815,72 @@
                 "38",
                 "38"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose its purpose for collection?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose whether it combines user information from various company services and if so, why?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. For each type of user information the company shares, does the company clearly disclose its purpose for sharing?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it limits its use of user information to the purpose for which it was collected?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "microsoft",
@@ -180,7 +895,72 @@
                 "50",
                 "50"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose its purpose for collection?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose whether it combines user information from various company services and if so, why?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. For each type of user information the company shares, does the company clearly disclose its purpose for sharing?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it limits its use of user information to the purpose for which it was collected?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "mtn",
@@ -193,7 +973,60 @@
                 "13",
                 "13"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose its purpose for collection?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose whether it combines user information from various company services and if so, why?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. For each type of user information the company shares, does the company clearly disclose its purpose for sharing?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it limits its use of user information to the purpose for which it was collected?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "ooredoo",
@@ -208,7 +1041,72 @@
                 "0",
                 "0"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose its purpose for collection?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose whether it combines user information from various company services and if so, why?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. For each type of user information the company shares, does the company clearly disclose its purpose for sharing?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it limits its use of user information to the purpose for which it was collected?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "orange",
@@ -223,7 +1121,72 @@
                 "50",
                 "38"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose its purpose for collection?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose whether it combines user information from various company services and if so, why?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. For each type of user information the company shares, does the company clearly disclose its purpose for sharing?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it limits its use of user information to the purpose for which it was collected?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "samsung",
@@ -234,7 +1197,48 @@
             "average": [
                 "38"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose its purpose for collection?"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose whether it combines user information from various company services and if so, why?"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. For each type of user information the company shares, does the company clearly disclose its purpose for sharing?"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it limits its use of user information to the purpose for which it was collected?"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "telefonica",
@@ -249,7 +1253,72 @@
                 "50",
                 "50"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose its purpose for collection?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose whether it combines user information from various company services and if so, why?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. For each type of user information the company shares, does the company clearly disclose its purpose for sharing?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it limits its use of user information to the purpose for which it was collected?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "tencent",
@@ -264,7 +1333,72 @@
                 "50",
                 "63"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose its purpose for collection?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose whether it combines user information from various company services and if so, why?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. For each type of user information the company shares, does the company clearly disclose its purpose for sharing?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it limits its use of user information to the purpose for which it was collected?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "twitter",
@@ -277,7 +1411,60 @@
                 "63",
                 "63"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose its purpose for collection?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose whether it combines user information from various company services and if so, why?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. For each type of user information the company shares, does the company clearly disclose its purpose for sharing?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it limits its use of user information to the purpose for which it was collected?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "vodafone",
@@ -292,7 +1479,72 @@
                 "25",
                 "25"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose its purpose for collection?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose whether it combines user information from various company services and if so, why?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. For each type of user information the company shares, does the company clearly disclose its purpose for sharing?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it limits its use of user information to the purpose for which it was collected?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "yahoo",
@@ -307,7 +1559,72 @@
                 "38",
                 "63"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose its purpose for collection?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose whether it combines user information from various company services and if so, why?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. For each type of user information the company shares, does the company clearly disclose its purpose for sharing?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it limits its use of user information to the purpose for which it was collected?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "yandex",
@@ -322,7 +1639,72 @@
                 "25",
                 "25"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose its purpose for collection?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose whether it combines user information from various company services and if so, why?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. For each type of user information the company shares, does the company clearly disclose its purpose for sharing?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it limits its use of user information to the purpose for which it was collected?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

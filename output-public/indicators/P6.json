@@ -13,7 +13,99 @@
                 "0",
                 "0"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose how long it retains that user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose what de-identified user information it retains?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the process for de-identifying user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it deletes all user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose the time frame in which it will delete user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose how long they retains user information?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store state that all user information is deleted when users terminate their accounts or delete the app?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "apple",
@@ -28,7 +120,120 @@
                 "10",
                 "20"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose how long it retains that user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose what de-identified user information it retains?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the process for de-identifying user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it deletes all user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose the time frame in which it will delete user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose how long they retains user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store state that all user information is deleted when users terminate their accounts or delete the app?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "att",
@@ -43,7 +248,120 @@
                 "10",
                 "10"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose how long it retains that user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose what de-identified user information it retains?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the process for de-identifying user information?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it deletes all user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose the time frame in which it will delete user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose how long they retains user information?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store state that all user information is deleted when users terminate their accounts or delete the app?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "axiata",
@@ -56,7 +374,99 @@
                 "0",
                 "0"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose how long it retains that user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose what de-identified user information it retains?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the process for de-identifying user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it deletes all user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose the time frame in which it will delete user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose how long they retains user information?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store state that all user information is deleted when users terminate their accounts or delete the app?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "baidu",
@@ -71,7 +481,120 @@
                 "20",
                 "20"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose how long it retains that user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose what de-identified user information it retains?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the process for de-identifying user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it deletes all user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose the time frame in which it will delete user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose how long they retains user information?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store state that all user information is deleted when users terminate their accounts or delete the app?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "bhartiairtel",
@@ -86,7 +609,120 @@
                 "0",
                 "0"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose how long it retains that user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose what de-identified user information it retains?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the process for de-identifying user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it deletes all user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose the time frame in which it will delete user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose how long they retains user information?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store state that all user information is deleted when users terminate their accounts or delete the app?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "etisalat",
@@ -101,7 +737,120 @@
                 "0",
                 "0"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose how long it retains that user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose what de-identified user information it retains?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the process for de-identifying user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it deletes all user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose the time frame in which it will delete user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose how long they retains user information?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store state that all user information is deleted when users terminate their accounts or delete the app?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "facebook",
@@ -118,7 +867,141 @@
                 "20",
                 "40"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose how long it retains that user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose what de-identified user information it retains?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the process for de-identifying user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it deletes all user information after users terminate their account?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose the time frame in which it will delete user information after users terminate their account?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose how long they retains user information?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store state that all user information is deleted when users terminate their accounts or delete the app?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "google",
@@ -135,7 +1018,141 @@
                 "30",
                 "21"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose how long it retains that user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose what de-identified user information it retains?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the process for de-identifying user information?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it deletes all user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose the time frame in which it will delete user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose how long they retains user information?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store state that all user information is deleted when users terminate their accounts or delete the app?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "kakao",
@@ -150,7 +1167,120 @@
                 "40",
                 "40"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose how long it retains that user information?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose what de-identified user information it retains?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the process for de-identifying user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it deletes all user information after users terminate their account?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose the time frame in which it will delete user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose how long they retains user information?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store state that all user information is deleted when users terminate their accounts or delete the app?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "mailru",
@@ -165,7 +1295,120 @@
                 "10",
                 "10"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose how long it retains that user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose what de-identified user information it retains?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the process for de-identifying user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it deletes all user information after users terminate their account?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose the time frame in which it will delete user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose how long they retains user information?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store state that all user information is deleted when users terminate their accounts or delete the app?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "microsoft",
@@ -180,7 +1423,120 @@
                 "30",
                 "30"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose how long it retains that user information?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose what de-identified user information it retains?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the process for de-identifying user information?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it deletes all user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose the time frame in which it will delete user information after users terminate their account?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose how long they retains user information?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store state that all user information is deleted when users terminate their accounts or delete the app?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "mtn",
@@ -193,7 +1549,99 @@
                 "0",
                 "0"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose how long it retains that user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose what de-identified user information it retains?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the process for de-identifying user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it deletes all user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose the time frame in which it will delete user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose how long they retains user information?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store state that all user information is deleted when users terminate their accounts or delete the app?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "ooredoo",
@@ -208,7 +1656,120 @@
                 "0",
                 "0"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose how long it retains that user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose what de-identified user information it retains?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the process for de-identifying user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it deletes all user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose the time frame in which it will delete user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose how long they retains user information?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store state that all user information is deleted when users terminate their accounts or delete the app?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "orange",
@@ -223,7 +1784,120 @@
                 "0",
                 "0"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose how long it retains that user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose what de-identified user information it retains?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the process for de-identifying user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it deletes all user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose the time frame in which it will delete user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose how long they retains user information?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store state that all user information is deleted when users terminate their accounts or delete the app?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "samsung",
@@ -234,7 +1908,78 @@
             "average": [
                 "14"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose how long it retains that user information?"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose what de-identified user information it retains?"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the process for de-identifying user information?"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it deletes all user information after users terminate their account?"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose the time frame in which it will delete user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose how long they retains user information?"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store state that all user information is deleted when users terminate their accounts or delete the app?"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "telefonica",
@@ -249,7 +1994,120 @@
                 "0",
                 "0"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose how long it retains that user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose what de-identified user information it retains?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the process for de-identifying user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it deletes all user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose the time frame in which it will delete user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose how long they retains user information?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store state that all user information is deleted when users terminate their accounts or delete the app?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "tencent",
@@ -264,7 +2122,120 @@
                 "0",
                 "0"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose how long it retains that user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose what de-identified user information it retains?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the process for de-identifying user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it deletes all user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose the time frame in which it will delete user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose how long they retains user information?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store state that all user information is deleted when users terminate their accounts or delete the app?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "twitter",
@@ -277,7 +2248,99 @@
                 "80",
                 "40"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose how long it retains that user information?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose what de-identified user information it retains?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the process for de-identifying user information?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it deletes all user information after users terminate their account?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose the time frame in which it will delete user information after users terminate their account?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose how long they retains user information?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store state that all user information is deleted when users terminate their accounts or delete the app?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "vodafone",
@@ -292,7 +2355,120 @@
                 "0",
                 "0"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose how long it retains that user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose what de-identified user information it retains?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the process for de-identifying user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it deletes all user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose the time frame in which it will delete user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose how long they retains user information?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store state that all user information is deleted when users terminate their accounts or delete the app?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "yahoo",
@@ -307,7 +2483,120 @@
                 "50",
                 "10"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose how long it retains that user information?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose what de-identified user information it retains?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the process for de-identifying user information?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it deletes all user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose the time frame in which it will delete user information after users terminate their account?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose how long they retains user information?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store state that all user information is deleted when users terminate their accounts or delete the app?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "yandex",
@@ -322,7 +2611,120 @@
                 "0",
                 "0"
             ],
-            "rows": []
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose how long it retains that user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose what de-identified user information it retains?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the process for de-identifying user information?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it deletes all user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose the time frame in which it will delete user information after users terminate their account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose how long they retains user information?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store state that all user information is deleted when users terminate their accounts or delete the app?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
