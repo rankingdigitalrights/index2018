@@ -17,11 +17,13 @@ module.exports = Backbone.View.extend({
 
     var $companies = this.collection.companies;
     var $name = this.collection.indicatorName;
+    var $scores = this.collection.scores;
 
     $companies.forEach(function(item){
-      console.info(item);
+      var $company_name = item.name;
+      var $score = Math.round($scores[$company_name]);
       $("#indicator--companies").append(
-          template({name:$name, item:item})
+          template({score:$score, name:$name, item:item})
       );
     });
   }
