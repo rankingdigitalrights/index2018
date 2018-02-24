@@ -1,2292 +1,2050 @@
-{  
-   "id":"P9",
-   "name":"P9. COLLECTION OF USER INFORMATION FROM THIRD PARTIES (INTERNET COMPANIES)",
-   "paragraph_1":"The company should clearly disclose its practices with regard to user information it collects from third-party websites or apps through technical means.",
-   "companies":[  
-      {  
-         "name":"América Móvil",
-         "id":"americaMovil",
-         "headers":[  
-            {  
-               "text":"Prepaid Mobile"
-            },
-            {  
-               "text":"Postpaid Mobile"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"N/A"
-            },
-            {  
-               "value":"N/A"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                     {
-      "value": "Does the company clearly disclose what user information it collects from third-party websites through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly explain how it collects user information from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                     {
-      "value": "Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Apple",
-         "id":"apple",
-         "headers":[  
-            {  
-               "text":"iOS mobile ecosystem"
-            },
-            {  
-               "text":"iMessage"
-            },
-            {  
-               "text":"iCloud"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"100"
-            },
-            {  
-               "value":"100"
-            },
-            {  
-               "value":"100"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose what user information it collects from third-party websites through technical means?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly explain how it collects user information from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"AT&T",
-         "id":"att",
-         "headers":[  
-            {  
-               "text":"Prepaid Mobile"
-            },
-            {  
-               "text":"Postpaid Mobile"
-            },
-            {  
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"N/A"
-            },
-            {  
-               "value":"N/A"
-            },
-            {  
-               "value":"N/A"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose what user information it collects from third-party websites through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly explain how it collects user information from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Axiata",
-         "id":"axiata",
-         "headers":[  
-            {  
-               "text":"Prepaid Mobile"
-            },
-            {  
-               "text":"Postpaid Mobile"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"N/A"
-            },
-            {  
-               "value":"N/A"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose what user information it collects from third-party websites through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                 {
-      "value": "Does the company clearly explain how it collects user information from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                     {
-      "value": "Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Baidu",
-         "id":"baidu",
-         "headers":[  
-            {  
-               "text":"Baidu Search"
-            },
-            {  
-               "text":"Baidu Cloud"
-            },
-            {  
-               "text":"Baidu PostBar"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"0"
-            },
-            {  
-               "value":"0"
-            },
-            {  
-               "value":"0"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                     {
-      "value": "Does the company clearly disclose what user information it collects from third-party websites through technical means?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                     {
-      "value": "Does the company clearly explain how it collects user information from third parties through technical means?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Bharti Airtel",
-         "id":"bhartiairtel",
-         "headers":[  
-            {  
-               "text":"Prepaid Mobile"
-            },
-            {  
-               "text":"Postpaid Mobile"
-            },
-            {  
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"N/A"
-            },
-            {  
-               "value":"N/A"
-            },
-            {  
-               "value":"N/A"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose what user information it collects from third-party websites through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                     {
-      "value": "Does the company clearly explain how it collects user information from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                     {
-      "value": "Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Etisalat",
-         "id":"etisalat",
-         "headers":[  
-            {  
-               "text":"Prepaid Mobile"
-            },
-            {  
-               "text":"Postpaid Mobile"
-            },
-            {  
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"N/A"
-            },
-            {  
-               "value":"N/A"
-            },
-            {  
-               "value":"N/A"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose what user information it collects from third-party websites through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                     {
-      "value": "Does the company clearly explain how it collects user information from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                     {
-      "value": "Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Facebook",
-         "id":"facebook",
-         "headers":[  
-            {  
-               "text":"Instagram"
-            },
-            {  
-               "text":"WhatsApp"
-            },
-            {  
-               "text":"Messenger"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"40"
-            },
-            {  
-               "value":"0"
-            },
-            {  
-               "value":"0"
-            },
-            {  
-               "value":"40"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                     {
-      "value": "Does the company clearly disclose what user information it collects from third-party websites through technical means?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly explain how it collects user information from third parties through technical means?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "100"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Google",
-         "id":"google",
-         "headers":[  
-            {  
-               "text":"Search"
-            },
-            {  
-               "text":"Gmail"
-            },
-            {  
-               "text":"Youtube"
-            },
-            {  
-               "text":"Android mobile ecosystem"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"80"
-            },
-            {  
-               "value":"80"
-            },
-            {  
-               "value":"80"
-            },
-            {  
-               "value":"20"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                     {
-      "value": "Does the company clearly disclose what user information it collects from third-party websites through technical means?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly explain how it collects user information from third parties through technical means?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                 {
-      "value": "Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Kakao",
-         "id":"kakao",
-         "headers":[  
-            {  
-               "text":"Daum Search"
-            },
-            {  
-               "text":"Daum Mail"
-            },
-            {  
-               "text":"Kakao Talk"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"0"
-            },
-            {  
-               "value":"0"
-            },
-            {  
-               "value":"0"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose what user information it collects from third-party websites through technical means?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly explain how it collects user information from third parties through technical means?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Mail.ru",
-         "id":"mailru",
-         "headers":[  
-            {  
-               "text":"Vkontakte"
-            },
-            {  
-               "text":"Mail.Ru"
-            },
-            {  
-               "text":"Mail.Ru Agent"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"0"
-            },
-            {  
-               "value":"0"
-            },
-            {  
-               "value":"0"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                     {
-      "value": "Does the company clearly disclose what user information it collects from third-party websites through technical means?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                     {
-      "value": "Does the company clearly explain how it collects user information from third parties through technical means?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-               {
-      "value": "Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                     {
-      "value": "Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }               ]
-            }
-         ]
-      },
-      {  
-         "name":"Microsoft",
-         "id":"microsoft",
-         "headers":[  
-            {  
-               "text":"Bing"
-            },
-            {  
-               "text":"Outlook.com"
-            },
-            {  
-               "text":"Skype"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"60"
-            },
-            {  
-               "value":"60"
-            },
-            {  
-               "value":"60"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose what user information it collects from third-party websites through technical means?"
-   },
-   {
-      "value": "50"
-   },
-   {
-      "value": "50"
-   },
-   {
-      "value": "50"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                     {
-      "value": "Does the company clearly explain how it collects user information from third parties through technical means?"
-   },
-   {
-      "value": "50"
-   },
-   {
-      "value": "50"
-   },
-   {
-      "value": "50"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                     {
-      "value": "Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"MTN",
-         "id":"mtn",
-         "headers":[  
-            {  
-               "text":"Prepaid Mobile"
-            },
-            {  
-               "text":"Postpaid Mobile"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"N/A"
-            },
-            {  
-               "value":"N/A"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose what user information it collects from third-party websites through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly explain how it collects user information from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                     {
-      "value": "Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Ooredoo",
-         "id":"ooredoo",
-         "headers":[  
-            {  
-               "text":"Prepaid Mobile"
-            },
-            {  
-               "text":"Postpaid Mobile"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"N/A"
-            },
-            {  
-               "value":"N/A"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose what user information it collects from third-party websites through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                 {
-      "value": "Does the company clearly explain how it collects user information from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                     {
-      "value": "Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Orange",
-         "id":"orange",
-         "headers":[  
-            {  
-               "text":"Prepaid Mobile"
-            },
-            {  
-               "text":"Postpaid Mobile"
-            },
-            {  
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"N/A"
-            },
-            {  
-               "value":"N/A"
-            },
-            {  
-               "value":"N/A"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose what user information it collects from third-party websites through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                     {
-      "value": "Does the company clearly explain how it collects user information from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Samsung",
-         "id":"Samsung",
-         "headers":[  
-               {
-      "value": "Does the company clearly disclose what user information it collects from third-party websites through technical means?"
-   },
-   {
-      "value": "0"
-   }
-         ],
-         "average":[  
-            {  
-               "value":"0"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose what user information it collects from third-party websites through technical means?"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                     {
-      "value": "Does the company clearly explain how it collects user information from third parties through technical means?"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                     {
-      "value": "Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Telefónica",
-         "id":"telefonica",
-         "headers":[  
-            {  
-               "text":"Prepaid Mobile"
-            },
-            {  
-               "text":"Postpaid Mobile"
-            },
-            {  
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"N/A"
-            },
-            {  
-               "value":"N/A"
-            },
-            {  
-               "value":"N/A"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                     {
-      "value": "Does the company clearly disclose what user information it collects from third-party websites through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly explain how it collects user information from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                     {
-      "value": "Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                     {
-      "value": "Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Tencent",
-         "id":"tencent",
-         "headers":[  
-            {  
-               "text":"QZone"
-            },
-            {  
-               "text":"QQ"
-            },
-            {  
-               "text":"WeChat"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"10"
-            },
-            {  
-               "value":"10"
-            },
-            {  
-               "value":"10"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose what user information it collects from third-party websites through technical means?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                     {
-      "value": "Does the company clearly explain how it collects user information from third parties through technical means?"
-   },
-   {
-      "value": "50"
-   },
-   {
-      "value": "50"
-   },
-   {
-      "value": "50"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Twitter",
-         "id":"twitter",
-         "headers":[  
-            {  
-               "text":"Twitter"
-            },
-            {  
-               "text":"Vine"
-            },
-            {  
-               "text":"Periscope"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"100"
-            },
-            {  
-               "value":"20"
-            },
-            {  
-               "value":"100"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose what user information it collects from third-party websites through technical means?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "100"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly explain how it collects user information from third parties through technical means?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "100"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-               {
-      "value": "Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "100"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "100"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Vodafone",
-         "id":"vodafone",
-         "headers":[  
-            {  
-               "text":"Prepaid Mobile"
-            },
-            {  
-               "text":"Postpaid Mobile"
-            },
-            {  
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"N/A"
-            },
-            {  
-               "value":"N/A"
-            },
-            {  
-               "value":"N/A"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                     {
-      "value": "Does the company clearly disclose what user information it collects from third-party websites through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                     {
-      "value": "Does the company clearly explain how it collects user information from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                     {
-      "value": "Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   },
-   {
-      "value": "exclude"
-   }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Yahoo",
-         "id":"yahoo",
-         "headers":[  
-            {  
-               "text":"Yahoo Mail"
-            },
-            {  
-               "text":"Flickr"
-            },
-            {  
-               "text":"Tumblr"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"60"
-            },
-            {  
-               "value":"50"
-            },
-            {  
-               "value":"20"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose what user information it collects from third-party websites through technical means?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly explain how it collects user information from third parties through technical means?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "50"
-   },
-   {
-      "value": "50"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
-   },
-   {
-      "value": "100"
-   },
-   {
-      "value": "100"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Yandex",
-         "id":"yandex",
-         "headers":[  
-            {  
-               "text":"Yandex Mail"
-            },
-            {  
-               "text":"Yandex Search"
-            },
-            {  
-               "text":"Yandex Disk (cloud storage)"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"0"
-            },
-            {  
-               "value":"0"
-            },
-            {  
-               "value":"0"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                     {
-      "value": "Does the company clearly disclose what user information it collects from third-party websites through technical means?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly explain how it collects user information from third parties through technical means?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            },
-            {  
-               "cells":[  
-                  {
-      "value": "Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   },
-   {
-      "value": "0"
-   }
-               ]
-            }
-         ]
-      }
-   ]
+{
+    "id": "P9",
+    "name": "P9. Collection of user information from third parties (Internet companies)",
+    "companies": [
+        {
+            "id": "americamovil",
+            "name": "América Móvil",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile"
+            ],
+            "average": [
+                "N/A",
+                "N/A"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what user information it collects from third-party websites through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly explain how it collects user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "apple",
+            "name": "Apple",
+            "headers": [
+                "iOS mobile ecosystem",
+                "iMessage",
+                "iCloud"
+            ],
+            "average": [
+                "100",
+                "100",
+                "100"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what user information it collects from third-party websites through technical means?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly explain how it collects user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "att",
+            "name": "AT&T",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "N/A",
+                "N/A",
+                "N/A"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what user information it collects from third-party websites through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly explain how it collects user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "axiata",
+            "name": "Axiata",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile"
+            ],
+            "average": [
+                "N/A",
+                "N/A"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what user information it collects from third-party websites through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly explain how it collects user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "baidu",
+            "name": "Baidu",
+            "headers": [
+                "Baidu Search",
+                "Baidu Cloud",
+                "Baidu PostBar"
+            ],
+            "average": [
+                "0",
+                "0",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what user information it collects from third-party websites through technical means?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly explain how it collects user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "bhartiairtel",
+            "name": "Bharti Airtel",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "N/A",
+                "N/A",
+                "N/A"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what user information it collects from third-party websites through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly explain how it collects user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "etisalat",
+            "name": "Etisalat",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "N/A",
+                "N/A",
+                "N/A"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what user information it collects from third-party websites through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly explain how it collects user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "facebook",
+            "name": "Facebook",
+            "headers": [
+                "Facebook",
+                "Instagram",
+                "WhatsApp",
+                "Messenger ecosystem"
+            ],
+            "average": [
+                "40",
+                "0",
+                "0",
+                "40"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what user information it collects from third-party websites through technical means?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly explain how it collects user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "google",
+            "name": "Google",
+            "headers": [
+                "Search",
+                "Gmail",
+                "Youtube",
+                "Android mobile ecosystem"
+            ],
+            "average": [
+                "60",
+                "60",
+                "60",
+                "40"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what user information it collects from third-party websites through technical means?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly explain how it collects user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "kakao",
+            "name": "Kakao",
+            "headers": [
+                "Daum Search",
+                "Daum Mail",
+                "KakaoTalk"
+            ],
+            "average": [
+                "0",
+                "0",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what user information it collects from third-party websites through technical means?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly explain how it collects user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "mailru",
+            "name": "Mail.Ru",
+            "headers": [
+                "VKontakte",
+                "Mail.ru email",
+                "Mail.ru Agent"
+            ],
+            "average": [
+                "0",
+                "0",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what user information it collects from third-party websites through technical means?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly explain how it collects user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "microsoft",
+            "name": "Microsoft",
+            "headers": [
+                "Bing",
+                "Outlook.com",
+                "Skype"
+            ],
+            "average": [
+                "40",
+                "40",
+                "40"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what user information it collects from third-party websites through technical means?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly explain how it collects user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "mtn",
+            "name": "MTN",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile"
+            ],
+            "average": [
+                "N/A",
+                "N/A"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what user information it collects from third-party websites through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly explain how it collects user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ooredoo",
+            "name": "Ooredoo",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "N/A",
+                "N/A",
+                "N/A"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what user information it collects from third-party websites through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly explain how it collects user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "orange",
+            "name": "Orange",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "N/A",
+                "N/A",
+                "N/A"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what user information it collects from third-party websites through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly explain how it collects user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "samsung",
+            "name": "Samsung",
+            "headers": [
+                "Samsung "
+            ],
+            "average": [
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what user information it collects from third-party websites through technical means?"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly explain how it collects user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "telefonica",
+            "name": "Telefónica",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "N/A",
+                "N/A",
+                "N/A"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what user information it collects from third-party websites through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly explain how it collects user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tencent",
+            "name": "TenCent",
+            "headers": [
+                "QZone",
+                "QQ",
+                "WeChat"
+            ],
+            "average": [
+                "0",
+                "0",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what user information it collects from third-party websites through technical means?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly explain how it collects user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "twitter",
+            "name": "Twitter",
+            "headers": [
+                "Twitter",
+                "Periscope"
+            ],
+            "average": [
+                "50",
+                "50"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what user information it collects from third-party websites through technical means?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly explain how it collects user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vodafone",
+            "name": "Vodafone",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "N/A",
+                "N/A",
+                "N/A"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what user information it collects from third-party websites through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly explain how it collects user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "yahoo",
+            "name": "Oath (Yahoo)",
+            "headers": [
+                "Yahoo Mail",
+                "Flickr",
+                "Tumblr"
+            ],
+            "average": [
+                "60",
+                "50",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what user information it collects from third-party websites through technical means?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly explain how it collects user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "yandex",
+            "name": "Yandex",
+            "headers": [
+                "Yandex Mail ecosystem",
+                "Yandex Search",
+                "Yandex Disk"
+            ],
+            "average": [
+                "0",
+                "0",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what user information it collects from third-party websites through technical means?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly explain how it collects user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose its purpose for collecting user information from third parties through technical means?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose how long it retains the user information it collects from third parties through technical means?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose that it respects user-generated signals to opt-out of data collection?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

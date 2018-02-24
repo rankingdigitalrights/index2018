@@ -1,0 +1,90 @@
+[
+    {
+        "Company": "Microsoft",
+        "Description": "Description Text",
+        "Difference": "-2",
+        "FoE": "38",
+        "G": "88",
+        "P": "56",
+        "Service": "Skype",
+        "Total": "57",
+        "rank": "1"
+    },
+    {
+        "Company": "Facebook",
+        "Description": "Description Text",
+        "Difference": "0",
+        "FoE": "43",
+        "G": "81",
+        "P": "55",
+        "Service": "Messenger",
+        "Total": "56",
+        "rank": "2"
+    },
+    {
+        "Company": "Facebook",
+        "Description": "Description Text",
+        "Difference": "2",
+        "FoE": "52",
+        "G": "80",
+        "P": "50",
+        "Service": "WhatsApp",
+        "Total": "56",
+        "rank": "3"
+    },
+    {
+        "Company": "Kakao",
+        "Description": "Description Text",
+        "Difference": "-1",
+        "FoE": "53",
+        "G": "35",
+        "P": "52",
+        "Service": "Kakao Talk",
+        "Total": "49",
+        "rank": "4"
+    },
+    {
+        "Company": "Apple",
+        "Description": "Description Text",
+        "Difference": "8",
+        "FoE": "25",
+        "G": "33",
+        "P": "56",
+        "Service": "iMessage",
+        "Total": "43",
+        "rank": "5"
+    },
+    {
+        "Company": "Tencent",
+        "Description": "Description Text",
+        "Difference": "2",
+        "FoE": "16",
+        "G": "8",
+        "P": "34",
+        "Service": "WeChat",
+        "Total": "25",
+        "rank": "6"
+    },
+    {
+        "Company": "Tencent",
+        "Description": "Description Text",
+        "Difference": "1",
+        "FoE": "15",
+        "G": "6",
+        "P": "34",
+        "Service": "QQ",
+        "Total": "24",
+        "rank": "7"
+    },
+    {
+        "Company": "Mail.ru",
+        "Description": "Description Text",
+        "Difference": "0",
+        "FoE": "25",
+        "G": "7",
+        "P": "20",
+        "Service": "Mail.ru Agent messaging",
+        "Total": "19",
+        "rank": "8"
+    }
+]

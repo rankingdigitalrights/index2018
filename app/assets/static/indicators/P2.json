@@ -1,2297 +1,2050 @@
-{  
-   "id":"P2",
-   "name":"P2. CHANGES TO PRIVACY POLICIES",
-   "paragraph_1":"The company should clearly disclose that it provides notice and documentation to users when it changes its privacy policies.",
-   "companies":[  
-      {  
-         "name":"América Móvil",
-         "id":"americamovil",
-         "headers":[  
-            {  
-               "text":"Prepaid Mobile"
-            },
-            {  
-               "text":"Postpaid Mobile"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"0"
-            },
-            {  
-               "value":"0"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose that it notifies users about changes to its privacy policies?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose how it will directly notify users of changes?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company maintain a public archive or change log?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"(For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Apple",
-         "id":"apple",
-         "headers":[  
-            {  
-               "text":"iOS mobile ecosystem"
-            },
-            {  
-               "text":"iMessage"
-            },
-            {  
-               "text":"iCloud"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"10"
-            },
-            {  
-               "value":"10"
-            },
-            {  
-               "value":"10"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose that it notifies users about changes to its privacy policies?"
-                  },
-                  {  
-                     "value":"50"
-                  },
-                  {  
-                     "value":"50"
-                  },
-                  {  
-                     "value":"50"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose how it will directly notify users of changes?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Are the policies presented in an understandable manner?"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company maintain a public archive or change log?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"(For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"AT&T",
-         "id":"att",
-         "headers":[  
-            {  
-               "text":"Prepaid Mobile"
-            },
-            {  
-               "text":"Postpaid Mobile"
-            },
-            {  
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"50"
-            },
-            {  
-               "value":"50"
-            },
-            {  
-               "value":"50"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose that it notifies users about changes to its privacy policies?"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose how it will directly notify users of changes?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Are the policies presented in an understandable manner?"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company maintain a public archive or change log?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"(For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Axiata",
-         "id":"axiata",
-         "headers":[  
-            {  
-               "text":"Prepaid Mobile"
-            },
-            {  
-               "text":"Postpaid Mobile"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"0"
-            },
-            {  
-               "value":"0"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose that it notifies users about changes to its privacy policies?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose how it will directly notify users of changes?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Are the policies presented in an understandable manner?"
-                  },
-                  {  
-                     "value":"50"
-                  },
-                  {  
-                     "value":"50"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company maintain a public archive or change log?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"(For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Baidu",
-         "id":"baidu",
-         "headers":[  
-            {  
-               "text":"Baidu Search"
-            },
-            {  
-               "text":"Baidu Cloud"
-            },
-            {  
-               "text":"Baidu PostBar"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"25"
-            },
-            {  
-               "value":"25"
-            },
-            {  
-               "value":"25"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose that it notifies users about changes to its privacy policies?"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose how it will directly notify users of changes?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Are the policies presented in an understandable manner?"
-                  },
-                  {  
-                     "value":"50"
-                  },
-                  {  
-                     "value":"50"
-                  },
-                  {  
-                     "value":"50"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company maintain a public archive or change log?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"(For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Bharti Airtel",
-         "id":"bhartiairtel",
-         "headers":[  
-            {  
-               "text":"Prepaid Mobile"
-            },
-            {  
-               "text":"Postpaid Mobile"
-            },
-            {  
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"0"
-            },
-            {  
-               "value":"0"
-            },
-            {  
-               "value":"0"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose that it notifies users about changes to its privacy policies?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose how it will directly notify users of changes?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Are the policies presented in an understandable manner?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company maintain a public archive or change log?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"(For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Etisalat",
-         "id":"etisalat",
-         "headers":[  
-            {  
-               "text":"Prepaid Mobile"
-            },
-            {  
-               "text":"Postpaid Mobile"
-            },
-            {  
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"0"
-            },
-            {  
-               "value":"0"
-            },
-            {  
-               "value":"0"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose that it notifies users about changes to its privacy policies?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose how it will directly notify users of changes?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company maintain a public archive or change log?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"(For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Facebook",
-         "id":"facebook",
-         "headers":[  
-            {  
-               "text":"Instagram"
-            },
-            {  
-               "text":"WhatsApp"
-            },
-            {  
-               "text":"Messenger"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"25"
-            },
-            {  
-               "value":"38"
-            },
-            {  
-               "value":"50"
-            },
-            {  
-               "value":"25"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose that it notifies users about changes to its privacy policies?"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"50"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose how it will directly notify users of changes?"
-                  },
-                  {  
-                     "value":"50"
-                  },
-                  {  
-                     "value":"50"
-                  },
-                  {  
-                     "value":"50"
-                  },
-                  {  
-                     "value":"50"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Are the policies presented in an understandable manner?"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company maintain a public archive or change log?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"(For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Google",
-         "id":"google",
-         "headers":[  
-            {  
-               "text":"Search"
-            },
-            {  
-               "text":"Gmail"
-            },
-            {  
-               "text":"Youtube"
-            },
-            {  
-               "text":"Android mobile ecosystem"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"63"
-            },
-            {  
-               "value":"63"
-            },
-            {  
-               "value":"63"
-            },
-            {  
-               "value":"50"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose that it notifies users about changes to its privacy policies?"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose how it will directly notify users of changes?"
-                  },
-                  {  
-                     "value":"50"
-                  },
-                  {  
-                     "value":"50"
-                  },
-                  {  
-                     "value":"50"
-                  },
-                  {  
-                     "value":"50"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Are the policies presented in an understandable manner?"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company maintain a public archive or change log?"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"(For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Kakao",
-         "id":"kakao",
-         "headers":[  
-            {  
-               "text":"Daum Search"
-            },
-            {  
-               "text":"Daum Mail"
-            },
-            {  
-               "text":"Kakao Talk"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"100"
-            },
-            {  
-               "value":"75"
-            },
-            {  
-               "value":"75"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose that it notifies users about changes to its privacy policies?"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose how it will directly notify users of changes?"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Are the policies presented in an understandable manner?"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company maintain a public archive or change log?"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"(For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Mail.ru",
-         "id":"mailru",
-         "headers":[  
-            {  
-               "text":"Vkontakte"
-            },
-            {  
-               "text":"Mail.Ru"
-            },
-            {  
-               "text":"Mail.Ru Agent"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"0"
-            },
-            {  
-               "value":"0"
-            },
-            {  
-               "value":"0"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose that it notifies users about changes to its privacy policies?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose how it will directly notify users of changes?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Are the policies presented in an understandable manner?"
-                  },
-                  {  
-                     "value":"50"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company maintain a public archive or change log?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"(For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Microsoft",
-         "id":"microsoft",
-         "headers":[  
-            {  
-               "text":"Bing"
-            },
-            {  
-               "text":"Outlook.com"
-            },
-            {  
-               "text":"Skype"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"63"
-            },
-            {  
-               "value":"63"
-            },
-            {  
-               "value":"63"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose that it notifies users about changes to its privacy policies?"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose how it will directly notify users of changes?"
-                  },
-                  {  
-                     "value":"50"
-                  },
-                  {  
-                     "value":"50"
-                  },
-                  {  
-                     "value":"50"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Are the policies presented in an understandable manner?"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company maintain a public archive or change log?"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"(For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"MTN",
-         "id":"mtn",
-         "headers":[  
-            {  
-               "text":"Prepaid Mobile"
-            },
-            {  
-               "text":"Postpaid Mobile"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"0"
-            },
-            {  
-               "value":"0"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose that it notifies users about changes to its privacy policies?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose how it will directly notify users of changes?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Are the policies presented in an understandable manner?"
-                  },
-                  {  
-                     "value":"50"
-                  },
-                  {  
-                     "value":"50"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company maintain a public archive or change log?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"(For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Ooredoo",
-         "id":"ooredoo",
-         "headers":[  
-            {  
-               "text":"Prepaid Mobile"
-            },
-            {  
-               "text":"Postpaid Mobile"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"0"
-            },
-            {  
-               "value":"0"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose that it notifies users about changes to its privacy policies?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose how it will directly notify users of changes?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company maintain a public archive or change log?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"(For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Orange",
-         "id":"orange",
-         "headers":[  
-            {  
-               "text":"Prepaid Mobile"
-            },
-            {  
-               "text":"Postpaid Mobile"
-            },
-            {  
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"0"
-            },
-            {  
-               "value":"0"
-            },
-            {  
-               "value":"0"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose that it notifies users about changes to its privacy policies?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose how it will directly notify users of changes?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company maintain a public archive or change log?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"(For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Samsung",
-         "id":"samsung",
-         "headers":[  
-            {  
-               "text":"Samsung implementation of Android"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"40"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose that it notifies users about changes to its privacy policies?"
-                  },
-                  {  
-                     "value":"100"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose how it will directly notify users of changes?"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Are the policies presented in an understandable manner?"
-                  },
-                  {  
-                     "value":"100"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company maintain a public archive or change log?"
-                  },
-                  {  
-                     "value":"100"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"(For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Telefónica",
-         "id":"telefonica",
-         "headers":[  
-            {  
-               "text":"Prepaid Mobile"
-            },
-            {  
-               "text":"Postpaid Mobile"
-            },
-            {  
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"0"
-            },
-            {  
-               "value":"0"
-            },
-            {  
-               "value":"0"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose that it notifies users about changes to its privacy policies?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose how it will directly notify users of changes?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company maintain a public archive or change log?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"(For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Tencent",
-         "id":"tencent",
-         "headers":[  
-            {  
-               "text":"QZone"
-            },
-            {  
-               "text":"QQ"
-            },
-            {  
-               "text":"WeChat"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"38"
-            },
-            {  
-               "value":"38"
-            },
-            {  
-               "value":"38"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose that it notifies users about changes to its privacy policies?"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose how it will directly notify users of changes?"
-                  },
-                  {  
-                     "value":"50"
-                  },
-                  {  
-                     "value":"50"
-                  },
-                  {  
-                     "value":"50"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Are the policies presented in an understandable manner?"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company maintain a public archive or change log?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"(For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Twitter",
-         "id":"twitter",
-         "headers":[  
-            {  
-               "text":"Twitter"
-            },
-            {  
-               "text":"Vine"
-            },
-            {  
-               "text":"Periscope"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"75"
-            },
-            {  
-               "value":"50"
-            },
-            {  
-               "value":"25"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose that it notifies users about changes to its privacy policies?"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"50"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose how it will directly notify users of changes?"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"50"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Are the policies presented in an understandable manner?"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company maintain a public archive or change log?"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"(For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Vodafone",
-         "id":"vodafone",
-         "headers":[  
-            {  
-               "text":"Prepaid Mobile"
-            },
-            {  
-               "text":"Postpaid Mobile"
-            },
-            {  
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"0"
-            },
-            {  
-               "value":"0"
-            },
-            {  
-               "value":"0"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose that it notifies users about changes to its privacy policies?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose how it will directly notify users of changes?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Are the policies presented in an understandable manner?"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company maintain a public archive or change log?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"(For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Yahoo",
-         "id":"yahoo",
-         "headers":[  
-            {  
-               "text":"Yahoo Mail"
-            },
-            {  
-               "text":"Flickr"
-            },
-            {  
-               "text":"Tumblr"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"25"
-            },
-            {  
-               "value":"25"
-            },
-            {  
-               "value":"100"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose that it notifies users about changes to its privacy policies?"
-                  },
-                  {  
-                     "value":"50"
-                  },
-                  {  
-                     "value":"50"
-                  },
-                  {  
-                     "value":"100"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose how it will directly notify users of changes?"
-                  },
-                  {  
-                     "value":"50"
-                  },
-                  {  
-                     "value":"50"
-                  },
-                  {  
-                     "value":"100"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Are the policies presented in an understandable manner?"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company maintain a public archive or change log?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"(For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  }
-               ]
-            }
-         ]
-      },
-      {  
-         "name":"Yandex",
-         "id":"yandex",
-         "headers":[  
-            {  
-               "text":"Yandex Mail"
-            },
-            {  
-               "text":"Yandex Search"
-            },
-            {  
-               "text":"Yandex Disk (cloud storage)"
-            }
-         ],
-         "average":[  
-            {  
-               "value":"25"
-            },
-            {  
-               "value":"25"
-            },
-            {  
-               "value":"25"
-            }
-         ],
-         "rows":[  
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose that it notifies users about changes to its privacy policies?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company clearly disclose how it will directly notify users of changes?"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  },
-                  {  
-                     "value":"0"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Are the policies presented in an understandable manner?"
-                  },
-                  {  
-                     "value":"50"
-                  },
-                  {  
-                     "value":"50"
-                  },
-                  {  
-                     "value":"50"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"Does the company maintain a public archive or change log?"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  },
-                  {  
-                     "value":"100"
-                  }
-               ]
-            },
-            {  
-               "cells":[  
-                  {  
-                     "value":"(For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  },
-                  {  
-                     "value":"exclude"
-                  }
-               ]
-            }
-         ]
-      }
-   ]
+{
+    "id": "P2",
+    "name": "P2. Changes to privacy policies",
+    "companies": [
+        {
+            "id": "americamovil",
+            "name": "América Móvil",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile"
+            ],
+            "average": [
+                "0",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it notifies users about changes to its privacy policies?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. (For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "apple",
+            "name": "Apple",
+            "headers": [
+                "iOS mobile ecosystem",
+                "iMessage",
+                "iCloud"
+            ],
+            "average": [
+                "10",
+                "13",
+                "13"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it notifies users about changes to its privacy policies?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. (For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "att",
+            "name": "AT&T",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "50",
+                "50",
+                "50"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it notifies users about changes to its privacy policies?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. (For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "axiata",
+            "name": "Axiata",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile"
+            ],
+            "average": [
+                "0",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it notifies users about changes to its privacy policies?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. (For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "baidu",
+            "name": "Baidu",
+            "headers": [
+                "Baidu Search",
+                "Baidu Cloud",
+                "Baidu PostBar"
+            ],
+            "average": [
+                "38",
+                "38",
+                "38"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it notifies users about changes to its privacy policies?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. (For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "bhartiairtel",
+            "name": "Bharti Airtel",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "0",
+                "0",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it notifies users about changes to its privacy policies?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. (For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "etisalat",
+            "name": "Etisalat",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "0",
+                "0",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it notifies users about changes to its privacy policies?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. (For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "facebook",
+            "name": "Facebook",
+            "headers": [
+                "Facebook",
+                "Instagram",
+                "WhatsApp",
+                "Messenger ecosystem"
+            ],
+            "average": [
+                "25",
+                "38",
+                "50",
+                "25"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it notifies users about changes to its privacy policies?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. (For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "google",
+            "name": "Google",
+            "headers": [
+                "Search",
+                "Gmail",
+                "Youtube",
+                "Android mobile ecosystem"
+            ],
+            "average": [
+                "63",
+                "63",
+                "63",
+                "50"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it notifies users about changes to its privacy policies?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. (For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "kakao",
+            "name": "Kakao",
+            "headers": [
+                "Daum Search",
+                "Daum Mail",
+                "KakaoTalk"
+            ],
+            "average": [
+                "100",
+                "75",
+                "75"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it notifies users about changes to its privacy policies?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. (For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "mailru",
+            "name": "Mail.Ru",
+            "headers": [
+                "VKontakte",
+                "Mail.ru email",
+                "Mail.ru Agent"
+            ],
+            "average": [
+                "0",
+                "0",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it notifies users about changes to its privacy policies?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. (For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "microsoft",
+            "name": "Microsoft",
+            "headers": [
+                "Bing",
+                "Outlook.com",
+                "Skype"
+            ],
+            "average": [
+                "63",
+                "63",
+                "63"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it notifies users about changes to its privacy policies?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. (For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "mtn",
+            "name": "MTN",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile"
+            ],
+            "average": [
+                "0",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it notifies users about changes to its privacy policies?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. (For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ooredoo",
+            "name": "Ooredoo",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "0",
+                "0",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it notifies users about changes to its privacy policies?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. (For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "orange",
+            "name": "Orange",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "0",
+                "0",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it notifies users about changes to its privacy policies?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. (For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "samsung",
+            "name": "Samsung",
+            "headers": [
+                "Samsung "
+            ],
+            "average": [
+                "40"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it notifies users about changes to its privacy policies?"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. (For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "telefonica",
+            "name": "Telefónica",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "0",
+                "0",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it notifies users about changes to its privacy policies?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. (For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tencent",
+            "name": "TenCent",
+            "headers": [
+                "QZone",
+                "QQ",
+                "WeChat"
+            ],
+            "average": [
+                "25",
+                "25",
+                "50"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it notifies users about changes to its privacy policies?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. (For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "twitter",
+            "name": "Twitter",
+            "headers": [
+                "Twitter",
+                "Periscope"
+            ],
+            "average": [
+                "50",
+                "38"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it notifies users about changes to its privacy policies?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. (For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vodafone",
+            "name": "Vodafone",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "0",
+                "0",
+                "0"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it notifies users about changes to its privacy policies?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. (For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "yahoo",
+            "name": "Oath (Yahoo)",
+            "headers": [
+                "Yahoo Mail",
+                "Flickr",
+                "Tumblr"
+            ],
+            "average": [
+                "25",
+                "25",
+                "100"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it notifies users about changes to its privacy policies?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. (For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "yandex",
+            "name": "Yandex",
+            "headers": [
+                "Yandex Mail ecosystem",
+                "Yandex Search",
+                "Yandex Disk"
+            ],
+            "average": [
+                "25",
+                "25",
+                "25"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it notifies users about changes to its privacy policies?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. (For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        },
+                        {
+                            "value": "N/A"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

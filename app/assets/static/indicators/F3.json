@@ -1,2976 +1,2730 @@
 {
-   "id":"F3",
-   "name":"F3. PROCESS FOR TERMS OF SERVICE ENFORCEMENT",
-   "paragraph_1":"The company should clearly disclose the circumstances under which it may restrict content or user accounts",
-   "companies":[
-      {
-         "name":"América Móvil",
-         "id":"americamovil",
-         "headers":[
-            {
-               "text":"Prepaid Mobile"
-            },
-            {
-               "text":"Postpaid Mobile"
-            }
-         ],
-         "average":[
-            {
-               "value":"50"
-            },
-            {
-               "value":"50"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose what types of content or activities it does not permit?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose why it may restrict a user's account?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose its process for enforcing its rules?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Apple",
-         "id":"apple",
-         "headers":[
-            {
-               "text":"iOS mobile ecosystem"
-            },
-            {
-               "text":"iMessage"
-            },
-            {
-               "text":"iCloud"
-            }
-         ],
-         "average":[
-            {
-               "value":"43"
-            },
-            {
-               "value":"40"
-            },
-            {
-               "value":"60"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose what types of content or activities it does not permit?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose why it may restrict a user's account?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company's rules?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose its process for enforcing its rules?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"AT&T",
-         "id":"att",
-         "headers":[
-            {
-               "text":"Prepaid Mobile (GoPhone)"
-            },
-            {
-               "text":"Postpaid Mobile"
-            },
-            {
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[
-            {
-               "value":"60"
-            },
-            {
-               "value":"50"
-            },
-            {
-               "value":"43"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose what types of content or activities it does not permit?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose why it may restrict a user's account?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose its process for enforcing its rules?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Axiata",
-         "id":"axiata",
-         "headers":[
-            {
-               "text":"Prepaid Mobile"
-            },
-            {
-               "text":"Postpaid Mobile"
-            }
-         ],
-         "average":[
-            {
-               "value":"20"
-            },
-            {
-               "value":"20"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose what types of content or activities it does not permit?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose why it may restrict a user's account?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose its process for enforcing its rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Baidu",
-         "id":"baidu",
-         "headers":[
-            {
-               "text":"Baidu Search"
-            },
-            {
-               "text":"Baidu Cloud"
-            },
-            {
-               "text":"Baidu PostBar"
-            }
-         ],
-         "average":[
-            {
-               "value":"25"
-            },
-            {
-               "value":"60"
-            },
-            {
-               "value":"43"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose what types of content or activities it does not permit?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose why it may restrict a user's account?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose its process for enforcing its rules?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Bharti Airtel",
-         "id":"bhartiairtel",
-         "headers":[
-            {
-               "text":"Prepaid Mobile"
-            },
-            {
-               "text":"Postpaid Mobile"
-            },
-            {
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[
-            {
-               "value":"20"
-            },
-            {
-               "value":"20"
-            },
-            {
-               "value":"14"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose what types of content or activities it does not permit?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose why it may restrict a user's account?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose its process for enforcing its rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Etisalat",
-         "id":"etisalat",
-         "headers":[
-            {
-               "text":"Prepaid Mobile"
-            },
-            {
-               "text":"Postpaid Mobile"
-            },
-            {
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[
-            {
-               "value":"60"
-            },
-            {
-               "value":"60"
-            },
-            {
-               "value":"43"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose what types of content or activities it does not permit?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose why it may restrict a user's account?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose its process for enforcing its rules?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Facebook",
-         "id":"facebook",
-         "headers":[
-            {
-               "text":"Facebook"
-            },
-            {
-               "text":"Instagram"
-            },
-            {
-               "text":"WhatsApp"
-            },
-            {
-               "text":"Messenger"
-            }
-         ],
-         "average":[
-            {
-               "value":"64"
-            },
-            {
-               "value":"64"
-            },
-            {
-               "value":"60"
-            },
-            {
-               "value":"90"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose what types of content or activities it does not permit?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose why it may restrict a user's account?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company's rules?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose its process for enforcing its rules?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Google",
-         "id":"google",
-         "headers":[
-            {
-               "text":"Search"
-            },
-            {
-               "text":"Gmail"
-            },
-            {
-               "text":"Youtube"
-            },
-            {
-               "text":"Android mobile ecosystem"
-            }
-         ],
-         "average":[
-            {
-               "value":"58"
-            },
-            {
-               "value":"70"
-            },
-            {
-               "value":"86"
-            },
-            {
-               "value":"71"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose what types of content or activities it does not permit?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose why it may restrict a user's account?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company's rules?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose its process for enforcing its rules?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Kakao",
-         "id":"kakao",
-         "headers":[
-            {
-               "text":"Daum Search"
-            },
-            {
-               "text":"Daum Mail"
-            },
-            {
-               "text":"Kakao Talk"
-            }
-         ],
-         "average":[
-            {
-               "value":"58"
-            },
-            {
-               "value":"90"
-            },
-            {
-               "value":"90"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose what types of content or activities it does not permit?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose why it may restrict a user's account?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company's rules?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose its process for enforcing its rules?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Mail.ru",
-         "id":"mailru",
-         "headers":[
-            {
-               "text":"Vkontakte"
-            },
-            {
-               "text":"Mail.Ru"
-            },
-            {
-               "text":"Mail.Ru Agent"
-            }
-         ],
-         "average":[
-            {
-               "value":"43"
-            },
-            {
-               "value":"50"
-            },
-            {
-               "value":"50"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose what types of content or activities it does not permit?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose why it may restrict a user's account?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company's rules?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose its process for enforcing its rules?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Microsoft",
-         "id":"microsoft",
-         "headers":[
-            {
-               "text":"Bing"
-            },
-            {
-               "text":"Outlook.com"
-            },
-            {
-               "text":"Skype"
-            }
-         ],
-         "average":[
-            {
-               "value":"42"
-            },
-            {
-               "value":"70"
-            },
-            {
-               "value":"70"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose what types of content or activities it does not permit?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose why it may restrict a user's account?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company's rules?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose its process for enforcing its rules?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"MTN",
-         "id":"mtn",
-         "headers":[
-            {
-               "text":"Prepaid Mobile"
-            },
-            {
-               "text":"Postpaid Mobile"
-            }
-         ],
-         "average":[
-            {
-               "value":"20"
-            },
-            {
-               "value":"20"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose what types of content or activities it does not permit?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose why it may restrict a user's account?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose its process for enforcing its rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Ooredoo",
-         "id":"ooredoo",
-         "headers":[
-            {
-               "text":"Prepaid Mobile"
-            },
-            {
-               "text":"Postpaid Mobile"
-            }
-         ],
-         "average":[
-            {
-               "value":"40"
-            },
-            {
-               "value":"40"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose what types of content or activities it does not permit?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose why it may restrict a user's account?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose its process for enforcing its rules?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Orange",
-         "id":"orange",
-         "headers":[
-            {
-               "text":"Prepaid Mobile"
-            },
-            {
-               "text":"Postpaid Mobile"
-            },
-            {
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[
-            {
-               "value":"70"
-            },
-            {
-               "value":"70"
-            },
-            {
-               "value":"57"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose what types of content or activities it does not permit?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose why it may restrict a user's account?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose its process for enforcing its rules?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Samsung",
-         "id":"samsung",
-         "headers":[
-            {
-               "text":"Samsung implementation of Android"
-            }
-         ],
-         "average":[
-            {
-               "value":"36"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose what types of content or activities it does not permit?"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose why it may restrict a user's account?"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose its process for enforcing its rules?"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Telefonica",
-         "id":"telefonica",
-         "headers":[
-            {
-               "text":"Prepaid Mobile"
-            },
-            {
-               "text":"Postpaid Mobile"
-            },
-            {
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[
-            {
-               "value":"70"
-            },
-            {
-               "value":"70"
-            },
-            {
-               "value":"50"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose what types of content or activities it does not permit?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose why it may restrict a user's account?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company's rules?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose its process for enforcing its rules?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Tencent",
-         "id":"tencent",
-         "headers":[
-            {
-               "text":"QZone"
-            },
-            {
-               "text":"QQ"
-            },
-            {
-               "text":"WeChat"
-            }
-         ],
-         "average":[
-            {
-               "value":"50"
-            },
-            {
-               "value":"70"
-            },
-            {
-               "value":"43"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose what types of content or activities it does not permit?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose why it may restrict a user's account?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company's rules?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose its process for enforcing its rules?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Twitter",
-         "id":"twitter",
-         "headers":[
-            {
-               "text":"Vine"
-            },
-            {
-               "text":"Periscope"
-            }
-         ],
-         "average":[
-            {
-               "value":"64"
-            },
-            {
-               "value":"64"
-            },
-            {
-               "value":"64"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose what types of content or activities it does not permit?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose why it may restrict a user's account?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company's rules?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose its process for enforcing its rules?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Vodafone",
-         "id":"vodafone",
-         "headers":[
-            {
-               "text":"Prepaid Mobile"
-            },
-            {
-               "text":"Postpaid Mobile"
-            },
-            {
-               "text":"Fixed Line Broadband"
-            }
-         ],
-         "average":[
-            {
-               "value":"60"
-            },
-            {
-               "value":"60"
-            },
-            {
-               "value":"43"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose what types of content or activities it does not permit?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose why it may restrict a user's account?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company's rules?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose its process for enforcing its rules?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Yahoo",
-         "id":"yahoo",
-         "headers":[
-            {
-               "text":"Yahoo Mail"
-            },
-            {
-               "text":"Flickr"
-            },
-            {
-               "text":"Tumblr"
-            }
-         ],
-         "average":[
-            {
-               "value":"70"
-            },
-            {
-               "value":"57"
-            },
-            {
-               "value":"64"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose what types of content or activities it does not permit?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose why it may restrict a user's account?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company's rules?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose its process for enforcing its rules?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "name":"Yandex",
-         "id":"yandex",
-         "headers":[
-            {
-               "text":"Yandex Mail"
-            },
-            {
-               "text":"Yandex Search"
-            },
-            {
-               "text":"Yandex Disk (cloud storage)"
-            }
-         ],
-         "average":[
-            {
-               "value":"40"
-            },
-            {
-               "value":"25"
-            },
-            {
-               "value":"70"
-            }
-         ],
-         "rows":[
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose what types of content or activities it does not permit?"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose why it may restrict a user's account?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company's rules?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"50"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"exclude"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company's rules?"
-                  },
-                  {
-                     "value":"exclude"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"exclude"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company clearly disclose its process for enforcing its rules?"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"50"
-                  },
-                  {
-                     "value":"100"
-                  }
-               ]
-            },
-            {
-               "cells":[
-                  {
-                     "value":"Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  },
-                  {
-                     "value":"0"
-                  }
-               ]
-            }
-         ]
-      }
-   ]
+    "id": "F3",
+    "name": "F3. Process for terms of service enforcement",
+    "companies": [
+        {
+            "id": "americamovil",
+            "name": "América Móvil",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile"
+            ],
+            "average": [
+                "50",
+                "50"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what types of content or activities it does not permit?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose why it may restrict a user’s account?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Does the company clearly disclose its process for enforcing its rules?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "apple",
+            "name": "Apple",
+            "headers": [
+                "iOS mobile ecosystem",
+                "iMessage",
+                "iCloud"
+            ],
+            "average": [
+                "43",
+                "30",
+                "60"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what types of content or activities it does not permit?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose why it may restrict a user’s account?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company’s rules?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Does the company clearly disclose its process for enforcing its rules?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "att",
+            "name": "AT&T",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "60",
+                "50",
+                "50"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what types of content or activities it does not permit?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose why it may restrict a user’s account?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Does the company clearly disclose its process for enforcing its rules?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "axiata",
+            "name": "Axiata",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile"
+            ],
+            "average": [
+                "20",
+                "20"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what types of content or activities it does not permit?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose why it may restrict a user’s account?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Does the company clearly disclose its process for enforcing its rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "baidu",
+            "name": "Baidu",
+            "headers": [
+                "Baidu Search",
+                "Baidu Cloud",
+                "Baidu PostBar"
+            ],
+            "average": [
+                "25",
+                "60",
+                "36"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what types of content or activities it does not permit?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose why it may restrict a user’s account?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Does the company clearly disclose its process for enforcing its rules?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "bhartiairtel",
+            "name": "Bharti Airtel",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "20",
+                "20",
+                "14"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what types of content or activities it does not permit?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose why it may restrict a user’s account?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Does the company clearly disclose its process for enforcing its rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "etisalat",
+            "name": "Etisalat",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "60",
+                "60",
+                "43"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what types of content or activities it does not permit?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose why it may restrict a user’s account?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Does the company clearly disclose its process for enforcing its rules?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "facebook",
+            "name": "Facebook",
+            "headers": [
+                "Facebook",
+                "Instagram",
+                "WhatsApp",
+                "Messenger ecosystem"
+            ],
+            "average": [
+                "64",
+                "64",
+                "70",
+                "90"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what types of content or activities it does not permit?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose why it may restrict a user’s account?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company’s rules?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Does the company clearly disclose its process for enforcing its rules?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "google",
+            "name": "Google",
+            "headers": [
+                "Search",
+                "Gmail",
+                "Youtube",
+                "Android mobile ecosystem"
+            ],
+            "average": [
+                "58",
+                "70",
+                "86",
+                "57"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what types of content or activities it does not permit?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose why it may restrict a user’s account?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company’s rules?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Does the company clearly disclose its process for enforcing its rules?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "kakao",
+            "name": "Kakao",
+            "headers": [
+                "Daum Search",
+                "Daum Mail",
+                "KakaoTalk"
+            ],
+            "average": [
+                "50",
+                "80",
+                "80"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what types of content or activities it does not permit?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose why it may restrict a user’s account?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company’s rules?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Does the company clearly disclose its process for enforcing its rules?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "mailru",
+            "name": "Mail.Ru",
+            "headers": [
+                "VKontakte",
+                "Mail.ru email",
+                "Mail.ru Agent"
+            ],
+            "average": [
+                "50",
+                "60",
+                "60"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what types of content or activities it does not permit?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose why it may restrict a user’s account?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company’s rules?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Does the company clearly disclose its process for enforcing its rules?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "microsoft",
+            "name": "Microsoft",
+            "headers": [
+                "Bing",
+                "Outlook.com",
+                "Skype"
+            ],
+            "average": [
+                "50",
+                "80",
+                "80"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what types of content or activities it does not permit?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose why it may restrict a user’s account?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company’s rules?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Does the company clearly disclose its process for enforcing its rules?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "mtn",
+            "name": "MTN",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile"
+            ],
+            "average": [
+                "0",
+                "20"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what types of content or activities it does not permit?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose why it may restrict a user’s account?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Does the company clearly disclose its process for enforcing its rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "orange",
+            "name": "Orange",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "70",
+                "70",
+                "57"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what types of content or activities it does not permit?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose why it may restrict a user’s account?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Does the company clearly disclose its process for enforcing its rules?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ooredoo",
+            "name": "Ooredoo",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "40",
+                "40",
+                "29"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what types of content or activities it does not permit?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose why it may restrict a user’s account?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Does the company clearly disclose its process for enforcing its rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "samsung",
+            "name": "Samsung",
+            "headers": [
+                "Samsung"
+            ],
+            "average": [
+                "36"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what types of content or activities it does not permit?"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose why it may restrict a user’s account?"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Does the company clearly disclose its process for enforcing its rules?"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "telefonica",
+            "name": "Telefónica",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "70",
+                "70",
+                "50"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what types of content or activities it does not permit?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose why it may restrict a user’s account?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company’s rules?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Does the company clearly disclose its process for enforcing its rules?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tencent",
+            "name": "TenCent",
+            "headers": [
+                "QZone",
+                "QQ",
+                "WeChat"
+            ],
+            "average": [
+                "43",
+                "60",
+                "57"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what types of content or activities it does not permit?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose why it may restrict a user’s account?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company’s rules?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Does the company clearly disclose its process for enforcing its rules?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "twitter",
+            "name": "Twitter",
+            "headers": [
+                "Twitter",
+                "Periscope"
+            ],
+            "average": [
+                "64",
+                "64"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what types of content or activities it does not permit?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose why it may restrict a user’s account?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company’s rules?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Does the company clearly disclose its process for enforcing its rules?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vodafone",
+            "name": "Vodafone",
+            "headers": [
+                "Prepaid Mobile",
+                "Postpaid Mobile",
+                "Fixed Line Broadband"
+            ],
+            "average": [
+                "60",
+                "60",
+                "43"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what types of content or activities it does not permit?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose why it may restrict a user’s account?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company’s rules?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Does the company clearly disclose its process for enforcing its rules?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "yahoo",
+            "name": "Oath (Yahoo)",
+            "headers": [
+                "Yahoo Mail",
+                "Flickr",
+                "Tumblr"
+            ],
+            "average": [
+                "70",
+                "57",
+                "57"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what types of content or activities it does not permit?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose why it may restrict a user’s account?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company’s rules?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Does the company clearly disclose its process for enforcing its rules?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "yandex",
+            "name": "Yandex",
+            "headers": [
+                "Yandex Mail ecosystem",
+                "Yandex Search",
+                "Yandex Disk"
+            ],
+            "average": [
+                "40",
+                "25",
+                "60"
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose what types of content or activities it does not permit?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose why it may restrict a user’s account?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose information about the processes it uses to identify content or accounts that violate the company’s rules?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose whether any government authorities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company clearly disclose whether any private entities receive priority consideration when flagging content to be restricted for violating the company’s rules?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Does the company clearly disclose its process for enforcing its rules?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company provide clear examples to help the user understand what the rules are and how they are enforced?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

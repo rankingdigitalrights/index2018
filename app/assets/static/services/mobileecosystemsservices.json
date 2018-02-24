@@ -1,0 +1,35 @@
+[
+    {
+        "Company": "Google",
+        "Description": "Description Text",
+        "Difference": "1",
+        "FoE": "47",
+        "G": "71",
+        "P": "58",
+        "Service": "Android mobile ecosystem",
+        "Total": "57",
+        "rank": "1"
+    },
+    {
+        "Company": "Apple",
+        "Description": "Description Text",
+        "Difference": "9",
+        "FoE": "27",
+        "G": "34",
+        "P": "53",
+        "Service": "iOS mobile ecosystem",
+        "Total": "42",
+        "rank": "2"
+    },
+    {
+        "Company": "Samsung",
+        "Description": "Description Text",
+        "Difference": "2",
+        "FoE": "22",
+        "G": "32",
+        "P": "29",
+        "Service": "Samsung implementation of Android",
+        "Total": "28",
+        "rank": "3"
+    }
+]
