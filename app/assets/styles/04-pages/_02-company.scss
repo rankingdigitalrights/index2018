@@ -41,6 +41,20 @@
     @include media(xlarge-up) {
       font-size: 35px;
     }
+    span {
+      @include media(small-up) {
+        font-size: 19px;
+      }
+      @include media(medium-up) {
+        font-size: 20px;
+      }
+      @include media(large-up) {
+        font-size: 25px;
+      }
+      @include media(xlarge-up) {
+        font-size: 35px;
+      }
+    }
   }
 
 
