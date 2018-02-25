@@ -211,25 +211,28 @@
                 </div>
 
               </div>
+
+              {% if page.summary_of_changes_governance %}
               <div class="summary-of-changes">
                 <label> Summary of changes</label>
-                <div class="positive-change">
-                  <div class="arrow"><i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
+                {% for item in page.summary_of_changes_governance %}
+                <div class="{{ item.change }}-change">
+                  {% if item.change == "positive" %}
+                    <div class="arrow"><i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
+                  {% endif %}
+                  {% if item.change == "negative" %}
+                    <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
+                  {% endif %}
                   <div class="text-change">
-                    <p class="title-change">F4. data about terms of service enforcement</p>
-                    <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
-                      of any company evaluated(after Twitter). The company improved its public commitment.</p>
+                    <p class="title-change">{{ item.title }}</p>
+                    <p>Summary of changes: {{ item.body }}</p>
                   </div>
                 </div>
-                <div class="negative-change">
-                  <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
-                  <div class="text-change">
-                    <p class="title-change">F4. data about terms of service enforcement</p>
-                    <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
-                      of any company evaluated(after Twitter). The company improved its public commitment.</p>
-                  </div>
-                </div>
+                {% endfor %}
+
               </div>
+              {% endif %}
+
             </div>
           </div>
         </section>
@@ -273,33 +276,27 @@
                 <label> Summary of changes</label>
                 <div id="indicators--freedom"  class="company-line-chart"></div>
               </div>
+              
+              {% if page.summary_of_changes_freedom %}
               <div class="summary-of-changes">
                 <label> Summary of changes</label>
-                <div class="positive-change">
-                  <div class="arrow"><i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
+                {% for item in page.summary_of_changes_freedom %}
+                <div class="{{ item.change }}-change">
+                  {% if item.change == "positive" %}
+                    <div class="arrow"><i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
+                  {% endif %}
+                  {% if item.change == "negative" %}
+                    <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
+                  {% endif %}
                   <div class="text-change">
-                    <p class="title-change">F4. data about terms of service enforcement</p>
-                    <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
-                      of any company evaluated(after Twitter). The company improved its public commitment.</p>
+                    <p class="title-change">{{ item.title }}</p>
+                    <p>Summary of changes: {{ item.body }}</p>
                   </div>
                 </div>
-                <div class="negative-change">
-                  <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
-                  <div class="text-change">
-                    <p class="title-change">F4. data about terms of service enforcement</p>
-                    <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
-                      of any company evaluated(after Twitter). The company improved its public commitment.</p>
-                  </div>
-                </div>
-                <div class="negative-change">
-                  <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
-                  <div class="text-change">
-                    <p class="title-change">F4. data about terms of service enforcement</p>
-                    <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
-                      of any company evaluated(after Twitter). The company improved its public commitment.</p>
-                  </div>
-                </div>
+                {% endfor %}
               </div>
+              {% endif %}
+
             </div>
           </div>
         </section>
@@ -345,35 +342,27 @@
                 <label> Summary of changes</label>
                 <div id="indicators--privacy"  class="company-line-chart"></div>
               </div>
+              
+              {% if page.summary_of_changes_privacy %}
               <div class="summary-of-changes">
                 <label> Summary of changes</label>
-                <div class="positive-change">
-                  <div class="arrow"><i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
+                {% for item in page.summary_of_changes_privacy %}
+                <div class="{{ item.change }}-change">
+                  {% if item.change == "positive" %}
+                    <div class="arrow"><i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
+                  {% endif %}
+                  {% if item.change == "negative" %}
+                    <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
+                  {% endif %}
                   <div class="text-change">
-                    <p class="title-change">F4. data about terms of service enforcement</p>
-                    <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
-                      of any company evaluated(after Twitter). The company improved its public commitment.</p>
+                    <p class="title-change">{{ item.title }}</p>
+                    <p>Summary of changes: {{ item.body }}</p>
                   </div>
                 </div>
-                <div class="negative-change">
-                  <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
-                  <div class="text-change">
-                    <p class="title-change">F4. data about terms of service enforcement</p>
-                    <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
-                      of any company evaluated(after Twitter). The company improved its public commitment.</p>
-                  </div>
-                </div>
-                <div class="negative-change">
-                  <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
-                  <div class="text-change">
-                    <p class="title-change">F4. data about terms of service enforcement</p>
-                    <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
-                      of any company evaluated(after Twitter). The company improved its public commitment.</p>
-                  </div>
-                </div>
+                {% endfor %}
               </div>
+              {% endif %}
             </div>
-
           </div>
         </section>
 

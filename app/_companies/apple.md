@@ -31,6 +31,36 @@ services_evaluated:
     key_href: mobileeco
     name: ios
 
+summary_of_changes_governance:
+  - item:
+    change: positive
+    title: F1. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+  - item:
+    change: negative
+    title: F4. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+
+summary_of_changes_freedom:
+  - item:
+    change: positive
+    title: F1. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+  - item:
+    change: negative
+    title: F4. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+
+summary_of_changes_privacy:
+  - item:
+    change: positive
+    title: F1. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+  - item:
+    change: positive
+    title: F4. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+
 total: 22
 analysis_text_left: "Apple placed seventh out of the 12 internet and mobile companies and ninth in the overall Index, scoring lower than any other U.S.-based company evaluated. This was the first year Apple was evaluated. Despite Apple’s high-profile stance in <a href=\"http://fortune.com/2016/06/13/apple-wwdc-event-privacy/\" target=\"_blank\">defense of users’ privacy</a>, the company disclosed few commitments or policies that would indicate respect for users’ freedom of expression. For instance, the company provided little information about how it handles government or private requests to restrict content, and provided no data about government requests to remove apps from its app store. Apple also lacked disclosure of governance and accountability mechanisms around the implementation of its commitments and policies related to privacy or freedom of expression. Although considered an industry leader in user privacy and security, Apple’s commitments in this regard were not always clearly reflected in the company’s privacy-related policies across all of its services evaluated, particularly for Apple’s iOS mobile ecosystem."
 
