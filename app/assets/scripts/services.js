@@ -27,7 +27,7 @@ module.exports = function generateService (serviceType) {
         foe: model.get('FoE'),
         p: model.get('P'),
         t: model.get('Total'),
-        text: model.get('text'),
+        text: model.get('Description'),
         className: serviceType
       };
     }).sort(barsort);

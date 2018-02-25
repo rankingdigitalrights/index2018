@@ -1,5 +1,5 @@
 ---
-entity: fixedbroadband
+entity: fixedlinebroadbandservices
 entity_type: services
 visualization: service
 layout: service
