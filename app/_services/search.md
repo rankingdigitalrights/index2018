@@ -1,5 +1,5 @@
 ---
-entity: searchservice
+entity: searchenginesservices
 entity_type: services
 visualization: service
 layout: service

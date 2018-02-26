@@ -21,7 +21,7 @@ module.exports = function generateService (serviceType) {
     // var data = overview.filter(model => model.get('telco') === true).map(function (model) { // filter Overview collection
       return {
         company: model.get('Company'),
-        service: model.get('Service '),
+        service: model.get('Service'),
         rank: model.get('rank'),
         g: model.get('G'),
         foe: model.get('FoE'),

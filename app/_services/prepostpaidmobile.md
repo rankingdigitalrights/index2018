@@ -1,5 +1,5 @@
 ---
-entity: prepostpaidmobile
+entity: preandpostpaidmobileservices
 entity_type: services
 visualization: service
 layout: service

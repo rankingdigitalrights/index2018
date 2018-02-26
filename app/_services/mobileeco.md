@@ -1,5 +1,5 @@
 ---
-entity: mobileeco
+entity: mobileecosystemsservices
 entity_type: services
 visualization: service
 layout: service

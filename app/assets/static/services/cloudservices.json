@@ -6,7 +6,7 @@
         "FoE": "37",
         "G": "33",
         "P": "54",
-        "Service ": "iCloud",
+        "Service": "iCloud",
         "Total": "45",
         "rank": "1"
     },
@@ -17,7 +17,7 @@
         "FoE": "24",
         "G": "6",
         "P": "35",
-        "Service ": "Yandex Disk (cloud storage)",
+        "Service": "Yandex Disk (cloud storage)",
         "Total": "27",
         "rank": "2"
     },
@@ -28,7 +28,7 @@
         "FoE": "16",
         "G": "4",
         "P": "22",
-        "Service ": "Baidu Cloud",
+        "Service": "Baidu Cloud",
         "Total": "17",
         "rank": "3"
     }
