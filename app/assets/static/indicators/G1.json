@@ -6,16 +6,32 @@
             "id": "americamovil",
             "name": "América Móvil",
             "headers": [
-                "Group - América Móvil - Freedom of Expression",
-                "Group - América Móvil - Privacy",
-                "OperatingCo - América Móvil Mexico - Freedom of Expression",
-                "OperatingCo - América Móvil Mexico - Privacy"
+                {
+                    "text": "Group - América Móvil - Freedom of Expression"
+                },
+                {
+                    "text": "Group - América Móvil - Privacy"
+                },
+                {
+                    "text": "OperatingCo - América Móvil Mexico - Freedom of Expression"
+                },
+                {
+                    "text": "OperatingCo - América Móvil Mexico - Privacy"
+                }
             ],
             "average": [
-                "50",
-                "50",
-                "50",
-                "50"
+                {
+                    "value": "50"
+                },
+                {
+                    "value": "50"
+                },
+                {
+                    "value": "50"
+                },
+                {
+                    "value": "50"
+                }
             ],
             "rows": [
                 {
@@ -43,12 +59,20 @@
             "id": "apple",
             "name": "Apple",
             "headers": [
-                "Group - Apple - Freedom of Expression ",
-                "Group - Apple - Privacy"
+                {
+                    "text": "Group - Apple - Freedom of Expression "
+                },
+                {
+                    "text": "Group - Apple - Privacy"
+                }
             ],
             "average": [
-                "50",
-                "50"
+                {
+                    "value": "50"
+                },
+                {
+                    "value": "50"
+                }
             ],
             "rows": [
                 {
@@ -70,12 +94,20 @@
             "id": "att",
             "name": "AT&T",
             "headers": [
-                "Group - AT&T - Freedom of Expression",
-                "Group - AT&T - Privacy"
+                {
+                    "text": "Group - AT&T - Freedom of Expression"
+                },
+                {
+                    "text": "Group - AT&T - Privacy"
+                }
             ],
             "average": [
-                "50",
-                "50"
+                {
+                    "value": "50"
+                },
+                {
+                    "value": "50"
+                }
             ],
             "rows": [
                 {
@@ -97,16 +129,32 @@
             "id": "axiata",
             "name": "Axiata",
             "headers": [
-                "Group - Axiata - Freedom of Expression",
-                "Group - Axiata - Privacy",
-                "OperatingCo - Celcom - Freedom of Expression",
-                "OperatingCo - Celcom - Privacy"
+                {
+                    "text": "Group - Axiata - Freedom of Expression"
+                },
+                {
+                    "text": "Group - Axiata - Privacy"
+                },
+                {
+                    "text": "OperatingCo - Celcom - Freedom of Expression"
+                },
+                {
+                    "text": "OperatingCo - Celcom - Privacy"
+                }
             ],
             "average": [
-                "0",
-                "0",
-                "0",
-                "0"
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                }
             ],
             "rows": [
                 {
@@ -134,12 +182,20 @@
             "id": "baidu",
             "name": "Baidu",
             "headers": [
-                "Group - Baidu - Freedom of Expression ",
-                "Group - Baidu - Privacy"
+                {
+                    "text": "Group - Baidu - Freedom of Expression "
+                },
+                {
+                    "text": "Group - Baidu - Privacy"
+                }
             ],
             "average": [
-                "50",
-                "50"
+                {
+                    "value": "50"
+                },
+                {
+                    "value": "50"
+                }
             ],
             "rows": [
                 {
@@ -161,16 +217,32 @@
             "id": "bhartiairtel",
             "name": "Bharti Airtel",
             "headers": [
-                "Group - Bharti Airtel - Freedom of Expression",
-                "Group - Bharti Airtel - Privacy",
-                "OperatingCo - Airtel India - Freedom of Expression",
-                "OperatingCo - Airtel India - Privacy"
+                {
+                    "text": "Group - Bharti Airtel - Freedom of Expression"
+                },
+                {
+                    "text": "Group - Bharti Airtel - Privacy"
+                },
+                {
+                    "text": "OperatingCo - Airtel India - Freedom of Expression"
+                },
+                {
+                    "text": "OperatingCo - Airtel India - Privacy"
+                }
             ],
             "average": [
-                "0",
-                "0",
-                "0",
-                "0"
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                }
             ],
             "rows": [
                 {
@@ -198,16 +270,32 @@
             "id": "etisalat",
             "name": "Etisalat",
             "headers": [
-                "Group - Etisalat - Freedom of Expression",
-                "Group - Etisalat - Privacy",
-                "OperatingCo - Etisalat UAE - Freedom of Expression",
-                "OperatingCo - Etisalat UAE - Privacy"
+                {
+                    "text": "Group - Etisalat - Freedom of Expression"
+                },
+                {
+                    "text": "Group - Etisalat - Privacy"
+                },
+                {
+                    "text": "OperatingCo - Etisalat UAE - Freedom of Expression"
+                },
+                {
+                    "text": "OperatingCo - Etisalat UAE - Privacy"
+                }
             ],
             "average": [
-                "0",
-                "0",
-                "0",
-                "0"
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                }
             ],
             "rows": [
                 {
@@ -235,12 +323,20 @@
             "id": "facebook",
             "name": "Facebook",
             "headers": [
-                "Group - Facebook - Freedom of Expression ",
-                "Group - Facebook - Privacy"
+                {
+                    "text": "Group - Facebook - Freedom of Expression "
+                },
+                {
+                    "text": "Group - Facebook - Privacy"
+                }
             ],
             "average": [
-                "50",
-                "50"
+                {
+                    "value": "50"
+                },
+                {
+                    "value": "50"
+                }
             ],
             "rows": [
                 {
@@ -262,12 +358,20 @@
             "id": "google",
             "name": "Google",
             "headers": [
-                "Group - Google - Freedom of Expression ",
-                "Group - Google - Privacy"
+                {
+                    "text": "Group - Google - Freedom of Expression "
+                },
+                {
+                    "text": "Group - Google - Privacy"
+                }
             ],
             "average": [
-                "50",
-                "50"
+                {
+                    "value": "50"
+                },
+                {
+                    "value": "50"
+                }
             ],
             "rows": [
                 {
@@ -289,12 +393,20 @@
             "id": "kakao",
             "name": "Kakao",
             "headers": [
-                "Group - Kakao - Freedom of Expression ",
-                "Group - Kakao - Privacy"
+                {
+                    "text": "Group - Kakao - Freedom of Expression "
+                },
+                {
+                    "text": "Group - Kakao - Privacy"
+                }
             ],
             "average": [
-                "50",
-                "50"
+                {
+                    "value": "50"
+                },
+                {
+                    "value": "50"
+                }
             ],
             "rows": [
                 {
@@ -316,12 +428,20 @@
             "id": "mailru",
             "name": "Mail.Ru",
             "headers": [
-                "Group - Mail.ru - Freedom of Expression ",
-                "Group - Mail.ru - Privacy"
+                {
+                    "text": "Group - Mail.ru - Freedom of Expression "
+                },
+                {
+                    "text": "Group - Mail.ru - Privacy"
+                }
             ],
             "average": [
-                "50",
-                "50"
+                {
+                    "value": "50"
+                },
+                {
+                    "value": "50"
+                }
             ],
             "rows": [
                 {
@@ -343,12 +463,20 @@
             "id": "microsoft",
             "name": "Microsoft",
             "headers": [
-                "Group - Microsoft - Freedom of Expression ",
-                "Group - Microsoft - Privacy"
+                {
+                    "text": "Group - Microsoft - Freedom of Expression "
+                },
+                {
+                    "text": "Group - Microsoft - Privacy"
+                }
             ],
             "average": [
-                "50",
-                "50"
+                {
+                    "value": "50"
+                },
+                {
+                    "value": "50"
+                }
             ],
             "rows": [
                 {
@@ -370,16 +498,32 @@
             "id": "mtn",
             "name": "MTN",
             "headers": [
-                "Group - MTN - Freedom of Expression",
-                "Group - MTN - Privacy",
-                "OperatingCo - MTN South Africa - Freedom of Expression",
-                "OperatingCo - MTN South Africa - Privacy"
+                {
+                    "text": "Group - MTN - Freedom of Expression"
+                },
+                {
+                    "text": "Group - MTN - Privacy"
+                },
+                {
+                    "text": "OperatingCo - MTN South Africa - Freedom of Expression"
+                },
+                {
+                    "text": "OperatingCo - MTN South Africa - Privacy"
+                }
             ],
             "average": [
-                "100",
-                "100",
-                "100",
-                "100"
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                }
             ],
             "rows": [
                 {
@@ -407,16 +551,32 @@
             "id": "ooredoo",
             "name": "Ooredoo",
             "headers": [
-                "Group - Ooredoo - Freedom of Expression",
-                "Group - Ooredoo - Privacy",
-                "OperatingCo - Ooredoo Qatar - Freedom of Expression",
-                "OperatingCo - Ooredoo Qatar - Privacy"
+                {
+                    "text": "Group - Ooredoo - Freedom of Expression"
+                },
+                {
+                    "text": "Group - Ooredoo - Privacy"
+                },
+                {
+                    "text": "OperatingCo - Ooredoo Qatar - Freedom of Expression"
+                },
+                {
+                    "text": "OperatingCo - Ooredoo Qatar - Privacy"
+                }
             ],
             "average": [
-                "0",
-                "0",
-                "0",
-                "0"
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                }
             ],
             "rows": [
                 {
@@ -444,16 +604,32 @@
             "id": "orange",
             "name": "Orange",
             "headers": [
-                "Group - Orange - Freedom of Expression",
-                "Group - Orange - Privacy",
-                "OperatingCo - Orange France - Freedom of Expression",
-                "OperatingCo - Orange France - Privacy"
+                {
+                    "text": "Group - Orange - Freedom of Expression"
+                },
+                {
+                    "text": "Group - Orange - Privacy"
+                },
+                {
+                    "text": "OperatingCo - Orange France - Freedom of Expression"
+                },
+                {
+                    "text": "OperatingCo - Orange France - Privacy"
+                }
             ],
             "average": [
-                "100",
-                "100",
-                "100",
-                "100"
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                }
             ],
             "rows": [
                 {
@@ -481,12 +657,20 @@
             "id": "samsung",
             "name": "Samsung",
             "headers": [
-                "Group - Samsung - Freedom of Expression ",
-                "Group - Samsung - Privacy"
+                {
+                    "text": "Group - Samsung - Freedom of Expression "
+                },
+                {
+                    "text": "Group - Samsung - Privacy"
+                }
             ],
             "average": [
-                "100",
-                "100"
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                }
             ],
             "rows": [
                 {
@@ -508,16 +692,32 @@
             "id": "telefonica",
             "name": "Telefónica",
             "headers": [
-                "Group - Telefónica - Freedom of Expression",
-                "Group - Telefónica - Privacy",
-                "OperatingCo - Telefónica de España - Freedom of Expression",
-                "OperatingCo - Telefónica de España - Privacy"
+                {
+                    "text": "Group - Telefónica - Freedom of Expression"
+                },
+                {
+                    "text": "Group - Telefónica - Privacy"
+                },
+                {
+                    "text": "OperatingCo - Telefónica de España - Freedom of Expression"
+                },
+                {
+                    "text": "OperatingCo - Telefónica de España - Privacy"
+                }
             ],
             "average": [
-                "100",
-                "100",
-                "100",
-                "100"
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                }
             ],
             "rows": [
                 {
@@ -545,12 +745,20 @@
             "id": "tencent",
             "name": "TenCent",
             "headers": [
-                "Group - Tencent - Freedom of Expression ",
-                "Group - Tencent - Privacy"
+                {
+                    "text": "Group - Tencent - Freedom of Expression "
+                },
+                {
+                    "text": "Group - Tencent - Privacy"
+                }
             ],
             "average": [
-                "50",
-                "50"
+                {
+                    "value": "50"
+                },
+                {
+                    "value": "50"
+                }
             ],
             "rows": [
                 {
@@ -572,12 +780,20 @@
             "id": "twitter",
             "name": "Twitter",
             "headers": [
-                "Group - Twitter - Freedom of Expression ",
-                "Group - Twitter - Privacy"
+                {
+                    "text": "Group - Twitter - Freedom of Expression "
+                },
+                {
+                    "text": "Group - Twitter - Privacy"
+                }
             ],
             "average": [
-                "50",
-                "50"
+                {
+                    "value": "50"
+                },
+                {
+                    "value": "50"
+                }
             ],
             "rows": [
                 {
@@ -599,16 +815,32 @@
             "id": "vodafone",
             "name": "Vodafone",
             "headers": [
-                "Group - Vodafone - Freedom of Expression",
-                "Group - Vodafone - Privacy",
-                "OperatingCo - Vodafone UK - Freedom of Expression",
-                "OperatingCo - Vodafone UK - Privacy"
+                {
+                    "text": "Group - Vodafone - Freedom of Expression"
+                },
+                {
+                    "text": "Group - Vodafone - Privacy"
+                },
+                {
+                    "text": "OperatingCo - Vodafone UK - Freedom of Expression"
+                },
+                {
+                    "text": "OperatingCo - Vodafone UK - Privacy"
+                }
             ],
             "average": [
-                "100",
-                "100",
-                "100",
-                "100"
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                }
             ],
             "rows": [
                 {
@@ -636,12 +868,20 @@
             "id": "yahoo",
             "name": "Oath (Yahoo)",
             "headers": [
-                "Group - Oath (Yahoo) - Freedom of Expression ",
-                "Group - Oath (Yahoo) - Privacy"
+                {
+                    "text": "Group - Oath (Yahoo) - Freedom of Expression "
+                },
+                {
+                    "text": "Group - Oath (Yahoo) - Privacy"
+                }
             ],
             "average": [
-                "50",
-                "50"
+                {
+                    "value": "50"
+                },
+                {
+                    "value": "50"
+                }
             ],
             "rows": [
                 {
@@ -663,12 +903,20 @@
             "id": "yandex",
             "name": "Yandex",
             "headers": [
-                "Group - Yandex - Freedom of Expression ",
-                "Group - Yandex - Privacy"
+                {
+                    "text": "Group - Yandex - Freedom of Expression "
+                },
+                {
+                    "text": "Group - Yandex - Privacy"
+                }
             ],
             "average": [
-                "50",
-                "50"
+                {
+                    "value": "50"
+                },
+                {
+                    "value": "50"
+                }
             ],
             "rows": [
                 {

@@ -6,24 +6,56 @@
             "id": "americamovil",
             "name": "América Móvil",
             "headers": [
-                "Group - América Móvil - Freedom of Expression",
-                "Group - América Móvil - Privacy",
-                "OperatingCo - América Móvil Mexico - Freedom of Expression",
-                "OperatingCo - América Móvil Mexico - Privacy",
-                "Prepaid Mobile - Freedom of Expression",
-                "Prepaid Mobile - Privacy",
-                "Postpaid Mobile - Freedom of Expression",
-                "Postpaid Mobile - Privacy"
+                {
+                    "text": "Group - América Móvil - Freedom of Expression"
+                },
+                {
+                    "text": "Group - América Móvil - Privacy"
+                },
+                {
+                    "text": "OperatingCo - América Móvil Mexico - Freedom of Expression"
+                },
+                {
+                    "text": "OperatingCo - América Móvil Mexico - Privacy"
+                },
+                {
+                    "text": "Prepaid Mobile - Freedom of Expression"
+                },
+                {
+                    "text": "Prepaid Mobile - Privacy"
+                },
+                {
+                    "text": "Postpaid Mobile - Freedom of Expression"
+                },
+                {
+                    "text": "Postpaid Mobile - Privacy"
+                }
             ],
             "average": [
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0"
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                }
             ],
             "rows": [
                 {
@@ -125,24 +157,56 @@
             "id": "apple",
             "name": "Apple",
             "headers": [
-                "Group - Apple - Freedom of Expression ",
-                "Group - Apple - Privacy",
-                "iOS mobile ecosystem - Freedom of Expression",
-                "iOS mobile ecosystem - Privacy",
-                "iMessage - Freedom of Expression",
-                "iMessage - Privacy",
-                "iCloud - Freedom of Expression",
-                "iCloud - Privacy"
+                {
+                    "text": "Group - Apple - Freedom of Expression "
+                },
+                {
+                    "text": "Group - Apple - Privacy"
+                },
+                {
+                    "text": "iOS mobile ecosystem - Freedom of Expression"
+                },
+                {
+                    "text": "iOS mobile ecosystem - Privacy"
+                },
+                {
+                    "text": "iMessage - Freedom of Expression"
+                },
+                {
+                    "text": "iMessage - Privacy"
+                },
+                {
+                    "text": "iCloud - Freedom of Expression"
+                },
+                {
+                    "text": "iCloud - Privacy"
+                }
             ],
             "average": [
-                "0",
-                "100",
-                "0",
-                "100",
-                "0",
-                "100",
-                "0",
-                "100"
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "100"
+                }
             ],
             "rows": [
                 {
@@ -244,24 +308,56 @@
             "id": "att",
             "name": "AT&T",
             "headers": [
-                "Group - AT&T - Freedom of Expression",
-                "Group - AT&T - Privacy",
-                "Prepaid Mobile - Freedom of Expression",
-                "Prepaid Mobile - Privacy",
-                "Postpaid Mobile - Freedom of Expression",
-                "Postpaid Mobile - Privacy",
-                "Fixed Line Broadband - Freedom of Expression",
-                "Fixed Line Broadband - Privacy"
+                {
+                    "text": "Group - AT&T - Freedom of Expression"
+                },
+                {
+                    "text": "Group - AT&T - Privacy"
+                },
+                {
+                    "text": "Prepaid Mobile - Freedom of Expression"
+                },
+                {
+                    "text": "Prepaid Mobile - Privacy"
+                },
+                {
+                    "text": "Postpaid Mobile - Freedom of Expression"
+                },
+                {
+                    "text": "Postpaid Mobile - Privacy"
+                },
+                {
+                    "text": "Fixed Line Broadband - Freedom of Expression"
+                },
+                {
+                    "text": "Fixed Line Broadband - Privacy"
+                }
             ],
             "average": [
-                "100",
-                "100",
-                "100",
-                "100",
-                "100",
-                "100",
-                "100",
-                "100"
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                }
             ],
             "rows": [
                 {
@@ -363,24 +459,56 @@
             "id": "axiata",
             "name": "Axiata",
             "headers": [
-                "Group - Axiata - Freedom of Expression",
-                "Group - Axiata - Privacy",
-                "OperatingCo - Celcom - Freedom of Expression",
-                "OperatingCo - Celcom - Privacy",
-                "Prepaid Mobile - Freedom of Expression",
-                "Prepaid Mobile - Privacy",
-                "Postpaid Mobile - Freedom of Expression",
-                "Postpaid Mobile - Privacy"
+                {
+                    "text": "Group - Axiata - Freedom of Expression"
+                },
+                {
+                    "text": "Group - Axiata - Privacy"
+                },
+                {
+                    "text": "OperatingCo - Celcom - Freedom of Expression"
+                },
+                {
+                    "text": "OperatingCo - Celcom - Privacy"
+                },
+                {
+                    "text": "Prepaid Mobile - Freedom of Expression"
+                },
+                {
+                    "text": "Prepaid Mobile - Privacy"
+                },
+                {
+                    "text": "Postpaid Mobile - Freedom of Expression"
+                },
+                {
+                    "text": "Postpaid Mobile - Privacy"
+                }
             ],
             "average": [
-                "0",
-                "33",
-                "0",
-                "33",
-                "0",
-                "33",
-                "0",
-                "33"
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "33"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "33"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "33"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "33"
+                }
             ],
             "rows": [
                 {
@@ -482,24 +610,56 @@
             "id": "baidu",
             "name": "Baidu",
             "headers": [
-                "Group - Baidu - Freedom of Expression ",
-                "Group - Baidu - Privacy",
-                "Baidu Search - Freedom of Expression",
-                "Baidu Search - Privacy",
-                "Baidu Cloud - Freedom of Expression",
-                "Baidu Cloud - Privacy",
-                "Baidu PostBar - Freedom of Expression",
-                "Baidu PostBar - Privacy"
+                {
+                    "text": "Group - Baidu - Freedom of Expression "
+                },
+                {
+                    "text": "Group - Baidu - Privacy"
+                },
+                {
+                    "text": "Baidu Search - Freedom of Expression"
+                },
+                {
+                    "text": "Baidu Search - Privacy"
+                },
+                {
+                    "text": "Baidu Cloud - Freedom of Expression"
+                },
+                {
+                    "text": "Baidu Cloud - Privacy"
+                },
+                {
+                    "text": "Baidu PostBar - Freedom of Expression"
+                },
+                {
+                    "text": "Baidu PostBar - Privacy"
+                }
             ],
             "average": [
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0"
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                }
             ],
             "rows": [
                 {
@@ -601,28 +761,68 @@
             "id": "bhartiairtel",
             "name": "Bharti Airtel",
             "headers": [
-                "Group - Bharti Airtel - Freedom of Expression",
-                "Group - Bharti Airtel - Privacy",
-                "OperatingCo - Airtel India - Freedom of Expression",
-                "OperatingCo - Airtel India - Privacy",
-                "Prepaid Mobile - Freedom of Expression",
-                "Prepaid Mobile - Privacy",
-                "Postpaid Mobile - Freedom of Expression",
-                "Postpaid Mobile - Privacy",
-                "Fixed Line Broadband - Freedom of Expression",
-                "Fixed Line Broadband - Privacy"
+                {
+                    "text": "Group - Bharti Airtel - Freedom of Expression"
+                },
+                {
+                    "text": "Group - Bharti Airtel - Privacy"
+                },
+                {
+                    "text": "OperatingCo - Airtel India - Freedom of Expression"
+                },
+                {
+                    "text": "OperatingCo - Airtel India - Privacy"
+                },
+                {
+                    "text": "Prepaid Mobile - Freedom of Expression"
+                },
+                {
+                    "text": "Prepaid Mobile - Privacy"
+                },
+                {
+                    "text": "Postpaid Mobile - Freedom of Expression"
+                },
+                {
+                    "text": "Postpaid Mobile - Privacy"
+                },
+                {
+                    "text": "Fixed Line Broadband - Freedom of Expression"
+                },
+                {
+                    "text": "Fixed Line Broadband - Privacy"
+                }
             ],
             "average": [
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0"
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                }
             ],
             "rows": [
                 {
@@ -742,28 +942,68 @@
             "id": "etisalat",
             "name": "Etisalat",
             "headers": [
-                "Group - Etisalat - Freedom of Expression",
-                "Group - Etisalat - Privacy",
-                "OperatingCo - Etisalat UAE - Freedom of Expression",
-                "OperatingCo - Etisalat UAE - Privacy",
-                "Prepaid Mobile - Freedom of Expression",
-                "Prepaid Mobile - Privacy",
-                "Postpaid Mobile - Freedom of Expression",
-                "Postpaid Mobile - Privacy",
-                "Fixed Line Broadband - Freedom of Expression",
-                "Fixed Line Broadband - Privacy"
+                {
+                    "text": "Group - Etisalat - Freedom of Expression"
+                },
+                {
+                    "text": "Group - Etisalat - Privacy"
+                },
+                {
+                    "text": "OperatingCo - Etisalat UAE - Freedom of Expression"
+                },
+                {
+                    "text": "OperatingCo - Etisalat UAE - Privacy"
+                },
+                {
+                    "text": "Prepaid Mobile - Freedom of Expression"
+                },
+                {
+                    "text": "Prepaid Mobile - Privacy"
+                },
+                {
+                    "text": "Postpaid Mobile - Freedom of Expression"
+                },
+                {
+                    "text": "Postpaid Mobile - Privacy"
+                },
+                {
+                    "text": "Fixed Line Broadband - Freedom of Expression"
+                },
+                {
+                    "text": "Fixed Line Broadband - Privacy"
+                }
             ],
             "average": [
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0"
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                }
             ],
             "rows": [
                 {
@@ -883,28 +1123,68 @@
             "id": "facebook",
             "name": "Facebook",
             "headers": [
-                "Group - Facebook - Freedom of Expression ",
-                "Group - Facebook - Privacy",
-                "Facebook - Freedom of Expression",
-                "Facebook - Privacy",
-                "Instagram - Freedom of Expression",
-                "Instagram - Privacy",
-                "WhatsApp - Freedom of Expression",
-                "WhatsApp - Privacy",
-                "Messenger ecosystem - Freedom of Expression",
-                "Messenger ecosystem - Privacy"
+                {
+                    "text": "Group - Facebook - Freedom of Expression "
+                },
+                {
+                    "text": "Group - Facebook - Privacy"
+                },
+                {
+                    "text": "Facebook - Freedom of Expression"
+                },
+                {
+                    "text": "Facebook - Privacy"
+                },
+                {
+                    "text": "Instagram - Freedom of Expression"
+                },
+                {
+                    "text": "Instagram - Privacy"
+                },
+                {
+                    "text": "WhatsApp - Freedom of Expression"
+                },
+                {
+                    "text": "WhatsApp - Privacy"
+                },
+                {
+                    "text": "Messenger ecosystem - Freedom of Expression"
+                },
+                {
+                    "text": "Messenger ecosystem - Privacy"
+                }
             ],
             "average": [
-                "100",
-                "100",
-                "100",
-                "100",
-                "100",
-                "100",
-                "100",
-                "100",
-                "100",
-                "100"
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                }
             ],
             "rows": [
                 {
@@ -1024,28 +1304,68 @@
             "id": "google",
             "name": "Google",
             "headers": [
-                "Group - Google - Freedom of Expression ",
-                "Group - Google - Privacy",
-                "Search - Freedom of Expression",
-                "Search - Privacy",
-                "Gmail - Freedom of Expression",
-                "Gmail - Privacy",
-                "Youtube - Freedom of Expression",
-                "Youtube - Privacy",
-                "Android mobile ecosystem - Freedom of Expression",
-                "Android mobile ecosystem - Privacy"
+                {
+                    "text": "Group - Google - Freedom of Expression "
+                },
+                {
+                    "text": "Group - Google - Privacy"
+                },
+                {
+                    "text": "Search - Freedom of Expression"
+                },
+                {
+                    "text": "Search - Privacy"
+                },
+                {
+                    "text": "Gmail - Freedom of Expression"
+                },
+                {
+                    "text": "Gmail - Privacy"
+                },
+                {
+                    "text": "Youtube - Freedom of Expression"
+                },
+                {
+                    "text": "Youtube - Privacy"
+                },
+                {
+                    "text": "Android mobile ecosystem - Freedom of Expression"
+                },
+                {
+                    "text": "Android mobile ecosystem - Privacy"
+                }
             ],
             "average": [
-                "33",
-                "33",
-                "33",
-                "33",
-                "33",
-                "33",
-                "33",
-                "33",
-                "33",
-                "33"
+                {
+                    "value": "33"
+                },
+                {
+                    "value": "33"
+                },
+                {
+                    "value": "33"
+                },
+                {
+                    "value": "33"
+                },
+                {
+                    "value": "33"
+                },
+                {
+                    "value": "33"
+                },
+                {
+                    "value": "33"
+                },
+                {
+                    "value": "33"
+                },
+                {
+                    "value": "33"
+                },
+                {
+                    "value": "33"
+                }
             ],
             "rows": [
                 {
@@ -1165,24 +1485,56 @@
             "id": "kakao",
             "name": "Kakao",
             "headers": [
-                "Group - Kakao - Freedom of Expression ",
-                "Group - Kakao - Privacy",
-                "Daum Search - Freedom of Expression",
-                "Daum Search - Privacy",
-                "Daum Mail - Freedom of Expression",
-                "Daum Mail - Privacy",
-                "KakaoTalk - Freedom of Expression",
-                "KakaoTalk - Privacy"
+                {
+                    "text": "Group - Kakao - Freedom of Expression "
+                },
+                {
+                    "text": "Group - Kakao - Privacy"
+                },
+                {
+                    "text": "Daum Search - Freedom of Expression"
+                },
+                {
+                    "text": "Daum Search - Privacy"
+                },
+                {
+                    "text": "Daum Mail - Freedom of Expression"
+                },
+                {
+                    "text": "Daum Mail - Privacy"
+                },
+                {
+                    "text": "KakaoTalk - Freedom of Expression"
+                },
+                {
+                    "text": "KakaoTalk - Privacy"
+                }
             ],
             "average": [
-                "0",
-                "67",
-                "0",
-                "67",
-                "0",
-                "67",
-                "0",
-                "67"
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "67"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "67"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "67"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "67"
+                }
             ],
             "rows": [
                 {
@@ -1284,24 +1636,56 @@
             "id": "mailru",
             "name": "Mail.Ru",
             "headers": [
-                "Group - Mail.ru - Freedom of Expression ",
-                "Group - Mail.ru - Privacy",
-                "VKontakte - Freedom of Expression",
-                "VKontakte - Privacy",
-                "Mail.ru email - Freedom of Expression",
-                "Mail.ru email - Privacy",
-                "Mail.ru Agent - Freedom of Expression",
-                "Mail.ru Agent - Privacy"
+                {
+                    "text": "Group - Mail.ru - Freedom of Expression "
+                },
+                {
+                    "text": "Group - Mail.ru - Privacy"
+                },
+                {
+                    "text": "VKontakte - Freedom of Expression"
+                },
+                {
+                    "text": "VKontakte - Privacy"
+                },
+                {
+                    "text": "Mail.ru email - Freedom of Expression"
+                },
+                {
+                    "text": "Mail.ru email - Privacy"
+                },
+                {
+                    "text": "Mail.ru Agent - Freedom of Expression"
+                },
+                {
+                    "text": "Mail.ru Agent - Privacy"
+                }
             ],
             "average": [
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0"
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                }
             ],
             "rows": [
                 {
@@ -1403,24 +1787,56 @@
             "id": "microsoft",
             "name": "Microsoft",
             "headers": [
-                "Group - Microsoft - Freedom of Expression ",
-                "Group - Microsoft - Privacy",
-                "Bing - Freedom of Expression",
-                "Bing - Privacy",
-                "Outlook.com - Freedom of Expression",
-                "Outlook.com - Privacy",
-                "Skype - Freedom of Expression",
-                "Skype - Privacy"
+                {
+                    "text": "Group - Microsoft - Freedom of Expression "
+                },
+                {
+                    "text": "Group - Microsoft - Privacy"
+                },
+                {
+                    "text": "Bing - Freedom of Expression"
+                },
+                {
+                    "text": "Bing - Privacy"
+                },
+                {
+                    "text": "Outlook.com - Freedom of Expression"
+                },
+                {
+                    "text": "Outlook.com - Privacy"
+                },
+                {
+                    "text": "Skype - Freedom of Expression"
+                },
+                {
+                    "text": "Skype - Privacy"
+                }
             ],
             "average": [
-                "100",
-                "100",
-                "100",
-                "100",
-                "100",
-                "100",
-                "100",
-                "100"
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                }
             ],
             "rows": [
                 {
@@ -1522,24 +1938,56 @@
             "id": "mtn",
             "name": "MTN",
             "headers": [
-                "Group - MTN - Freedom of Expression",
-                "Group - MTN - Privacy",
-                "OperatingCo - MTN South Africa - Freedom of Expression",
-                "OperatingCo - MTN South Africa - Privacy",
-                "Prepaid Mobile - Freedom of Expression",
-                "Prepaid Mobile - Privacy",
-                "Postpaid Mobile - Freedom of Expression",
-                "Postpaid Mobile - Privacy"
+                {
+                    "text": "Group - MTN - Freedom of Expression"
+                },
+                {
+                    "text": "Group - MTN - Privacy"
+                },
+                {
+                    "text": "OperatingCo - MTN South Africa - Freedom of Expression"
+                },
+                {
+                    "text": "OperatingCo - MTN South Africa - Privacy"
+                },
+                {
+                    "text": "Prepaid Mobile - Freedom of Expression"
+                },
+                {
+                    "text": "Prepaid Mobile - Privacy"
+                },
+                {
+                    "text": "Postpaid Mobile - Freedom of Expression"
+                },
+                {
+                    "text": "Postpaid Mobile - Privacy"
+                }
             ],
             "average": [
-                "83",
-                "83",
-                "83",
-                "83",
-                "83",
-                "83",
-                "83",
-                "83"
+                {
+                    "value": "83"
+                },
+                {
+                    "value": "83"
+                },
+                {
+                    "value": "83"
+                },
+                {
+                    "value": "83"
+                },
+                {
+                    "value": "83"
+                },
+                {
+                    "value": "83"
+                },
+                {
+                    "value": "83"
+                },
+                {
+                    "value": "83"
+                }
             ],
             "rows": [
                 {
@@ -1641,28 +2089,68 @@
             "id": "ooredoo",
             "name": "Ooredoo",
             "headers": [
-                "Group - Ooredoo - Freedom of Expression",
-                "Group - Ooredoo - Privacy",
-                "OperatingCo - Ooredoo Qatar - Freedom of Expression",
-                "OperatingCo - Ooredoo Qatar - Privacy",
-                "Prepaid Mobile - Freedom of Expression",
-                "Prepaid Mobile - Privacy",
-                "Postpaid Mobile - Freedom of Expression",
-                "Postpaid Mobile - Privacy",
-                "Fixed Line Broadband - Freedom of Expression",
-                "Fixed Line Broadband - Privacy"
+                {
+                    "text": "Group - Ooredoo - Freedom of Expression"
+                },
+                {
+                    "text": "Group - Ooredoo - Privacy"
+                },
+                {
+                    "text": "OperatingCo - Ooredoo Qatar - Freedom of Expression"
+                },
+                {
+                    "text": "OperatingCo - Ooredoo Qatar - Privacy"
+                },
+                {
+                    "text": "Prepaid Mobile - Freedom of Expression"
+                },
+                {
+                    "text": "Prepaid Mobile - Privacy"
+                },
+                {
+                    "text": "Postpaid Mobile - Freedom of Expression"
+                },
+                {
+                    "text": "Postpaid Mobile - Privacy"
+                },
+                {
+                    "text": "Fixed Line Broadband - Freedom of Expression"
+                },
+                {
+                    "text": "Fixed Line Broadband - Privacy"
+                }
             ],
             "average": [
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0"
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                }
             ],
             "rows": [
                 {
@@ -1782,28 +2270,68 @@
             "id": "orange",
             "name": "Orange",
             "headers": [
-                "Group - Orange - Freedom of Expression",
-                "Group - Orange - Privacy",
-                "OperatingCo - Orange France - Freedom of Expression",
-                "OperatingCo - Orange France - Privacy",
-                "Prepaid Mobile - Freedom of Expression",
-                "Prepaid Mobile - Privacy",
-                "Postpaid Mobile - Freedom of Expression",
-                "Postpaid Mobile - Privacy",
-                "Fixed Line Broadband - Freedom of Expression",
-                "Fixed Line Broadband - Privacy"
+                {
+                    "text": "Group - Orange - Freedom of Expression"
+                },
+                {
+                    "text": "Group - Orange - Privacy"
+                },
+                {
+                    "text": "OperatingCo - Orange France - Freedom of Expression"
+                },
+                {
+                    "text": "OperatingCo - Orange France - Privacy"
+                },
+                {
+                    "text": "Prepaid Mobile - Freedom of Expression"
+                },
+                {
+                    "text": "Prepaid Mobile - Privacy"
+                },
+                {
+                    "text": "Postpaid Mobile - Freedom of Expression"
+                },
+                {
+                    "text": "Postpaid Mobile - Privacy"
+                },
+                {
+                    "text": "Fixed Line Broadband - Freedom of Expression"
+                },
+                {
+                    "text": "Fixed Line Broadband - Privacy"
+                }
             ],
             "average": [
-                "100",
-                "100",
-                "100",
-                "100",
-                "100",
-                "100",
-                "100",
-                "100",
-                "100",
-                "100"
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                }
             ],
             "rows": [
                 {
@@ -1923,16 +2451,32 @@
             "id": "samsung",
             "name": "Samsung",
             "headers": [
-                "Group - Samsung - Freedom of Expression ",
-                "Group - Samsung - Privacy",
-                "Samsung - Freedom of Expression",
-                "Samsung - Privacy"
+                {
+                    "text": "Group - Samsung - Freedom of Expression "
+                },
+                {
+                    "text": "Group - Samsung - Privacy"
+                },
+                {
+                    "text": "Samsung - Freedom of Expression"
+                },
+                {
+                    "text": "Samsung - Privacy"
+                }
             ],
             "average": [
-                "0",
-                "67",
-                "0",
-                "67"
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "67"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "67"
+                }
             ],
             "rows": [
                 {
@@ -1998,28 +2542,68 @@
             "id": "telefonica",
             "name": "Telefónica",
             "headers": [
-                "Group - Telefónica - Freedom of Expression",
-                "Group - Telefónica - Privacy",
-                "OperatingCo - Telefónica de España - Freedom of Expression",
-                "OperatingCo - Telefónica de España - Privacy",
-                "Prepaid Mobile - Freedom of Expression",
-                "Prepaid Mobile - Privacy",
-                "Postpaid Mobile - Freedom of Expression",
-                "Postpaid Mobile - Privacy",
-                "Fixed Line Broadband - Freedom of Expression",
-                "Fixed Line Broadband - Privacy"
+                {
+                    "text": "Group - Telefónica - Freedom of Expression"
+                },
+                {
+                    "text": "Group - Telefónica - Privacy"
+                },
+                {
+                    "text": "OperatingCo - Telefónica de España - Freedom of Expression"
+                },
+                {
+                    "text": "OperatingCo - Telefónica de España - Privacy"
+                },
+                {
+                    "text": "Prepaid Mobile - Freedom of Expression"
+                },
+                {
+                    "text": "Prepaid Mobile - Privacy"
+                },
+                {
+                    "text": "Postpaid Mobile - Freedom of Expression"
+                },
+                {
+                    "text": "Postpaid Mobile - Privacy"
+                },
+                {
+                    "text": "Fixed Line Broadband - Freedom of Expression"
+                },
+                {
+                    "text": "Fixed Line Broadband - Privacy"
+                }
             ],
             "average": [
-                "67",
-                "67",
-                "67",
-                "67",
-                "67",
-                "67",
-                "67",
-                "67",
-                "67",
-                "67"
+                {
+                    "value": "67"
+                },
+                {
+                    "value": "67"
+                },
+                {
+                    "value": "67"
+                },
+                {
+                    "value": "67"
+                },
+                {
+                    "value": "67"
+                },
+                {
+                    "value": "67"
+                },
+                {
+                    "value": "67"
+                },
+                {
+                    "value": "67"
+                },
+                {
+                    "value": "67"
+                },
+                {
+                    "value": "67"
+                }
             ],
             "rows": [
                 {
@@ -2139,24 +2723,56 @@
             "id": "tencent",
             "name": "TenCent",
             "headers": [
-                "Group - Tencent - Freedom of Expression ",
-                "Group - Tencent - Privacy",
-                "QZone - Freedom of Expression",
-                "QZone - Privacy",
-                "QQ - Freedom of Expression",
-                "QQ - Privacy",
-                "WeChat - Freedom of Expression",
-                "WeChat - Privacy"
+                {
+                    "text": "Group - Tencent - Freedom of Expression "
+                },
+                {
+                    "text": "Group - Tencent - Privacy"
+                },
+                {
+                    "text": "QZone - Freedom of Expression"
+                },
+                {
+                    "text": "QZone - Privacy"
+                },
+                {
+                    "text": "QQ - Freedom of Expression"
+                },
+                {
+                    "text": "QQ - Privacy"
+                },
+                {
+                    "text": "WeChat - Freedom of Expression"
+                },
+                {
+                    "text": "WeChat - Privacy"
+                }
             ],
             "average": [
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0"
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                }
             ],
             "rows": [
                 {
@@ -2258,20 +2874,44 @@
             "id": "twitter",
             "name": "Twitter",
             "headers": [
-                "Group - Twitter - Freedom of Expression ",
-                "Group - Twitter - Privacy",
-                "Twitter - Freedom of Expression",
-                "Twitter - Privacy",
-                "Periscope - Freedom of Expression",
-                "Periscope - Privacy"
+                {
+                    "text": "Group - Twitter - Freedom of Expression "
+                },
+                {
+                    "text": "Group - Twitter - Privacy"
+                },
+                {
+                    "text": "Twitter - Freedom of Expression"
+                },
+                {
+                    "text": "Twitter - Privacy"
+                },
+                {
+                    "text": "Periscope - Freedom of Expression"
+                },
+                {
+                    "text": "Periscope - Privacy"
+                }
             ],
             "average": [
-                "67",
-                "67",
-                "67",
-                "67",
-                "67",
-                "67"
+                {
+                    "value": "67"
+                },
+                {
+                    "value": "67"
+                },
+                {
+                    "value": "67"
+                },
+                {
+                    "value": "67"
+                },
+                {
+                    "value": "67"
+                },
+                {
+                    "value": "67"
+                }
             ],
             "rows": [
                 {
@@ -2355,28 +2995,68 @@
             "id": "vodafone",
             "name": "Vodafone",
             "headers": [
-                "Group - Vodafone - Freedom of Expression",
-                "Group - Vodafone - Privacy",
-                "OperatingCo - Vodafone UK - Freedom of Expression",
-                "OperatingCo - Vodafone UK - Privacy",
-                "Prepaid Mobile - Freedom of Expression",
-                "Prepaid Mobile - Privacy",
-                "Postpaid Mobile - Freedom of Expression",
-                "Postpaid Mobile - Privacy",
-                "Fixed Line Broadband - Freedom of Expression",
-                "Fixed Line Broadband - Privacy"
+                {
+                    "text": "Group - Vodafone - Freedom of Expression"
+                },
+                {
+                    "text": "Group - Vodafone - Privacy"
+                },
+                {
+                    "text": "OperatingCo - Vodafone UK - Freedom of Expression"
+                },
+                {
+                    "text": "OperatingCo - Vodafone UK - Privacy"
+                },
+                {
+                    "text": "Prepaid Mobile - Freedom of Expression"
+                },
+                {
+                    "text": "Prepaid Mobile - Privacy"
+                },
+                {
+                    "text": "Postpaid Mobile - Freedom of Expression"
+                },
+                {
+                    "text": "Postpaid Mobile - Privacy"
+                },
+                {
+                    "text": "Fixed Line Broadband - Freedom of Expression"
+                },
+                {
+                    "text": "Fixed Line Broadband - Privacy"
+                }
             ],
             "average": [
-                "100",
-                "100",
-                "100",
-                "100",
-                "100",
-                "100",
-                "100",
-                "100",
-                "100",
-                "100"
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                }
             ],
             "rows": [
                 {
@@ -2496,24 +3176,56 @@
             "id": "yahoo",
             "name": "Oath (Yahoo)",
             "headers": [
-                "Group - Oath (Yahoo) - Freedom of Expression ",
-                "Group - Oath (Yahoo) - Privacy",
-                "Yahoo Mail - Freedom of Expression",
-                "Yahoo Mail - Privacy",
-                "Flickr - Freedom of Expression",
-                "Flickr - Privacy",
-                "Tumblr - Freedom of Expression",
-                "Tumblr - Privacy"
+                {
+                    "text": "Group - Oath (Yahoo) - Freedom of Expression "
+                },
+                {
+                    "text": "Group - Oath (Yahoo) - Privacy"
+                },
+                {
+                    "text": "Yahoo Mail - Freedom of Expression"
+                },
+                {
+                    "text": "Yahoo Mail - Privacy"
+                },
+                {
+                    "text": "Flickr - Freedom of Expression"
+                },
+                {
+                    "text": "Flickr - Privacy"
+                },
+                {
+                    "text": "Tumblr - Freedom of Expression"
+                },
+                {
+                    "text": "Tumblr - Privacy"
+                }
             ],
             "average": [
-                "100",
-                "100",
-                "100",
-                "100",
-                "100",
-                "100",
-                "100",
-                "100"
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                }
             ],
             "rows": [
                 {
@@ -2615,24 +3327,56 @@
             "id": "yandex",
             "name": "Yandex",
             "headers": [
-                "Group - Yandex - Freedom of Expression ",
-                "Group - Yandex - Privacy",
-                "Yandex Mail ecosystem - Freedom of Expression",
-                "Yandex Mail ecosystem - Privacy",
-                "Yandex Search - Freedom of Expression",
-                "Yandex Search - Privacy",
-                "Yandex Disk - Freedom of Expression",
-                "Yandex Disk - Privacy"
+                {
+                    "text": "Group - Yandex - Freedom of Expression "
+                },
+                {
+                    "text": "Group - Yandex - Privacy"
+                },
+                {
+                    "text": "Yandex Mail ecosystem - Freedom of Expression"
+                },
+                {
+                    "text": "Yandex Mail ecosystem - Privacy"
+                },
+                {
+                    "text": "Yandex Search - Freedom of Expression"
+                },
+                {
+                    "text": "Yandex Search - Privacy"
+                },
+                {
+                    "text": "Yandex Disk - Freedom of Expression"
+                },
+                {
+                    "text": "Yandex Disk - Privacy"
+                }
             ],
             "average": [
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0",
-                "0"
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                }
             ],
             "rows": [
                 {
