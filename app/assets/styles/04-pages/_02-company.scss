@@ -90,35 +90,35 @@
       .container--right {
         .comp--score {
           @include media(small-up) {
-            @include span-columns(2);
+            @include span-columns(3);
           }
           @include media(medium-up) {
-            @include span-columns(2);
+            @include span-columns(3);
           }
           @include media(large-up) {
-            @include span-columns(2);
+            @include span-columns(3);
           }
         }
         .comp--rank {
           @include media(small-up) {
-            @include span-columns(2);
+            @include span-columns(3);
           }
           @include media(medium-up) {
-            @include span-columns(2);
+            @include span-columns(3);
           }
           @include media(large-up) {
-            @include span-columns(2);
+            @include span-columns(3);
           }
         }
         .comp--difference {
           @include media(small-up) {
-            @include span-columns(2);
+            @include span-columns(3);
           }
           @include media(medium-up) {
-            @include span-columns(2);
+            @include span-columns(3);
           }
           @include media(large-up) {
-            @include span-columns(2);
+            @include span-columns(3);
           }
         }
         .comp--among{
