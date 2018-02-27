@@ -32,10 +32,10 @@ module.exports = BaseChart.extend({
             var data = comp.attributes[i].reverse();
 
             var margin = {
-                top: 20,
+                top: 10,
                 right: 350,
                 bottom: 10,
-                left: 10
+                left: 0
             };
 
             var width = 460 - margin.left - margin.right,
@@ -47,22 +47,6 @@ module.exports = BaseChart.extend({
                 .attr("width", "100%")
                 .append("g")
                 .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-
-            svg.append("text")
-                .attr("x", 60)
-                .attr("y", 0)
-                .attr("text-anchor", "right")
-                .style("font-size", "14px")
-                .style("text-transform", "uppercase")
-                .text("score");
-
-            svg.append("text")
-                .attr("x", 110)
-                .attr("y", 0)
-                .attr("text-anchor", "left")
-                .style("font-size", "14px")
-                .style("text-transform", "uppercase")
-                .text("indicators");
 
             var x = d3.scale.linear()
                 .domain(d3.extent(data, function (d) {
@@ -79,7 +63,7 @@ module.exports = BaseChart.extend({
 
             var yAxis = d3.svg.axis()
                 .scale(y)
-                .tickSize(0.3)
+                .tickSize(0)
                 .orient("right");
 
             var tip = d3.tip()
@@ -96,15 +80,18 @@ module.exports = BaseChart.extend({
             svg.call(tip);
 
             var indicator_width = $('#indicators--privacy').width();
-            var wrap_width = Number(indicator_width) - 100;
+            var wrap_width = Number(indicator_width) - 50;
+            // var wrap_width = Number(indicator_width) - 100;
 
             var gy = svg.append("g")
                 .attr("class", "y axis")
                 .call(yAxis)
                 .selectAll("text")
-                .attr("y", -8)
-                .attr("x", 110)
-                .style("font-size", "15px")
+                .attr("y", 0)
+                .attr("x", 300)
+                //.attr("y", -8)
+                //.attr("x", 110)
+                .style("font-size", "12px")
 
                 .call(wrap, wrap_width);
 
@@ -125,18 +112,17 @@ module.exports = BaseChart.extend({
                 })
 
                 .attr("x", function (d) {
-                    var width = 100;
-                    if (d.value == 0) width = 98;
-                    return width - Number(d.value);
+                    return 0;
                 })
                 .attr("width", function (d) {
-                    var width = d.value;
-                    if (d.value == 0) width = 2;
+                    var width = 3*d.value;
+                    if (d.value == 0) width = 4;
                     return width;
                 })
 
                 .attr("y", function (d) { return y(d.name); })
-                .attr("height", y.rangeBand())
+                .attr("height", 5)
+                // .attr("height", y.rangeBand())
 
                 .on('mouseover', tip.show)
                 .on('mouseout', tip.hide);
@@ -145,14 +131,20 @@ module.exports = BaseChart.extend({
                 .data(data)
                 .enter().append("rect")
                 .style('fill', '#E5DBD2')
-                .attr("x", 0)
+                .attr("x", function (d) {
+                    var width = 3*Number(d.value);
+                    if (d.value == 0) width = 4;
+                    return width;
+                })
+
                 .attr("y", function (d) { return y(d.name); })
                 .attr("width", function (d) {
-                    var width = 100;
-                    if (d.value == 0) width = 98;
-                    return width - Number(d.value);
+                    var width = 300;
+                    if (d.value == 0) width = 296;
+                    return width - 3*Number(d.value);
                 })
-                .attr("height", y.rangeBand());
+                .attr("height", 5)
+                // .attr("height", y.rangeBand());
         })
 
         function wrap(text, width) {
@@ -170,7 +162,7 @@ module.exports = BaseChart.extend({
                     lineHeight = 1.1, // ems
                     y = text.attr("y"),
                     dy = parseFloat(text.attr("dy")),
-                    tspan = text.text(null).append("tspan").attr("x", 110).attr("y", y).attr("dy", dy + "em");
+                    tspan = text.text(null).append("tspan").attr("x", 0).attr("y", y).attr("dy", dy + "em");
 
                 while (word = words.pop()) {
                     line.push(word);
@@ -179,7 +171,7 @@ module.exports = BaseChart.extend({
                         line.pop();
                         tspan.text(line.join(" "));
                         line = [word];
-                        tspan = text.append("tspan").attr("x", 110).attr("y", y).attr("dy", ++lineNumber * lineHeight + dy + "em").text(word);
+                        tspan = text.append("tspan").attr("x", 0).attr("y", y).attr("dy", ++lineNumber * lineHeight + dy + "em").text(word);
                     }
                 }
             });
