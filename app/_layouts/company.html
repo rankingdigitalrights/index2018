@@ -85,7 +85,6 @@
           </div>
         </section>
 
-
         <!-- Key fiindings-->
         <section class="key-findings">
           <div class="contain row">
@@ -119,12 +118,10 @@
           </div>
         </section>
 
-
         <!-- Circle chart -->
         <section class=" circle-chart highlihted-bg">
           <div id="comp--circle_chart" class="row spaced-row contain"></div>
         </section>
-
 
         <!-- Section analysis -->
         <section class="section--analysis">
@@ -133,9 +130,7 @@
 
             <div class="title-section">
               <h2>Analysis</h2>
-
             </div>
-
 
             <div class="container--left">
               <div class="title-line-chart">
@@ -191,15 +186,18 @@
               <ul class="scores-and-difference">
                 <li>
                   <label>Score 2017</label>
-                  <div class="label-black-style score-value">45%</div>
+                  <div id="governance_2017" class="label-black-style score-value"></div>
                 </li>
                 <li>
                   <label>Score 2018</label>
-                  <div class="label-black-style score-value">81%</div>
+                  <div id="governance_2018" class="label-black-style score-value"></div>
                 </li>
                 <li>
                   <label>Difference</label>
-                  <div class="label-black-style score-value">25 <i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
+                  <div id="governance_difference" class="label-black-style score-value">
+                    <span></span>
+                    <i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i>
+                  </div>
                 </li>
               </ul>
               <p>{{ page.governance_text }}</p>
@@ -213,25 +211,28 @@
                 </div>
 
               </div>
+
+              {% if page.summary_of_changes_governance %}
               <div class="summary-of-changes">
                 <label> Summary of changes</label>
-                <div class="positive-change">
-                  <div class="arrow"><i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
+                {% for item in page.summary_of_changes_governance %}
+                <div class="{{ item.change }}-change">
+                  {% if item.change == "positive" %}
+                    <div class="arrow"><i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
+                  {% endif %}
+                  {% if item.change == "negative" %}
+                    <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
+                  {% endif %}
                   <div class="text-change">
-                    <p class="title-change">F4. data about terms of service enforcement</p>
-                    <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
-                      of any company evaluated(after Twitter). The company improved its public commitment.</p>
+                    <p class="title-change">{{ item.title }}</p>
+                    <p>Summary of changes: {{ item.body }}</p>
                   </div>
                 </div>
-                <div class="negative-change">
-                  <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
-                  <div class="text-change">
-                    <p class="title-change">F4. data about terms of service enforcement</p>
-                    <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
-                      of any company evaluated(after Twitter). The company improved its public commitment.</p>
-                  </div>
-                </div>
+                {% endfor %}
+
               </div>
+              {% endif %}
+
             </div>
           </div>
         </section>
@@ -253,15 +254,18 @@
               <ul class="scores-and-difference">
                 <li>
                   <label>Score 2017</label>
-                  <div class="label-black-style score-value">45%</div>
+                  <div id="freedom_of_expression_2017" class="label-black-style score-value"></div>
                 </li>
                 <li>
                   <label>Score 2018</label>
-                  <div class="label-black-style score-value">64%</div>
+                  <div id="freedom_of_expression_2018" class="label-black-style score-value"></div>
                 </li>
                 <li>
                   <label>Difference</label>
-                  <div class="label-black-style score-value">25 <i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
+                  <div id="freedom_of_expression_difference" class="label-black-style score-value">
+                    <span></span>
+                    <i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i>
+                  </div>
                 </li>
               </ul>
               <p>{{ page.freedom_text }}</p>
@@ -272,33 +276,27 @@
                 <label> Summary of changes</label>
                 <div id="indicators--freedom"  class="company-line-chart"></div>
               </div>
+              
+              {% if page.summary_of_changes_freedom %}
               <div class="summary-of-changes">
                 <label> Summary of changes</label>
-                <div class="positive-change">
-                  <div class="arrow"><i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
+                {% for item in page.summary_of_changes_freedom %}
+                <div class="{{ item.change }}-change">
+                  {% if item.change == "positive" %}
+                    <div class="arrow"><i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
+                  {% endif %}
+                  {% if item.change == "negative" %}
+                    <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
+                  {% endif %}
                   <div class="text-change">
-                    <p class="title-change">F4. data about terms of service enforcement</p>
-                    <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
-                      of any company evaluated(after Twitter). The company improved its public commitment.</p>
+                    <p class="title-change">{{ item.title }}</p>
+                    <p>Summary of changes: {{ item.body }}</p>
                   </div>
                 </div>
-                <div class="negative-change">
-                  <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
-                  <div class="text-change">
-                    <p class="title-change">F4. data about terms of service enforcement</p>
-                    <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
-                      of any company evaluated(after Twitter). The company improved its public commitment.</p>
-                  </div>
-                </div>
-                <div class="negative-change">
-                  <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
-                  <div class="text-change">
-                    <p class="title-change">F4. data about terms of service enforcement</p>
-                    <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
-                      of any company evaluated(after Twitter). The company improved its public commitment.</p>
-                  </div>
-                </div>
+                {% endfor %}
               </div>
+              {% endif %}
+
             </div>
           </div>
         </section>
@@ -320,15 +318,18 @@
               <ul class="scores-and-difference">
                 <li>
                   <label>Score 2017</label>
-                  <div class="label-black-style score-value">45%</div>
+                  <div id="privacy_2017" class="label-black-style score-value"></div>
                 </li>
                 <li>
                   <label>Score 2018</label>
-                  <div class="label-black-style score-value">64%</div>
+                  <div id="privacy_2018" class="label-black-style score-value"></div>
                 </li>
                 <li>
                   <label>Difference</label>
-                  <div class="label-black-style score-value">25 <i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
+                  <div id="privacy_difference" class="label-black-style score-value">
+                    <span></span>
+                    <i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i>
+                  </div>
                 </li>
               </ul>
               <p>{{ page.privacy_text }}</p>
@@ -341,35 +342,27 @@
                 <label> Summary of changes</label>
                 <div id="indicators--privacy"  class="company-line-chart"></div>
               </div>
+              
+              {% if page.summary_of_changes_privacy %}
               <div class="summary-of-changes">
                 <label> Summary of changes</label>
-                <div class="positive-change">
-                  <div class="arrow"><i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
+                {% for item in page.summary_of_changes_privacy %}
+                <div class="{{ item.change }}-change">
+                  {% if item.change == "positive" %}
+                    <div class="arrow"><i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
+                  {% endif %}
+                  {% if item.change == "negative" %}
+                    <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
+                  {% endif %}
                   <div class="text-change">
-                    <p class="title-change">F4. data about terms of service enforcement</p>
-                    <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
-                      of any company evaluated(after Twitter). The company improved its public commitment.</p>
+                    <p class="title-change">{{ item.title }}</p>
+                    <p>Summary of changes: {{ item.body }}</p>
                   </div>
                 </div>
-                <div class="negative-change">
-                  <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
-                  <div class="text-change">
-                    <p class="title-change">F4. data about terms of service enforcement</p>
-                    <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
-                      of any company evaluated(after Twitter). The company improved its public commitment.</p>
-                  </div>
-                </div>
-                <div class="negative-change">
-                  <div class="arrow"><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i></div>
-                  <div class="text-change">
-                    <p class="title-change">F4. data about terms of service enforcement</p>
-                    <p>Summary of changes: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement
-                      of any company evaluated(after Twitter). The company improved its public commitment.</p>
-                  </div>
-                </div>
+                {% endfor %}
               </div>
+              {% endif %}
             </div>
-
           </div>
         </section>
 

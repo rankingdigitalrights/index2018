@@ -5,26 +5,23 @@ var Company = require('./collections/company');
 var Survey = require('./collections/survey');
 var Overview = require('./collections/overview');
 var CompanyIndicator = require('./collections/company/indicator');
+var Compare = require('./collections/compare');
 
 var CategoryChart = require('./views/category-line-dot-chart');
 var SurveyView = require('./views/survey');
 var CompanyOverview = require('./views/company-overview');
 var Collapse = require('./views/collapse');
-
-/* ===========================================================*/
 var IndicatorView = require('./views/company/indicator');
-/* ===========================================================*/
-
+var DifferenceView = require('./views/company/difference');
 var Barchart = require('./views/company-barchart');
+
 var barsort = require('./util/barsort');
 
 module.exports = function (companyName) {
 
+  var compare = new Compare();
   var overview = new Overview();
-
   var companyIndicator = new CompanyIndicator();
-
-  console.info(companyIndicator);
 
   var category = new CategoryChart({
     collection: overview,
@@ -36,16 +33,13 @@ module.exports = function (companyName) {
     container: 'comp--circle_chart'
   });
 
-/* ===========================================================*/
   var companyindicator = new IndicatorView({
     collection: companyIndicator,
     companyName: companyName,
   });
-/* ===========================================================*/
   
   companyIndicator.fetch({
     success: function () {
-      // company indicators
       companyindicator.render();
     }
   });
@@ -60,6 +54,17 @@ module.exports = function (companyName) {
 
     }
   });
+
+  // Difference
+  var differenceView = new DifferenceView({
+    collection: compare,
+    companyName: companyName,
+  });
+  compare.fetch({
+    success: function () {
+      differenceView.render();
+    }
+  })
 
   // Position among archar
   var $parent = $('#comp--position_among');
@@ -84,7 +89,6 @@ module.exports = function (companyName) {
 
     barchart.render('#comp--position_among', companyName);
   }
-
 
   // Company responses rely on both survey questions,
   // and how each company answered them.

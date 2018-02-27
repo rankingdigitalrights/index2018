@@ -1,32 +1,35 @@
 [
     {
         "Company": "Apple",
-        "Service ": "iCloud",
-        "text": "iCloud is a cloud storage and cloud computing service operated by Apple Inc. and launched in 2011. The service enables users to store data such as documents, photos, and music on remote servers for download to iOS, Macintosh or Windows devices, to share and send data to other users, and to manage their Apple devices if lost or stolen.",
-        "rank": "1",
-        "Total": "38",
-        "G": "17",
-        "FoE": "29",
-        "P": "49"
+        "Description": "Description Text",
+        "Difference": "7",
+        "FoE": "37",
+        "G": "33",
+        "P": "54",
+        "Service": "iCloud",
+        "Total": "45",
+        "rank": "1"
     },
     {
         "Company": "Yandex",
-        "Service ": "Yandex Disk",
-        "text": "Yandex.Disk is a cloud service operated by Yandex that lets users store files on cloud servers and share them with others online. The service was launched in English in June 2012.",
-        "rank": "2",
-        "Total": "28",
-        "G": "10",
-        "FoE": "26",
-        "P": "36"
+        "Description": "Description Text",
+        "Difference": "-1",
+        "FoE": "24",
+        "G": "6",
+        "P": "35",
+        "Service": "Yandex Disk (cloud storage)",
+        "Total": "27",
+        "rank": "2"
     },
     {
         "Company": "Baidu",
-        "Service ": "Baidu Cloud",
-        "text": "Baidu Cloud is a cloud data service operated by Baidu, Inc., It offers cloud storage service, client software, file management, resources sharing, and Third Party Integration.",
-        "rank": "3",
-        "Total": "14",
-        "G": "0",
+        "Description": "Description Text",
+        "Difference": "3",
         "FoE": "16",
-        "P": "17"
+        "G": "4",
+        "P": "22",
+        "Service": "Baidu Cloud",
+        "Total": "17",
+        "rank": "3"
     }
 ]

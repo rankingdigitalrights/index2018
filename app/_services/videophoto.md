@@ -1,5 +1,5 @@
 ---
-entity: videophoto
+entity: socialnetworkingandblogservices
 entity_type: services
 visualization: service
 layout: service

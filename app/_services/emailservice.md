@@ -1,5 +1,5 @@
 ---
-entity: emailservice
+entity: emailservices
 entity_type: services
 visualization: service
 layout: service

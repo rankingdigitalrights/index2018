@@ -177,9 +177,15 @@
   }
   .company--name {
     font-size: 14px;
-    transform: rotate(-90deg) !important;
+    transform: rotate(-90deg) translate(0px,-5px)!important;
+    -webkit-transform: rotate(-90deg) translate(0px,-5px)!important;
+    -moz-transform: rotate(-90deg) translate(0px,-5px)!important;
+    -ms-transform: rotate(-90deg) translate(0px,-5px)!important;
     @include media(medium-up){
       transform: rotate(-45deg) !important;
+      -webkit-transform: rotate(-45deg) !important;
+      -moz-transform: rotate(-45deg) !important;
+      -ms-transform: rotate(-45deg) !important;
       font-size: 16px;
     }
   }
@@ -198,63 +204,15 @@
   .legend--negative {
     fill: #F05A28;
   }
-
   .rank {
     fill: #ffffff;
     font-size: 13px;
     font-weight: bold;
     position: relative;
     display: inline-block;
+    @include media(medium-up){
+
+    }
   }
-  //.rank:after, .rank:before {
-  //  left: 100%;
-  //  top: 50%;
-  //  border: solid transparent;
-  //  content: " ";
-  //  height: 0;
-  //  width: 0;
-  //  position: absolute;
-  //  pointer-events: none;
-  //}
-  //.rank:after {
-  //  border-color: rgba(0, 166, 90, 0);
-  //  border-width: 5px;
-  //  margin-top: -5px;
-  //}
-  //.rank:before {
-  //  border-color: rgba(0, 166, 90, 0);
-  //  border-width: 6px;
-  //  margin-top: -6px;
-  //}
-  //.legend--positive {
-  //  background-color: #8BC43F;
-  //  border: 1px solid #8BC43F;
-  //  &:after{
-  //    border-left-color: #8BC43F;
-  //  }
-  //  &:before{
-  //    border-left-color: #8BC43F;
-  //  }
-  //}
-  //.legend--negative {
-  //  background-color: #F05A28;
-  //  border: 1px solid #F05A28;
-  //  &:after{
-  //    border-left-color: #F05A28;
-  //  }
-  //  &:before{
-  //    border-left-color: #F05A28;
-  //  }
-  //}
-  //.legend--zero {
-  //  background-color: #787878;
-  //  border: 1px solid #787878;
-  //  &:after{
-  //    border-left-color: #787878;
-  //  }
-  //  &:before{
-  //    border-left-color: #787878;
-  //  }
-  //}
 
 }

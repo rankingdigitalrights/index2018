@@ -26,6 +26,9 @@ module.exports = function generateIndicator (indicatorName) {
 
     indicator.fetch({
         success: function(){
+            var $indicators = indicators.findWhere({indicator: indicatorName});
+            var $scores = $indicators.attributes.scores;
+            indicator.scores = $scores;
             var indicatorView = new IndicatorView({
                 collection: indicator
             });

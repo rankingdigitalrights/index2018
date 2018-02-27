@@ -1,0 +1,112 @@
+[
+    {
+        "Company": "Vodafone",
+        "Description": "Description Text",
+        "Difference": "4",
+        "FoE": "47",
+        "G": "84",
+        "P": "44",
+        "Service": "mobile service (Vodafone UK)",
+        "Total": "52",
+        "rank": "1"
+    },
+    {
+        "Company": "AT&T",
+        "Description": "Description Text",
+        "Difference": "-1",
+        "FoE": "41",
+        "G": "61",
+        "P": "49",
+        "Service": "Mobile service (AT&T)",
+        "Total": "48",
+        "rank": "2"
+    },
+    {
+        "Company": "Telefónica",
+        "Description": "Description Text",
+        "Difference": "7",
+        "FoE": "34",
+        "G": "77",
+        "P": "32",
+        "Service": "mobile service (Movistar)",
+        "Total": "41",
+        "rank": "3"
+    },
+    {
+        "Company": "Orange",
+        "Description": "Description",
+        "Difference": "2",
+        "FoE": "16",
+        "G": "76",
+        "P": "29",
+        "Service": "mobile service (orange france)",
+        "Total": "33",
+        "rank": "4"
+    },
+    {
+        "Company": "América Móvil",
+        "Description": "Description Text",
+        "Difference": "0",
+        "FoE": "17",
+        "G": "21",
+        "P": "25",
+        "Service": "Mobile Service (Telcel)",
+        "Total": "21",
+        "rank": "5"
+    },
+    {
+        "Company": "MTN",
+        "Description": "Description Text",
+        "Difference": "1",
+        "FoE": "12",
+        "G": "38",
+        "P": "11",
+        "Service": "mobile service (MTN SA)",
+        "Total": "16",
+        "rank": "6"
+    },
+    {
+        "Company": "Axiata",
+        "Description": "Description Text",
+        "Difference": "1",
+        "FoE": "12",
+        "G": "5",
+        "P": "18",
+        "Service": "Mobile service (Telcel)",
+        "Total": "14",
+        "rank": "7"
+    },
+    {
+        "Company": "Bharti Airtel",
+        "Description": "Description",
+        "Difference": "1",
+        "FoE": "7",
+        "G": "14",
+        "P": "18",
+        "Service": "Mobile service (Airtel India)",
+        "Total": "14",
+        "rank": "8"
+    },
+    {
+        "Company": "Etisalat",
+        "Description": "Description Text",
+        "Difference": "0",
+        "FoE": "16",
+        "G": "7",
+        "P": "4",
+        "Service": "Mobile service (Etisalat UAE)",
+        "Total": "8",
+        "rank": "9"
+    },
+    {
+        "Company": "Ooredoo",
+        "Description": "Description Text",
+        "Difference": "0",
+        "FoE": "14",
+        "G": "2",
+        "P": "0",
+        "Service": "mobile service (Ooredoo Qatar)",
+        "Total": "5",
+        "rank": "10"
+    }
+]

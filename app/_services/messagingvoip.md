@@ -1,5 +1,5 @@
 ---
-entity: messagingvoip
+entity: messagingandvoipservices
 entity_type: services
 visualization: service
 layout: service
