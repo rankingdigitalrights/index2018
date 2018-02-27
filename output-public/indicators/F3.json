@@ -6,12 +6,20 @@
             "id": "americamovil",
             "name": "América Móvil",
             "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile"
+                {
+                    "text": "Prepaid Mobile"
+                },
+                {
+                    "text": "Postpaid Mobile"
+                }
             ],
             "average": [
-                "50",
-                "50"
+                {
+                    "value": "50"
+                },
+                {
+                    "value": "50"
+                }
             ],
             "rows": [
                 {
@@ -111,14 +119,26 @@
             "id": "apple",
             "name": "Apple",
             "headers": [
-                "iOS mobile ecosystem",
-                "iMessage",
-                "iCloud"
+                {
+                    "text": "iOS mobile ecosystem"
+                },
+                {
+                    "text": "iMessage"
+                },
+                {
+                    "text": "iCloud"
+                }
             ],
             "average": [
-                "43",
-                "30",
-                "60"
+                {
+                    "value": "43"
+                },
+                {
+                    "value": "30"
+                },
+                {
+                    "value": "60"
+                }
             ],
             "rows": [
                 {
@@ -239,14 +259,26 @@
             "id": "att",
             "name": "AT&T",
             "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile",
-                "Fixed Line Broadband"
+                {
+                    "text": "Prepaid Mobile"
+                },
+                {
+                    "text": "Postpaid Mobile"
+                },
+                {
+                    "text": "Fixed Line Broadband"
+                }
             ],
             "average": [
-                "60",
-                "50",
-                "50"
+                {
+                    "value": "60"
+                },
+                {
+                    "value": "50"
+                },
+                {
+                    "value": "50"
+                }
             ],
             "rows": [
                 {
@@ -367,12 +399,20 @@
             "id": "axiata",
             "name": "Axiata",
             "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile"
+                {
+                    "text": "Prepaid Mobile"
+                },
+                {
+                    "text": "Postpaid Mobile"
+                }
             ],
             "average": [
-                "20",
-                "20"
+                {
+                    "value": "20"
+                },
+                {
+                    "value": "20"
+                }
             ],
             "rows": [
                 {
@@ -472,14 +512,26 @@
             "id": "baidu",
             "name": "Baidu",
             "headers": [
-                "Baidu Search",
-                "Baidu Cloud",
-                "Baidu PostBar"
+                {
+                    "text": "Baidu Search"
+                },
+                {
+                    "text": "Baidu Cloud"
+                },
+                {
+                    "text": "Baidu PostBar"
+                }
             ],
             "average": [
-                "25",
-                "60",
-                "36"
+                {
+                    "value": "25"
+                },
+                {
+                    "value": "60"
+                },
+                {
+                    "value": "36"
+                }
             ],
             "rows": [
                 {
@@ -600,14 +652,26 @@
             "id": "bhartiairtel",
             "name": "Bharti Airtel",
             "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile",
-                "Fixed Line Broadband"
+                {
+                    "text": "Prepaid Mobile"
+                },
+                {
+                    "text": "Postpaid Mobile"
+                },
+                {
+                    "text": "Fixed Line Broadband"
+                }
             ],
             "average": [
-                "20",
-                "20",
-                "14"
+                {
+                    "value": "20"
+                },
+                {
+                    "value": "20"
+                },
+                {
+                    "value": "14"
+                }
             ],
             "rows": [
                 {
@@ -728,14 +792,26 @@
             "id": "etisalat",
             "name": "Etisalat",
             "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile",
-                "Fixed Line Broadband"
+                {
+                    "text": "Prepaid Mobile"
+                },
+                {
+                    "text": "Postpaid Mobile"
+                },
+                {
+                    "text": "Fixed Line Broadband"
+                }
             ],
             "average": [
-                "60",
-                "60",
-                "43"
+                {
+                    "value": "60"
+                },
+                {
+                    "value": "60"
+                },
+                {
+                    "value": "43"
+                }
             ],
             "rows": [
                 {
@@ -856,16 +932,32 @@
             "id": "facebook",
             "name": "Facebook",
             "headers": [
-                "Facebook",
-                "Instagram",
-                "WhatsApp",
-                "Messenger ecosystem"
+                {
+                    "text": "Facebook"
+                },
+                {
+                    "text": "Instagram"
+                },
+                {
+                    "text": "WhatsApp"
+                },
+                {
+                    "text": "Messenger ecosystem"
+                }
             ],
             "average": [
-                "64",
-                "64",
-                "70",
-                "90"
+                {
+                    "value": "64"
+                },
+                {
+                    "value": "64"
+                },
+                {
+                    "value": "70"
+                },
+                {
+                    "value": "90"
+                }
             ],
             "rows": [
                 {
@@ -1007,16 +1099,32 @@
             "id": "google",
             "name": "Google",
             "headers": [
-                "Search",
-                "Gmail",
-                "Youtube",
-                "Android mobile ecosystem"
+                {
+                    "text": "Search"
+                },
+                {
+                    "text": "Gmail"
+                },
+                {
+                    "text": "Youtube"
+                },
+                {
+                    "text": "Android mobile ecosystem"
+                }
             ],
             "average": [
-                "58",
-                "70",
-                "86",
-                "57"
+                {
+                    "value": "58"
+                },
+                {
+                    "value": "70"
+                },
+                {
+                    "value": "86"
+                },
+                {
+                    "value": "57"
+                }
             ],
             "rows": [
                 {
@@ -1158,14 +1266,26 @@
             "id": "kakao",
             "name": "Kakao",
             "headers": [
-                "Daum Search",
-                "Daum Mail",
-                "KakaoTalk"
+                {
+                    "text": "Daum Search"
+                },
+                {
+                    "text": "Daum Mail"
+                },
+                {
+                    "text": "KakaoTalk"
+                }
             ],
             "average": [
-                "50",
-                "80",
-                "80"
+                {
+                    "value": "50"
+                },
+                {
+                    "value": "80"
+                },
+                {
+                    "value": "80"
+                }
             ],
             "rows": [
                 {
@@ -1286,14 +1406,26 @@
             "id": "mailru",
             "name": "Mail.Ru",
             "headers": [
-                "VKontakte",
-                "Mail.ru email",
-                "Mail.ru Agent"
+                {
+                    "text": "VKontakte"
+                },
+                {
+                    "text": "Mail.ru email"
+                },
+                {
+                    "text": "Mail.ru Agent"
+                }
             ],
             "average": [
-                "50",
-                "60",
-                "60"
+                {
+                    "value": "50"
+                },
+                {
+                    "value": "60"
+                },
+                {
+                    "value": "60"
+                }
             ],
             "rows": [
                 {
@@ -1414,14 +1546,26 @@
             "id": "microsoft",
             "name": "Microsoft",
             "headers": [
-                "Bing",
-                "Outlook.com",
-                "Skype"
+                {
+                    "text": "Bing"
+                },
+                {
+                    "text": "Outlook.com"
+                },
+                {
+                    "text": "Skype"
+                }
             ],
             "average": [
-                "50",
-                "80",
-                "80"
+                {
+                    "value": "50"
+                },
+                {
+                    "value": "80"
+                },
+                {
+                    "value": "80"
+                }
             ],
             "rows": [
                 {
@@ -1542,12 +1686,20 @@
             "id": "mtn",
             "name": "MTN",
             "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile"
+                {
+                    "text": "Prepaid Mobile"
+                },
+                {
+                    "text": "Postpaid Mobile"
+                }
             ],
             "average": [
-                "0",
-                "20"
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "20"
+                }
             ],
             "rows": [
                 {
@@ -1647,14 +1799,26 @@
             "id": "orange",
             "name": "Orange",
             "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile",
-                "Fixed Line Broadband"
+                {
+                    "text": "Prepaid Mobile"
+                },
+                {
+                    "text": "Postpaid Mobile"
+                },
+                {
+                    "text": "Fixed Line Broadband"
+                }
             ],
             "average": [
-                "70",
-                "70",
-                "57"
+                {
+                    "value": "70"
+                },
+                {
+                    "value": "70"
+                },
+                {
+                    "value": "57"
+                }
             ],
             "rows": [
                 {
@@ -1775,14 +1939,26 @@
             "id": "ooredoo",
             "name": "Ooredoo",
             "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile",
-                "Fixed Line Broadband"
+                {
+                    "text": "Prepaid Mobile"
+                },
+                {
+                    "text": "Postpaid Mobile"
+                },
+                {
+                    "text": "Fixed Line Broadband"
+                }
             ],
             "average": [
-                "40",
-                "40",
-                "29"
+                {
+                    "value": "40"
+                },
+                {
+                    "value": "40"
+                },
+                {
+                    "value": "29"
+                }
             ],
             "rows": [
                 {
@@ -1903,10 +2079,14 @@
             "id": "samsung",
             "name": "Samsung",
             "headers": [
-                "Samsung"
+                {
+                    "text": "Samsung"
+                }
             ],
             "average": [
-                "36"
+                {
+                    "value": "36"
+                }
             ],
             "rows": [
                 {
@@ -1985,14 +2165,26 @@
             "id": "telefonica",
             "name": "Telefónica",
             "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile",
-                "Fixed Line Broadband"
+                {
+                    "text": "Prepaid Mobile"
+                },
+                {
+                    "text": "Postpaid Mobile"
+                },
+                {
+                    "text": "Fixed Line Broadband"
+                }
             ],
             "average": [
-                "70",
-                "70",
-                "50"
+                {
+                    "value": "70"
+                },
+                {
+                    "value": "70"
+                },
+                {
+                    "value": "50"
+                }
             ],
             "rows": [
                 {
@@ -2113,14 +2305,26 @@
             "id": "tencent",
             "name": "TenCent",
             "headers": [
-                "QZone",
-                "QQ",
-                "WeChat"
+                {
+                    "text": "QZone"
+                },
+                {
+                    "text": "QQ"
+                },
+                {
+                    "text": "WeChat"
+                }
             ],
             "average": [
-                "43",
-                "60",
-                "57"
+                {
+                    "value": "43"
+                },
+                {
+                    "value": "60"
+                },
+                {
+                    "value": "57"
+                }
             ],
             "rows": [
                 {
@@ -2241,12 +2445,20 @@
             "id": "twitter",
             "name": "Twitter",
             "headers": [
-                "Twitter",
-                "Periscope"
+                {
+                    "text": "Twitter"
+                },
+                {
+                    "text": "Periscope"
+                }
             ],
             "average": [
-                "64",
-                "64"
+                {
+                    "value": "64"
+                },
+                {
+                    "value": "64"
+                }
             ],
             "rows": [
                 {
@@ -2346,14 +2558,26 @@
             "id": "vodafone",
             "name": "Vodafone",
             "headers": [
-                "Prepaid Mobile",
-                "Postpaid Mobile",
-                "Fixed Line Broadband"
+                {
+                    "text": "Prepaid Mobile"
+                },
+                {
+                    "text": "Postpaid Mobile"
+                },
+                {
+                    "text": "Fixed Line Broadband"
+                }
             ],
             "average": [
-                "60",
-                "60",
-                "43"
+                {
+                    "value": "60"
+                },
+                {
+                    "value": "60"
+                },
+                {
+                    "value": "43"
+                }
             ],
             "rows": [
                 {
@@ -2474,14 +2698,26 @@
             "id": "yahoo",
             "name": "Oath (Yahoo)",
             "headers": [
-                "Yahoo Mail",
-                "Flickr",
-                "Tumblr"
+                {
+                    "text": "Yahoo Mail"
+                },
+                {
+                    "text": "Flickr"
+                },
+                {
+                    "text": "Tumblr"
+                }
             ],
             "average": [
-                "70",
-                "57",
-                "57"
+                {
+                    "value": "70"
+                },
+                {
+                    "value": "57"
+                },
+                {
+                    "value": "57"
+                }
             ],
             "rows": [
                 {
@@ -2602,14 +2838,26 @@
             "id": "yandex",
             "name": "Yandex",
             "headers": [
-                "Yandex Mail ecosystem",
-                "Yandex Search",
-                "Yandex Disk"
+                {
+                    "text": "Yandex Mail ecosystem"
+                },
+                {
+                    "text": "Yandex Search"
+                },
+                {
+                    "text": "Yandex Disk"
+                }
             ],
             "average": [
-                "40",
-                "25",
-                "60"
+                {
+                    "value": "40"
+                },
+                {
+                    "value": "25"
+                },
+                {
+                    "value": "60"
+                }
             ],
             "rows": [
                 {

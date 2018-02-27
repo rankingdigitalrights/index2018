@@ -48,8 +48,10 @@ def _create_si_company_object(si_base_data, company_data, rows):
     res = OrderedDict()
     res['id'] = PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES[company_data.name]
     res['name'] = company_data.name
-    res['headers'] = [rows[si_base_data.starting_row_index][index] for index in service_indexes]
-    res['average'] = [rows[si_base_data.average_row_index][index] for index in service_indexes]
+    res['headers'] = [{'text': rows[si_base_data.starting_row_index][index]}
+                      for index in service_indexes]
+    res['average'] = [{'value': rows[si_base_data.average_row_index][index]}
+                      for index in service_indexes]
     res['rows'] = []
 
     for descriptor in si_base_data.descriptors:
