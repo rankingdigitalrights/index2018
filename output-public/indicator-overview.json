@@ -1,6 +1,6 @@
 [
     {
-        "id": "G1.",
+        "id": "G1",
         "name": "G1. Policy Commitment",
         "scores": {
             "AT&T": "100",
@@ -28,7 +28,7 @@
         }
     },
     {
-        "id": "G2.",
+        "id": "G2",
         "name": "G2. Governance and management oversight",
         "scores": {
             "AT&T": "100",
@@ -56,7 +56,7 @@
         }
     },
     {
-        "id": "G3.",
+        "id": "G3",
         "name": "G3. Internal implementation",
         "scores": {
             "AT&T": "87.5",
@@ -84,7 +84,7 @@
         }
     },
     {
-        "id": "G4.",
+        "id": "G4",
         "name": "G4. Impact assessment",
         "scores": {
             "AT&T": "11.11",
@@ -112,7 +112,7 @@
         }
     },
     {
-        "id": "G5.",
+        "id": "G5",
         "name": "G5. Stakeholder engagement",
         "scores": {
             "AT&T": "33.33",
@@ -140,7 +140,7 @@
         }
     },
     {
-        "id": "G6.",
+        "id": "G6",
         "name": "G6. Remedy",
         "scores": {
             "AT&T": "35",
@@ -168,7 +168,7 @@
         }
     },
     {
-        "id": "F1.",
+        "id": "F1",
         "name": "F1. Access to terms of service",
         "scores": {
             "AT&T": "83.33",
@@ -196,7 +196,7 @@
         }
     },
     {
-        "id": "F2.",
+        "id": "F2",
         "name": "F2. Changes to terms of service",
         "scores": {
             "AT&T": "37.5",
@@ -224,7 +224,7 @@
         }
     },
     {
-        "id": "F3.",
+        "id": "F3",
         "name": "F3. Process for terms of service enforcement",
         "scores": {
             "AT&T": "52.5",
@@ -252,7 +252,7 @@
         }
     },
     {
-        "id": "F4.",
+        "id": "F4",
         "name": "F4. Data about terms of service enforcement",
         "scores": {
             "AT&T": "0",
@@ -280,7 +280,7 @@
         }
     },
     {
-        "id": "F5.",
+        "id": "F5",
         "name": "F5. Process for responding to third-party requests for content or account restriction",
         "scores": {
             "AT&T": "62.5",
@@ -308,7 +308,7 @@
         }
     },
     {
-        "id": "F6.",
+        "id": "F6",
         "name": "F6. Data about government requests for content or account restriction",
         "scores": {
             "AT&T": "20",
@@ -336,7 +336,7 @@
         }
     },
     {
-        "id": "F7.",
+        "id": "F7",
         "name": "F7. Data about private requests for content or account restriction",
         "scores": {
             "AT&T": "0",
@@ -364,7 +364,7 @@
         }
     },
     {
-        "id": "F8.",
+        "id": "F8",
         "name": "F8. User notification about content and account restriction",
         "scores": {
             "AT&T": "33.33",
@@ -392,7 +392,7 @@
         }
     },
     {
-        "id": "F9.",
+        "id": "F9",
         "name": "F9. Network management (telecommunications companies)",
         "scores": {
             "AT&T": "50",
@@ -420,7 +420,7 @@
         }
     },
     {
-        "id": "F10.",
+        "id": "F10",
         "name": "F10. Network shutdown (telecommunications companies)",
         "scores": {
             "AT&T": "12.5",
@@ -448,7 +448,7 @@
         }
     },
     {
-        "id": "F11.",
+        "id": "F11",
         "name": "F11. Identity policy",
         "scores": {
             "AT&T": "25",
@@ -476,7 +476,7 @@
         }
     },
     {
-        "id": "P1.",
+        "id": "P1",
         "name": "P1. Access to privacy policies",
         "scores": {
             "AT&T": "100",
@@ -504,7 +504,7 @@
         }
     },
     {
-        "id": "P2.",
+        "id": "P2",
         "name": "P2. Changes to privacy policies",
         "scores": {
             "AT&T": "50",
@@ -532,7 +532,7 @@
         }
     },
     {
-        "id": "P3.",
+        "id": "P3",
         "name": "P3. Collection of user information",
         "scores": {
             "AT&T": "50",
@@ -560,7 +560,7 @@
         }
     },
     {
-        "id": "P4.",
+        "id": "P4",
         "name": "P4. Sharing of user information",
         "scores": {
             "AT&T": "37.5",
@@ -588,7 +588,7 @@
         }
     },
     {
-        "id": "P5.",
+        "id": "P5",
         "name": "P5. Purpose for collecting and sharing user information",
         "scores": {
             "AT&T": "37.5",
@@ -616,7 +616,7 @@
         }
     },
     {
-        "id": "P6.",
+        "id": "P6",
         "name": "P6. Retention of user information",
         "scores": {
             "AT&T": "10",
@@ -644,7 +644,7 @@
         }
     },
     {
-        "id": "P7.",
+        "id": "P7",
         "name": "P7. Users’ control over their own user information",
         "scores": {
             "AT&T": "25",
@@ -672,7 +672,7 @@
         }
     },
     {
-        "id": "P8.",
+        "id": "P8",
         "name": "P8. Users’ access to their own user information",
         "scores": {
             "AT&T": "68.75",
@@ -700,7 +700,7 @@
         }
     },
     {
-        "id": "P9.",
+        "id": "P9",
         "name": "P9. Collection of user information from third parties (Internet companies)",
         "scores": {
             "AT&T": "N/A",
@@ -728,7 +728,7 @@
         }
     },
     {
-        "id": "P10.",
+        "id": "P10",
         "name": "P10. Process for responding to third-party requests for user information",
         "scores": {
             "AT&T": "58.33",
@@ -756,7 +756,7 @@
         }
     },
     {
-        "id": "P11.",
+        "id": "P11",
         "name": "P11. Data about third-party requests for user information",
         "scores": {
             "AT&T": "63.64",
@@ -784,7 +784,7 @@
         }
     },
     {
-        "id": "P12.",
+        "id": "P12",
         "name": "P12. User notification about third-party requests for user information",
         "scores": {
             "AT&T": "0",
@@ -812,7 +812,7 @@
         }
     },
     {
-        "id": "P13.",
+        "id": "P13",
         "name": "P13. Security oversight",
         "scores": {
             "AT&T": "100",
@@ -840,7 +840,7 @@
         }
     },
     {
-        "id": "P14.",
+        "id": "P14",
         "name": "P14. Addressing security vulnerabilities",
         "scores": {
             "AT&T": "16.67",
@@ -868,7 +868,7 @@
         }
     },
     {
-        "id": "P15.",
+        "id": "P15",
         "name": "P15. Data breaches",
         "scores": {
             "AT&T": "16.67",
@@ -896,7 +896,7 @@
         }
     },
     {
-        "id": "P16.",
+        "id": "P16",
         "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)",
         "scores": {
             "AT&T": "N/A",
@@ -924,7 +924,7 @@
         }
     },
     {
-        "id": "P17.",
+        "id": "P17",
         "name": "P17. Account Security (Internet, software, and device companies)",
         "scores": {
             "AT&T": "N/A",
@@ -952,7 +952,7 @@
         }
     },
     {
-        "id": "P18.",
+        "id": "P18",
         "name": "P18. Inform and educate users about potential risks",
         "scores": {
             "AT&T": "100",

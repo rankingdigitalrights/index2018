@@ -77,9 +77,9 @@ SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS = [
     u'P16. Encryption of user communication and private content (Internet, software, and device companies)',
     u'P17. Account Security (Internet, software, and device companies)', u'P18. Inform and educate users about potential risks']
 INDICATOR_IDS = [
-    u'G1.', u'G2.', u'G3.', u'G4.', u'G5.', u'G6.', u'F1.', u'F2.', u'F3.', u'F4.', u'F5.', u'F6.', u'F7.', u'F8.',
-    u'F9.', u'F10.', u'F11.', u'P1.', u'P2.', u'P3.', u'P4.', u'P5.', u'P6.', u'P7.', u'P8.', u'P9.', u'P10.', u'P11.',
-    u'P12.', u'P13.', u'P14.', u'P15.', u'P16.', u'P17.', u'P18.']
+    u'G1', u'G2', u'G3', u'G4', u'G5', u'G6', u'F1', u'F2', u'F3', u'F4', u'F5', u'F6', u'F7', u'F8',
+    u'F9', u'F10', u'F11', u'P1', u'P2', u'P3', u'P4', u'P5', u'P6', u'P7', u'P8', u'P9', u'P10', u'P11',
+    u'P12', u'P13', u'P14', u'P15', u'P16', u'P17', u'P18']
 
 COMMITMENT_INDICATORS = [indicator for indicator in SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS if indicator.startswith('G')]
 FREEDOM_INDICATORS = [indicator for indicator in SCORES_OVERVIEW_CSV_INDICATOR_FULL_NAMES_ROWS if indicator.startswith('F')]
