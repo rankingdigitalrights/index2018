@@ -230,6 +230,7 @@ class DifferenceCSVMappings(object):
 
 
 class DifferenceJSONFields(object):
+    id = "id"
     name = "name"
     description = "description"
     total_2017 = "total_2017"

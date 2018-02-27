@@ -3,18 +3,21 @@
 
 try:
     from .helpers.command_line_parser import parse_and_check
-    from .helpers.fields import DIFFERENCE_COLUMN_NAMES, DifferenceCSVMappings, DifferenceJSONFields
+    from .helpers.fields import DIFFERENCE_COLUMN_NAMES, DifferenceCSVMappings, DifferenceJSONFields, \
+        PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES
     from .helpers.csv_json_rw import load_rows_as_list_of_dicts, create_json_file
     from .csv_structure_checkers import check_difference_structure
 except SystemError:
     from helpers.command_line_parser import parse_and_check
-    from helpers.fields import DIFFERENCE_COLUMN_NAMES, DifferenceCSVMappings, DifferenceJSONFields
+    from helpers.fields import DIFFERENCE_COLUMN_NAMES, DifferenceCSVMappings, DifferenceJSONFields, \
+        PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES
     from helpers.csv_json_rw import load_rows_as_list_of_dicts, create_json_file
     from csv_structure_checkers import check_difference_structure
 
 
 def _convert_to_json_object(row_as_dict):
     return {
+        DifferenceJSONFields.id: PREDEFINED_COMPANY_IDS_BY_THEIR_DISPLAY_NAMES[row_as_dict[DifferenceCSVMappings.company]],
         DifferenceJSONFields.name: row_as_dict[DifferenceCSVMappings.company],
         DifferenceJSONFields.description: row_as_dict[DifferenceCSVMappings.description],
         DifferenceJSONFields.total_2017: float(row_as_dict[DifferenceCSVMappings.total_previous]),
