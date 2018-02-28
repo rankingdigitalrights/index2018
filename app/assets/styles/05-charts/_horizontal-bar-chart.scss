@@ -100,6 +100,18 @@ padding-bottom: .5em;
   text-decoration: none;
   transition: color .2s ease-out;
   display: block;
+    @include media(small-up) {
+      font-size: 14px;
+    }
+    @include media(medium-up) {
+      font-size: 15px;
+    }
+    @include media(large-up) {
+      font-size: 15px;
+    }
+    @include media(xlarge-up) {
+      font-size: 15px;
+    }
   }
 
   &.vis--row_title {

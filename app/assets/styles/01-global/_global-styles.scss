@@ -67,16 +67,16 @@ font-family: $simplon-bold;
 
 h2 {
 color: $black;
-font-size: 22px;
+font-size: 1.375em;
 font-family: $simplon-bold;
   @include media(small-up) {
-  font-size: 26px;
+  font-size: 1.563em;
   }
   @include media(medium-up) {
-  font-size: 25px;
+  font-size: 1.563em;
   }
   @include media(large-up) { 
-  font-size: 31px;
+  font-size: 1.938em;
   }
   @include media(xlarge-up) {
   font-size: 2em;

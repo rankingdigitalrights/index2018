@@ -8,19 +8,19 @@
 		font-size: 13px;
 		text-align: center;
 		  @include media(small-up) {
-		  font-size: 15px;
+		  font-size: 0.938em;
           text-align: center;
 		  }
 		  @include media(medium-up) {
-		  font-size: 16px;
+		  font-size: 1em;
 		  text-align: center;
 		  }
 		  @include media(large-up) {
-		  font-size: 18px;
+		  font-size: 1em;
 		  text-align: left;
 		  }
 		  @include media(xlarge-up) {
-		  font-size: 21px; 
+		  font-size: 1em;
 		  text-align: left;
 		  }   
 		}	
@@ -194,16 +194,16 @@
 				}				
 			}
 			.description--text + .description--text {
-			margin-right: 0px;	
+			margin-right: 0;
 		    margin-top: 0.75em;
 		      @include media(small-up) {
 		      margin-top: 1em;  
 		      }
 		      @include media(medium-up) {
-		      margin-top: 0em;  
+		      margin-top: 0;
 		      }
 		      @include media(large-up) {
-		      margin-top: 0em;  
+		      margin-top: 0;
 		      }  
 			}
 			.action-links {
@@ -281,10 +281,11 @@
 			width: 100%;
 			display: inline-flex;
 			align-items: center;
-			padding-top: 0em;
+			padding-top: 0;
 			padding-bottom: 0;
 			line-height: 1.4em;
 			cursor: default;
+			min-height: 35px;
 			}
 
 			.vis--row + .vis--row {
@@ -347,7 +348,7 @@
 				}  		
 				> a {
 				font-family: $simplon-light;
-				font-size: 15px;
+				font-size: 14px;
 				color: $black;
 				line-height: 1; 
 				letter-spacing: 0;
@@ -356,16 +357,16 @@
 				display: block;
 					text-align: left;
 					@include media(small-up) {
-					font-size: 18px;
+					font-size: 14px;
 					}
 					@include media(medium-up) {
-					font-size: 16px;
+					font-size: 15px;
 					}
 					@include media(large-up) {
-					font-size: 19px;
+					font-size: 15px;
 					}
 					@include media(xlarge-up) {
-					font-size: 19px;
+					font-size: 15px;
 					}  
 				}
 				.collecticon {

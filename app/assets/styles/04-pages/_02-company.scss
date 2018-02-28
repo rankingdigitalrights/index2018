@@ -140,22 +140,22 @@
     .company-type {
     font-family: $simplon-light;
     color: $medium-gray;
-    font-size: 14px;
+    font-size: 0.875em;
     line-height: 1.3; 
     letter-spacing: 1px;
     text-transform: normal;
     padding: 0 0 15px 0;
       @include media(small-up) {
-      font-size: 14px;
+        font-size: 0.875em;
       }
       @include media(medium-up) {
-      font-size: 15px;
+      font-size: 1em;
       }
       @include media(large-up) {
-      font-size: 16px;
+      font-size: 1em;
       }
       @include media(xlarge-up) {
-      font-size: 16px;
+      font-size: 1em;
       }        
     }
 
@@ -163,7 +163,7 @@
     .comp--sub_website {
     font-family: $simplon-light;
     color: $medium-gray;
-    font-size: 13px;
+    font-size: 0.875em;
     line-height: 1.3; 
     letter-spacing: 1px;
     margin-left: 3.05em;
@@ -175,16 +175,16 @@
         min-width: 16px;
       }
       @include media(small-up) {
-      font-size: 14px;  
+        font-size: 0.875em;
       }
       @include media(medium-up) {
-      font-size: 15px;  
+        font-size: 1em;
       }
       @include media(large-up) {
-      font-size: 16px;
+        font-size: 1em;
       }
       @include media(xlarge-up) {
-      font-size: 16px;  
+        font-size: 1em;
       }
       label {
       font-family: $simplon-regular;  
@@ -208,22 +208,22 @@
     .comp--score,.comp--rank,.comp--difference {
     font-family: $simplon-light;
     color: $medium-gray;
-    font-size: 19px;
+    font-size: 0.875em;
     line-height: 1.3; 
     letter-spacing: 1px;
     text-transform: normal;
     margin-top: 1em;
     text-align: left;
       @include media(small-up) {
-      font-size: 19px;
+     font-size: 0.875em;
       margin-top: 2em;  
       }
       @include media(medium-up) {
-      font-size: 20px;
+        font-size: 1em;
       margin-top: 0;
       }
       @include media(large-up) {
-      font-size: 21px;
+        font-size: 1em;
       margin-top: 0;
       }
       @include media(xlarge-up) {
@@ -279,13 +279,13 @@
     margin-top: 1em;  
     font-family: $simplon-light;
     color: $black;
-    font-size: 1em;
+    font-size: 0.875em;
     line-height: 1.3; 
     letter-spacing: 1px;
       padding-top: 30px;
       @include media(small-up) {
       margin-top: 2em;  
-      font-size: 1em;
+      font-size: 0.875em;
       }
       @include media(medium-up) {
       margin-top: 0;
@@ -347,12 +347,12 @@
         height: 4em;
         margin: 0 2em;
         .dot{
-          top: 2.8em;
+          top: 2em;
           border: 0.5px solid white;
         }
         .highlight{
           background-color: $base-color;
-          top: 2.6em;
+          top: 1.9em;
         }
         .dotchart--label_highlight{
           display: none;
@@ -360,11 +360,11 @@
       }
       .dotchart--label_left {
         left: -2em;
-        top: 1.7em;
+        top: 1.9em;
       }
       .dotchart--label_right {
         right: -2.5em;
-        top: 1.7em;
+        top: 1.9em;
       }
 
 
@@ -501,9 +501,9 @@
           line-height: 1.3; 
           letter-spacing: 1px;
           margin-bottom: 0;
-          font-size: 1em;
+          font-size: 0.875em;
             @include media(small-up) {
-            font-size: 1em;
+            font-size: 0.875em;
             }
             @include media(medium-up) {
             font-size: 1em;
@@ -522,22 +522,22 @@
           margin-top: 0;
           font-family: $simplon-bold;
           color: $black;
-          font-size: 22px;
+          font-size: 1.375em;
           line-height: 1.3; 
           letter-spacing: 1px;
           text-transform: capitalize;
             @include media(small-up) {
-            font-size: 25px;
+              font-size: 1.563em;
             }
             @include media(medium-up) {
-            font-size: 25px;
+              font-size: 1.563em;
             }
             @include media(large-up) {
-            font-size: 31px;
+              font-size: 1.938em;
             }
             @include media(xlarge-up) {
-            font-size: 2em;
-            }          
+              font-size: 2em;
+            }
           }
         }
         .comp--instant_mess + .comp--instant_mess {
@@ -1049,7 +1049,7 @@
         color: $black;
         font-size: 9px !important;
         line-height: 1.3; 
-        letter-spacing: 0px;
+        letter-spacing: 0;
           @include media(small-up) {
           font-size: 11px !important;  
           }
@@ -1057,10 +1057,10 @@
           font-size: 12px !important; 
           }
           @include media(large-up) {
-          font-size: 12px !important;
+          font-size: 13px !important;
           }
           @include media(xlarge-up) {
-          font-size: 12px !important;  
+          font-size: 13px !important;
           }          
         }              
       }
