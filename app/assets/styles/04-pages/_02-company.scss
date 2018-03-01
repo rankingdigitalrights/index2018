@@ -39,21 +39,10 @@
       font-size: 25px;
     }
     @include media(xlarge-up) {
-      font-size: 50px;
+      font-size: 2em;
     }
     span {
-      @include media(small-up) {
-        font-size: 19px;
-      }
-      @include media(medium-up) {
-        font-size: 20px;
-      }
-      @include media(large-up) {
-        font-size: 25px;
-      }
-      @include media(xlarge-up) {
-        font-size: 50px;
-      }
+      font-size: inherit;
     }
   }
 
