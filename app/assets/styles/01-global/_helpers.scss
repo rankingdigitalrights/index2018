@@ -91,24 +91,24 @@
 
 .contain {
   @media only screen and (min-width: 1366px) {
-    margin-left: 5%;
-    margin-right: 5%;    
+    margin-left: 12%;//5
+    margin-right: 12%;
   }  
   @media only screen and (min-width: 1440px) {
-    margin-left: 10%;
-    margin-right: 10%;    
+    margin-left: 12%;//10
+    margin-right: 12%;
   }  
   @media only screen and (min-width: 1600px) {
    /* margin-left: 15%;
-    margin-right: 15%;*/
-    margin-left: 10%;
-    margin-right: 10%;     
+    margin-right: 15%;*///12
+    margin-left: 12%;
+    margin-right: 12%;
   }
   @media only screen and (min-width: 1920px) {
     /*margin-left: 17%;
     margin-right: 17%;*/
-    margin-left: 10%;
-    margin-right: 10%;       
+    margin-left: 12%;
+    margin-right: 12%;
   }  
 }
 
