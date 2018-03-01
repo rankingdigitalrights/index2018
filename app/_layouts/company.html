@@ -61,7 +61,7 @@
 
               <div class="comp--rank">
                 <label>Rank</label>
-                <div class="comp--rank--value">10</div>
+                <div class="comp--rank--value">{{ page.rank }}</div>
               </div> <!-- comp--rank -->
 
               <div class="comp--score">
@@ -142,20 +142,20 @@
               <div class="overall-score">
                 <label class="label-black-style overall-score-label">Overall score <span id="total_2018" class="overall-score-value"></span></label>
               </div>
-              <p>{{ page.analysis_text_left }}</p>
+              <p>{{ page.analysis_text }}</p>
             </div>
 
             <div class="container--right">
               <div class="key-recommendation">
                 <label class="label-black-style key-recommendation-label">Key Recommendation</label>
-                <p>Ranking Digital Rights identified three areas where we think improved disclosure by Facebook would have the greatest positive effect for Facebook users and investors. We did not identify any legal or regulatory obstacles that would prevent Facebook from disclosing this information:
-                </p>
+                <p>{{ page.key_recommendation_paragraph }}</p>
+                {% if page.key_recommendation_list %}
                 <ul>
-                  <li>Disclose information about Facebook’s actual rules for enforcing its terms of service.</li>
-                  <li>Provide clearer remedy and response mechanisms for cases where a user has been unfairly punished for content they’ve posted or actions they have taken on the platform.</li>
-                  <li>Bullet point about targeted advertising?</li>
+                  {% for item in page.key_recommendation_list %}
+                  <li>{{ item }}</li>
+                  {% endfor %}
                 </ul>
-
+                {% endif; %}
               </div>
               <div class="border-line"></div>
               <p>{{ page.analysis_text_right }}</p>
@@ -172,7 +172,6 @@
 
           </div>
         </section>
-
 
         <!-- Section governance -->
         <section class="section--governance">
@@ -204,7 +203,6 @@
                 </li>
               </ul>
               <p>{{ page.governance_text }}</p>
-
             </div>
 
             <div class="container--right">
@@ -212,7 +210,6 @@
                 <label>Indicators</label>
                 <div id="indicators--commitment" class="company-indicators company-line-chart">
                 </div>
-
               </div>
 
               {% if page.summary_of_changes_governance %}
@@ -239,7 +236,6 @@
             </div>
           </div>
         </section>
-
 
         <!-- Section freedom -->
         <section class="section--freedom">
@@ -371,7 +367,6 @@
 
       </div>
     </div>
-
 
     {% include footer.html %}
 
