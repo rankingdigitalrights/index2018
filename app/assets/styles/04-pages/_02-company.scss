@@ -265,9 +265,12 @@
         text-align: center;
       }
       .comp--difference--value{
+        span {
+          font-size: 37px;
+        }
         i{
           position: absolute;
-          color: $red;
+          //color: $red;
           font-size: 25px;
           line-height: 1.6em;
         }

@@ -66,12 +66,15 @@
 
               <div class="comp--score">
                 <label>Score</label>
-                <div class="comp--score--value">{{ page.total }}%</div>
+                <div id="total_score" class="comp--score--value"></div>
               </div> <!-- overall score -->
 
               <div class="comp--difference">
                 <label>Difference</label>
-                <div class="comp--difference--value">25 <i class="fa fa-chevron-down" aria-hidden="true"></i></div>
+                <div id="total_difference" class="comp--difference--value">
+                  <span></span>
+                  <i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i>
+                </div>
               </div> <!-- comp--rank -->
 
               <div class="comp--among">
@@ -137,7 +140,7 @@
                 <div class="title-line-chart-value" style="width:{{ page.total }}%;"></div>
               </div>
               <div class="overall-score">
-                <label class="label-black-style overall-score-label">Overall score <span class="overall-score-value">{{ page.total }}%</span></label>
+                <label class="label-black-style overall-score-label">Overall score <span id="total_2018" class="overall-score-value"></span></label>
               </div>
               <p>{{ page.analysis_text_left }}</p>
             </div>
