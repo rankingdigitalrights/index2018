@@ -2,32 +2,32 @@
     {
         "commitment": "72.38",
         "display": "Google",
-        "freedom": "50.56",
+        "freedom": "58.65",
         "id": "google",
         "name": "google",
-        "privacy": "61.37",
+        "privacy": "62.68",
         "telco": "false",
-        "total": 60.42
+        "total": 63.34
     },
     {
         "commitment": "88.15",
         "display": "Microsoft",
-        "freedom": "44.20",
+        "freedom": "51.68",
         "id": "microsoft",
         "name": "microsoft",
-        "privacy": "54.71",
+        "privacy": "56.41",
         "telco": "false",
-        "total": 57.92
+        "total": 60.89
     },
     {
         "commitment": "88.24",
         "display": "Yahoo",
-        "freedom": "41.91",
+        "freedom": "48.34",
         "id": "yahoo",
         "name": "yahoo",
         "privacy": "54.42",
         "telco": "false",
-        "total": 57.16
+        "total": 58.91
     },
     {
         "commitment": "80.43",
@@ -52,32 +52,32 @@
     {
         "commitment": "83.61",
         "display": "Vodafone",
-        "freedom": "41.13",
+        "freedom": "45.68",
         "id": "vodafone",
         "name": "vodafone",
         "privacy": "43.67",
         "telco": "true",
-        "total": 50.29
+        "total": 51.85
     },
     {
         "commitment": "34.81",
         "display": "Kakao",
-        "freedom": "49.55",
+        "freedom": "54.69",
         "id": "kakao",
         "name": "kakao",
-        "privacy": "50.03",
+        "privacy": "51.42",
         "telco": "false",
-        "total": 47.13
+        "total": 49.29
     },
     {
         "commitment": "50.12",
         "display": "AT&T",
-        "freedom": "34.24",
+        "freedom": "41.06",
         "id": "att",
         "name": "at&t",
         "privacy": "48.94",
         "telco": "true",
-        "total": 44.11
+        "total": 46.45
     },
     {
         "commitment": "33.06",
@@ -120,14 +120,14 @@
         "total": 27.88
     },
     {
-        "commitment": "6.90",
+        "commitment": "6.9",
         "display": "Yandex",
-        "freedom": "19.03",
+        "freedom": "20.6",
         "id": "yandex",
         "name": "yandex",
-        "privacy": "34.03",
+        "privacy": "35.88",
         "telco": "false",
-        "total": 25.01
+        "total": 26.44
     },
     {
         "commitment": "6.94",
@@ -152,22 +152,22 @@
     {
         "commitment": "7.08",
         "display": "Mail.Ru",
-        "freedom": "22.19",
+        "freedom": "22.42",
         "id": "mailru",
         "name": "mail.ru",
         "privacy": "25.25",
         "telco": "false",
-        "total": 21.11
+        "total": 21.17
     },
     {
-        "commitment": "5.00",
+        "commitment": "5",
         "display": "Baidu",
-        "freedom": "12.50",
+        "freedom": "12.5",
         "id": "baidu",
         "name": "baidu",
-        "privacy": "22.10",
+        "privacy": "22.72",
         "telco": "false",
-        "total": 16.37
+        "total": 16.71
     },
     {
         "commitment": "38.24",
@@ -215,7 +215,7 @@
         "freedom": "13.91",
         "id": "ooredoo",
         "name": "ooredoo",
-        "privacy": "0.00",
+        "privacy": "0",
         "telco": "true",
         "total": 5.09
     }
