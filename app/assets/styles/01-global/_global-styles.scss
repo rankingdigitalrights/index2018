@@ -38,7 +38,7 @@ overflow-x: hidden;
 /* Headlines */
 
 h1, h2, h3, h4, h5, h6 {
-font-family: $simplon;  //$platform-bold
+font-family: $simplon-bold;  //$platform-bold
 line-height: 1.2;
 text-transform: normal;
 margin-top: 0;
@@ -49,7 +49,7 @@ padding: 0;
 h1 {
 color: $black;  
 font-size: 36px;
-font-family: $simplon;
+font-family: $simplon-bold;
   @include media(small-up) {
     font-size: 36px;
   }
@@ -68,7 +68,7 @@ font-family: $simplon;
 h2 {
 color: $black;
 font-size: 22px;
-font-family: $simplon;
+font-family: $simplon-bold;
   @include media(small-up) {
   font-size: 26px;
   }
