@@ -50,6 +50,9 @@ module.exports = BaseChart.extend({
 
             var x = d3.scale.linear()
                 .domain(d3.extent(data, function (d) {
+                    if(d.value == 'N/A') {
+                        d.value = 0;
+                    }
                     var neg = d.value * (-1);
                     return neg;
                 }))
