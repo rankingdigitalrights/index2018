@@ -4,12 +4,17 @@ var $ = require('jquery');
 
 module.exports = Backbone.View.extend({
 
+    initialize: function (options) {
+        this.collection = options.collection;
+        this.companyName = options.companyName;
+    },
+
     render: function (el) {
 
         var collection = this.collection;
         var companyName = this.companyName;
 
-        var difference = collection.findWhere({name: 'Apple'});
+        var difference = collection.findWhere({id: companyName});
 
         // Governance
         var governance_2017 = difference.attributes.governance_2017;
