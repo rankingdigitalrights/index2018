@@ -12,7 +12,7 @@ module.exports = BaseChart.extend({
 
   render: function (el) {
     var radius = this.diameter / 2;
-    var circleWidth = this.diameter / 7.5;
+    var circleWidth = this.diameter / 25;
     var data = this.data;
 
     var g = d3.select(el).append('svg')
@@ -34,7 +34,7 @@ module.exports = BaseChart.extend({
     var name = g.append('text')
       .attr('class', 'circle--label_name_' + label.name[0] )
       .style('text-anchor', 'middle')
-      .attr('dy', '150px')
+      .attr('dy', '35px')
       .on('click', function (d) {
         var href = label.name.toLowerCase().split(' ').join('-');
         window.location.href = baseurl + '/categories/' + href;
@@ -43,7 +43,7 @@ module.exports = BaseChart.extend({
     var score = g.append('text')
       .attr('class', 'circle--label_val')
       .style('text-anchor', 'middle')
-      .attr('dy', '12px');
+      .attr('dy', '5px');
 
     var paths = g.selectAll('arc')
       .data(pie(data))

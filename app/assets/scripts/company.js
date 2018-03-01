@@ -27,6 +27,7 @@ module.exports = function (companyName) {
     collection: overview,
     highlighted: companyName
   });
+
   var companyOverview = new CompanyOverview({
     collection: overview,
     companyName: companyName,

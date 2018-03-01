@@ -65,6 +65,9 @@ module.exports = BaseChart.extend({
       }
 
       var label = {name: subCategories[i].display, val: model.get(subCategories[i].id)};
+
+      console.info(model);
+
       var chart = new CircleChart(_.extend({
         width: width,
         height: width,

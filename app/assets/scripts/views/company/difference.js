@@ -16,6 +16,18 @@ module.exports = Backbone.View.extend({
 
         var difference = collection.findWhere({id: companyName});
 
+        // Overall score
+        var total_2018 = difference.attributes.total_2018;
+        $('#total_2018').text(Math.round(total_2018) + '%');
+        $('#total_score').text(Math.round(total_2018) + '%');
+
+        // Total difference
+        var total_difference = difference.attributes.total_difference;
+        $('#total_difference span').text(
+            Math.abs(Math.round(total_difference))
+        );
+        if(total_difference < 0) $('#total_difference .fa').removeClass().addClass('fa fa-chevron-down down-arrow-red');
+
         // Governance
         var governance_2017 = difference.attributes.governance_2017;
         $('#governance_2017').text(Math.round(governance_2017) + '%');
