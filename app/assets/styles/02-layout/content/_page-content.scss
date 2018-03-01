@@ -230,11 +230,13 @@ margin-top: 1em;
 #key-findings{
 	.action-links{
 		margin-top: 2em;
+		position: relative;
+		top: 20px;
 		a{
 			color: $base-color;
 			span{
 				color: $base-color;
-				font-size: 1.250em;
+				font-size: 1em;
 			}
 		}
 
