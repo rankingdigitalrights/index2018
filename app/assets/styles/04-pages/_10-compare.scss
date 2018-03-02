@@ -160,7 +160,11 @@
 }
 
 #compare--overview_chart {
-  padding: 0 2em;
+  padding: 0;
+  @include media(medium-up){
+    padding: 0 2em;
+  }
+
   .chart rect {
     fill: #D0DBCB;
   }

@@ -832,13 +832,23 @@
       .container--right{
         display: flex;
         justify-content: flex-start;
+        flex-direction: column;
+        @include media(medium-up) {
+          flex-direction: row;
+        }
+
         .company-indicators,.summary-of-changes{
           width: 95%;
           label{}
           .company-line-chart,.positive-and-negative-changes{
-            padding-top: 4.7em;
-
+            padding-top: 1.7em;
+            @include media(medium-up) {
+              padding-top: 4.7em;
+            }
           }
+        }
+        .summary-of-changes{
+          padding-left: 5%;
         }
       }
 
