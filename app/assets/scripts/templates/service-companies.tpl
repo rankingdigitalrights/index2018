@@ -34,9 +34,7 @@
 
         <div class="difference--section">
             <label>Difference</label>
-            <div id="total_difference" class="difference--value">
-              <span>num</span>
-              <i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i>
+            <div id="total_difference" class="difference--value">1 <i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i>
             </div>
           </div>
 

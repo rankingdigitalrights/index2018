@@ -161,6 +161,9 @@ $maincolor:  #231f20;
     @media(max-width: 767px){
       margin-left: 0;
     }
+    #indicator--overview_chart{
+      margin-top: 1.5em;
+    }
     .ref-number{
       color: $black;
       font-family: "Simplon-bold", "Helvetica Neue", Helvetica, Arial, sans-serif;

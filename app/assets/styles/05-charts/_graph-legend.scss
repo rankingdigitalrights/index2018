@@ -50,36 +50,36 @@ flex-direction: column;
 
 
 	.graph-legend-content {
-	padding: 0.5em 0.5em;	
+		padding: 0.5em 0.5em;
 		@include media(small-up) {
-		padding: 1em 1em;
+			padding: 1em 1em;
 		}
 		@include media(medium-up) {
-		padding: 1em 1em;	
+			padding: 1em 1em;
 		}
 		@include media(large-up) {
-		padding: 1em 3em;
+			padding: 1em 1em;
 		}
 		@include media(xlarge-up) {
-		padding: 1em 5em;
+			padding: 1em 2em;
 		}
 		@media only screen and (min-width: 1366px) {
-		padding: 1em 6em;   
-		}  
+			padding: 1em 2em;
+		}
 		@media only screen and (min-width: 1440px) {
-		padding: 1em 5em;    
-		}  
+			padding: 1em 2em;
+		}
 		@media only screen and (min-width: 1600px) {
-		padding: 1em 6.5em;     
+			padding: 1em 2em;
 		}
 		@media only screen and (min-width: 1680px) {
-		padding: 1em 7em;     
+			padding: 1em 2em;
 		}
 		@media only screen and (min-width: 1870px) {
-		padding: 1em 8.5em;       
-		}				
+			padding: 1em 2em;
+		}
 		@media only screen and (min-width: 1920px) {
-		padding: 1em 8.5em;       
+			padding: 1em 2em;
 		}		 			
 		.graph-legend-content-item {	
 		text-align: center;				

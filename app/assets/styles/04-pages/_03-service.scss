@@ -63,7 +63,7 @@
 			label{
 
 			}
-			.rank--section_rank_value,.overall-score,.difference--value{
+			.overall-score,.difference--value{
 				margin-top: 0.5em;
 				font-size: 37px;
 
@@ -72,10 +72,15 @@
 				font-size: 37px;
 
 			}
+			.rank--section_rank_value{
+				margin-top: 6px;
+			}
 			.difference--value{
 				.up-arrow-green,.up-arrow-red{
 					font-size: 0.6em;
 					line-height: 1.6em;
+					position: relative;
+					top: -10px;
 				}
 			}
 		}
