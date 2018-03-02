@@ -215,7 +215,10 @@
               {% if page.summary_of_changes_governance %}
               <div class="summary-of-changes">
                 <label> Summary of changes</label>
+                <div class="positive-and-negative-changes">
+
                 {% for item in page.summary_of_changes_governance %}
+
                 <div class="{{ item.change }}-change">
                   {% if item.change == "positive" %}
                     <div class="arrow"><i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
@@ -228,7 +231,10 @@
                     <p>Summary of changes: {{ item.body }}</p>
                   </div>
                 </div>
+
                 {% endfor %}
+
+                </div>
 
               </div>
               {% endif %}
