@@ -1,222 +1,222 @@
 [
     {
-        "commitment": "72.38",
-        "display": "Google",
-        "freedom": "50.56",
-        "id": "google",
-        "name": "google",
-        "privacy": "61.37",
-        "telco": "false",
-        "total": 60.42
-    },
-    {
-        "commitment": "88.15",
-        "display": "Microsoft",
-        "freedom": "44.20",
-        "id": "microsoft",
-        "name": "microsoft",
-        "privacy": "54.71",
-        "telco": "false",
-        "total": 57.92
-    },
-    {
-        "commitment": "88.24",
-        "display": "Yahoo",
-        "freedom": "41.91",
-        "id": "yahoo",
-        "name": "yahoo",
-        "privacy": "54.42",
-        "telco": "false",
-        "total": 57.16
-    },
-    {
-        "commitment": "80.43",
-        "display": "Facebook",
-        "freedom": "48.73",
-        "id": "facebook",
-        "name": "facebook",
-        "privacy": "49.36",
-        "telco": "false",
-        "total": 54.84
-    },
-    {
-        "commitment": "45.79",
-        "display": "Twitter",
-        "freedom": "61.36",
-        "id": "twitter",
-        "name": "twitter",
-        "privacy": "53.09",
-        "telco": "false",
-        "total": 54.02
-    },
-    {
-        "commitment": "83.61",
-        "display": "Vodafone",
-        "freedom": "41.13",
-        "id": "vodafone",
-        "name": "vodafone",
-        "privacy": "43.67",
-        "telco": "true",
-        "total": 50.29
-    },
-    {
-        "commitment": "34.81",
-        "display": "Kakao",
-        "freedom": "49.55",
-        "id": "kakao",
-        "name": "kakao",
-        "privacy": "50.03",
-        "telco": "false",
-        "total": 47.13
-    },
-    {
-        "commitment": "50.12",
-        "display": "AT&T",
-        "freedom": "34.24",
-        "id": "att",
-        "name": "at&t",
-        "privacy": "48.94",
-        "telco": "true",
-        "total": 44.11
-    },
-    {
-        "commitment": "33.06",
-        "display": "Apple",
-        "freedom": "29.79",
-        "id": "apple",
-        "name": "apple",
-        "privacy": "54.13",
-        "telco": "false",
-        "total": 43.66
-    },
-    {
-        "commitment": "77.04",
-        "display": "Telefónica",
-        "freedom": "32.92",
-        "id": "telefonica",
-        "name": "telefónica",
-        "privacy": "31.87",
-        "telco": "true",
-        "total": 40.7
-    },
-    {
-        "commitment": "75.74",
-        "display": "Orange",
-        "freedom": "16.76",
-        "id": "orange",
-        "name": "orange",
-        "privacy": "28.56",
-        "telco": "true",
-        "total": 33.35
-    },
-    {
-        "commitment": "32.41",
-        "display": "Samsung",
-        "freedom": "22.02",
-        "id": "samsung",
-        "name": "samsung",
-        "privacy": "29.29",
-        "telco": "false",
-        "total": 27.88
-    },
-    {
-        "commitment": "6.90",
-        "display": "Yandex",
-        "freedom": "19.03",
-        "id": "yandex",
-        "name": "yandex",
-        "privacy": "34.03",
-        "telco": "false",
-        "total": 25.01
-    },
-    {
-        "commitment": "6.94",
-        "display": "TenCent",
-        "freedom": "14.26",
-        "id": "tencent",
-        "name": "tencent",
-        "privacy": "32.02",
-        "telco": "false",
-        "total": 22.62
-    },
-    {
-        "commitment": "20.83",
+        "commitment": "20.83333333",
         "display": "América Móvil",
-        "freedom": "17.42",
+        "freedom": "17.42424242",
         "id": "americamovil",
         "name": "américa móvil",
-        "privacy": "24.72",
+        "privacy": "24.72222222",
         "telco": "true",
-        "total": 21.48
+        "total": "21.484375"
     },
     {
-        "commitment": "7.08",
-        "display": "Mail.Ru",
-        "freedom": "22.19",
-        "id": "mailru",
-        "name": "mail.ru",
-        "privacy": "25.25",
+        "commitment": "33.05555556",
+        "display": "Apple",
+        "freedom": "29.78689006",
+        "id": "apple",
+        "name": "apple",
+        "privacy": "54.13059163",
         "telco": "false",
-        "total": 21.11
+        "total": "43.65957555"
     },
     {
-        "commitment": "5.00",
-        "display": "Baidu",
-        "freedom": "12.50",
-        "id": "baidu",
-        "name": "baidu",
-        "privacy": "22.10",
-        "telco": "false",
-        "total": 16.37
-    },
-    {
-        "commitment": "38.24",
-        "display": "MTN",
-        "freedom": "12.46",
-        "id": "mtn",
-        "name": "mtn",
-        "privacy": "10.56",
+        "commitment": "61.15740741",
+        "display": "AT&T",
+        "freedom": "41.06060606",
+        "id": "att",
+        "name": "at&t",
+        "privacy": "48.93686869",
         "telco": "true",
-        "total": 16.4
+        "total": "48.52075442"
     },
     {
-        "commitment": "16.94",
-        "display": "Bharti Airtel",
-        "freedom": "8.94",
-        "id": "bhartiairtel",
-        "name": "bharti airtel",
-        "privacy": "18.06",
-        "telco": "true",
-        "total": 14.72
-    },
-    {
-        "commitment": "5.28",
+        "commitment": "5.277777778",
         "display": "Axiata",
-        "freedom": "12.23",
+        "freedom": "12.23484848",
         "id": "axiata",
         "name": "axiata",
-        "privacy": "18.33",
+        "privacy": "18.33333333",
         "telco": "true",
-        "total": 13.79
+        "total": "13.7890625"
     },
     {
-        "commitment": "6.67",
+        "commitment": "5",
+        "display": "Baidu",
+        "freedom": "12.49559083",
+        "id": "baidu",
+        "name": "baidu",
+        "privacy": "22.71604938",
+        "telco": "false",
+        "total": "16.70755171"
+    },
+    {
+        "commitment": "16.94444444",
+        "display": "Bharti Airtel",
+        "freedom": "8.944805195",
+        "id": "bhartiairtel",
+        "name": "bharti airtel",
+        "privacy": "18.05555556",
+        "telco": "true",
+        "total": "14.71540179"
+    },
+    {
+        "commitment": "6.666666667",
         "display": "Etisalat",
-        "freedom": "15.28",
+        "freedom": "15.28138528",
         "id": "etisalat",
         "name": "etisalat",
-        "privacy": "3.89",
+        "privacy": "3.888888889",
         "telco": "true",
-        "total": 8.33
+        "total": "8.325892857"
     },
     {
-        "commitment": "1.67",
+        "commitment": "80.42824074",
+        "display": "Facebook",
+        "freedom": "48.72574956",
+        "id": "facebook",
+        "name": "facebook",
+        "privacy": "49.36447811",
+        "telco": "false",
+        "total": "54.83823626"
+    },
+    {
+        "commitment": "72.38425926",
+        "display": "Google",
+        "freedom": "58.64932393",
+        "id": "google",
+        "name": "google",
+        "privacy": "62.67731882",
+        "telco": "false",
+        "total": "63.34367302"
+    },
+    {
+        "commitment": "34.81481481",
+        "display": "Kakao",
+        "freedom": "54.69135802",
+        "id": "kakao",
+        "name": "kakao",
+        "privacy": "51.41554433",
+        "telco": "false",
+        "total": "49.29063361"
+    },
+    {
+        "commitment": "7.083333333",
+        "display": "Mail.Ru",
+        "freedom": "22.42283951",
+        "id": "mailru",
+        "name": "mail.ru",
+        "privacy": "25.24691358",
+        "telco": "false",
+        "total": "21.17424242"
+    },
+    {
+        "commitment": "88.14814815",
+        "display": "Microsoft",
+        "freedom": "51.68209877",
+        "id": "microsoft",
+        "name": "microsoft",
+        "privacy": "56.40572391",
+        "telco": "false",
+        "total": "60.88881237"
+    },
+    {
+        "commitment": "38.24074074",
+        "display": "MTN",
+        "freedom": "12.46212121",
+        "id": "mtn",
+        "name": "mtn",
+        "privacy": "10.55555556",
+        "telco": "true",
+        "total": "16.40190972"
+    },
+    {
+        "commitment": "1.666666667",
         "display": "Ooredoo",
-        "freedom": "13.91",
+        "freedom": "13.91233766",
         "id": "ooredoo",
         "name": "ooredoo",
-        "privacy": "0.00",
+        "privacy": "0",
         "telco": "true",
-        "total": 5.09
+        "total": "5.094866071"
+    },
+    {
+        "commitment": "75.74074074",
+        "display": "Orange",
+        "freedom": "16.76406926",
+        "id": "orange",
+        "name": "orange",
+        "privacy": "28.56060606",
+        "telco": "true",
+        "total": "33.35182179"
+    },
+    {
+        "commitment": "32.40740741",
+        "display": "Samsung",
+        "freedom": "22.02380952",
+        "id": "samsung",
+        "name": "samsung",
+        "privacy": "29.29232804",
+        "telco": "false",
+        "total": "27.87638288"
+    },
+    {
+        "commitment": "77.03703704",
+        "display": "Telefónica",
+        "freedom": "32.91666667",
+        "id": "telefonica",
+        "name": "telefónica",
+        "privacy": "31.86868687",
+        "telco": "true",
+        "total": "40.69799558"
+    },
+    {
+        "commitment": "6.944444444",
+        "display": "TenCent",
+        "freedom": "14.25925926",
+        "id": "tencent",
+        "name": "tencent",
+        "privacy": "32.02160494",
+        "telco": "false",
+        "total": "22.61784512"
+    },
+    {
+        "commitment": "45.78703704",
+        "display": "Twitter",
+        "freedom": "61.35582011",
+        "id": "twitter",
+        "name": "twitter",
+        "privacy": "53.09132997",
+        "telco": "false",
+        "total": "54.01722856"
+    },
+    {
+        "commitment": "83.61111111",
+        "display": "Vodafone",
+        "freedom": "45.67911255",
+        "id": "vodafone",
+        "name": "vodafone",
+        "privacy": "43.67171717",
+        "telco": "true",
+        "total": "51.8503957"
+    },
+    {
+        "commitment": "88.24074074",
+        "display": "Oath (Yahoo)",
+        "freedom": "48.3377425",
+        "id": "yahoo",
+        "name": "oath (yahoo)",
+        "privacy": "54.42480359",
+        "telco": "false",
+        "total": "58.91304823"
+    },
+    {
+        "commitment": "6.898148148",
+        "display": "Yandex",
+        "freedom": "20.60185185",
+        "id": "yandex",
+        "name": "yandex",
+        "privacy": "35.87962963",
+        "telco": "false",
+        "total": "26.44360269"
     }
 ]
