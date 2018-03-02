@@ -4,5 +4,5 @@ entity_type: service
 visualization: service
 layout: service
 display: Cloud services
-introduction: This category examines whether companies’ commitments and disclosures demonstrate credible efforts to respect users’ right to privacy. Companies that performed well in this category showed a strong public commitment to transparency, not only in terms of how they respond to government demands, but also how they determine, communicate, and enforce terms of service and commercial practices that affect users’ privacy. Commitments to protect and defend users’ digital security are also an important component of this category.
+introduction: This  category examines whether companies’ commitments and disclosures demonstrate credible efforts to respect users’ right to privacy. Companies that performed well in this category showed a strong public commitment to transparency, not only in terms of how they respond to government demands, but also how they determine, communicate, and enforce terms of service and commercial practices that affect users’ privacy. Commitments to protect and defend users’ digital security are also an important component of this category.
 ---
