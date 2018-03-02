@@ -26,6 +26,14 @@
     padding-right: 2rem;
   }
 }
+.main-content{
+  .row {
+    @include media(small-up) {
+      padding-left: 5.7rem;
+      padding-right: 5.7rem;
+    }
+  }
+}
 
 .row-centered {
   max-width: $row-max-width;

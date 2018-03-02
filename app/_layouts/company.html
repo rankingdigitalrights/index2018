@@ -61,17 +61,20 @@
 
               <div class="comp--rank">
                 <label>Rank</label>
-                <div class="comp--rank--value">10</div>
+                <div class="comp--rank--value">{{ page.rank }}</div>
               </div> <!-- comp--rank -->
 
               <div class="comp--score">
                 <label>Score</label>
-                <div class="comp--score--value">{{ page.total }}%</div>
+                <div id="total_score" class="comp--score--value"></div>
               </div> <!-- overall score -->
 
               <div class="comp--difference">
                 <label>Difference</label>
-                <div class="comp--difference--value">25 <i class="fa fa-chevron-down" aria-hidden="true"></i></div>
+                <div id="total_difference" class="comp--difference--value">
+                  <span></span>
+                  <i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i>
+                </div>
               </div> <!-- comp--rank -->
 
               <div class="comp--among">
@@ -137,22 +140,22 @@
                 <div class="title-line-chart-value" style="width:{{ page.total }}%;"></div>
               </div>
               <div class="overall-score">
-                <label class="label-black-style overall-score-label">Overall score <span class="overall-score-value">{{ page.total }}%</span></label>
+                <label class="label-black-style overall-score-label">Overall score <span id="total_2018" class="overall-score-value"></span></label>
               </div>
-              <p>{{ page.analysis_text_left }}</p>
+              <p>{{ page.analysis_text }}</p>
             </div>
 
             <div class="container--right">
               <div class="key-recommendation">
                 <label class="label-black-style key-recommendation-label">Key Recommendation</label>
-                <p>Ranking Digital Rights identified three areas where we think improved disclosure by Facebook would have the greatest positive effect for Facebook users and investors. We did not identify any legal or regulatory obstacles that would prevent Facebook from disclosing this information:
-                </p>
+                <p>{{ page.key_recommendation_paragraph }}</p>
+                {% if page.key_recommendation_list %}
                 <ul>
-                  <li>Disclose information about Facebook’s actual rules for enforcing its terms of service.</li>
-                  <li>Provide clearer remedy and response mechanisms for cases where a user has been unfairly punished for content they’ve posted or actions they have taken on the platform.</li>
-                  <li>Bullet point about targeted advertising?</li>
+                  {% for item in page.key_recommendation_list %}
+                  <li>{{ item }}</li>
+                  {% endfor %}
                 </ul>
-
+                {% endif; %}
               </div>
               <div class="border-line"></div>
               <p>{{ page.analysis_text_right }}</p>
@@ -169,7 +172,6 @@
 
           </div>
         </section>
-
 
         <!-- Section governance -->
         <section class="section--governance">
@@ -201,7 +203,6 @@
                 </li>
               </ul>
               <p>{{ page.governance_text }}</p>
-
             </div>
 
             <div class="container--right">
@@ -209,13 +210,15 @@
                 <label>Indicators</label>
                 <div id="indicators--commitment" class="company-indicators company-line-chart">
                 </div>
-
               </div>
 
               {% if page.summary_of_changes_governance %}
               <div class="summary-of-changes">
                 <label> Summary of changes</label>
+                <div class="positive-and-negative-changes">
+
                 {% for item in page.summary_of_changes_governance %}
+
                 <div class="{{ item.change }}-change">
                   {% if item.change == "positive" %}
                     <div class="arrow"><i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i></div>
@@ -228,7 +231,10 @@
                     <p>Summary of changes: {{ item.body }}</p>
                   </div>
                 </div>
+
                 {% endfor %}
+
+                </div>
 
               </div>
               {% endif %}
@@ -236,7 +242,6 @@
             </div>
           </div>
         </section>
-
 
         <!-- Section freedom -->
         <section class="section--freedom">
@@ -368,7 +373,6 @@
 
       </div>
     </div>
-
 
     {% include footer.html %}
 
