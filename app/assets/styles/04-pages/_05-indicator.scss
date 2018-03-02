@@ -73,15 +73,11 @@ $maincolor:  #231f20;
           font-size: 12px;
           position: absolute;
           right: -30px;
-          top: 0px;
+          top: 0;
         }
       }
     }
-    .sidebar-menu-active{
-      a{
 
-      }
-    }
     .open:before {
       animation: turn-sign;
       animation-duration: .3s;
@@ -248,9 +244,9 @@ $maincolor:  #231f20;
         }
       }
       p{
-        font-size: 1.250em;
-        line-height: 1.5em;
-        font-family: "Simplon-light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        //font-size: 1.250em;
+        //line-height: 1.5em;
+        //font-family: "Simplon-light", "Helvetica Neue", Helvetica, Arial, sans-serif;
         span{
           font-size: inherit;
         }
@@ -284,15 +280,7 @@ $maincolor:  #231f20;
         font-size: 1.250em;
         line-height: 1.5em;
       }
-      //p:first-child::first-letter {
-      //  font-size: 55px;
-      //  float: left;
-      //  text-transform: uppercase;
-      //  margin-top:0.13em;
-      //  margin-right:0.05em;
-      //  margin-left:-0.03em;
-      //  color: $base-color;
-      //}
+
     }
     .pagination{
       margin: 40px 0;

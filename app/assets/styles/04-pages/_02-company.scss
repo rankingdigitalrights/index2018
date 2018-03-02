@@ -1,5 +1,10 @@
 #page--company {
-
+  .main-content{
+    .row{
+      padding-left: 2rem;
+      padding-right: 2em;
+    }
+  }
   &.internet-and-mobile-companies {
     .introduction {
       .company-type {
@@ -665,7 +670,6 @@
   .section--analysis {
 
     .row {
-
       .container--left {
         @include media(small-up) {
           @include span-columns(12);
@@ -677,7 +681,6 @@
           @include span-columns(6);
         }        
       }
-
       .container--right {
         @include media(small-up) {
           @include span-columns(12);
@@ -689,11 +692,8 @@
           @include span-columns(6);
         }
       }
-
     }
-    .overall-score,.key-recommendation-label{
-
-    }
+    .overall-score,.key-recommendation-label{}
     .overall-score{
       .overall-score-value {
         font-family: $simplon-bold;
@@ -743,7 +743,6 @@
       background-color: $gray;
       margin: 2.5em 0;
     }
-
     .title-section {
     margin-bottom: .5em;
       h2 {
@@ -766,7 +765,6 @@
 
       }
     }
-
     .comp--industry,
     .comp--mark,
     .comp--sank {
@@ -807,7 +805,6 @@
     border-top: 2px solid $black;
     padding-top: 4em;
     padding-bottom: 3em;
-
       .container--left {
         @include media(small-up) {
           @include span-columns(12);
@@ -819,7 +816,6 @@
           @include span-columns(5);
         }        
       }
-
       .container--right {
       margin-right: 0;
         @include media(small-up) {
@@ -899,8 +895,7 @@
         }
       }     
       .category-score {
-      margin-left: 1em;  
-
+      margin-left: 1em;
       }      
     }
     .container--left {
@@ -975,12 +970,14 @@
       margin-bottom: 2em;
       li{
         width: 33%;
-        label{}
+        label{
+          font-size: 1em;
+        }
         .score-value{
           margin-top: 20px;
           color: $black;
         }
-        .up-arrow-green,up-arrow-red{
+        .up-arrow-green,.up-arrow-red{
           font-size: 0.6em;
           position: relative;
           top: -15px;
@@ -1004,7 +1001,6 @@
         }
       }
     }
-
   }
 
   /* Company line chart */
@@ -1117,11 +1113,6 @@
 
 
 
-
-
-
-
-
 $label-padding: .5em .5725em .4em;
 
 .page--title {
@@ -1134,7 +1125,6 @@ $label-padding: .5em .5725em .4em;
     font-size: .8em;
     margin-left: .5em;
     padding: .15em .4em .1em;
-
   }
 }
 

@@ -1,5 +1,24 @@
 #page--service {
-
+	.graph-legend{
+		margin-top: 2em;
+		margin-bottom: 0;
+		.graph-legend-values{
+			border: none !important;
+			width: 100%;
+			display: block;
+			.graph-legend-values-item{
+				display: flex;
+				justify-content: center;
+				align-items: flex-start;
+				.graph-legend-values-value{
+					padding: 0 10px;
+				}
+			}
+			.graph-legend-values-value + .graph-legend-values-value {
+				margin-top: 0;
+			}
+		}
+	}
 	.page-content-dynamic {
 
 		.page-introduction {}
@@ -27,8 +46,8 @@
 						color: $black;
 						line-height: 1;	
 						font-weight: 600;
-						text-transform: uppercase;
-						font-size: 9px;
+						text-transform: capitalize;
+						font-size: 1em;
 						  @include media(small-up) {
 						  font-size: 13px;
 						  }
@@ -84,7 +103,8 @@
 					  font-size: 16px;  
 					  }
 					  text {
-					  fill: $black;	
+					  fill: $black;
+						  text-transform: capitalize;
 					  }
 					}
 				}
@@ -294,7 +314,7 @@
 	          font-size: 12px;
 	          line-height: 1.3; 
 	          letter-spacing: 1px;
-	          margin-bottom: 0px;
+	          margin-bottom: 0;
 	          @include media(small-up) {
 	            font-size: 12px;  
 	          }

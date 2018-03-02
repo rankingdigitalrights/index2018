@@ -1,6 +1,6 @@
 #page--indicators {
 	.page--intro {
-		padding-bottom: 0px;
+		padding-bottom: 0;
 	}
 	.indicators-wrapper {
 		.indicator-item {
@@ -51,7 +51,7 @@
 
 	a.toogle {
 		color: #313131 !important;
-		font-size: 1.250em;
+		font-size: 1em;
 		line-height: 1.5em;
 		font-weight: 600;
 	}
@@ -61,6 +61,7 @@
 
 	#indicator--companies{
 		.company--table{
+			padding-top: 2em;
 			h2{
 				.percent {
 					position: relative;

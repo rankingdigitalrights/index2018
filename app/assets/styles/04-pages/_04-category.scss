@@ -32,7 +32,16 @@
 			}
 		}	
 	}
-
+	#category--indicators{
+		.page--subtitle{
+			margin-bottom: 1em;
+		}
+		.indicator-item{
+			h3{
+				font-size: 1em;
+			}
+		}
+	}
 	.page-content-dynamic {
 
 		.page-introduction {
