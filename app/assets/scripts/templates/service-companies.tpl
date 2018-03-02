@@ -18,13 +18,28 @@
 
     <div class="container--right">
       <div class="comp--industry">
-        <label>Score within the service</label>
+
+
         <div class="rank--section">
-          <span class="rank--section_rank_value">
-            <span><%= rank %></span>
-          </span>
+            <label>Rank</label>
+            <div class="rank--section_rank_value">
+                <span><%= rank %></span>
+            </div>
+        </div>
+
+        <div class="score--section">
+          <label>Score</label>
           <div class="overall-score"><%= total  %></div>
         </div>
+
+        <div class="difference--section">
+            <label>Difference</label>
+            <div id="total_difference" class="difference--value">
+              <span>num</span>
+              <i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i>
+            </div>
+          </div>
+
       </div>
       <div class="comp--mark">
         <label>Position among other services</label>
