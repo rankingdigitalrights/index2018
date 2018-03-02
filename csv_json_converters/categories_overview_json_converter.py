@@ -79,9 +79,17 @@ def _parse_summed_indicators_for_company(company_csv_data, indicators_csv_data, 
     return result
 
 
+def _create_quick_overview_mappings_by_company(quick_overview_mappings):
+    res = {quick_mapping[QuickOverviewCSVMappings.company]: quick_mapping for quick_mapping in quick_overview_mappings}
+    if res.get('Yahoo'):
+        res['Oath (Yahoo)'] = res['Yahoo']
+    elif res.get('Oath (Yahoo)'):
+        res['Yahoo'] = res['Oath (Yahoo)']
+    return res
+
+
 def _create_initial_categories_overview_objects(scores_rows, quick_overview_mappings):
-    quick_overview_mappings_by_company = {quick_mapping[QuickOverviewCSVMappings.company]: quick_mapping
-                                          for quick_mapping in quick_overview_mappings}
+    quick_overview_mappings_by_company = _create_quick_overview_mappings_by_company(quick_overview_mappings)
     companies_csv_data = _determine_companies_csv_data(scores_rows)
     indicators_csv_data = _determine_summed_indicators_csv_data(scores_rows)
     categories_overview_objects = []
