@@ -90,11 +90,16 @@ function columnChart() {
       bar.enter().append("rect");
       bar.exit().remove();
       bar.attr("class", function(d, i) { return d[1] < 0 ? "bar negative" : "bar positive"; })
-          .attr("x", function(d) { return X(d); })
-          .attr("y", function(d, i) { return d[1] < 0 ? Y0() : Y(d); })
-          .attr("width", xScale.rangeBand())
-          .attr("height", function(d, i) { return Math.abs( Y(d) - Y0() ); });
+        .attr("x", function(d) { return X(d); })
+        .attr("y", Y0())
+        .attr("width", xScale.rangeBand())
+        .attr("height", 0);
 
+      bar.transition()
+        .duration(2000)
+        .attr('y', function(d, i) { return d[1] < 0 ? Y0() : Y(d); })
+        .attr('height', function(d, i) { return Math.abs( Y(d) - Y0() ); });
+      
       // Update legend rect
       bar.enter().append("rect");
       bar.exit().remove();

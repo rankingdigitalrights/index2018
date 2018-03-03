@@ -2,7 +2,7 @@ var $ = require('jquery');
 var _ = require('underscore');
 
 var Backbone = require('backbone');
-var Barchart = require('./views/barchart');
+var Barchart = require('./views/indicators-barchart');
 var baseurl = require('./util/base-url');
 var barsort = require('./util/barsort');
 var template = require('./templates/item.tpl');
@@ -56,6 +56,7 @@ module.exports = function generateIndicator (indicatorName) {
             height: 340,
             data: $data,
         });
+
         barchart.render('#indicator--overview_chart');
     };
 
