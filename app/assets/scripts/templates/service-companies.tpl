@@ -18,8 +18,6 @@
 
     <div class="container--right">
       <div class="comp--industry">
-
-
         <div class="rank--section">
             <label>Rank</label>
             <div class="rank--section_rank_value">
@@ -37,7 +35,6 @@
             <div id="total_difference" class="difference--value">1 <i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i>
             </div>
           </div>
-
       </div>
       <div class="comp--mark">
         <label>Position among other services</label>
