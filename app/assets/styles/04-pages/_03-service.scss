@@ -60,16 +60,49 @@
 		display: flex;
 		.rank--section,.score--section,.difference--section{
 			font-family: $simplon-bold;
-			label{
-
+			padding: 0 15px 0 0;
+			@include media(medium-up) {
+				padding: 0;
 			}
 			.overall-score,.difference--value{
 				margin-top: 0.5em;
-				font-size: 37px;
+				font-size: 33px;
+				@include media(small-up) {
+					margin-top: 0.5em;
+					font-size: 33px;
+				}
+				@include media(medium-up) {
+					margin-top: 0.5em;
+					font-size: 33px;
+				}
+				@include media(large-up) {
+					margin-top: 0.5em;
+					font-size: 37px;
+				}
+				@include media(xlarge-up) {
+					margin-top: 0.5em;
+					font-size: 37px;
+				}
 
 			}
 			.rank--section_rank_value > span,.overall-score,.difference--value > span{
-				font-size: 37px;
+				font-size: 33px;
+				@include media(small-up) {
+					margin-top: 0.5em;
+					font-size: 33px;
+				}
+				@include media(medium-up) {
+					margin-top: 0.5em;
+					font-size: 33px;
+				}
+				@include media(large-up) {
+					margin-top: 0.5em;
+					font-size: 37px;
+				}
+				@include media(xlarge-up) {
+					margin-top: 0.5em;
+					font-size: 37px;
+				}
 
 			}
 			.rank--section_rank_value{
@@ -113,9 +146,9 @@
 						line-height: 1;	
 						font-weight: 600;
 						text-transform: capitalize;
-						font-size: 1em;
+						font-size: 0.6em;
 						  @include media(small-up) {
-						  font-size: 13px;
+						  font-size: 0.6em;
 						  }
 						  @include media(medium-up) {
 						  font-size: 14px;  

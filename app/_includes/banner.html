@@ -132,31 +132,46 @@
         <li class="dropdown--item"><a href="{{ site.baseurl }}/categories/privacy">Privacy</a></li>
       </ul>
 
-      <div class="nav--item_vertical"><a href="{{ site.baseurl }}/indicators">Indicators</a></div>
-
-      <div class="nav--item_vertical dropdown--trigger_mobile" data-dropdown="dropdown-findings-mobile">
-        <a href="#">Findings</a>
+      <div class="nav--item_vertical dropdown--trigger_mobile" data-dropdown="dropdown-indicators-mobile">
+        <a href="{{ site.baseurl }}/indicators">Indicators</a>
         <span class="collecticon collecticon-sm-triangle-down"></span>
-        <span class="collecticon collecticon-sm-triangle-up"></span>      
+        <span class="collecticon collecticon-sm-triangle-up"></span>
       </div>
-      <ul class="dropdown dropdown--mobile" id="dropdown-findings-mobile">
-        <li class="dropdown--item"><a href="{{ site.baseurl }}/findings/keyfindings">Key findings</a></li>
-        <li class="dropdown--item"><a href="{{ site.baseurl }}/findings/recommendations">Recommendations</a></li>
-        <li class="dropdown--item"><a href="{{ site.baseurl }}/findings/methodologyandscoring">Methodology and scoring</a></li>
-        <li class="dropdown--item"><a href="{{ site.baseurl }}/findings/mobileecosystems">Mobile ecosystems</a></li>
-        <li class="dropdown--item"><a href="{{ site.baseurl }}/findings/networkshutdowns">Network shutdowns</a></li>
-        <li class="dropdown--item"><a href="{{ site.baseurl }}/findings/russia">Russian Companies</a></li>
-        <li class="dropdown--item"><a href="{{ site.baseurl }}/findings/china">Chinese Companies</a></li>      
+      <ul class="dropdown dropdown--mobile" id="dropdown-indicators-mobile">
+        <li class="dropdown--item">
+          <a href="{{ site.baseurl }}/indicators/governance">Governance</a>
+        </li>
+        <li class="dropdown--item" data-dropdown="dropdown-indicators-mobile-freedom">
+          <a href="{{ site.baseurl }}/indicators/freedom-of-expression">Freedom Of Expression</a>
+        </li>
+        <li class="dropdown--item">
+          <a href="{{ site.baseurl }}/indicators/privacy">Privacy</a>
+        </li>
       </ul>
 
-      <div class="nav--item_vertical dropdown--trigger_mobile" data-dropdown="dropdown-narrative-mobile">
-        <a href="{{ site.baseurl }}/narrative">Narrative</a>
-        <span class="collecticon collecticon-sm-triangle-down"></span>
-        <span class="collecticon collecticon-sm-triangle-up"></span>      
-      </div>
-      <ul class="dropdown dropdown--mobile" id="dropdown-narrative-mobile">
-        <li class="dropdown--item"><a href="{{ site.baseurl }}/narrative">Index Methodology</a></li>
-      </ul>    
+      <!--<div class="nav&#45;&#45;item_vertical dropdown&#45;&#45;trigger_mobile" data-dropdown="dropdown-findings-mobile">-->
+        <!--<a href="#">Findings</a>-->
+        <!--<span class="collecticon collecticon-sm-triangle-down"></span>-->
+        <!--<span class="collecticon collecticon-sm-triangle-up"></span>      -->
+      <!--</div>-->
+      <!--<ul class="dropdown dropdown&#45;&#45;mobile" id="dropdown-findings-mobile">-->
+        <!--<li class="dropdown&#45;&#45;item"><a href="{{ site.baseurl }}/findings/keyfindings">Key findings</a></li>-->
+        <!--<li class="dropdown&#45;&#45;item"><a href="{{ site.baseurl }}/findings/recommendations">Recommendations</a></li>-->
+        <!--<li class="dropdown&#45;&#45;item"><a href="{{ site.baseurl }}/findings/methodologyandscoring">Methodology and scoring</a></li>-->
+        <!--<li class="dropdown&#45;&#45;item"><a href="{{ site.baseurl }}/findings/mobileecosystems">Mobile ecosystems</a></li>-->
+        <!--<li class="dropdown&#45;&#45;item"><a href="{{ site.baseurl }}/findings/networkshutdowns">Network shutdowns</a></li>-->
+        <!--<li class="dropdown&#45;&#45;item"><a href="{{ site.baseurl }}/findings/russia">Russian Companies</a></li>-->
+        <!--<li class="dropdown&#45;&#45;item"><a href="{{ site.baseurl }}/findings/china">Chinese Companies</a></li>      -->
+      <!--</ul>-->
+
+      <!--<div class="nav&#45;&#45;item_vertical dropdown&#45;&#45;trigger_mobile" data-dropdown="dropdown-narrative-mobile">-->
+        <!--<a href="{{ site.baseurl }}/narrative">Narrative</a>-->
+        <!--<span class="collecticon collecticon-sm-triangle-down"></span>-->
+        <!--<span class="collecticon collecticon-sm-triangle-up"></span>      -->
+      <!--</div>-->
+      <!--<ul class="dropdown dropdown&#45;&#45;mobile" id="dropdown-narrative-mobile">-->
+        <!--<li class="dropdown&#45;&#45;item"><a href="{{ site.baseurl }}/narrative">Index Methodology</a></li>-->
+      <!--</ul>    -->
 
       <div class="nav--item_vertical"><a href="{{ site.baseurl }}/download">Download</a></div>
 
