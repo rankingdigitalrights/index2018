@@ -4,6 +4,7 @@
         <%= item.name %>
         <span class="percent"><%= score %>%</span>
     </h2>
+    <div class="overflow-for-table">
     <table>
         <thead>
             <tr>
@@ -31,4 +32,5 @@
             </tr>
         </tfoot>
     </table>
+    </div>
 </section>

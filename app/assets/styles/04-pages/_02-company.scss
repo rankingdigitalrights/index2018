@@ -377,8 +377,6 @@
         right: -2.5em;
         top: 1.7em;
       }
-
-
     }
   }
 
@@ -863,7 +861,10 @@
           }
         }
         .summary-of-changes{
-          padding-left: 5%;
+          padding-left: 0;
+          @include media(medium-up) {
+            padding-left: 5%;
+          }
         }
       }
 

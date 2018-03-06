@@ -97,6 +97,9 @@
 					margin-top: -9px;
 				}
 			}
+			.overflow-for-table{
+				overflow-x: auto;
+			}
 			table{
 				thead{
 					tr{
@@ -147,6 +150,9 @@
 							&:first-child{
 								text-transform: uppercase;
 								font-size: 1.5em;
+								@media(max-width: 767px){
+									font-size: 1em;
+								}
 							}
 						}
 					}
