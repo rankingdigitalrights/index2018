@@ -85,7 +85,9 @@
 				}
 
 			}
-			.rank--section_rank_value > span,.overall-score,.difference--value > span{
+			.rank--section_rank_value > span,
+			.overall-score,
+			.difference--value > span {
 				font-size: 33px;
 				@include media(small-up) {
 					margin-top: 0.5em;
@@ -109,7 +111,7 @@
 				margin-top: 6px;
 			}
 			.difference--value{
-				.up-arrow-green,.up-arrow-red{
+				.up-arrow-green,.down-arrow-red{
 					font-size: 0.6em;
 					line-height: 1.6em;
 					position: relative;

@@ -32,7 +32,10 @@
 
         <div class="difference--section">
             <label>Difference</label>
-            <div id="total_difference" class="difference--value">1 <i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i>
+            <div id="total_difference" class="difference--value">
+              <%= Math.abs(Math.round(difference)) %>
+              <% if (difference >= 0) { %><i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i><% } %>
+              <% if (difference < 0) { %><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i><% } %>
             </div>
           </div>
       </div>
