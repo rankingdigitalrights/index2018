@@ -8,6 +8,15 @@
   }
 
 }
+#dropdown-indicators-mobile{
+  li{
+    .collecticon-sm-triangle-down,.collecticon-sm-triangle-up{
+      float: right;
+      padding-right: 15px;
+      padding-top: 7px;
+    }
+  }
+}
 .dropdown--trigger {
   position: relative;
   @include noselect;
