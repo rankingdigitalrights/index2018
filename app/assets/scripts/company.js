@@ -52,7 +52,6 @@ module.exports = function (companyName) {
       category.render('privacy'); // Privacy
       companyOverview.render();
       overviewSuccess(companyName);
-
     }
   });
 
