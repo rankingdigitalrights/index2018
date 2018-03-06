@@ -49,8 +49,20 @@ $dc-active-dot-top: $dc-height / 2 - $dc-active-dot-height / 2;
   width: 100%;
   height: 0px;
   left: 0;
-  top: $dc-baseline-top;
+  top: 2em;
   border-bottom: 2px solid $gray;
+  @include media(small-up) {
+    top: 2em;
+  }
+  @include media(medium-up) {
+    top: 2.4em;
+  }
+  @include media(large-up) {
+    top: 2.4em;
+  }
+  @include media(xlarge-up) {
+    top: 2.4em;
+  }
 }
 
 .dot {

@@ -299,12 +299,12 @@
 				        margin: 0 0 3em;
 				        }						
 				        .dot {
-				        top: 2.6em;
+				        top: 2.1em;
 							@include media(small-up) {
-							top: 2.4em;  
+							top: 2.1em;
 							}
 							@include media(medium-up) {
-							top: 2.2em;    
+							top: 2.1em;
 							}
 							@include media(large-up) {
 							top: 2.1em;
@@ -316,7 +316,7 @@
 							text-align: center;
 						    width: 2em;
 						    height: 2em;
-						    top: 2em;
+						    top: 1.5em;
 						    line-height: 2;								
 							color: $white-pure;
 							font-weight: 600;
@@ -327,13 +327,16 @@
 							  font-size: 13px;
 							  }
 							  @include media(medium-up) {
-							  font-size: 13px;  
+							  font-size: 13px;
+								top: 1.9em;
 							  }
 							  @include media(large-up) {
 							  font-size: 13px;
+								top: 1.9em;
 							  }
 							  @include media(xlarge-up) {
-							  font-size: 13px;  
+							  font-size: 13px;
+								top: 1.9em;
 							  }								
 							}
 						}						
