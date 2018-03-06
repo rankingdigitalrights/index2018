@@ -22,7 +22,7 @@ module.exports = Backbone.View.extend({
             .datum($data)
             .call(columnChart()
             .width($('#compare--overview_chart').width())
-            .height(500)
+            .height(300)
             .x(function(d, i) { return d.name; })
             .y(function(d, i) { return d.total_difference; }));
 
@@ -36,9 +36,9 @@ module.exports = Backbone.View.extend({
 
 
 function columnChart() {
-  var margin = {top: 30, right: 20, bottom: 30, left: 20},
+  var margin = {top: 20, right: 20, bottom: 60, left: 20},
       width = 100,
-      height = 400,
+      height = 300,
       xRoundBands = 0.05,
       xValue = function(d) { return d[0]; },
       yValue = function(d) { return d[1]; },
