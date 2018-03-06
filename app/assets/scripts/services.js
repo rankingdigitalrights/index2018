@@ -5,12 +5,13 @@ var Service = require('./collections/services/services');
 var Survey = require('./collections/survey');
 var Compare = require('./collections/compare');
 var CompanyServices = require('./collections/company-services');
+
 var Barchart = require('./views/services-barchart');
 var CompanyService = require('./views/services/service');
-
 var DotChart = require('./views/services/service-line-dot-chart');
 var Indicators = require('./views/category-indicators');
 var Collapse = require('./views/collapse');
+
 var barsort = require('./util/services-barsort');
 
 module.exports = function generateService (serviceType) {
@@ -21,7 +22,17 @@ module.exports = function generateService (serviceType) {
 
   var overviewSuccess = function () {
     var data = service.map(function (model) {
-    // var data = overview.filter(model => model.get('telco') === true).map(function (model) { // filter Overview collection
+
+      var total_difference;
+      var name = model.get('Company');
+      compare.fetch({
+        async: false,
+        success: function(){
+          var retval = compare.findWhere({name:name});
+          total_difference = retval.attributes.total_difference;
+        },
+      });
+
       return {
         company: model.get('Company'),
         service: model.get('Service'),
@@ -32,7 +43,7 @@ module.exports = function generateService (serviceType) {
         t: model.get('Total'),
         text: model.get('Description'),
         className: serviceType,
-        collection: compare
+        difference: total_difference
       };
     }).sort(barsort);
     
