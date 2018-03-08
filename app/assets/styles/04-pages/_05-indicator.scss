@@ -18,6 +18,18 @@ $maincolor:  #231f20;
     li{
       font-family: "Simplon-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
       list-style: none;
+      @include media(small-up) {
+        font-size: 15px;
+      }
+      @include media(medium-up) {
+        font-size: 1.12em;
+      }
+      @include media(large-up) {
+        font-size: 1.12em;
+      }
+      @include media(xlarge-up) {
+        font-size: 1.12em;
+      }
     }
   }
   .expand {
