@@ -11,6 +11,7 @@ module.exports = Backbone.Collection.extend({
       d.commitment = isNaN(d.commitment) ? 'N/A' : +d.commitment;
       d.freedom = isNaN(d.freedom) ? 'N/A' : +d.freedom;
       d.privacy = isNaN(d.privacy) ? 'N/A' : +d.privacy;
+      d.total = isNaN(d.total) ? 'N/A' : +d.total;
       /* eslint-disable no-unneeded-ternary */
       d.telco = d.telco === 'false' ? false : true;
       /* eslint-enable no-unneeded-ternary */
