@@ -9,6 +9,7 @@ company_type: Internet and mobile companies
 display: Apple, Inc.
 headquarters: USA
 link: https://www.apple.com
+download: https://www.apple.com
 
 telco: false
 

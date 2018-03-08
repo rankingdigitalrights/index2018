@@ -36,8 +36,8 @@ module.exports = BaseChart.extend({
       .reduce((a, b) => a + b)
       .value();
 
-    if (model.get('id') === 'vodafone') { No--; }
-    if (model.get('id') === 'mailru') { No--; }
+    // if (model.get('id') === 'vodafone') { No--; }
+    // if (model.get('id') === 'mailru') { No--; }
 
     this.$el = $(this.template({
       href: model.get('id'),
