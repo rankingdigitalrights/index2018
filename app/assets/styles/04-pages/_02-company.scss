@@ -148,7 +148,8 @@
     }
 
     .comp--sub_headquarters,
-    .comp--sub_website {
+    .comp--sub_website,
+    .comp--sub_download {
     font-family: $simplon-light;
     color: $medium-gray;
     font-size: 13px;
@@ -179,12 +180,13 @@
       font-family: $simplon-regular;  
       }       
       a {
-      color: $black;  
+      //color: $black;
       }    
     }
 
     .comp--sub_website{
       margin-top: 10px;
+      margin-bottom: 10px;
       a{
         color: $base-color;
       }

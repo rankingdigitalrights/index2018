@@ -181,15 +181,15 @@
   }
   .company--name {
     font-size: 14px;
-    transform: rotate(-90deg) translate(0px,-5px)!important;
-    -webkit-transform: rotate(-90deg) translate(0px,-5px)!important;
-    -moz-transform: rotate(-90deg) translate(0px,-5px)!important;
-    -ms-transform: rotate(-90deg) translate(0px,-5px)!important;
+    //transform: rotate(-90deg) translate(0px,-5px)!important;
+    //-webkit-transform: rotate(-90deg) translate(0px,-5px)!important;
+    //-moz-transform: rotate(-90deg) translate(0px,-5px)!important;
+    //-ms-transform: rotate(-90deg) translate(0px,-5px)!important;
     @include media(medium-up){
-      transform: rotate(-45deg) !important;
-      -webkit-transform: rotate(-45deg) !important;
-      -moz-transform: rotate(-45deg) !important;
-      -ms-transform: rotate(-45deg) !important;
+      //transform: rotate(-45deg) !important;
+      //-webkit-transform: rotate(-45deg) !important;
+      //-moz-transform: rotate(-45deg) !important;
+      //-ms-transform: rotate(-45deg) !important;
       font-size: 16px;
     }
   }
