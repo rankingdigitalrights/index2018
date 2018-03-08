@@ -206,20 +206,20 @@ flex-direction: column;
 			font-family: $simplon-light;				
 			color: $black;    											
 			line-height: 1;
-			font-size: 13px;
+			font-size: 15px;
 			letter-spacing: 1px;
 			text-transform: normal;
 				@include media(small-up) {
 				font-size: 15px;
 				}
 				@include media(medium-up) {
-				font-size: 15px;
+				font-size: 1.12em;
 				}
 				@include media(large-up) {
-				font-size: 16px;
+				font-size: 1.12em;
 				}
 				@include media(xlarge-up) {
-				font-size: 16px;//13
+				font-size: 1.12em;
 				} 				
 				i {
 				font-size: 10px;    											

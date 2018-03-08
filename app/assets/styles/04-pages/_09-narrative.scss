@@ -16,7 +16,7 @@ $maincolor:  #231f20;
     margin: 0;
     padding: 0;
     li{
-      font-family: "Simplon-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-family: $simplon-light;
       list-style: none;
     }
   }
@@ -62,7 +62,7 @@ $maincolor:  #231f20;
         color: $black-lighter;
         font-weight: normal;
         font-size: 1.1em;
-        font-family: "Simplon-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-family: $simplon-light;
         position: relative;
         &:hover{
           text-decoration: none;
@@ -261,7 +261,7 @@ $maincolor:  #231f20;
       p{
         font-size: 1em;
         line-height: 1.5em;
-        font-family: "Simplon-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-family: $simplon-light;
         @include media(small-up) {
           font-size: 1em;
         }
@@ -304,18 +304,8 @@ $maincolor:  #231f20;
     .introduction{
       margin-top: 44px;
         p {
-          //font-size: 1.250em;
           line-height: 1.5em;
         }
-        //p:first-child::first-letter {
-        //  font-size: 55px;
-        //  float: left;
-        //  text-transform: uppercase;
-        //  margin-top:0.13em;
-        //  margin-right:0.05em;
-        //  margin-left:-0.03em;
-        //  color: $base-color;
-        //}
     }
     .pagination{
       margin: 40px 0;
@@ -323,7 +313,7 @@ $maincolor:  #231f20;
       	a{
           cursor: pointer;
           color: $black-lighter ;
-          font-family: "Simplon-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+          font-family: $simplon-light;
           &:hover{
             text-decoration: none;
             span{
