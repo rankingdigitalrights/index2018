@@ -112,8 +112,8 @@
                 <div class="comp--instant_mess-wrapper">
                   {% for item in page.services_evaluated %}
                   <div class="comp--instant_mess">
-                    <label><a href="{{ site.baseurl }}/services/{{ item.key_href }}">{{ item.key }}</a></label>
-                    <div class="comp--name">{{ item.name }}</div>
+                    <label><a href="{{ site.baseurl }}/services/{{ item.key_href }}"> [{{ item.key }}]</a></label>
+                    <div class="comp--name"><i class="fa fa-circle" aria-hidden="true"></i>{{ item.name }}</div>
                     <div class="comp--value">{{ item.value }}</div>
                     <div class="comp--desc">{{ item.desc }}</div>
                   </div>
