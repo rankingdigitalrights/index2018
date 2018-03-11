@@ -8,30 +8,32 @@ var baseurl = require('../util/base-url');
 var template = require('../templates/compare.tpl');
 
 module.exports = Backbone.View.extend({
-    render: function (el) {
-        var data = this.collection.models;
-        var $data = [];
-        data.forEach(function (i) {
-            $data.push({name:i.attributes.name,total_difference:i.attributes.total_difference, description:i.attributes.description});
-        });
-        $data.sort(function(a, b) {
-            return parseFloat(a.total_difference) - parseFloat(b.total_difference);
-        });
-        $data.reverse();
-        d3.select("#compare--overview_chart")
-            .datum($data)
-            .call(columnChart()
-            .width($('#compare--overview_chart').width())
-            .height(300)
-            .x(function(d, i) { return d.name; })
-            .y(function(d, i) { return d.total_difference; }));
+  
+  render: function (el) {
+    var data = this.collection.models;
+    var $data = [];
+    data.forEach(function (i) {
+      $data.push({name:i.attributes.name,total_difference:i.attributes.total_difference, description:i.attributes.description});
+    });
+    $data.sort(function(a, b) {
+      return parseFloat(a.total_difference) - parseFloat(b.total_difference);
+    });
+    $data.reverse();
+    d3.select("#compare--overview_chart")
+      .datum($data)
+      .call(columnChart()
+      .width($('#compare--overview_chart').width())
+      .height(300)
+      .x(function(d, i) { return d.name; })
+      .y(function(d, i) { return d.total_difference; }));
 
-        $data.forEach(function (i) {
-          $("#compare--overview_list").append(
-            template({name:i.name, total_difference:i.total_difference, description:i.description})
-          );
-        });
-    },
+    $data.forEach(function (i) {
+      $("#compare--overview_list").append(
+        template({name:i.name, total_difference:i.total_difference, description:i.description})
+      );
+    });
+  },
+
 });
 
 
@@ -48,6 +50,7 @@ function columnChart() {
       xAxis = d3.svg.axis().scale(xScale);
   
   function chart(selection) {
+    
     selection.each(function(data) {
 
       // Convert data to standard representation greedily;
@@ -131,18 +134,14 @@ function columnChart() {
         .attr("transform", "translate(0," + Y0() + ")")
         .call(xAxis.tickSize(0))
         .selectAll('text')
-        .attr('x', '0')
-        .attr('y', '0')
+        .attr('x', function(d, i) { return data[i][1] < 0 ? '5' : '0' })
+        .attr('y', function(d, i) { return data[i][1] < 0 ? '-5' : '0' })
         .style('text-anchor', function(d, i) { return data[i][1] < 0 ? 'start' : 'end' })
         .attr('class', 'company--name')
-        .attr('transform', function(d, i) { return data[i][1] < 0 ? 'rotate(-45), translate(10, -10)' : 'rotate(-45), translate(-5, 5)' });
-
-      // Update the y-axis.
-      // g.select(".y.axis").call(yAxis);
+        .attr('transform', 'rotate(-45)');
 
     });
   }
-
 
 // The x-accessor for the path generator; xScale ∘ xValue.
   function X(d) {
