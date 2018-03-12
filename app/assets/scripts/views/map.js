@@ -253,8 +253,9 @@ module.exports = Backbone.View.extend({
               .attr("y", coords[1] + parseInt(datum.countryPosY))
               .style("font-size", "16px")
               .style("fill", datum.countryColor)
-                .style("font-weight", "bold")
+              .style("font-weight", "bold")
               .attr("text-anchor", datum.countryAnchor) // set anchor y justification
+              .attr("class", "label--country")
               .text(datum.country);
 
               if (parseInt(datum.lineColor)!=0){
@@ -269,7 +270,7 @@ module.exports = Backbone.View.extend({
                 layer.append("circle")          // attach a line
                     .style("fill", datum.lineColor)  // colour the line
                     .style("stroke-width", 0)  // colour the line
-                    .attr("r", 3)
+                    .attr("r", 2)
                     .attr("cx", $end[0])     // x position of the second end of the line
                     .attr("cy", $end[1]);    // y position of the second end of the line
             }

@@ -29,6 +29,39 @@
 
 	/* World map */
 	.bombLabels{
+		text {
+			font-size: 7px !important;
+			@include media(small-up) {
+				font-size: inherit !important;
+			}
+			@include media(medium-up) {
+				font-size: inherit !important;
+			}
+			@include media(large-up) {
+				font-size: inherit !important;
+			}
+			@include media(xlarge-up) {
+				font-size: inherit !important;
+			}
+		}
+
+		.label--country {
+			display: none !important;
+			@include media(small-up) {
+				display: none !important;
+			}
+			@include media(medium-up) {
+				display: none !important;
+			}
+			@include media(large-up) {
+				display: block !important;
+			}
+			@include media(xlarge-up) {
+				display: block !important;
+			}
+		}
+
+
 		@include media(small-up) {
 			display: none;
 		}

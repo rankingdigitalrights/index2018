@@ -1,6 +1,6 @@
 [
   {
-    "radius":6,
+    "radius":4,
     "fillKey":"red",
     "latitude":57,
     "longitude":-145,
@@ -20,7 +20,7 @@
     "y2":-100
   },
   {
-    "radius":6,
+    "radius":4,
     "fillKey":"red",
     "latitude":48,
     "longitude":-136,
@@ -40,7 +40,7 @@
     "y2":-100
   },
   {
-    "radius":6,
+    "radius":4,
     "fillKey":"red",
     "latitude":40,
     "longitude":-129,
@@ -60,7 +60,7 @@
     "y2":-100
   },
   {
-    "radius":6,
+    "radius":4,
     "fillKey":"red",
     "latitude":32,
     "longitude":-124.5,
@@ -80,7 +80,7 @@
     "y2":-100
   },
   {
-    "radius":6,
+    "radius":4,
     "fillKey":"red",
     "latitude":24,
     "longitude":-121.5,
@@ -100,7 +100,7 @@
     "y2":-100
   },
   {
-    "radius":6,
+    "radius":4,
     "fillKey":"red",
     "latitude":16,
     "longitude":-119.5,
@@ -120,7 +120,7 @@
     "y2":-100
   },
   {
-    "radius":6,
+    "radius":4,
     "fillKey":"yellow",
     "latitude":8,
     "longitude":-118.5,
@@ -140,7 +140,7 @@
     "y2":-97
   },
   {
-    "radius":6,
+    "radius":4,
     "fillKey":"yellow",
     "latitude":0,
     "longitude":-100,
@@ -162,7 +162,7 @@
 
 
   {
-    "radius":6,
+    "radius":4,
     "fillKey":"red",
     "latitude":65,
     "longitude":90,
@@ -180,7 +180,7 @@
     "countryColor": "#ffffff"
   },
   {
-    "radius":6,
+    "radius":4,
     "fillKey":"red",
     "latitude":65,
     "longitude":120,
@@ -198,7 +198,7 @@
     "countryColor": "#ffffff"
   },
   {
-    "radius":6,
+    "radius":4,
     "fillKey":"yellow",
     "latitude":-40,
     "longitude":25,
@@ -219,7 +219,7 @@
   },
 
   {
-    "radius":6,
+    "radius":4,
     "fillKey":"yellow",
     "latitude":55,
     "longitude":-20,
@@ -239,7 +239,7 @@
     "y2":-3
   },
   {
-    "radius":6,
+    "radius":4,
     "fillKey":"yellow",
     "latitude":46.5,
     "longitude":-18,
@@ -259,7 +259,7 @@
     "y2":2
   },
   {
-    "radius":6,
+    "radius":4,
     "fillKey":"yellow",
     "latitude":38,
     "longitude":-17,
@@ -280,7 +280,7 @@
   },
 
   {
-    "radius":6,
+    "radius":4,
     "fillKey":"yellow",
     "latitude":-5,
     "longitude":35,
@@ -300,7 +300,7 @@
     "y2":51
   },
   {
-    "radius":6,
+    "radius":4,
     "fillKey":"yellow",
     "latitude":-5,
     "longitude":55,
@@ -320,7 +320,7 @@
     "y2":54
   },
   {
-    "radius":6,
+    "radius":4,
     "fillKey":"yellow",
     "latitude":-5,
     "longitude":79,
@@ -340,7 +340,7 @@
     "y2":80
   },
   {
-    "radius":6,
+    "radius":4,
     "fillKey":"yellow",
     "latitude":-5,
     "longitude":102,
@@ -361,7 +361,7 @@
   },
 
   {
-    "radius":6,
+    "radius":4,
     "fillKey":"red",
     "latitude":25,
     "longitude":131.5,
@@ -381,7 +381,7 @@
     "y2":105
   },
   {
-    "radius":6,
+    "radius":4,
     "fillKey":"red",
     "latitude":17,
     "longitude":130,
@@ -401,7 +401,7 @@
     "y2":105
   },
   {
-    "radius":6,
+    "radius":4,
     "fillKey":"red",
     "latitude":33,
     "longitude":134.5,
@@ -421,7 +421,7 @@
     "y2":128
   },
   {
-    "radius":6,
+    "radius":4,
     "fillKey":"red",
     "latitude":41,
     "longitude":139,
