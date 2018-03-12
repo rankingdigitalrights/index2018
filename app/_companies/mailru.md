@@ -9,46 +9,77 @@ company_type: Internet and mobile companies
 display: Mail.Ru Group Limited
 headquarters: Russia
 link: http://corp.mail.ru
+download: http://corp.mail.ru
 
 telco: false
 
+rank: 11
+
 key_findings:
-  - Mail.Ru failed to clearly disclose policies affecting users’ freedom of expression and privacy.
-  - The company disclosed nothing about how it processes or complies with government and private requests to restrict content and accounts, or to hand over user information. Russian authorities may have direct access to user information without needing to request it, but Mail.Ru could disclose its processes for handling private requests.
-  - Mail.Ru ranked lower than Yandex, the other Russian internet company evaluated, which disclosed more about its security practices and how it handles user information. These score differences highlight areas in which Mail.Ru could improve.
-
-
+  - Mail.Ru disclosed less than most other internet and mobile ecosystem companies in the Index, including Yandex, the other Russian internet company evaluated, about policies affecting users’ freedom of expression and privacy.
+  - The company disclosed almost nothing about how it handles government demands to remove content or hand over user data, although it is not illegal to disclose at least some information about its processes for responding to these types of requests.
+  - The company lacked transparency about what user data it collects and shares, and for what purposes, including for the use of targeted advertising, as well as what measures it takes to keep this data secure.
 
 services_evaluated:
-  - item:
-    key: email
-    key_href: emailservice
-    name: mail.ru
-  - item:
-    key: messaging and voip
-    key_href: messagingvoip
-    name: mail.ru agent
-  - item:
-    key: social network
-    key_href: socialnetworkblog
-    name: vkontakte
+- item:
+  key: email
+  key_href: emailservice
+  name: mail.ru
+- item:
+  key: messaging and voip
+  key_href: messagingvoip
+  name: mail.ru agent
+- item:
+  key: social network
+  key_href: socialnetworkblog
+  name: vkontakte
 
-total: 22
-analysis_text_left: "Mail.Ru ranked 10th of 12 internet and mobile companies and 14th in the Index overall. As a Russian company, Mail.Ru faces clear challenges: The 2016 Freedom on the Net report by Freedom House rated Russia’s internet environment as “Not Free.”  Russian companies must comply with laws that grant authorities broad powers to create internet “blacklists,” and participate in a mass surveillance program, SORM, which allows authorities to intercept communications and metadata. But these constraints do not fully explain Mail.Ru’s weak disclosure in a number of other areas. Mail.Ru scored six percentage points lower than Yandex, the other Russian internet company evaluated, highlighting areas where immediate improvement is possible. For Mail.Ru this includes disclosure of its processes for handling government and private requests for content and account restrictions, and requests to hand over user information, indicators on which Yandex scored higher."
+analysis_text: "Mail.Ru ranked 11th of the 12 internet and mobile ecosystem companies evaluated, disclosing little about policies affecting freedom of expression and privacy. It made no improvements in the 2018 Index. Notably, the company disclosed significantly less about its privacy policies than Yandex, the other <a href=\"https://rankingdigitalrights.org/index2017/findings/russia/" target=\"_blank\">Russian company</a> evaluated. While operating in an <a href=\"https://freedomhouse.org/report/freedom-net/2017/russia/" target=\"_blank\">increasingly restrictive internet environment</a> that discourages companies from publicly committing to protect human rights, the company could be more transparent about key policies and practices affecting freedom of expression and privacy. It could disclose more about its processes for handling government and private demands to restrict content or to hand over user information, as there are no legal obstacles preventing the company from doing so. Mail.Ru could also improve disclosure about its handling of user information—an area in which Yandex was more transparent—and give users clear options to control what information the company collects and shares, including for the use of targeted advertising."
 
-analysis_text_right: "<strong>Mail.Ru Group Limited</strong> provides online communication products and entertainment services in Russia and internationally. The company provides a search engine, social networking platforms, email services, and gaming and e-commerce services."
+key_recommendation_paragraph: "<strong>Mail.Ru Group Limited</strong> provides online communication products and entertainment services in Russia and internationally. Services include a search engine, social networking platforms, email services, and gaming and e-commerce services."
 
+key_recommendation_list:
+  - <strong>Make a clear commitment to human rights.</strong> The company should make a clear commitment to respect freedom of expression and privacy as human rights, as there are no legal obstacles preventing it from doing so.
+  - <strong>Be transparent about demands to block content and for user information.</strong> The company should disclose information on its handling of government requests to remove content and for user information, and indicate where laws may complicate full transparency.
+  - <strong>Clarify handling of user information.</strong> The company should improve disclosure of its handling of user data and communicate to users what steps it takes to keep that information secure. 
 
 analysis_industry: Internet Software and Services
-analysis_market_cap: USD 3,751 million
+analysis_market_cap: USD 8.2 billion
 analysis_stock_symbol: "LSE: MAIL"
 
-governance: 7
-governance_text: "Mail.Ru scored poorly in the Governance category, earning the fourth-lowest score of all 22 companies evaluated, ahead of Axiata, Ooredoo, and Baidu. It received a small amount of credit on just two of the six indicators in this category. It disclosed a whistleblower program, although not specifically for reporting freedom of expression and privacy concerns (G3). It also disclosed an avenue for users to file complaints, including about blocked accounts, but offered no options for users to file privacy-related grievances (G6)."
+governance_text: "Mail.Ru scored poorly in the Governance category, tying with Yandex and Tencent for the second-lowest score among internet and mobile ecosystem companies. The company received some credit on just two of the six indicators in this category. It disclosed a whistleblower program, but not specifically for reporting freedom of expression and privacy concerns (G3), and disclosed a grievance mechanism for complaints related to freedom of expression, but not for privacy issues (G6)."
 
-freedom: 21
-freedom_text: "Mail.Ru received the fourth-lowest score of internet and mobile companies evaluated in this category, ahead of Samsung, Tencent, and Baidu. <br /><br /><strong>Content and account restrictions:</strong> Mail.Ru disclosed far less than most other internet and mobile companies on these indicators (F3, F4, F8). While the company received some credit for disclosing what types of content and accounts are prohibited on its services, it also disclosed it can delete user content without notice and without explanation (F3). Mail.Ru did not provide data about the content or accounts it restricts for violating its terms (F4), nor did it disclose a policy to notify users when it restricts content or their account (F8).<br /><br /><strong>Content and account restriction requests:</strong> Mail.Ru disclosed far less than most other internet and mobile companies, with the exception of Samsung, Baidu, and Tencent, on these indicators (F5-F7). Although there are no laws prohibiting Russian companies from disclosing information about government requests to restrict or block content or accounts, the company provided only minimal information about its processes for responding to these types of requests (F5) and no data about the number of requests from governments or private parties it receives or complies with (F6, F7).<br /><br /><strong>Identity policy:</strong> Mail.Ru’s VKontakte, the social networking service, disclosed that it requires users to provide a mobile phone number and may ask to verify a user’s real identity in case a user needs tech support. <a href=\"https://vk.com/privacy\" target=\"_blank\">Russian internet service providers and telecommunications companies are legally</a>required to verify the identities of their users, but this requirement does not apply to companies such as Mail.Ru."
+summary_of_changes_governance:
+  - item:
+    change: positive
+    title: F1. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+  - item:
+    change: negative
+    title: F4. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
 
-privacy: 26
-privacy_text: "In the Privacy category, Mail.Ru had the second-lowest score of the 12 internet and mobile companies, scoring better than only Baidu. <br /><br /><strong>Handling of user information:</strong> Mail.Ru scored lower than all other internet and mobile companies except Baidu on these indicators (P3-P9). The company disclosed more information about what types of user information it collects (P3), than about what information it shares (P4), for what purpose (P5), and for how long it retains it (P6). Russian law does not prevent companies from fully disclosing user information retention policies.<br /><br /><strong>Requests for user information:</strong> Mail.Ru and Samsung were the only two internet and mobile companies that did not disclose any information on policies for responding to requests by governments and private parties for user information (P10-P11). The company also provided no information about whether it notifies users when information has been requested about them (P12). However, since Russian authorities may have direct access to communications data through SORM, Russian companies may not be aware of the number of times, or for which users, government authorities access user information.<br /><br /><strong>Security:</strong> Mail.Ru disclosed little about its security policies, but more than four other internet and mobile companies, including Twitter (P13-P18). Like most companies, it offered no information about its process for responding to data breaches (P15). While it disclosed that transmissions of user communications are encrypted by default, the company disclosed little else about its encryption policies, particularly in comparison to Yandex, the other Russian internet company evaluated (P16)."
+freedom_text: "Mail.Ru disclosed little about policies affecting users’ freedom of expression, tying with Samsung for the fourth-lowest score of internet and mobile ecosystem companies, ahead of Yandex, Tencent, and Baidu.<br /><br /><strong>Content and account restrictions:</strong> Mail.Ru disclosed more than Yandex but less than other internet and mobile ecosystem companies about what the rules are and how they are enforced (F3). Like most companies in the Index, Mail.Ru disclosed no data about the volume and nature of content or accounts it restricts for terms of service violations (F4). Unlike Yandex, Mail.Ru did not disclose if it notifies users when it restricts content or their accounts (F8).<br /><br /><strong>Content and account restriction requests:</strong>Mail.Ru disclosed almost nothing about its process for handling government and private requests to block content or user accounts (F5-F7). The company provided only minimal information about its processes for responding to these types of requests (F5), and offered no data about the number of requests from governments or private parties it receives or complies with (F6, F7), although there are no laws prohibiting Mail.Ru from doing so.<br /><br /><strong>Identity policy:</strong> Mail.Ru’s VKontakte, the social networking service, disclosed a requirement for users to provide a mobile phone number and to verify a user’s real identity in case a user needs tech support. <a href=\"http://www.consultant.ru/document/cons_doc_LAW_43224/f7a7810cf56882f4ac05d0b11af4fc4a2d3c9d23/" target=\"_blank\">Internet service providers, telecommunications companies</a>, and <a href=\"http://www.consultant.ru/document/cons_doc_LAW_43224/f7a7810cf56882f4ac05d0b11af4fc4a2d3c9d23/" target=\"_blank\">instant messaging services</a> in Russia are legally required to verify the identities of their users, but it is unclear if the regulations apply to social network platforms like VKontakte."
+
+summary_of_changes_freedom:
+  - item:
+    change: positive
+    title: F1. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+  - item:
+    change: negative
+    title: F4. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+
+privacy_text: "Mail.Ru received the second-lowest privacy score of the 12 internet and mobile ecosystem companies, scoring better than only Baidu. <br /><br /><strong>Handling of user information:</strong>Mail.Ru disclosed less than all other internet and mobile ecosystem companies, including Yandex, about its handling of user information (P3-P9). While the company disclosed some information about what types of user data it collects (P3), shares (P4), and for what purpose (P5), it revealed little about for how long user information is retained (P6). Mail.Ru also lacked clarity about what options users have to control the company’s collection of their data, including options to control how their information is used for targeted advertising (P7), or whether the company tracks users across the internet with cookies or widgets (P9). <br /><br /><strong>Requests for user information:</strong> Mail.Ru was one of three internet and mobile ecosystem companies that failed to disclose any information about its processes for handling government and private requests for user information (P10, P11). Like many of its peers, the company also disclosed nothing about whether it notifies users when their data has been requested (P12). However, since <a href=\"http://www.theguardian.com/world/2015/sep/08/red-web-book-russia-internet/" target=\"_blank\">Russian authorities may have direct access to communications data through SORM</a>, Russian companies may not be aware of when government authorities access user information.<br /><br /><strong>Security:</strong> Mail.Ru disclosed little about its security policies, but more than four other internet and mobile companies, including Twitter (P13-P18). Like most companies, it offered no information about its process for responding to data breaches (P15). It also disclosed little about its encryption policies, particularly in comparison to Yandex, the other Russian internet company evaluated (P16)."
+
+summary_of_changes_privacy:
+  - item:
+    change: positive
+    title: F1. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+  - item:
+    change: positive
+    title: F4. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
 ---
