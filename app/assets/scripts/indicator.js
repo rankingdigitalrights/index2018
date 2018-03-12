@@ -12,6 +12,8 @@ var Indicator = require('./collections/single-indicator');
 var Indicators = require('./collections/indicators-overview');
 var IndicatorView = require('./views/indicator');
 
+var telco = require('./util/telco');
+
 module.exports = function generateIndicator (indicatorName) {
 
     var overview = new Overview();
@@ -43,6 +45,8 @@ module.exports = function generateIndicator (indicatorName) {
     })
 
     var success = function (indicatorName) {
+
+        var $indicator_type = indicatorName.charAt(0);
         var $indicators = indicators.findWhere({indicator: indicatorName});
         var $scores = $indicators.attributes.scores;
         var $data = [];
@@ -51,13 +55,45 @@ module.exports = function generateIndicator (indicatorName) {
         });
         $data.sort(barsort);
 
-        var barchart = new Barchart({
-            width: $('#indicator--overview_chart').width(),
-            height: 340,
-            data: $data,
+        var $telco = [];
+        var $internet = [];
+        $data.forEach(function (i, d) {
+            var control = $.inArray(i.name, telco);
+            if(control == '-1')
+            {
+                $internet.push(i);
+            }
+            else
+            {
+                $telco.push(i);
+            }
         });
 
-        barchart.render('#indicator--overview_chart');
+        if($indicator_type == 'g')
+        {
+            var barchart = new Barchart({
+                width: $('#indicator--overview_chart').width(),
+                height: 340,
+                data: $data,
+            });
+            barchart.render('#indicator--overview_chart');
+        }
+        else 
+        {
+            var barchart = new Barchart({
+                width: $('#indicator--overview_chart').width()/2,
+                height: 340,
+                data: $internet,
+            });
+            barchart.render('#indicator--overview_chart');
+
+            var barchart = new Barchart({
+                width: $('#indicator--overview_chart').width()/2,
+                height: 340,
+                data: $telco,
+            });
+            barchart.render('#indicator--overview_chart'); 
+        }
     };
 
     var successOverview = function(){
