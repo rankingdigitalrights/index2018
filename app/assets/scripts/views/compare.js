@@ -8,7 +8,7 @@ var baseurl = require('../util/base-url');
 var template = require('../templates/compare.tpl');
 
 module.exports = Backbone.View.extend({
-  
+
   render: function (el) {
     var data = this.collection.models;
     var $data = [];
@@ -41,14 +41,20 @@ function columnChart() {
   var margin = {top: 20, right: 20, bottom: 60, left: 20},
       width = 100,
       height = 300,
-      xRoundBands = 0.05,
+      xRoundBands = 0.25,
       xValue = function(d) { return d[0]; },
       yValue = function(d) { return d[1]; },
       xScale = d3.scale.ordinal(),
       yScale = d3.scale.linear(),
       yAxis = d3.svg.axis().scale(yScale).orient("left"),
-      xAxis = d3.svg.axis().scale(xScale);
-  
+      xAxis = d3.svg.axis().scale(xScale),
+      tt = d3.tip()
+        .attr('class', 'bar--tip')
+        .offset([-20, 0])
+        .html(d => d[0] + '<br/>' + d[1] + '%');
+
+
+
   function chart(selection) {
     
     selection.each(function(data) {
@@ -58,18 +64,18 @@ function columnChart() {
       data = data.map(function(d, i) {
         return [xValue.call(data, d, i), yValue.call(data, d, i)];
       });
-    
+
       // Update the x-scale.
       xScale
           .domain(data.map(function(d) { return d[0];} ))
           .rangeRoundBands([0, width - margin.left - margin.right], xRoundBands);
-         
+
       // Update the y-scale.
       yScale
           .domain(d3.extent(data.map(function(d) { return d[1];} )))
           .range([height - margin.top - margin.bottom, 0])
           .nice();
-          
+
       // Select the svg element, if it exists.
       var svg = d3.select(this).selectAll("svg").data([data]);
 
@@ -81,8 +87,8 @@ function columnChart() {
       gEnter.append("g").attr("class", "x axis zero");
 
       // Update the outer dimensions.
-      svg .attr("width", width)
-          .attr("height", height);
+      svg.attr("width", width)
+         .attr("height", height);
 
       // Update the inner dimensions.
       var g = svg.select("g")
@@ -96,17 +102,19 @@ function columnChart() {
         .attr("x", function(d) { return X(d); })
         .attr("y", Y0())
         .attr("width", xScale.rangeBand())
-        .attr("height", 0);
+        .attr("height", 0)
+        .on('mouseover', tt.show)
+        .on('mouseout', tt.hide);
 
       bar.transition()
         .duration(2000)
         .attr('y', function(d, i) { return d[1] < 0 ? Y0() : Y(d); })
         .attr('height', function(d, i) { return Math.abs( Y(d) - Y0() ); });
-      
+
       // Update legend rect
       bar.enter().append("rect");
       bar.exit().remove();
-      bar.attr("class", function(d, i) { 
+      bar.attr("class", function(d, i) {
           var $class = 'zero';
           if( d[1] == 0 ) $class = 'legend legend--zero';
           else if ( d[1] < 0 ) $class = 'legend legend--negative';
@@ -122,7 +130,7 @@ function columnChart() {
       bar.enter().append("text");
       bar.exit().remove();
       bar.attr("class", "rank")
-        .attr("x", function(d) { return X(d) + 22; })
+        .attr("x", function(d) { return X(d) + 20; })
         .attr("y", function(d, i) { return d[1] >= 0 ? Y(d) - 10 : Y(d) + 20; })
         .attr("width", xScale.rangeBand())
         .attr("height", 20)
@@ -134,11 +142,13 @@ function columnChart() {
         .attr("transform", "translate(0," + Y0() + ")")
         .call(xAxis.tickSize(0))
         .selectAll('text')
-        .attr('x', function(d, i) { return data[i][1] < 0 ? '5' : '0' })
-        .attr('y', function(d, i) { return data[i][1] < 0 ? '-5' : '0' })
+        .attr('x', function(d, i) { return data[i][1] < 0 ? '10' : '-10' })
+        .attr('y', function(d, i) { return data[i][1] < 0 ? '-5' : '-3' })
         .style('text-anchor', function(d, i) { return data[i][1] < 0 ? 'start' : 'end' })
         .attr('class', 'company--name')
         .attr('transform', 'rotate(-45)');
+
+      svg.call(tt);
 
     });
   }
