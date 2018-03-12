@@ -206,6 +206,20 @@
     border-radius: 2px;
     color: #FFFFFF;
     font-weight: bold;
+    display: none !important;
+    @include media(small-up) {
+      display: none !important;
+    }
+    @include media(medium-up) {
+      display: none !important;
+    }
+    @include media(large-up) {
+      display: block !important;
+    }
+    @include media(xlarge-up) {
+      display: block !important;
+    }
+
   }
   .legend--zero {
     fill: #787878;
@@ -221,9 +235,18 @@
     font-size: 13px;
     font-weight: bold;
     position: relative;
-    display: inline-block;
-    @include media(medium-up){
-
+    display: none !important;
+    @include media(small-up) {
+      display: none !important;
+    }
+    @include media(medium-up) {
+      display: none !important;
+    }
+    @include media(large-up) {
+      display: block !important;
+    }
+    @include media(xlarge-up) {
+      display: block !important;
     }
   }
 
