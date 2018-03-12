@@ -154,7 +154,6 @@
             <div class="container--right">
               <div class="key-recommendation">
                 <label class="label-black-style key-recommendation-label">Key Recommendation</label>
-                <p>{{ page.key_recommendation_paragraph }}</p>
                 {% if page.key_recommendation_list %}
                 <ul>
                   {% for item in page.key_recommendation_list %}
@@ -164,6 +163,7 @@
                 {% endif; %}
               </div>
               <div class="border-line"></div>
+              <p>{{ page.key_recommendation_paragraph }}</p>
               <p>{{ page.analysis_text_right }}</p>
               <div class="comp--industry">
                 <label>Industry: </label>{{ page.analysis_industry }}
