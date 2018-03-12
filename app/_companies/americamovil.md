@@ -13,30 +13,35 @@ operating: Telcel
 
 telco: true
 
-key_findings:
-  - América Móvil lacked clear disclosure of policies that affect users’ freedom of expression and privacy.
-  - The company lacked disclosure of how it handles government and private requests to restrict content or accounts, or to hand over user information.
-  - Without changes in the law, the company could improve its disclosure in several areas, including by publishing transparency reports in keeping with its industry peers.
+rank: 5
 
+key_findings:
+  - América Móvil failed to disclose sufficient information about its policies and practices affecting users’ freedom of expression and privacy.
+  - The company lacked disclosure about its rules and how they are enforced, and how it responds to government requests to shut down networks.
+  - The company did not disclose how it handles government or private requests to restrict content or hand over user information.
 
 services_evaluated:
-  - item:
-    key: pre-paid mobile
-    key_href: prepostpaidmobile
-    name: Telcel
-  - item:
-    key: post-paid mobile
-    key_href: prepostpaidmobile
-    name: Telcel
+- item:
+  key: pre-paid mobile
+  key_href: prepostpaidmobile
+  name: Telcel
+- item:
+  key: post-paid mobile
+  key_href: prepostpaidmobile
+  name: Telcel
 
-total: 21
-analysis_text_left: "América Móvil ranked fifth out of the 10 telecommunications companies evaluated and 16th in the Index overall. Although Freedom House rates Mexico’s internet environment as <a href=\"https://freedomhouse.org/report/freedom-net/2016/mexico\" target=\"_blank\">'Partly Free'</a> the company could improve its disclosure of a number of policies even if laws and regulations do not change. These include the company’s policies on net neutrality and network management (F9), and data retention (P6). There is no obstacle in Mexico to reporting data about the number of government and private requests the company receives to share user information (P11). Mexico’s telecommunications authority requires companies to report on the number of government requests for real-time location tracking or access to user metadata, but the company has not published this data. Notably, the company’s disclosure about its security oversight has improved since the 2015 Index, as its <a href=\"http://www.americamovil.com/sites/default/files/2016-09/AMX-IS-2015-ingles.pdf\" target=\"_blank\">2015 Sustainability Report</a> included more detail about its internal systems to monitor employee access to information (P13)."
+analysis_text: "América Móvil ranked fifth out of the 10 telecommunications companies evaluated and 16th in the Index overall. Although Freedom House rates Mexico’s internet environment as <a href=\"https://freedomhouse.org/report/freedom-net/2016/mexico\" target=\"_blank\">'Partly Free'</a> the company could improve its disclosure of a number of policies even if laws and regulations do not change. These include the company’s policies on net neutrality and network management (F9), and data retention (P6). There is no obstacle in Mexico to reporting data about the number of government and private requests the company receives to share user information (P11). Mexico’s telecommunications authority requires companies to report on the number of government requests for real-time location tracking or access to user metadata, but the company has not published this data. Notably, the company’s disclosure about its security oversight has improved since the 2015 Index, as its <a href=\"http://www.americamovil.com/sites/default/files/2016-09/AMX-IS-2015-ingles.pdf\" target=\"_blank\">2015 Sustainability Report</a> included more detail about its internal systems to monitor employee access to information (P13)."
 
-analysis_text_right: "<strong>América Móvil, S.A.B. de C.V.</strong> provides telecommunications services to Mexico and 35 countries in the Americas and Europe. It offers mobile and fixed-voice and data services for retail and business customers and is one of the largest operators globally."
+key_recommendation_paragraph: "<strong>América Móvil, S.A.B. de C.V.</strong> provides telecommunications services to Mexico and 35 countries in the Americas and Europe. It offers mobile and fixed-voice and data services for retail and business customers and is one of the largest operators globally."
+
+key_recommendation_list:
+  - <strong>Be transparent about policies affecting users’ freedom of expression.</strong> The company should disclose more about how it enforces its rules, when it blocks content, and how it responds to network shutdown demands from governments. 
+  - Be transparent about external requests. The company should disclose data about the number of government and private requests it receives to remove content and accounts and to hand over user information.
+  - Disclose more about security practices. The company should clearly communicate its handling of data breaches to users. 
 
 analysis_industry: Diversified Telecommunication Services
-analysis_market_cap: USD 43,093 million
-analysis_stock_symbol: "BMV: AMX L"
+analysis_market_cap: USD 63.4 billion
+analysis_stock_symbol: "AMX L"
 
 governance: 21
 governance_text: "América Móvil ranked 13th of all 22 companies evaluated in the Governance category. Although América Móvil <a href=\"http://www.americamovil.com/sites/default/files/2016-09/AMX-IS-2015-ingles.pdf\" target=\"_blank\">committed to protect users' privacy</a>, it fell short of articulating its commitment to privacy as part of a broader commitment to human rights (G1). The company still lacked clear disclosure across a number of indicators, including whether it conducts human rights impact assessments (G4) or if it engages with a range of stakeholders on freedom of expression and privacy issues (G5). América Móvil, however, tied with Etisalat for the second-highest score of all 22 companies, after Vodafone and Bharti Airtel, for its disclosure of a grievance mechanism, including statistics for the number of privacy complaints it received (G6)."
