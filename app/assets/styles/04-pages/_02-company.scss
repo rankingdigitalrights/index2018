@@ -64,7 +64,7 @@
           @include span-columns(12);
         }
         @include media(large-up) {
-          @include span-columns(7);
+          @include span-columns(6);
         }
       }
 
@@ -77,7 +77,7 @@
           @include span-columns(12);
         }
         @include media(large-up) {
-          @include span-columns(5);
+          @include span-columns(6);
         }
 
       }
@@ -401,13 +401,16 @@
           display: none;
         }
       }
+      .dotchart--baseline {
+        top: 2.2em;
+      }
       .dotchart--label_left {
         left: -2em;
-        top: 1.7em;
+        top: 1.5em;
       }
       .dotchart--label_right {
         right: -2.5em;
-        top: 1.7em;
+        top: 1.5em;
       }
     }
   }
@@ -425,7 +428,7 @@
           @include span-columns(12);
         }
         @include media(large-up) {
-          @include span-columns(7);
+          @include span-columns(6);
         }        
       }
 
@@ -437,7 +440,7 @@
           @include span-columns(12);
         }
         @include media(large-up) {
-          @include span-columns(5);
+          @include span-columns(6);
         }
       }
 
