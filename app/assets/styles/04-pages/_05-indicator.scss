@@ -140,10 +140,10 @@ $maincolor:  #231f20;
               margin-right: 7px;
             }
             i.true {
-              color: #ED1B24;
+              color: $orange;
             }
             i.false {
-              color: #F8931F;
+              color: $red;
             }
           }
           .active-base-color{
@@ -199,12 +199,12 @@ $maincolor:  #231f20;
         }
       .container--left {
         i {
-        color: $orange;  
+        color: $red;  
         }
       }
       .container--right {
         i {
-        color: $red; 
+        color: $orange; 
         }
       }
 

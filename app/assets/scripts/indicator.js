@@ -70,8 +70,22 @@ module.exports = function generateIndicator (indicatorName) {
             }
         });
 
+        var $exclude_i = ["f9", "f10"];
+        var $exc_i = $.inArray(indicatorName, $exclude_i);
+        var $display_i = true;
+        if( $exc_i == '-1' ) {
+            $display_i = false;
+        }
+
+        var $exclude_t = ["p9", "p16", "p17"]; 
+        var $exc_t = $.inArray(indicatorName, $exclude_t);
+        var $display_t = true;
+        if( $exc_t == '-1' ) {
+            $display_t = false;
+        }
+        
         $("#indicator--overview_chart").append(
-            template_bar_chart({indicator_type:$indicator_type})
+            template_bar_chart({indicator_type:$indicator_type, display_i:$display_i, display_t:$display_t})
         );
 
         if($indicator_type == 'g')
@@ -84,20 +98,24 @@ module.exports = function generateIndicator (indicatorName) {
             barchart.render('#bar--container');
         }
         else 
-        {
-            var barchart = new Barchart({
-                width: $('#bar--container--internet').width(),
-                height: 340,
-                data: $internet,
-            });
-            barchart.render('#bar--container--internet');
+        {   
+            if(!$display_i){
+                var barchart = new Barchart({
+                    width: $('#bar--container--internet').width(),
+                    height: 340,
+                    data: $internet,
+                });
+                barchart.render('#bar--container--internet');
+            }
 
-            var barchart = new Barchart({
-                width: $('#bar--container--telco').width(),
-                height: 340,
-                data: $telco,
-            });
-            barchart.render('#bar--container--telco'); 
+            if(!$display_t){
+                var barchart = new Barchart({
+                    width: $('#bar--container--telco').width(),
+                    height: 340,
+                    data: $telco,
+                });
+                barchart.render('#bar--container--telco');
+            } 
         }
     };
 
