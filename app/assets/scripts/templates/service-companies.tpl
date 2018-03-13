@@ -1,18 +1,19 @@
 <section class="service--section">
   <div class="contain spaced-row row">
 
-    <div class="title-section">
-      <div class="overall-score service">
-        <label>Service</label>
-        <div class="overall-score-value"><%= service %></div>
-      </div>
-      <div class="overall-score company">
-        <label>Company</label>
-        <div class="overall-score-value"><%= company %></div>
-      </div>
-    </div>
 
-    <div class="container--left">        
+
+    <div class="container--left">
+    <div class="title-section">
+          <div class="overall-score service">
+            <label>Service</label>
+            <div class="overall-score-value"><%= service %></div>
+          </div>
+          <div class="overall-score company">
+            <label>Company</label>
+            <div class="overall-score-value"><%= company %></div>
+          </div>
+        </div>
       <p><%= text %></p>
     </div>
 

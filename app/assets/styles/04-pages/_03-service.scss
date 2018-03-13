@@ -375,16 +375,16 @@
 							&.dotchart--label_right {
 							right: -15px;
 						        @include media(small-up) {
-						        right: -30px;	
+						        right: -2.4em;
 						        }
 						        @include media(medium-up) {
-						  		right: -30px;
+						  		right: -2.4em;
 						        }
 						        @include media(large-up) {
-						        right: -30px;	
+						        right: -2.4em;
 						        }
 						        @include media(xlarge-up) {
-						 		right: -30px;
+						 		right: -2.4em;
 						        }								
 							}							
 						}
@@ -405,6 +405,7 @@
 
 		.contain.spaced-row.row {
 			border-bottom: 1px solid #313131;
+
 
 			.title-section {
 	    	display: flex;
@@ -555,18 +556,21 @@
 		  }
 
 	    .container--left {
-	    	padding-right: 10px;
+			padding: 0 2% 0 0;
 	      @include media(medium-up) {
 	        @include span-columns(6);
 	      }
 	    }
 	    .container--right {
 	      margin-right: 0;
-	      padding-left: 10px;
+			padding: 0 0 0 2%;
+
 	      @include media(medium-up) {
 	        @include span-columns(6);
 	      }
 	    }
+
+			
 	  }
 
 	}

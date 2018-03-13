@@ -4,6 +4,8 @@
 
 	/* Page intro */
 	.page--intro {
+		padding-top: 4em;
+		padding-bottom: 0;
 		p {
 
 		text-align: center;
@@ -31,6 +33,7 @@
 	.bombLabels{
 		text {
 			font-size: 7px !important;
+			font-weight: normal !important;
 			@include media(small-up) {
 				font-size: inherit !important;
 			}
