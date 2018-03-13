@@ -1111,16 +1111,16 @@
             text-decoration: underline;
           }
           @include media(small-up) {
-          font-size: 11px !important;  
+          font-size: 13px !important;
           }
           @include media(medium-up) {
-          font-size: 12px !important; 
+          font-size: 14px !important;
           }
           @include media(large-up) {
-          font-size: 12px !important;
+          font-size: 14px !important;
           }
           @include media(xlarge-up) {
-          font-size: 12px !important;  
+          font-size: 14px !important;
           }          
         }              
       }
