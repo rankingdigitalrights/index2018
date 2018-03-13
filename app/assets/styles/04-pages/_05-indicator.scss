@@ -174,9 +174,66 @@ $maincolor:  #231f20;
       margin-left: 0;
       width: 100%;
     }
+
+
     #indicator--overview_chart{
       margin-top: 1.5em;
+      overflow: hidden;
+      .company-type {
+        margin-top: 1em; 
+        margin-left: 1em;
+        font-size: 11px; 
+        text-transform: uppercase;
+          @include media(small-up) {
+          font-size: 11px;  
+          }
+          @include media(medium-up) {
+          font-size: 12px;  
+          }
+          @include media(large-up) {
+          font-size: 13px;
+          }
+          @include media(xlarge-up) {
+          font-size: 13px;  
+          }        
+        }
+      .container--left {
+        i {
+        color: $orange;  
+        }
+      }
+      .container--right {
+        i {
+        color: $red; 
+        }
+      }
+
+      .bar--axis_x {
+        text {
+          font-size: 11px;
+          transform: rotate(-90deg);
+          @include media(small-up) {
+            font-size: 11px;
+            transform: rotate(-90deg);  
+          }
+          @include media(medium-up) {
+            font-size: 12px;
+            transform: rotate(-45deg);          
+          }
+          @include media(large-up) {
+            font-size: 13px;
+            transform: rotate(-45deg);
+          }
+          @include media(xlarge-up) {
+            font-size: 13px;
+            transform: rotate(-45deg);
+          }           
+        }
+      }                             
+
     }
+
+
     .ref-number{
       color: $black;
       font-family: "Simplon-bold", "Helvetica Neue", Helvetica, Arial, sans-serif;

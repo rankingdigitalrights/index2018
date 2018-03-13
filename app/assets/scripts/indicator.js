@@ -6,6 +6,7 @@ var Barchart = require('./views/indicators-barchart');
 var baseurl = require('./util/base-url');
 var barsort = require('./util/barsort');
 var template = require('./templates/item.tpl');
+var template_bar_chart = require('./templates/indicator-bar-chart.tpl');
 
 var Overview = require('./collections/overview');
 var Indicator = require('./collections/single-indicator');
@@ -69,30 +70,34 @@ module.exports = function generateIndicator (indicatorName) {
             }
         });
 
+        $("#indicator--overview_chart").append(
+            template_bar_chart({indicator_type:$indicator_type})
+        );
+
         if($indicator_type == 'g')
         {
             var barchart = new Barchart({
-                width: $('#indicator--overview_chart').width(),
+                width: $('#bar--container').width(),
                 height: 340,
                 data: $data,
             });
-            barchart.render('#indicator--overview_chart');
+            barchart.render('#bar--container');
         }
         else 
         {
             var barchart = new Barchart({
-                width: $('#indicator--overview_chart').width()/2,
+                width: $('#bar--container--internet').width(),
                 height: 340,
                 data: $internet,
             });
-            barchart.render('#indicator--overview_chart');
+            barchart.render('#bar--container--internet');
 
             var barchart = new Barchart({
-                width: $('#indicator--overview_chart').width()/2,
+                width: $('#bar--container--telco').width(),
                 height: 340,
                 data: $telco,
             });
-            barchart.render('#indicator--overview_chart'); 
+            barchart.render('#bar--container--telco'); 
         }
     };
 
