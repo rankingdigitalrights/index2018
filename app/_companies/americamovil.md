@@ -43,7 +43,7 @@ analysis_industry: Diversified Telecommunication Services
 analysis_market_cap: USD 63.4 billion
 analysis_stock_symbol: "AMX L"
 
-governance_text: "América Móvil scored below most of the 10 telecommunications evaluated in the Governance category, but ahead of Bharti Airtel, Etisalat, Axiata, and Ooredoo. The company continued to lack clear disclosure of its commitments to human rights at the governance level, including whether it conducts human rights impact assessments (G4) or if it engages with a range of stakeholders on freedom of expression and privacy issues (G5). However, it disclosed more than most of its peers about remedy mechanisms addressing freedom of expression and privacy related complaints (G6). In Mexico <a href=\"http://www.diputados.gob.mx/LeyesBiblio/pdf/LFTR_311017.pdf" target=\"_blank\">companies are legally required to provide users with a complaint mechanism</a>."
+governance_text: "América Móvil scored below most of the 10 telecommunications evaluated in the Governance category, but ahead of Bharti Airtel, Etisalat, Axiata, and Ooredoo. The company continued to lack clear disclosure of its commitments to human rights at the governance level, including whether it conducts human rights impact assessments (G4) or if it engages with a range of stakeholders on freedom of expression and privacy issues (G5). However, it disclosed more than most of its peers about remedy mechanisms addressing freedom of expression and privacy related complaints (G6). In Mexico <a href=\"http://www.diputados.gob.mx/LeyesBiblio/pdf/LFTR_311017.pdf\" target=\"_blank\">companies are legally required to provide users with a complaint mechanism</a>."
 
 summary_of_changes_governance:
   - item:
