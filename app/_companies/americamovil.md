@@ -35,9 +35,9 @@ analysis_text: "América Móvil ranked fifth out of the 10 telecommunications co
 key_recommendation_paragraph: "<strong>América Móvil, S.A.B. de C.V.</strong> provides telecommunications services to Mexico and 35 countries in the Americas and Europe. It offers mobile and fixed-voice and data services for retail and business customers and is one of the largest operators globally."
 
 key_recommendation_list:
-  - <strong>Be transparent about policies affecting users’ freedom of expression.</strong> The company should disclose more about how it enforces its rules, when it blocks content, and how it responds to network shutdown demands from governments. 
+  - <strong>Be transparent about policies affecting users’ freedom of expression.</strong> The company should disclose more about how it enforces its rules, when it blocks content, and how it responds to network shutdown demands from governments.
   - <strong>Be transparent about external requests.</strong> The company should disclose data about the number of government and private requests it receives to remove content and accounts and to hand over user information.
-  - <strong>Disclose more about security practices.</strong> The company should clearly communicate its handling of data breaches to users. 
+  - <strong>Disclose more about security practices.</strong> The company should clearly communicate its handling of data breaches to users.
 
 analysis_industry: Diversified Telecommunication Services
 analysis_market_cap: USD 63.4 billion
