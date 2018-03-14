@@ -1,83 +1,81 @@
 ---
 company_type_page: telecommunications-companies
-entity: axiata
+entity: americamovil
 layout: company
-name: axiata
-id: axiata
+name: americamovil
+id: americamovil
 
 company_type: Telecommunications company
-display: Axiata Group Berhad
-headquarters: Malaysia
-link: https://www.axiata.com
-operating: Celcom
+display: América Móvil, S.A.B. de C.V.
+headquarters: Mexico
+link: https://www.americamovil.com
+operating: Telcel
 
 telco: true
 
-rank: 8
+rank: 5
 
 key_findings:
-  - Axiata was one of the lowest-scoring telecommunications companies in the Index, disclosing limited information on policies affecting freedom of expression and privacy.
-  - Axiata disclosed no information about its processes for responding to government or private requests to block content or user accounts or to hand over user information, although there are no legal obstacles preventing the company from disclosing some information about how it handles these types of requests.
-  - Axiata disclosed minimal information about its network management policies and practices, or how it handles government demands to shut down networks.
-
+  - América Móvil failed to disclose sufficient information about its policies and practices affecting users’ freedom of expression and privacy.
+  - The company lacked disclosure about its rules and how they are enforced, and how it responds to government requests to shut down networks.
+  - The company did not disclose how it handles government or private requests to restrict content or hand over user information.
 
 services_evaluated:
 - item:
   key: pre-paid mobile
   key_href: prepostpaidmobile
-  name: Celcom
+  name: Telcel
 - item:
   key: post-paid mobile
   key_href: prepostpaidmobile
-  name: Celcom
+  name: Telcel
 
-analysis_text: "Axiata ranked eighth out of 10 telecommunications companies evaluated, disclosing less than most of its peers about policies and practices affecting freedom of expression and privacy. It made no substantive improvements in the 2018 Index. The company operates in a challenging regulatory environment: the <a href=\"https://freedomhouse.org/report/freedom-net/2017/malaysia\" target=\"_blank\">2017 Freedom on the Net report</a> by Freedom House rated Malaysia’s internet environment as “Partly Free,” and Celcom, Axiata’s operating company in Malaysia, must comply with directives from the Malaysian Communications and Multimedia Commission (MCMC) and other authorities, many of which are not publicly available. However, there are no laws preventing Celcom from making basic commitments to respect freedom of expression and privacy rights, nor are there any legal obstacles preventing Axiata from improving its disclosure of how it handles user information. Axiata could also be more transparent about how it handles government and private requests to hand over user information. While Malaysia’s <a href=\"http://www.agc.gov.my/agcportal/uploads/files/Publications/LOM/EN/Act%2088.pdf\" target=\"_blank\">Official Secrets Act</a> may prohibit some disclosure of government requests, nothing prevents Celcom from publishing at least some information about third-party requests for user information."
+analysis_text: "América Móvil ranked fifth out of the 10 telecommunications companies evaluated and 16th in the Index overall. Although Freedom House rates Mexico’s internet environment as <a href=\"https://freedomhouse.org/report/freedom-net/2016/mexico\" target=\"_blank\">'Partly Free'</a> the company could improve its disclosure of a number of policies even if laws and regulations do not change. These include the company’s policies on net neutrality and network management (F9), and data retention (P6). There is no obstacle in Mexico to reporting data about the number of government and private requests the company receives to share user information (P11). Mexico’s telecommunications authority requires companies to report on the number of government requests for real-time location tracking or access to user metadata, but the company has not published this data. Notably, the company’s disclosure about its security oversight has improved since the 2015 Index, as its <a href=\"http://www.americamovil.com/sites/default/files/2016-09/AMX-IS-2015-ingles.pdf\" target=\"_blank\">2015 Sustainability Report</a> included more detail about its internal systems to monitor employee access to information (P13)."
 
-key_recommendation_paragraph: "<strong>Axiata Group Berhad</strong> provides telecommunications and network transmission-related services to almost 300 million mobile subscribers in markets across Asia."
+key_recommendation_paragraph: "<strong>América Móvil, S.A.B. de C.V.</strong> provides telecommunications services to Mexico and 35 countries in the Americas and Europe. It offers mobile and fixed-voice and data services for retail and business customers and is one of the largest operators globally."
 
 key_recommendation_list:
-  - <strong>Be more transparent about external requests.</strong> Axiata should disclose information about its processes for responding to government and private requests to block content and accounts and to hand over user information.
-  - <strong>Improve disclosure about network shutdowns.</strong> Axiata should disclose more  about how it handles government orders to shutdown networks, including making a clear commitment to push back against these types of demands.
-  - <strong>Communicate more clearly about security.</strong> Axiata should disclose information about its processes for keeping user information secure, including how it responds to data breaches.
-
+  - <strong>Be transparent about policies affecting users’ freedom of expression.</strong> The company should disclose more about how it enforces its rules, when it blocks content, and how it responds to network shutdown demands from governments.
+  - <strong>Be transparent about external requests.</strong> The company should disclose data about the number of government and private requests it receives to remove content and accounts and to hand over user information.
+  - <strong>Disclose more about security practices.</strong> The company should clearly communicate its handling of data breaches to users.
 
 analysis_industry: Diversified Telecommunication Services
-analysis_market_cap: USD 12.9 billion
-analysis_stock_symbol: "KLSE: AXIATA"
+analysis_market_cap: USD 63.4 billion
+analysis_stock_symbol: "AMX L"
 
-governance_text: "Axiata received the second-lowest score of all companies evaluated in the Governance category, ahead of only Ooredoo. It received some credit on just two of the six indicators in this category. It disclosed that its board of directors has oversight over privacy issues (G2), and <a href=\"https://www.celcom.com.my/legal/privacy-policy\" target=\"_blank\">offered some information</a> about ways users can submit privacy-related grievances (G6)."
+governance_text: "América Móvil scored below most of the 10 telecommunications evaluated in the Governance category, but ahead of Bharti Airtel, Etisalat, Axiata, and Ooredoo. The company continued to lack clear disclosure of its commitments to human rights at the governance level, including whether it conducts human rights impact assessments (G4) or if it engages with a range of stakeholders on freedom of expression and privacy issues (G5). However, it disclosed more than most of its peers about remedy mechanisms addressing freedom of expression and privacy related complaints (G6). In Mexico <a href=\"http://www.diputados.gob.mx/LeyesBiblio/pdf/LFTR_311017.pdf\" target=\"_blank\">companies are legally required to provide users with a complaint mechanism</a>."
 
 summary_of_changes_governance:
   - item:
     change: positive
     title: F1. data about terms of service enforcement
-    body: None.
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
   - item:
     change: negative
     title: F4. data about terms of service enforcement
-    body: None.
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
 
-freedom_text: "Axiata received the second-lowest freedom of expression score among telecommunications companies, disclosing more about these policies and practices than only Bharti Airtel. <br /><br /><strong>Content and account restriction requests:</strong> Like most of its peers, Axiata lacked clear disclosure of how it handles government and private requests to block content or accounts (F5-F7). It disclosed nothing about its process for responding to these types of requests (F5) nor did it publish any data about the number of these types of requests it receives or with which it complies (F6, F7).<br /><br /><strong>Network management and shutdowns:</strong> Like most telecommunications companies evaluated, Celcom provided insufficient information about its network management and shutdown policies (F9, F10). It disclosed that it may block or delay certain types of traffic and applications (F9), but had minimal disclosure of why it may shut down access to the network for a user or group of users (F10). <br /><br /><strong>Identity policy:</strong> Celcom requires pre-paid mobile users to provide identification (F11), in accordance with <a href=\"https://www.mcmc.gov.my/skmmgovmy/files/attachments/Info-updated%204July06.pdf\" target=\"_blank\">Malaysian law</a>."
+freedom_text: "América Móvil revealed little about its policies affecting freedom of expression, and less than Vodafone, AT&T, and Telefónica.<br /><br /><strong>Content and account restrictions:</strong> Like most of its peers, Telcel disclosed little about its rules and how they are enforced. The company disclosed some information about what content and activities it prohibits (F3), but disclosed no data about the number of accounts it restricted for breaching these rules (F4). The company also failed to disclose any information on whether it informs users when their content or accounts are restricted (F8). <br /><br /><strong>Content and account restriction requests:</strong> América Móvil was one of six telecommunications companies evaluated that offered no information about how it handles government or private requests to restrict content or accounts (F5-F7). There are no laws in Mexico preventing the company from being more transparent about how it handles such requests.<br /><br /><strong>Network management and shutdowns:</strong> Telcel lacked disclosure about its network management policies (F9) and its approach to handling network shutdown requests from governments (F10). Despite committing to net neutrality, Telcel <a href=\"https://www.telcel.com/mundo_telcel/quienes-somos/corporativo/redes-sociales\" target=\"_blank\">stated</a> it offers zero rating for certain content on specific social networks and instant messaging services (F9). Like most of its peers, the company disclosed no information about how it responds to government demands to shut down networks (F10).<br /><br /><strong>Identity policy:</strong> Telcel’s pre-paid contract asked users to provide their identification, although it was not clear if this is mandatory. In practice, it may be possible for users to purchase a prepaid SIM card without providing identification, but the company failed to clarify this (F11)."
 
 summary_of_changes_freedom:
   - item:
-    change: negative
-    title: F8. User notification about content and account restriction
-    body: The company’s score declined due to a change in notification policies for prepaid users, with the terms of service stating that the company can restrict an account without prior notice.
+    change: positive
+    title: F1. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
   - item:
     change: negative
     title: F4. data about terms of service enforcement
-    body: None.
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
 
-privacy_text: "Axiata placed sixth out of the 10 telecommunications companies evaluated in the Privacy category, on par with Bharti Airtel, and ahead of MTN, Etisalat, and Ooredoo.<br /><br /><strong>Handling of user information:</strong> Celcom provided more information than MTN South Africa, Etisalat UAE, and Ooredoo Qatar about how it handles user information (P3-P8), but its disclosure of what information it collects (P3), shares (P4), and why (P5) still fell short. Like most of its peers other than AT&T and Vodafone UK, Celcom provided no information about how long it retains user information (P6). It also offered users no information about options to control what information the company collects about them (P7), or options to obtain the information the company holds on them (P8). Malaysian law does not prevent companies from fully disclosing the information addressed in these indicators.<br /><br /><strong>Requests for user information:</strong> Axiata was among three other telecommunications companies, including Etisalat and Ooredoo, to disclose nothing about how it handles requests from governments and private parties to hand over user information (P10-P12). It did not reveal any information about its processes for responding to these types of requests for user information, nor did it publish any data on the volume and nature of these requests it receives or complies with (P10, P11). It also did not commit to notify users if their information is requested (P12). There are no laws preventing the company from being more transparent about these processes.<br /><br /><strong>Security:</strong> Celcom disclosed little about its security policies, scoring better than only MTN South Africa, Etisalat UAE, and Ooredoo Qatar on these indicators (P13-P18). Its disclosure about conducting security audits improved, but its disclosure of its policies for monitoring employee access to user information was less transparent than in the 2017 Index. The company did not disclose policies for addressing security vulnerabilities (P14) or for responding to data breaches (P15)."
+privacy_text: "América Móvil ranked fifth out of the 10 telecommunications companies evaluated in the Privacy category, ranking behind AT&T, Orange, and several other companies.<br /><br /><strong>Handling of user information:</strong> Telcel disclosed less about how it handles user information than AT&T, Vodafone UK, and Telefónica Spain, but more than most other telecommunications companies evaluated (P3-P8). It disclosed little about what types of user information it collects (P3), shares (P4), and its reasons for doing so (P5). Like most of its peers, Telcel disclosed nothing about how long it retains user information (P6), although no law prohibits the company from doing so. It disclosed little about options users have to control what information is collected, including for targeted advertising (P7).<br /><br /><strong>Requests for user information:</strong> Like most telecommunications companies, América Móvil provided almost no information about how it handles (P10), and failed to disclose whether it informs users when their information is requested (P12). The company did not publish any data about such requests (P11), despite being required by law to report the number of government requests for real-time location tracking or user metadata to the country’s telecommunications authority. <br /><br /><strong>Security:</strong> Telcel did not provide as much information about its security policies as Vodafone UK, AT&T, and Telefónica Spain, but was on par with Airtel India and Orange France (P13-P18). Telcel failed to disclose any information about how it addresses security vulnerabilities, including if it offers a bug bounty program for security researchers to submit vulnerabilities (P14). Like most companies in the Index, Telcel disclosed nothing about its policies for addressing data breaches (P15). Companies in Mexico are <a href=\"https://www.telcel.com/mundo_telcel/quienes-somos/corporativo/redes-sociales\" target=\"_blank\">legally required</a> to notify users only if the data breach “significantly affects” their rights, however the company does not disclose this information to users."
 
 summary_of_changes_privacy:
   - item:
     change: positive
-    title: P13. Security oversight
-    body: While new company disclosure makes it less clear how Axiata restricts employees' access to prepaid users’ data, the company improved its disclosure for both prepaid and postpaid mobile users regarding security audits it conducts on the company’s products and services.
+    title: F1. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
   - item:
     change: positive
     title: F4. data about terms of service enforcement
-    body: None.
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
 ---
