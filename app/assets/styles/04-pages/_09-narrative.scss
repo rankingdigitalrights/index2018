@@ -188,27 +188,39 @@ $maincolor:  #231f20;
           }
         }
     }
-    .section{
-      .section-title{
-        display: flex;
-        justify-content: space-between;
-        margin: 30px 0;
+
+        h1 {
+          border-bottom: 2px solid #e2dad1;
+          padding-bottom: 15px;
+          margin-bottom: 40px;
+        }
+    
         h2{
           color: $base-color;
           margin-bottom: 0;
           font-size: 2em;
           text-transform: none;
-          margin-top: 0.5em;
+          margin: 30px 0;
         }
-        a{
-          padding-top: 14px;
 
-          i{
+        blockquote {
+          background-color: #F7F7F7;
+          padding: 2.8em;
+          margin: 1.875em 0;
+          
+          h3 {
+            color: #4D9ECF;
+            text-transform: none;
+            font-family: "Simplon-Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
             font-size: 2em;
-            color: $border-gray-color;
           }
+
+          p{
+            margin: 0;
+          }
+
         }
-      }
+    
         a{
             color: $link-color;
             cursor: pointer;
@@ -300,7 +312,7 @@ $maincolor:  #231f20;
           }
         }
       }
-    }
+    
     .introduction{
       margin-top: 44px;
         p {

@@ -41,19 +41,6 @@
 
         <div class="narrative-content">
 
-          {% if page.chapter-title %}
-          <div class="chapter-title">
-            <h1>{{ page.chapter-title }}</h1>
-            <a><i class="fa fa-link" aria-hidden="true"></i></a>
-          </div>
-          {% endif %}
-
-          {% if page.chapter-intro %}
-          <div class='section introduction'>
-            {{ page.chapter-intro }}
-          </div>
-          {% endif %}
-
           {% if page.sections %}
           {% for item in page.sections %}
           <div class="section" id="{{ item.id }}">
@@ -70,6 +57,7 @@
           {{ page.footnotes }}
           {% endif %}
 
+          {{content}}
         </div>
 
       </div><!--end of #narrative-page-content-->
