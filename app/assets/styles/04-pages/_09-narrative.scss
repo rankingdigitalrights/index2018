@@ -203,6 +203,12 @@ $maincolor:  #231f20;
           margin: 30px 0;
         }
 
+        h3{
+          font-size: 2em;
+          text-transform: none;
+          margin: 30px 0;
+        }
+
         blockquote {
           background-color: #F7F7F7;
           padding: 2.8em;
@@ -305,8 +311,19 @@ $maincolor:  #231f20;
       //}
 
       ul{
+        margin-left: 20px;
         li{
           list-style: disc;
+          p{
+            line-height: 1.3em;
+          }
+        }
+      }
+
+      ol{
+        margin-left: 20px;
+        li{
+          list-style-type: number;
           p{
             line-height: 1.3em;
           }

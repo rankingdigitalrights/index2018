@@ -15,7 +15,7 @@ The 2017 Index measures if and how companies disclose their commitments, policie
 
 - **Privacy (P)**: This category contains 18 indicators measuring company disclosure of policies and practices that affect users’ privacy rights.
 
-## 1.2. Company Type ## {#company-type}
+## 1.2. Company Types ## {#company-type}
 
 While every company we examined has attributes that make it unique, for the purpose of research and scoring, we divided the 22 companies into two groups.
 
@@ -41,23 +41,27 @@ While every company we examined has attributes that make it unique, for the purp
 
 - Tencent (China) — QZone, QQ, WeChat
 
-## 1.3. Index Measures ## {#index-measures}
+## 1.3. What the Index measures ## {#index-measures}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 > ### Lorem ipsum dolor sit amet 
 **Lorem ipsum dolor sit amet**, _consectetur adipiscing elit_, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequa.
 
-- Apple (U.S.) — iOS mobile ecosystem, iMessage, iCloud
+1. Apple (U.S.) — iOS mobile ecosystem, iMessage, iCloud
 
-- Baidu (China) — Baidu Search, Baidu Cloud, Baidu PostBar
+2. Baidu (China) — Baidu Search, Baidu Cloud, Baidu PostBar
 
-- Facebook (U.S.) — Facebook, Instagram, WhatsApp, Messenger
+3. Facebook (U.S.) — Facebook, Instagram, WhatsApp, Messenger
 
-- Mail.Ru (Russia) — VKontakte, Mail.Ru email, Mail.Ru Agent
+4. Mail.Ru (Russia) — VKontakte, Mail.Ru email, Mail.Ru Agent
 
-- Microsoft (U.S.) — Bing, Outlook.com, Skype
+5. Microsoft (U.S.) — Bing, Outlook.com, Skype
 
-## 1.4. Evaluation ## {#evaluation}
+## 1.4. Evaluation and scoring ## {#evaluation}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+### Footnotes
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
