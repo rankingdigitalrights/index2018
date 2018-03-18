@@ -41,7 +41,7 @@ function columnChart() {
   var margin = {top: 20, right: 20, bottom: 60, left: 20},
       width = 100,
       height = 300,
-      xRoundBands = 0.25,
+      xRoundBands = 0.15,
       xValue = function(d) { return d[0]; },
       yValue = function(d) { return d[1]; },
       xScale = d3.scale.ordinal(),
