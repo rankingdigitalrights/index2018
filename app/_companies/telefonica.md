@@ -13,44 +13,73 @@ operating: Movistar
 
 telco: true
 
+rank: 3
+
 key_findings:
-  - Telefónica’s disclosure of its network shutdown policies was one of the more comprehensive among all telecommunications companies evaluated surveyed.
-  - The company had strong disclosure of its policies related to safeguarding users’ information, earning top marks for its disclosure of how it handles data breaches.
-  - The company offered insufficient information about what user information it collects, shares, and retains, and how it handles requests from governments and private parties for user information.
+  - Telefónica disclosed a strong commitment to respect human rights but was less transparent about policies affecting users’ freedom of expression and privacy in practice.
+  - The company improved its disclosure of how it handles government requests to shutdown networks, block content, and hand over user information, but could still publish more data about its compliance with these types of requests.
+  - Telefónica lacked transparency about how it handles user information and what steps it takes to keep user information secure.
 
 services_evaluated:
-  - item:
-    key: pre-paid mobile
-    key_href: prepostpaidmobile
-    name: Movistar
-  - item:
-    key: post-paid mobile
-    key_href: prepostpaidmobile
-    name: Movistar
-  - item:
-    key: fixed-line broadband
-    key_href: fixedbroadband
-    name: Movistar
+- item:
+  key: pre-paid mobile
+  key_href: prepostpaidmobile
+  name: Movistar
+- item:
+  key: post-paid mobile
+  key_href: prepostpaidmobile
+  name: Movistar
+- item:
+  key: fixed-line broadband
+  key_href: fixedbroadband
+  name: Movistar
 
-total: 33
-analysis_text_left: "Telefónica ranked third out of the 10 telecommunications companies evaluated, behind AT&T and Vodafone, and 10th in the Index overall. Telefónica is new to the Index, making it the third European telecommunications company, along with Orange and Vodafone, evaluated by this Index. <br /><br/>A member of the Telecommunications Industry Dialogue (TID), Telefónica made strong commitments to users’ freedom of expression and privacy, although it fell 15 percentage points behind AT&T and Vodafone in its overall score. However, the company edged out Orange by one percentage point due to the company’s comparatively stronger performance in the Freedom of Expression category. Nonetheless, the company had notably weaker disclosure of its commitments to freedom of expression and privacy at the governance level compared to its European peers. There appear to be few explicit legal factors in Spain, Telefónica’s home market, that would prevent the company from making and disclosing stronger policies for implementing its commitments to users’ freedom of expression and privacy or from disclosing much of the information relevant to this Index."
+analysis_text: "Telefónica ranked third out of 10 telecommunications companies evaluated, after Vodafone and AT&T, and disclosed a strong commitment to protecting users’ freedom of expression and privacy. As a full member of the Global Network Initiative (GNI) since March 2017, the company now commits to engaging with a range of stakeholders on freedom of expression and privacy issues. The company made numerous improvements in the 2018 Index, including clarifying its process for handling government requests to shut down networks and providing more data about government requests for user data. Despite positive steps, the company could be more transparent about policies affecting users’ freedom of expression by publishing more data about government and private requests it receives to block content or accounts, as there are no legal obstacles in its home market of Spain preventing the company from doing so. It could also improve its commitments to protect users’ privacy by disclosing what user data it shares and with whom, and by providing greater clarity about what steps it takes to keep user information secure."
 
-analysis_text_right: "<strong>Telefónica, S.A.</strong> provides telecommunications services in Spain, Germany, the United Kingdom, and 14 countries in Latin America. It offers mobile and fixed line services, in addition to television, cloud computing, and other services. The company serves 274.8 million mobile phone, 38.9 million fixed telephony, over 21.7 million internet and data, and 8.3 million TV customers."
+key_recommendation_paragraph: "<strong>Telefónica, S.A.</strong> provides mobile, fixed-line broadband, and other services to <a href=\"https://www.telefonica.com/documents/153952/141433988/Telefonica_in_numbers_FY2016.pdf/81ba0d34-c6da-9621-09b0-716d918cc0e5\" target=\"_blank\">more than 276 million mobile customers</a> in Spain, Latin America, and internationally."
 
+key_recommendation_list:
+  - <strong>Improve transparency reporting.</strong> Telefónica should disclose more detailed data about its compliance with government and private requests to block content or accounts, and for user information.
+  - <strong>Clarify handling of user information.</strong> Telefónica should disclose what user information it shares and retains, and whether users can obtain the information the company holds on them.
+  - <strong>Communicate more clearly about security.</strong> Telefónica should clearly disclose how it keeps user information secure, including if it limits employee access to user information.
 
 analysis_industry: Diversified Telecommunication Services
-analysis_market_cap: USD 48,116 million
-analysis_stock_symbol: "BME:TEF"
+analysis_market_cap: USD 51.3 billion
+analysis_stock_symbol: "BME TEF"
 
+governance_text: "Telefónica ranked second in the Governance category among telecommunications companies, after Vodafone. It significantly improved its disclosure of its public commitment to freedom of expression and privacy, resulting in increased scores in five of the six indicators in this category. The company improved its disclosure of senior-level oversight over freedom of expression and privacy issues within the company (G2), clarified that the company provides its employees with training on freedom of expression (G3), and strengthened its commitment to conducting human rights impact assessments (G4). The company also improved its engagement with stakeholders by joining the GNI (G5). Notably, Telefónica improved its disclosure on <a href=\"https://www.telefonica.com/en/web/about_telefonica/responsible-business-channel\" target=\"_blank\">grievance and remedy mechanisms</a>, and received the highest score of all 22 companies in the Index on this indicator (G6), although the company did not provide clear evidence that it is responding to these complaints."
 
-governance: 58
-governance_text: "Telefónica ranked eighth out of all 22 companies in the Governance category. Among telecommunications companies, it fell behind Vodafone, Orange, and AT&T.<br /><br />
+summary_of_changes_governance:
+  - item:
+    change: positive
+    title: F1. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+  - item:
+    change: negative
+    title: F4. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
 
-Although Telefónica made a clear commitment to freedom of expression and privacy as human rights (G1), it was not clear whether there was senior-level oversight over these issues within the company (G2). The company also lacked disclosure of any human rights due diligence processes (G4). Notably, Telefónica received one of the higher scores for disclosing a grievance and remedy process through its online <a href=\"https://www.telefonica.com/en/web/about_telefonica/responsible-business-channel\" target=\"_blank\">“responsible business channel,”</a> where users can submit questions and complaints about any of the company’s policies or practices, including concerns regarding violations to freedom of expression and  privacy. But the company did not disclose how it responds to complaints or the number of complaints it receives."
+freedom_text: "Telefónica ranked third among the 10 telecommunications companies in the Freedom of Expression category, behind Vodafone and AT&T.<br /><br /><strong>Content and account restriction requests:</strong> Telefónica disclosed little about how it handles government or private requests to block content or accounts (F5-F7), but it was among only three telecommunications companies in the Index to publish transparency reports. It <a href=\"https://www.telefonica.com/documents/153952/183394/Informe_Transparencia_Comunicaciones_Telefonica_EN.pdf/30519143-d3ab-50c3-1cb5-319a735fd9d3\" target=\"_blank\">provided more data</a> on the number of government requests it received and complied with, including the number of URLs affected (F6). Like its peers, Telefónica published nothing about private requests to block content or accounts (F7).<br /><br /><strong>Network management and shutdowns:</strong> As in the 2017 Index, Telefónica Spain disclosed almost no information about its network management policies, receiving the second-lowest score of all telecommunications companies on this indicator (F9). Yet, along with Vodafone UK, it was more transparent than the rest of its peers about how it handles government demands to shut down networks (F10). The company improved its disclosure of why it may reject a network shutdown demand and provided more detailed data about its compliance with these types of requests.<br /><br /><strong>Identity policy:</strong> Telefónica Spain disclosed that it requires pre-paid mobile users to provide government-issued identification, which is <a href=\"https://www.boe.es/buscar/act.php?id=BOE-A-2007-18243\" target=\"_blank\">legally required in Spain</a> (F11)."
 
-freedom: 27
-freedom_text: "Telefónica placed third among the telecommunications companies in the Freedom of Expression category, behind Vodafone and AT&T but ahead of the rest of its peers.<br /><br /><strong>Content and account restriction requests:</strong> Compared to AT&T and Vodafone, Telefónica disclosed little about how it handles government or private requests to restrict content and accounts, but it was one of only four telecommunications companies to receive any credit on these indicators (F5-F7). Telefónica’s new <a href=\"http://www.telecomindustrydialogue.org/wp-content/uploads/Telefonica_Transparencia_ENG_interactivo_29.12.pdf\" target=\"_blank\">transparency  report</a>, while a step in the right direction, did not provide sufficient disclosure of how it responds to these types of requests (F5), or about the number of government requests it receives or complies with  (F6)—although it was the only company other than AT&T to score any credit on this indicator. Like all telecommunications companies, Telefónica provided no data about private requests it may have received to remove content or accounts (F7). <br /><br /><strong>Network management and shutdowns:</strong> Telefónica’s lack of disclosure about its network management policies earned it one of the lowest scores of all telecommunications companies on this indicator (F9). However, it had the most comprehensive disclosure of its  network shutdown policies, alongside Vodafone, although both companies still fell short of the standards required for full credit (F10).<br /><br /><strong>Identity policy:</strong> Telefónica disclosed  that it requires pre-paid mobile users to provide a government-issued identification, in line with the legal requirements of Spain’s <a href=\"http://noticias.juridicas.com/base_datos/Admin/l25-2007.html\" target=\"_blank\">data retention law</a> (F11). As such Telefónica would be unable to change this policy without a change in the legal requirements."
+summary_of_changes_freedom:
+  - item:
+    change: positive
+    title: F1. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+  - item:
+    change: negative
+    title: F4. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
 
-privacy: 29
-privacy_text: "Telefónica ranked third out of the ten telecommunications companies in the Privacy category, behind AT&T and Vodafone.<br /><br /><strong>Handling of user information:</strong> Telefónica disclosed less than AT&T and Vodafone about how it handles user information but scored on par with Orange and América Móvil on these indicators (P3-P8). While Telefónica disclosed some information on what user information it collects (P3), and for what purpose (P5), it provided no information about what user information it shares (P4). Like most telecommunications companies, apart from AT&T, the company did not reveal how long it retains user information (P6), or if and how users can obtain the information Telefónica holds on them (P8).<br /><br /><strong>Requests for user information:</strong> Compared to AT&T and Vodafone, Telefónica provided little  information about how it handles requests from governments and private parties for user information(P10-P11). Telefónica reported the number of requests to intercept communications and to obtain user metadata (P11), and the legal basis for them (P10). However, Telefónica lacked disclosure about its process for responding to requests, such as whether it commits to push back on overbroad requests.<br /><br /><strong>Security:</strong> Telefónica had the second-highest score of all telecommunications companies on these indicators after AT&T (P13-P18). It received the highest score in the Index for disclosure of its processes for responding to data breaches (P15)—and was among only two other companies, AT&T and Vodafone, to receive any credit on this indicator."
+privacy_text: "Telefónica ranked third out of the 10 telecommunications companies in the Privacy category, behind AT&T and Vodafone.<br /><br /><strong>Handling of user information:</strong> Telefónica Spain disclosed less than AT&T and Vodafone UK but slightly more than Orange France and América Móvil’s Telcel about how it handles user information (P3-P8). It had the highest score of all telecommunications companies on what user information it collects (P3), and for what purpose (P5), but disclosed nothing about what user information it shares (P4), for how long it retains it (P6), or whether users can obtain all of the information the company holds on them (P8). It disclosed some options for users to control what information it collects, including for the purposes of targeted advertising, but did not reveal if targeted advertising is off by default (P7).<br /><br /><strong>Requests for user information:</strong> Telefónica disclosed less than AT&T and Vodafone about how it handles government and private requests for user information (P10-P11). It improved its disclosure of its process for responding to government requests for user information by clarifying why it may reject a government request (P10). The company also <a href=\"https://www.telefonica.com/documents/153952/183394/Informe_Transparencia_Comunicaciones_Telefonica_EN.pdf/30519143-d3ab-50c3-1cb5-319a735fd9d3\" target=\"_blank\">provided more data</a> on government and private requests for user information, including the number of accounts affected (P11). Like the rest of its peers, Telefónica did not disclose a policy of notifying users if their information is requested (P12).<br /><br /><strong>Security:</strong> Telefónica Spain disclosed less than AT&T and Vodafone UK about is security policies and practices, but more than the rest of its peers (P13-P18). Although it disclosed it limits employee access to user information, it did not disclose it has systems in place to monitor this (P13). Like most telecommunications companies, the company did not disclose a bug bounty program allowing security researchers to submit vulnerabilities (P14). It received the second-highest score in the Index, after Vodafone UK, for disclosure of its processes for responding to data breaches (P15)."
+
+summary_of_changes_privacy:
+  - item:
+    change: positive
+    title: F1. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+  - item:
+    change: positive
+    title: F4. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
 ---
