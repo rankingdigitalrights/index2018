@@ -11,6 +11,15 @@ $maincolor:  #231f20;
   @media(max-width: 1365px){
     margin: 0 5%;
   }
+  .governance {
+    color: $cat-commitment !important;
+  }
+  .freedom {
+    color: $cat-freedom !important;
+  }
+  .privacy {
+    color: $cat-privacy !important;
+  }
 
   ul,ol{
     margin: 0 0 0 20px;
