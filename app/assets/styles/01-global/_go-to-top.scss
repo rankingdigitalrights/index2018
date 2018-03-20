@@ -8,15 +8,24 @@ right: 10px;
 box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 /* image replacement properties */
 overflow: hidden;
-text-indent: 100%;
+text-indent: 0;
 white-space: nowrap;
-background: rgba($base-color, 1) url('/index2017/assets/graphics/content/top-arrow.svg') no-repeat center 50%;
+background: rgba($base-color, 1);
 visibility: hidden;
 opacity: 0;
 -webkit-transition: opacity .3s 0s, visibility 0s .3s;
 -moz-transition: opacity .3s 0s, visibility 0s .3s;
 transition: opacity .3s 0s, visibility 0s .3s;
 z-index: 999;
+  i{
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+    display: block;
+    top: 11px;
+    font-size: 2em;
+  }
   &.is-visible, 
   &.fade-out {
   -webkit-transition: opacity .3s 0s, visibility 0s 0s;
