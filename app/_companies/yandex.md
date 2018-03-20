@@ -5,7 +5,7 @@ layout: company
 name: yandex
 id: yandex
 
-company_type: Internet and mobile companies
+company_type: Internet and Mobile Ecosystems Companies
 display: Yandex N. V.
 headquarters: Russia
 link: https://www.yandex.com

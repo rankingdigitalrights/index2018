@@ -22,7 +22,8 @@ module.exports = Backbone.View.extend({
     $companies.forEach(function(item){
       var $company_name = item.name;
       if($company_name == 'Oath (Yahoo)') $company_name = 'Yahoo';
-      var $score = Math.round($scores[$company_name]);
+      var $score = isNaN($scores[$company_name]) ? 'N/A' : Math.round($scores[$company_name])+'%';
+      // var $score = Math.round($scores[$company_name]);
       $("#indicator--companies").append(
           template({score:$score, name:$name, item:item})
       );

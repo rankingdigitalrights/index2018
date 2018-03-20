@@ -5,7 +5,7 @@ layout: company
 name: samsung
 id: samsung
 
-company_type: Internet and mobile companies
+company_type: Internet and Mobile Ecosystems Companies
 display: Samsung Electronics Co. Ltd.
 headquarters: South Korea
 link: https://www.samsung.com

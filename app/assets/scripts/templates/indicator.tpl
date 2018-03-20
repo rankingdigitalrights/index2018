@@ -2,7 +2,7 @@
     <h2>
         <a id="<%= item.id %>"></a>
         <%= item.name %>
-        <span class="percent"><%= score %>%</span>
+        <span class="percent"><%= score %></span>
     </h2>
     <div class="overflow-for-table">
     <table>
