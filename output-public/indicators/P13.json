@@ -231,7 +231,7 @@
                     "value": "50"
                 },
                 {
-                    "value": "67"
+                    "value": "66.6666666667"
                 }
             ],
             "rows": [
@@ -444,13 +444,13 @@
             ],
             "average": [
                 {
-                    "value": "33"
+                    "value": "33.3333333333"
                 },
                 {
-                    "value": "33"
+                    "value": "33.3333333333"
                 },
                 {
-                    "value": "33"
+                    "value": "33.3333333333"
                 }
             ],
             "rows": [
@@ -523,7 +523,7 @@
             ],
             "average": [
                 {
-                    "value": "33"
+                    "value": "33.3333333333"
                 },
                 {
                     "value": "0"
@@ -532,7 +532,7 @@
                     "value": "0"
                 },
                 {
-                    "value": "33"
+                    "value": "33.3333333333"
                 }
             ],
             "rows": [
@@ -778,13 +778,13 @@
             ],
             "average": [
                 {
-                    "value": "17"
+                    "value": "16.6666666667"
                 },
                 {
-                    "value": "17"
+                    "value": "16.6666666667"
                 },
                 {
-                    "value": "17"
+                    "value": "16.6666666667"
                 }
             ],
             "rows": [
@@ -927,10 +927,10 @@
             ],
             "average": [
                 {
-                    "value": "17"
+                    "value": "16.6666666667"
                 },
                 {
-                    "value": "17"
+                    "value": "16.6666666667"
                 }
             ],
             "rows": [
@@ -1067,13 +1067,13 @@
             ],
             "average": [
                 {
-                    "value": "33"
+                    "value": "50"
                 },
                 {
-                    "value": "33"
+                    "value": "50"
                 },
                 {
-                    "value": "33"
+                    "value": "50"
                 }
             ],
             "rows": [
@@ -1099,13 +1099,13 @@
                             "value": "2. Does the company clearly disclose that it has a security team that conducts security audits on the company’s products and services?"
                         },
                         {
-                            "value": "50"
+                            "value": "100"
                         },
                         {
-                            "value": "50"
+                            "value": "100"
                         },
                         {
-                            "value": "50"
+                            "value": "100"
                         }
                     ]
                 },
@@ -1132,7 +1132,7 @@
             "name": "Samsung",
             "headers": [
                 {
-                    "text": "Samsung "
+                    "text": "Samsung"
                 }
             ],
             "average": [
@@ -1271,7 +1271,7 @@
                     "value": "0"
                 },
                 {
-                    "value": "17"
+                    "value": "16.6666666667"
                 }
             ],
             "rows": [
@@ -1402,13 +1402,13 @@
             ],
             "average": [
                 {
-                    "value": "67"
+                    "value": "66.6666666667"
                 },
                 {
-                    "value": "67"
+                    "value": "66.6666666667"
                 },
                 {
-                    "value": "67"
+                    "value": "66.6666666667"
                 }
             ],
             "rows": [
@@ -1478,10 +1478,10 @@
             ],
             "average": [
                 {
-                    "value": "17"
+                    "value": "50"
                 },
                 {
-                    "value": "17"
+                    "value": "50"
                 },
                 {
                     "value": "0"
@@ -1510,10 +1510,10 @@
                             "value": "2. Does the company clearly disclose that it has a security team that conducts security audits on the company’s products and services?"
                         },
                         {
-                            "value": "0"
+                            "value": "100"
                         },
                         {
-                            "value": "0"
+                            "value": "100"
                         },
                         {
                             "value": "0"
@@ -1554,13 +1554,13 @@
             ],
             "average": [
                 {
-                    "value": "17"
+                    "value": "16.6666666667"
                 },
                 {
-                    "value": "17"
+                    "value": "16.6666666667"
                 },
                 {
-                    "value": "17"
+                    "value": "16.6666666667"
                 }
             ],
             "rows": [
