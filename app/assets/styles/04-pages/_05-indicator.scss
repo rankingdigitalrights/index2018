@@ -11,15 +11,7 @@ $maincolor:  #231f20;
   @media(max-width: 1365px){
     margin: 0 5%;
   }
-  .governance {
-    color: $cat-commitment !important;
-  }
-  .freedom {
-    color: $cat-freedom !important;
-  }
-  .privacy {
-    color: $cat-privacy !important;
-  }
+
 
   ul,ol{
     margin: 0 0 0 20px;
@@ -258,10 +250,31 @@ $maincolor:  #231f20;
       display: flex;
       justify-content: space-between;
       h1{
-        color: $base-color;
+        //color: $base-color;
         margin-bottom: 20px;
         font-size: 2.8em;
         text-transform: none;
+      }
+      .chapter-title{
+
+      }
+      .governance {
+        color: $cat-commitment !important;
+        h1{
+          color: $cat-commitment !important;
+        }
+      }
+      .freedom {
+        color: $cat-freedom !important;
+        h1{
+          color: $cat-freedom !important;
+        }
+      }
+      .privacy {
+        color: $cat-privacy !important;
+        h1{
+          color: $cat-freedom !important;
+        }
       }
       a{
         padding-top: 14px;
