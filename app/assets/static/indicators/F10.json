@@ -3004,7 +3004,7 @@
         },
         {
             "id": "yahoo",
-            "name": "Oath (Yahoo)",
+            "name": "Oath",
             "headers": [
                 {
                     "text": "Yahoo Mail"
