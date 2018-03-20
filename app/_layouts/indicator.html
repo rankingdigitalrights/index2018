@@ -19,6 +19,7 @@
       <div class="page--intro">
         <div id="indicator-page-content" class="contain">
           <div class="sidebar">
+            <a href="{{ site.baseurl }}/indicators"><i class="fa fa-angle-double-left"></i> Back</a>
             <div class="sidebar-menu sidebar-menu-active">{{ page.name }}</div>
             <div class="submenu">
               <ul id="company--list"></ul>
@@ -26,7 +27,7 @@
           </div>
 
           <div class="indicator-content">
-            <div class="chapter-title">
+            <div class="chapter-title privacy">
               <h1>{{ page.name }}</h1>
               <a><i class="fa fa-link" aria-hidden="true"></i></a>
             </div>
@@ -34,17 +35,18 @@
               <p>{{ content }}</p>
             </div>
             <div class="section">
-              <a id="toogle_element" class="toogle close">Elements</a>
-              <p id="element" class="text">{{ page.element }}</p>
+              <a id="toogle_element" class="toogle close"><i class="fa fa-caret-right"></i> Elements</a>
+              <div id="element" class="text">{{ page.element }}</div>
             </div>
             <div class="section">
-              <a id="toogle_research" class="toogle close">Research guidance</a>
-              <p id="research" class="text">{{ page.research }}</p>
+              <a id="toogle_research" class="toogle close"><i class="fa fa-caret-right"></i> Research guidance</a>
+              <div id="research" class="text">{{ page.research }}</div>
             </div>
 
-            <div class="section">
+            <div class="section highlihted-bg">
               <div id="indicator--overview_chart"></div>
             </div>
+            
             <div class="section">
               <div id="indicator--companies"></div>
             </div>
@@ -67,12 +69,14 @@
             //add animation for show section
 
             $(function() {
+              setTimeout(function(){
                 $('.submenu ul li > a').click(function(){
                     $('html, body').animate({
                         scrollTop: $( $(this).attr('href') ).offset().top - 40
                     }, 1000);
                     return false;
                 });
+              }, 1000);
             });
 
             // click on submenu-ling changed color

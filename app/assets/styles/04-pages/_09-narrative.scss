@@ -16,7 +16,7 @@ $maincolor:  #231f20;
     margin: 0;
     padding: 0;
     li{
-      font-family: "Simplon-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-family: $simplon-light;
       list-style: none;
     }
   }
@@ -62,7 +62,7 @@ $maincolor:  #231f20;
         color: $black-lighter;
         font-weight: normal;
         font-size: 1.1em;
-        font-family: "Simplon-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-family: $simplon-light;
         position: relative;
         &:hover{
           text-decoration: none;
@@ -175,37 +175,58 @@ $maincolor:  #231f20;
         h1{
           color: $black;
           margin-bottom: 20px;
-          font-size: 3em;
           text-transform: none;
         }
         a{
-          padding-top: 14px;
+          padding-top: 0;
+          @include media(large-up) {
+            padding-top: 14px;
+          }
           i{
             font-size: 2em;
             color: $border-gray-color;
           }
         }
     }
-    .section{
-      .section-title{
-        display: flex;
-        justify-content: space-between;
-        margin: 30px 0;
+
+        h1 {
+          border-bottom: 2px solid #e2dad1;
+          padding-bottom: 15px;
+          margin-bottom: 40px;
+        }
+    
         h2{
           color: $base-color;
           margin-bottom: 0;
           font-size: 2em;
           text-transform: none;
-          margin-top: 0.5em;
+          margin: 30px 0;
         }
-        a{
-          padding-top: 14px;
-          i{
+
+        h3{
+          font-size: 2em;
+          text-transform: none;
+          margin: 30px 0;
+        }
+
+        blockquote {
+          background-color: #F7F7F7;
+          padding: 2.8em;
+          margin: 1.875em 0;
+          
+          h3 {
+            color: #4D9ECF;
+            text-transform: none;
+            font-family: "Simplon-Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
             font-size: 2em;
-            color: $border-gray-color;
           }
+
+          p{
+            margin: 0;
+          }
+
         }
-      }
+    
         a{
             color: $link-color;
             cursor: pointer;
@@ -223,11 +244,26 @@ $maincolor:  #231f20;
           font-weight: bold;
       }
       .quote{
-        font-size: 1.75em;
+        font-size: 1.25em;
         padding-left: 1em;
         border-left: 3px solid $base-color;
         margin: 1em;
         line-height: 1.2em;
+        @include media(small-up) {
+          font-size: 1em;
+        }
+        @include media(medium-up) {
+          font-size: 1.25em;
+        }
+        @include media(large-up) {
+          font-size: 1.75em;
+        }
+        @include media(xlarge-up) {
+          font-size: 1.75em;
+        }
+        span{
+          font-size: 1.75em;
+        }
       }
       .highlihted-section-div{
         background-color: #F7F7F7;
@@ -241,9 +277,21 @@ $maincolor:  #231f20;
         }
       }
       p{
-        font-size: 1.250em;
+        font-size: 1em;
         line-height: 1.5em;
-        font-family: "Simplon-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-family: $simplon-light;
+        @include media(small-up) {
+          font-size: 1em;
+        }
+        @include media(medium-up) {
+          font-size: 1em;
+        }
+        @include media(large-up) {
+          font-size: 1.250em;
+        }
+        @include media(xlarge-up) {
+          font-size: 1.250em;
+        }
         span{
           font-size: inherit;
         }
@@ -263,6 +311,7 @@ $maincolor:  #231f20;
       //}
 
       ul{
+        margin-left: 20px;
         li{
           list-style: disc;
           p{
@@ -270,22 +319,22 @@ $maincolor:  #231f20;
           }
         }
       }
-    }
+
+      ol{
+        margin-left: 20px;
+        li{
+          list-style-type: number;
+          p{
+            line-height: 1.3em;
+          }
+        }
+      }
+    
     .introduction{
       margin-top: 44px;
         p {
-          font-size: 1.250em;
           line-height: 1.5em;
         }
-        //p:first-child::first-letter {
-        //  font-size: 55px;
-        //  float: left;
-        //  text-transform: uppercase;
-        //  margin-top:0.13em;
-        //  margin-right:0.05em;
-        //  margin-left:-0.03em;
-        //  color: $base-color;
-        //}
     }
     .pagination{
       margin: 40px 0;
@@ -293,7 +342,7 @@ $maincolor:  #231f20;
       	a{
           cursor: pointer;
           color: $black-lighter ;
-          font-family: "Simplon-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+          font-family: $simplon-light;
           &:hover{
             text-decoration: none;
             span{

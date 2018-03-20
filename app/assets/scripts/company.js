@@ -47,12 +47,12 @@ module.exports = function (companyName) {
 
   overview.fetch({
     success: function () {
-      category.render('commitment'); // Commitment
-      category.render('freedom'); // Freedom
-      category.render('privacy'); // Privacy
+      //category.render('commitment'); // Commitment
+      //category.render('freedom'); // Freedom
+      //category.render('privacy'); // Privacy
+      category.render('total'); // Total
       companyOverview.render();
       overviewSuccess(companyName);
-
     }
   });
 

@@ -13,11 +13,23 @@ $maincolor:  #231f20;
   }
 
   ul,ol{
-    margin: 0;
+    margin: 0 0 0 20px;
     padding: 0;
     li{
       font-family: "Simplon-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
-      list-style: none;
+      list-style-type: decimal;
+      @include media(small-up) {
+        font-size: 15px;
+      }
+      @include media(medium-up) {
+        font-size: 1.12em;
+      }
+      @include media(large-up) {
+        font-size: 1.12em;
+      }
+      @include media(xlarge-up) {
+        font-size: 1.12em;
+      }
     }
   }
   .expand {
@@ -73,15 +85,11 @@ $maincolor:  #231f20;
           font-size: 12px;
           position: absolute;
           right: -30px;
-          top: 0px;
+          top: 0;
         }
       }
     }
-    .sidebar-menu-active{
-      a{
 
-      }
-    }
     .open:before {
       animation: turn-sign;
       animation-duration: .3s;
@@ -132,10 +140,10 @@ $maincolor:  #231f20;
               margin-right: 7px;
             }
             i.true {
-              color: #ED1B24;
+              color: $orange;
             }
             i.false {
-              color: #F8931F;
+              color: $red;
             }
           }
           .active-base-color{
@@ -164,7 +172,68 @@ $maincolor:  #231f20;
     }
     @media(max-width: 767px){
       margin-left: 0;
+      width: 100%;
     }
+
+
+    #indicator--overview_chart{
+      margin-top: 1.5em;
+      overflow: hidden;
+      .company-type {
+        margin-top: 1em; 
+        margin-left: 1em;
+        font-size: 11px; 
+        text-transform: uppercase;
+          @include media(small-up) {
+          font-size: 11px;  
+          }
+          @include media(medium-up) {
+          font-size: 12px;  
+          }
+          @include media(large-up) {
+          font-size: 13px;
+          }
+          @include media(xlarge-up) {
+          font-size: 13px;  
+          }        
+        }
+      .container--left {
+        i {
+        color: $red;  
+        }
+      }
+      .container--right {
+        i {
+        color: $orange; 
+        }
+      }
+
+      .bar--axis_x {
+        text {
+          font-size: 11px;
+          transform: rotate(-90deg);
+          @include media(small-up) {
+            font-size: 11px;
+            transform: rotate(-90deg);  
+          }
+          @include media(medium-up) {
+            font-size: 12px;
+            transform: rotate(-45deg);          
+          }
+          @include media(large-up) {
+            font-size: 13px;
+            transform: rotate(-45deg);
+          }
+          @include media(xlarge-up) {
+            font-size: 13px;
+            transform: rotate(-45deg);
+          }           
+        }
+      }                             
+
+    }
+
+
     .ref-number{
       color: $black;
       font-family: "Simplon-bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -248,9 +317,9 @@ $maincolor:  #231f20;
         }
       }
       p{
-        font-size: 1.250em;
-        line-height: 1.5em;
-        font-family: "Simplon-light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        //font-size: 1.250em;
+        //line-height: 1.5em;
+        //font-family: "Simplon-light", "Helvetica Neue", Helvetica, Arial, sans-serif;
         span{
           font-size: inherit;
         }
@@ -284,15 +353,7 @@ $maincolor:  #231f20;
         font-size: 1.250em;
         line-height: 1.5em;
       }
-      //p:first-child::first-letter {
-      //  font-size: 55px;
-      //  float: left;
-      //  text-transform: uppercase;
-      //  margin-top:0.13em;
-      //  margin-right:0.05em;
-      //  margin-left:-0.03em;
-      //  color: $base-color;
-      //}
+
     }
     .pagination{
       margin: 40px 0;

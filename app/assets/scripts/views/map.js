@@ -27,162 +27,61 @@ module.exports = Backbone.View.extend({
                 // countries don't listed in dataset will be painted with this color
                 fills: { 
                   'yellow': '#F8931F',
-                  'red': '#ED1B46',
-                  defaultFill: '#E7E6E6' 
+                  'red': '#ed1b24',
+                  defaultFill: '#E7E6E6'
                 },
                 data: {
                    "USA":{
-                      "companies":[
-                         {
-                            "name":"Apple",
-                            "type":"internet"
-                         },
-                         {
-                            "name":"Facebook",
-                            "type":"internet"
-                         },
-                         {
-                            "name":"Google",
-                            "type":"internet"
-                         },
-                         {
-                            "name":"Microsoft",
-                            "type":"internet"
-                         },
-                         {
-                            "name":"Twitter",
-                            "type":"internet"
-                         },
-                         {
-                            "name":"Yahoo",
-                            "type":"internet"
-                         },
-                         {
-                            "name":"AT&T",
-                            "type":"telco"
-                         }
-                      ],
-                      "fillColor":"#5DA0CA"
+                      "fillColor":"#5DA0CA",
+                      "hoverColor":"#224c68"
                    },
                    "MEX":{
-                      "companies":[
-                         {
-                            "name":"América Móvil",
-                            "type":"telco"
-                         }
-                      ],
-                      "fillColor":"#5DA0CA"
+                      "fillColor":"#5DA0CA",
+                      "hoverColor":"#224c68"
                    },
                    "GBR":{
-                      "companies":[
-                         {
-                            "name":"Vodafone",
-                            "type":"telco"
-                         }
-                      ],
-                      "fillColor":"#5DA0CA"
+                      "fillColor":"#5DA0CA",
+                      "hoverColor":"#224c68"
                    },
                    "FRA":{
-                      "companies":[
-                         {
-                            "name":"Orange",
-                            "type":"telco"
-                         }
-                      ],
-                      "fillColor":"#5DA0CA"
+                      "fillColor":"#5DA0CA",
+                      "hoverColor":"#224c68"
                    },
                    "ESP":{
-                      "companies":[
-                         {
-                            "name":"Telefónica",
-                            "type":"telco"
-                         }
-                      ],
-                      "fillColor":"#5DA0CA"
+                      "fillColor":"#5DA0CA",
+                      "hoverColor":"#224c68"
                    },
                    "RUS":{
-                      "companies":[
-                         {
-                            "name":"Yandex",
-                            "type":"internet"
-                         },
-                         {
-                            "name":"Mail.ru",
-                            "type":"internet"
-                         }
-                      ],
-                      "fillColor":"#5DA0CA"
+                      "fillColor":"#5DA0CA",
+                      "hoverColor":"#224c68"
                    },
                    "CHN":{
-                      "companies":[
-                         {
-                            "name":"Tencent",
-                            "type":"internet"
-                         },
-                         {
-                            "name":"Baidu",
-                            "type":"internet"
-                         }
-                      ],
-                      "fillColor":"#5DA0CA"
+                      "fillColor":"#5DA0CA",
+                      "hoverColor":"#224c68"
                    },
                    "KOR":{
-                      "companies":[
-                         {
-                            "name":"Kakao",
-                            "type":"internet"
-                         },
-                         {
-                            "name":"Samsung",
-                            "type":"internet"
-                         }
-                      ],
-                      "fillColor":"#5DA0CA"
+                      "fillColor":"#5DA0CA",
+                      "hoverColor":"#224c68"
                    },
                    "MYS":{
-                      "companies":[
-                         {
-                            "name":"Axiata",
-                            "type":"telco"
-                         }
-                      ],
-                      "fillColor":"#5DA0CA"
+                      "fillColor":"#5DA0CA",
+                      "hoverColor":"#224c68"
                    },
                    "IND":{
-                      "companies":[
-                         {
-                            "name":"Bharti Airtel",
-                            "type":"telco"
-                         }
-                      ],
-                      "fillColor":"#5DA0CA"
+                      "fillColor":"#5DA0CA",
+                      "hoverColor":"#224c68"
                    },
                    "QAT":{
-                      "companies":[
-                         {
-                            "name":"Ooredoo",
-                            "type":"telco"
-                         }
-                      ],
-                      "fillColor":"#5DA0CA"
+                      "fillColor":"#5DA0CA",
+                      "hoverColor":"#224c68"
                    },
                    "ARE":{
-                      "companies":[
-                         {
-                            "name":"Etisalat",
-                            "type":"telco"
-                         }
-                      ],
-                      "fillColor":"#5DA0CA"
+                      "fillColor":"#5DA0CA",
+                      "hoverColor":"#224c68"
                    },
                    "ZAF":{
-                      "companies":[
-                         {
-                            "name":"MTN",
-                            "type":"telco"
-                         }
-                      ],
-                      "fillColor":"#5DA0CA"
+                      "fillColor":"#5DA0CA",
+                      "hoverColor":"#224c68"
                    }
                 },
                 geographyConfig: {
@@ -191,10 +90,10 @@ module.exports = Backbone.View.extend({
                     popupOnHover: false,
                     // don't change color on mouse hover
                     highlightFillColor: function(geo) {
-                        return geo['fillColor'] || '#E7E6E6';
+                        return geo['hoverColor'] || '#E7E6E6';
                     },
                     // only change border
-                    highlightBorderColor: '#B7B7B7',
+                    highlightBorderColor: '#DEDEDE',
                     // show desired information in tooltip
                     popupTemplate: function(geo, data) {
                         // don't show tooltip if country don't present in dataset
@@ -253,8 +152,9 @@ module.exports = Backbone.View.extend({
               .attr("y", coords[1] + parseInt(datum.countryPosY))
               .style("font-size", "16px")
               .style("fill", datum.countryColor)
-                .style("font-weight", "bold")
+              .style("font-weight", "bold")
               .attr("text-anchor", datum.countryAnchor) // set anchor y justification
+              .attr("class", "label--country")
               .text(datum.country);
 
               if (parseInt(datum.lineColor)!=0){
@@ -269,7 +169,7 @@ module.exports = Backbone.View.extend({
                 layer.append("circle")          // attach a line
                     .style("fill", datum.lineColor)  // colour the line
                     .style("stroke-width", 0)  // colour the line
-                    .attr("r", 3)
+                    .attr("r", 2)
                     .attr("cx", $end[0])     // x position of the second end of the line
                     .attr("cy", $end[1]);    // y position of the second end of the line
             }

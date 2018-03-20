@@ -1,6 +1,6 @@
 #page--indicators {
 	.page--intro {
-		padding-bottom: 0px;
+		padding-bottom: 0;
 	}
 	.indicators-wrapper {
 		.indicator-item {
@@ -49,18 +49,36 @@
 
 #indicator-page-content{
 
+	ul {
+		margin: 10px 0;
+		padding-left: 20px;
+	}
 	a.toogle {
 		color: #313131 !important;
-		font-size: 1.250em;
+		font-size: 15px;
 		line-height: 1.5em;
 		font-weight: 600;
+		@include media(small-up) {
+			font-size: 15px;
+		}
+		@include media(medium-up) {
+			font-size: 1.12em;
+		}
+		@include media(large-up) {
+			font-size: 1.12em;
+		}
+		@include media(xlarge-up) {
+			font-size: 1.12em;
+		}
 	}
-	p.text {
+	div.text {
 		display: none;
+		margin: 5px 0;
 	}
 
 	#indicator--companies{
 		.company--table{
+			padding-top: 2em;
 			h2{
 				.percent {
 					position: relative;
@@ -96,7 +114,13 @@
 					margin-top: -9px;
 				}
 			}
+			.overflow-for-table{
+				overflow-x: auto;
+			}
 			table{
+				width: 100%;
+				border-collapse: collapse;
+				table-layout: fixed;
 				thead{
 					tr{
 						background-color: white;
@@ -121,6 +145,19 @@
 							padding-top: 15px;
 							padding-bottom: 15px;
 							line-height: 1.3em;
+							font-size: 15px;
+							@include media(small-up) {
+								font-size: 15px;
+							}
+							@include media(medium-up) {
+								font-size: 1.12em;
+							}
+							@include media(large-up) {
+								font-size: 1.12em;
+							}
+							@include media(xlarge-up) {
+								font-size: 1.12em;
+							}
 							&:first-child{
 								text-align: left;
 								padding-left: 5px;
@@ -146,6 +183,9 @@
 							&:first-child{
 								text-transform: uppercase;
 								font-size: 1.5em;
+								@media(max-width: 767px){
+									font-size: 1em;
+								}
 							}
 						}
 					}

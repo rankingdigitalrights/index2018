@@ -2,15 +2,18 @@ var $ = require('jquery');
 var _ = require('underscore');
 
 var Backbone = require('backbone');
-var Barchart = require('./views/barchart');
+var Barchart = require('./views/indicators-barchart');
 var baseurl = require('./util/base-url');
 var barsort = require('./util/barsort');
 var template = require('./templates/item.tpl');
+var template_bar_chart = require('./templates/indicator-bar-chart.tpl');
 
 var Overview = require('./collections/overview');
 var Indicator = require('./collections/single-indicator');
 var Indicators = require('./collections/indicators-overview');
 var IndicatorView = require('./views/indicator');
+
+var telco = require('./util/telco');
 
 module.exports = function generateIndicator (indicatorName) {
 
@@ -43,6 +46,8 @@ module.exports = function generateIndicator (indicatorName) {
     })
 
     var success = function (indicatorName) {
+
+        var $indicator_type = indicatorName.charAt(0);
         var $indicators = indicators.findWhere({indicator: indicatorName});
         var $scores = $indicators.attributes.scores;
         var $data = [];
@@ -51,12 +56,67 @@ module.exports = function generateIndicator (indicatorName) {
         });
         $data.sort(barsort);
 
-        var barchart = new Barchart({
-            width: $('#indicator--overview_chart').width(),
-            height: 340,
-            data: $data,
+        var $telco = [];
+        var $internet = [];
+        $data.forEach(function (i, d) {
+            var control = $.inArray(i.name, telco);
+            if(control == '-1')
+            {
+                $internet.push(i);
+            }
+            else
+            {
+                $telco.push(i);
+            }
         });
-        barchart.render('#indicator--overview_chart');
+
+        var $exclude_i = ["f9", "f10"];
+        var $exc_i = $.inArray(indicatorName, $exclude_i);
+        var $display_i = true;
+        if( $exc_i == '-1' ) {
+            $display_i = false;
+        }
+
+        var $exclude_t = ["p9", "p16", "p17"]; 
+        var $exc_t = $.inArray(indicatorName, $exclude_t);
+        var $display_t = true;
+        if( $exc_t == '-1' ) {
+            $display_t = false;
+        }
+        
+        $("#indicator--overview_chart").append(
+            template_bar_chart({indicator_type:$indicator_type, display_i:$display_i, display_t:$display_t})
+        );
+
+        if($indicator_type == 'g')
+        {
+            var barchart = new Barchart({
+                width: $('#bar--container').width(),
+                height: 340,
+                data: $data,
+            });
+            barchart.render('#bar--container');
+        }
+        else 
+        {   
+            if(!$display_i){
+                var barchart = new Barchart({
+                    width: $('#bar--container--internet').width(),
+                    height: 340,
+                    data: $internet,
+                });
+                barchart.render('#bar--container--internet');
+            }
+
+            if(!$display_t){
+                var barchart = new Barchart({
+                    width: $('#bar--container--telco').width(),
+                    height: 340,
+                    data: $telco,
+                });
+                barchart.render('#bar--container--telco');
+            } 
+        }
     };
 
     var successOverview = function(){

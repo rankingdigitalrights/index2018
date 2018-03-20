@@ -4,23 +4,25 @@
 
 	/* Page intro */
 	.page--intro {
+		padding-top: 4em;
+		padding-bottom: 0;
 		p {
-		font-size: 0.875em;
+
 		text-align: center;
 		  @include media(small-up) {
-		  	font-size: 0.875em;
+
 			text-align: center;
 		  }
 		  @include media(medium-up) {
-		  	font-size: 1em;
+
 			text-align: center;
 		  }
 		  @include media(large-up) {
-		  	font-size: 1em;
+
 			text-align: left;
 		  }
 		  @include media(xlarge-up) {
-		  	font-size: 1em;
+
 		  	text-align: left;
 		  }   
 		}	
@@ -28,6 +30,48 @@
 
 
 	/* World map */
+	.bombLabels{
+		text {
+			font-size: 7px !important;
+			font-weight: normal !important;
+			@include media(small-up) {
+				font-size: inherit !important;
+			}
+			@include media(medium-up) {
+				font-size: inherit !important;
+			}
+			@include media(large-up) {
+				font-size: inherit !important;
+			}
+			@include media(xlarge-up) {
+				font-size: inherit !important;
+			}
+		}
+
+		.label--country {
+			display: none !important;
+			@include media(small-up) {
+				display: none !important;
+			}
+			@include media(medium-up) {
+				display: none !important;
+			}
+			@include media(large-up) {
+				display: block !important;
+			}
+			@include media(xlarge-up) {
+				display: block !important;
+			}
+		}
+
+
+		@include media(small-up) {
+			display: none;
+		}
+		@include media(medium-up) {
+			display: block;
+		}
+	}
 	.world-map {
 		padding-top: 0;
 		margin-top: 0em;
@@ -43,9 +87,10 @@
 		@include media(xlarge-up) {
 		margin-top: 0em;	
 		}
+
 		.row {
-		padding-left: 0rem;
-		padding-right: 0rem;
+		padding-left: 0;
+		padding-right: 0;
 			@include media(small-up) {
 			padding-left: 1rem;
 			padding-right: 1rem;
@@ -149,6 +194,7 @@
 
 	/* Key findings */
 	.key-findings {
+		padding-bottom: 2em;
 		.description--texts {
 			.description--text {
 				@include media(medium-up) {
@@ -170,40 +216,43 @@
                     }					
 					li {
 					list-style-type: disc !important;
-                    font-size: 13px;
+
                     line-height: 1.3; 
                     letter-spacing: 1px;
                     margin-bottom: 5px;
+						p{
+
+						}
                       @include media(small-up) {
-                      font-size: 14px;
-                      margin-bottom: 5px;  
+                     // font-size: 1.12em;
+                      margin-bottom: 5px;
                       }
                       @include media(medium-up) {
-                      font-size: 15px;
-                      margin-bottom: 5px;  
+                      //font-size: 1.12em;
+                      margin-bottom: 5px;
                       }
                       @include media(large-up) {
-                      font-size: 16px;
+                      //font-size: 1.12em;
                       margin-bottom: 10px;
                       }
                       @include media(xlarge-up) {
-                      font-size: 16px; 
-                      margin-bottom: 10px; 
-                      }					
+                      //font-size: 1.12em;
+                      margin-bottom: 10px;
+                      }
 					}
 				}				
 			}
 			.description--text + .description--text {
-			margin-right: 0px;	
+			margin-right: 0;
 		    margin-top: 0.75em;
 		      @include media(small-up) {
 		      margin-top: 1em;  
 		      }
 		      @include media(medium-up) {
-		      margin-top: 0em;  
+		      margin-top: 0;
 		      }
 		      @include media(large-up) {
-		      margin-top: 0em;  
+		      margin-top: 0;
 		      }  
 			}
 			.action-links {
@@ -216,7 +265,7 @@
 
 	/* Company ranking */
 	.company-ranking {
-
+		padding-bottom: 3em;
 		.company-ranking-chart {
 
 		    label {
@@ -417,7 +466,7 @@
 					font-size: 13px;
 					}
 					@include media(large-up) {
-					font-size: 13px;
+					font-size: 11px;
 					}
 					@include media(xlarge-up) {
 					font-size: 13px;
@@ -429,35 +478,35 @@
 
 
 			.vis--row_title {
-			font-family: $simplon-regular; 
+			font-family: $simplon-regular;
 			color: $black;
 			font-size: 10px;
 			line-height: 1.3;
-			font-weight: 600; 
+			font-weight: 600;
 			letter-spacing: 1px;
 			text-transform: uppercase;
 			overflow: hidden;
 			padding-top: 0;
 			padding-bottom: 0;
 		     	@include media(small-up) {
-				font-size: 12px;	
+				font-size: 12px;
 				}
 				@include media(medium-up) {
-				font-size: 12px;	
+				font-size: 12px;
 				}
 				@include media(large-up) {
-				font-size: 12px;	
+				font-size: 12px;
 				}
 				@include media(xlarge-up) {
-				font-size: 14px;	
+				font-size: 14px;
 				}
 			  > a {
-			  font-family: $simplon-regular;  
+			  font-family: $simplon-regular;
 			  font-size: 13px;
 			  color: $black;
 			  font-weight: 600;
-			  line-height: 1.3; 
-			  letter-spacing: 1px;    
+			  line-height: 1.3;
+			  letter-spacing: 1px;
 			  text-decoration: none;
 			  transition: color .2s ease-out;
 			  display: block;
@@ -473,28 +522,28 @@
 				}
 				@include media(xlarge-up) {
 				font-size: 13px;
-				}	  
+				}
 			  }
 
 			}
 
-
-			.vis--row_title {
-			width: $index-title-width-xs;
-			  @include media(small-up) {
-			  width: $index-title-width-sm;  
-			  }
-			  @include media(medium-up) {
-			  width: $index-title-width-md;
-			  }
-			  @include media(large-up) {
-			  width: $index-title-width-lg;  
-			  }
-			  @include media(xlarge-up) {
-			  width: $index-title-width-xlg; 
-			  }  
-
-			}
+            //
+			//.vis--row_title {
+			//width: $index-title-width-xs;
+			//  @include media(small-up) {
+			//  width: $index-title-width-sm;
+			//  }
+			//  @include media(medium-up) {
+			//  width: $index-title-width-md;
+			//  }
+			//  @include media(large-up) {
+			//  width: $index-title-width-lg;
+			//  }
+			//  @include media(xlarge-up) {
+			//  width: $index-title-width-xlg;
+			//  }
+            //
+			//}
 
 			.vis--header_score,
 			.vis--category_score {
@@ -544,7 +593,7 @@
 			.vis--category_score_value,
 			.vis--category_score_value span{
 			font-family: $simplon-regular; 
-			color: $cat-total !important;
+			color: $dark-blue !important;
 			font-size: 14px;
 			line-height: 1.3;
 			font-weight: 600; 

@@ -1,5 +1,4 @@
 ---
-
 company_type_page: telecommunications-companies
 entity: att
 layout: company

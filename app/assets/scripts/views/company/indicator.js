@@ -83,7 +83,7 @@ module.exports = BaseChart.extend({
             svg.call(tip);
 
             var indicator_width = $('#indicators--privacy').width();
-            var wrap_width = Number(indicator_width) - 50;
+            var wrap_width = Number(indicator_width);
             // var wrap_width = Number(indicator_width) - 100;
 
             var gy = svg.append("g")
@@ -91,7 +91,7 @@ module.exports = BaseChart.extend({
                 .call(yAxis)
                 .selectAll("text")
                 .attr("y", 0)
-                .attr("x", 300)
+                .attr("x", 350)
                 //.attr("y", -8)
                 //.attr("x", 110)
                 .style("font-size", "12px")
@@ -118,7 +118,7 @@ module.exports = BaseChart.extend({
                     return 0;
                 })
                 .attr("width", function (d) {
-                    var width = 3*d.value;
+                    var width = 3.5*d.value;
                     if (d.value == 0) width = 4;
                     return width;
                 })
@@ -135,16 +135,16 @@ module.exports = BaseChart.extend({
                 .enter().append("rect")
                 .style('fill', '#E5DBD2')
                 .attr("x", function (d) {
-                    var width = 3*Number(d.value);
+                    var width = 3.5*Number(d.value);
                     if (d.value == 0) width = 4;
                     return width;
                 })
 
                 .attr("y", function (d) { return y(d.name); })
                 .attr("width", function (d) {
-                    var width = 300;
-                    if (d.value == 0) width = 296;
-                    return width - 3*Number(d.value);
+                    var width = 350;
+                    if (d.value == 0) width = 346;
+                    return width - 3.5*Number(d.value);
                 })
                 .attr("height", 5)
                 // .attr("height", y.rangeBand());

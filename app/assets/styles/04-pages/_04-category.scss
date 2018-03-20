@@ -32,7 +32,17 @@
 			}
 		}	
 	}
-
+	#category--indicators{
+		.page--subtitle{
+			margin-bottom: 1em;
+		}
+		.indicator-item{
+			h3{
+				font-size: 1em;
+				text-transform: uppercase;
+			}
+		}
+	}
 	.page-content-dynamic {
 
 		.page-introduction {
@@ -125,13 +135,13 @@
 						        transform: rotate(-90deg);	
 						        }
 						        @include media(medium-up) {
-								transform: none;				  
+								transform: rotate(-35deg) translate(-5px, 25px);				  
 						        }
 						        @include media(large-up) {
-								transform: none;
+								transform: rotate(-35deg) translate(-5px, 25px);
 						        }
 						        @include media(xlarge-up) {
-								transform: none;				 
+								transform: rotate(-35deg) translate(-5px, 25px);				 
 						        }						
 							} 														
 						}						
@@ -144,17 +154,22 @@
 						font-weight: 600;
 						font-family: $simplon-bold;						                 
 						font-size: 14px;
+							display: none;
 							@include media(small-up) {
 							font-size: 14px;
+								display: none;
 							}
 							@include media(medium-up) {
-							font-size: 14px;  
+							font-size: 14px;
+								display: block;
 							}
 							@include media(large-up) {
 							font-size: 14px;
+								display: block;
 							}
 							@include media(xlarge-up) {
-							font-size: 14px;  
+							font-size: 14px;
+								display: block;
 							} 							
 						}
 					}

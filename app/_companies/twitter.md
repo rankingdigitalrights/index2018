@@ -9,13 +9,17 @@ company_type: Internet and mobile companies
 display: Twitter, Inc.
 headquarters: USA
 link: https://www.twitter.com
+download: https://www.twitter.com
 
 telco: false
 
+rank: 5
+
 key_findings:
-  - Twitter lagged behind most other U.S. companies in disclosing how it has institutionalized its commitments to respect freedom of expression and privacy across its global operations.
-  - Twitter’s flagship social networking service led the field in its disclosure of government and private requests it receives to restrict content and accounts.
-  - It was unclear if Twitter’s policies applied to other services operated by the company, such as Vine and Periscope, bringing down Twitter’s overall score.
+  - Twitter disclosed less than most of its U.S. peers about policies affecting users’ privacy, but disclosed more about policies affecting freedom of expression than any company in the Index.
+  - Twitter improved its disclosure of how it responds to government requests to remove content and restrict accounts.
+  - Twitter disclosed ways for users to opt out of targeted advertising, which indicates that targeted advertising is on by default. It also disclosed it does not respond to “Do Not Track” signals from users asking the company not to track them across third-party websites.
+
 
 services_evaluated:
   - item:
@@ -25,28 +29,54 @@ services_evaluated:
   - item:
     key: video sharing
     key_href: videophoto
-    name: vine
-  - item:
-    key: video sharing
-    key_href: videophoto
     name: periscope
 
-total: 48
-analysis_text_left: "Twitter ranked sixth of 12 internet and mobile companies and sixth in the Index overall. This year’s evaluation included Vine, since the service was included in the 2015 Index and active during the Index research period, although Vine was discontinued in January 2017. The video streaming mobile app, Periscope, was included for the first time in the 2017 Index. As was the case in 2015, Twitter lacked clear public commitments or disclosed policies for implementing their commitments to respect freedom of expression across its global operations. It was also unclear in many instances if various policies that applied to Twitter’s flagship social media service also extended to the Vine and Periscope services. Twitter’s overall score in the Index would be substantially higher if the company had disclosed more detailed information on whether policies that apply to the flagship Twitter platform also apply to other services."
+analysis_text: "Twitter ranked fifth out of 12 internet and mobile ecosystem companies, disclosing less about its policies affecting privacy than most of its U.S. peers. The company’s score improved in the 2018 Index due to improved public commitments to users’ freedom of expression and greater clarity in its transparency reporting on content removal requests. However, Twitter’s privacy score declined due to a change in its privacy policy stating that the company no longer responds to “Do Not Track” signals, and a lack of clear examples about how it implements its process for responding to government or private requests for user information. In addition,<a href=\"https://www.congress.gov/bill/114th-congress/house-bill/2048\" target=\"_blank\">U.S. law</a> prevents companies from disclosing the exact number of government requests for stored and real-time user information they receive, which prevented Twitter from being fully transparent in that area."
 
-analysis_text_right: "<strong>Twitter, Inc.</strong> operates as a global social sharing platform. Its products and services allow users to create, share, and find content and short looping and livestreamed videos. Alongside these social services, Twitter provides advertising services and developer tools."
+key_recommendation_paragraph: "<strong>Twitter, Inc.</strong> operates a global social sharing platform with products and services that allow users to create, share, and find content on the Twitter social network and livestreamed videos on Periscope. Twitter also provides advertising services and developer tools."
 
+key_recommendation_list:
+  - <strong>Institutionalize policy commitments to freedom of expression and privacy.</strong> Twitter should disclose whether and how it is implementing mechanisms such as human rights impact assessments and employee training, to demonstrate that it has institutionalized commitments to respect users’ digital rights.
+  - <strong>Protect users’ privacy.</strong> The company should show a stronger commitment to protect users' privacy by not sharing users' information for targeted advertising unless they opt in. It should also commit to respect signals from users to not track them across third-party websites.
+  - <strong>Disclose more comprehensive information about security policies and practices.</strong> Twitter should improve its disclosure of its internal processes for keeping user data secure, including the company’s policies for responding to data breaches.
 
 analysis_industry: Internet Software and Services
-analysis_market_cap: USD 11,052 million
+analysis_market_cap: USD 24.5 billion
 analysis_stock_symbol: "NYSE: TWTR"
 
-governance: 30
-governance_text: "Twitter received the 10th highest score out of the 22 companies in the Index in the Governance category, scoring lower than most U.S. companies. While company <a href=\"https://about.twitter.com/company/twitter-for-good\" target=\"_blank\">blog posts</a> and <a href=\"https://help.twitter.com/articles/18311?lang=en\" target=\"_blank\">support pages</a>  referenced the company’s positions on users’ rights to freedom of expression and privacy, these fell short of the type of explicit policy commitment made by many of its peers (G1). Also unlike many of its peers, Twitter offers no publicly accessible evidence of how its policy positions and commitments related to freedom of expression and privacy have been institutionalized through governance and accountability mechanisms across the company. For example, there was no indication of whether Twitter conducts human rights due diligence to identify how aspects of its business may affect freedom of expression and privacy (G4). While Twitter disclosed that it regularly engages with a range of stakeholders on freedom of expression and privacy issues (G5), it is not a member of a multi-stakeholder initiative such as the Global Network Initiative (GNI) whose members not only make commitments but also undergo independent assessment to verify whether they have implemented and institutionalized these principles."
+governance_text: "Twitter ranked fifth in the Governance category, scoring lower than most U.S. internet and mobile ecosystem companies evaluated, despite some notable improvements. The company strengthened its public commitment to respect users’ freedom of expression and privacy (G1), improved its disclosure of senior-level oversight over these issues (G2), and disclosed a commitment to conduct human rights risk assessments when launching new products or entering into new markets (G4). While it disclosed that it regularly engages with a range of stakeholders on freedom of expression and privacy issues (G5), Twitter is not a member of a multi-stakeholder initiative like the Global Network Initiative (GNI), whose members not only make commitments but also undergo independent assessments to verify whether they have implemented and institutionalized them. As a result, Twitter’s disclosure in the Governance category suffered compared to its GNI peers."
 
-freedom: 49
-freedom_text: "Twitter ranked fourth out of the 12 internet and mobile companies in the Freedom of Expression category, behind Google, Kakao, and Microsoft.<br /> <br /><strong>Content and account restrictions:</strong> Twitter provided some disclosure on its process for terms of service enforcement, though it did not indicate if government or private entities receive priority consideration when flagging content for potentially violating the company’s rules (F3). Twitter was one of only three companies, including Microsoft and Google, to disclose any data about its terms of service enforcement, reporting the number of accounts it <a href=\"https://blog.twitter.com/2016/combating-violent-extremism\" target=\"_blank\">restricted due to terrorist content</a> (F4). But it did not report on other types of content that it removed for violating the company’s rules.<br /> <br /><strong>Content and account restriction requests:</strong> Twitter disclosed less than Google, Yahoo, Kakao, Facebook, and Microsoft about how it handles government and private requests to restrict content or accounts (F5-F7). Its processes for responding to such requests were not clear or consistent across each of the company's the services evaluated. (F5). Twitter provided <a href=\"https://transparency.twitter.com/en/removal-requests.html\" target=\"_blank\">detailed data about requests</a> it received and complied with, though it did not specify if Periscope and Vine were also included (F6). Twitter’s data on requests from private third parties were limited to copyright and trademark violations, though they included Twitter, Vine, and Periscope; Twitter received the second-highest score on this indicator (F7).<br /> <br /><strong>Identity policy:</strong> Twitter and Microsoft were the only two internet and mobile companies to receive full credit for disclosing that they do not require users to <a href=\"https://support.twitter.com/articles/41949\" target=\"_blank\">verify their identity with a government-issued ID</a> or other information tied to their offline identity (F11)."
+summary_of_changes_governance:
+  - item:
+    change: positive
+    title: F1. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+  - item:
+    change: negative
+    title: F4. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
 
-privacy: 53
-privacy_text: "Twitter tied with Kakao for fourth place among internet and mobile companies in the Privacy category, behind Google, Microsoft, and Yahoo.<br /><br /><strong>Handling of user information:</strong> Twitter received the highest score of all companies evaluated for this set of indicators (P3-P9). The company clearly disclosed what types of user information it collects (P3), but offered less comprehensive disclosure about what types of user information it shares and with whom (P4). It disclosed more than any other company about  how long it retains user information (P6).<br /> <br /><strong>Requests for user information:</strong/> Twitter received the second-highest score on this set of indicators, tying with Google and behind Microsoft (P10-P11). Twitter clearly disclosed its processes for responding to government requests for user information, but not for private requests (P10). It topped all internet and mobile companies for its transparency reporting on government and private requests it receives to hand over user information (P11).<br /> <br /><strong>Security:</strong> Twitter provided little information about its security policies, scoring higher than only than Baidu and Tencent on these indicators (P13-P18). Like most companies, it failed to disclose any information about its policies for responding to data breaches (P15). It also had one of the lowest scores for its lack of clear disclosure of whether it encrypts user communications and private content (P16)."
+freedom_text: "Twitter disclosed more than any of its peers about policies affecting freedom of expression.<br /><br /><strong>Content and account restrictions:</strong> Twitter disclosed more than any other internet and mobile ecosystem company about its process for terms of service enforcement, including some of the factors it takes into account when making enforcement decisions and the range of actions it might take (F3). It was one of only four companies, including Facebook, Microsoft, and Google, to disclose any data about its terms of service enforcement, reporting the number of accounts it restricted due to terrorist content and from legal requests to remove content or restrict accounts for violating Twitter’s rules (F4). However, the data did not include all of the actions the company might take to enforce its rules.<br /><br /><strong>Content and account restriction requests:</strong> Twitter disclosed less than Google and Oath about how it handles government and private requests to restrict content or accounts (F5-F7). It disclosed less data about government requests to restrict content or accounts than several of its U.S. peers (F6), but it provided more data than any other company about requests it receives via private processes to restrict content or accounts (F7).<br /><br /><strong>Identity policy:</strong> Twitter and Microsoft were the only two internet and mobile ecosystem companies that disclosed that they <a href=\"https://help.twitter.com/articles/41949?lang=en\" target=\"_blank\">do not require users to verify their identity</a> with a government-issued ID or other information tied to their offline identity (F11)."
+
+summary_of_changes_freedom:
+  - item:
+    change: positive
+    title: F1. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+  - item:
+    change: negative
+    title: F4. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+
+privacy_text: "Twitter disclosed less than Google, Microsoft, Apple, and Oath about policies affecting users’ privacy, but more than Facebook.<br /><br /><strong>Handling of user information:</strong> Twitter offered more information than all other internet and mobile ecosystem companies about how it handles user information, but still fell short of Index benchmarks (P3-P9). It clearly disclosed what types of user information it collects (P3), but was less clear about what information it shares and with whom (P4). It disclosed more than any other company about how long it retains user information (P6), but disclosed little about whether users could access the information the company holds about them (P8). The company provides users with options for controlling how their information is collected for targeted advertising, suggesting targeted advertising is on by default (P7). Twitter’s revised privacy policy made its practices of tracking users across third-party websites less clear (P9). The company also disclosed it no longer respects “Do Not Track” (DNT) signals (P9).<br /><br /><strong>Requests for user information:</strong> Twitter disclosed more than most of its peers, apart from Microsoft and Google, about how it handles government and private requests to hand over use data (P10-P12). Like most companies, it clearly disclosed its processes for responding to government requests for user information, but not for private requests it received (P10). It tied with Facebook for disclosing the most data on government and private requests for user information it receives (P11).<br /><br /><strong>Security:</strong> Twitter provided little information about its security policies, scoring higher than only Baidu, Samsung, and Tencent on these indicators (P13-P18). Like most companies, it failed to disclose any information about its policies for responding to data breaches (P15). It also lacked clear disclosure of whether it encrypts user communications and private content (P16)."
+
+summary_of_changes_privacy:
+  - item:
+    change: positive
+    title: F1. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+  - item:
+    change: positive
+    title: F4. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
 ---

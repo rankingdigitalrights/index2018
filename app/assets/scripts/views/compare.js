@@ -8,46 +8,55 @@ var baseurl = require('../util/base-url');
 var template = require('../templates/compare.tpl');
 
 module.exports = Backbone.View.extend({
-    render: function (el) {
-        var data = this.collection.models;
-        var $data = [];
-        data.forEach(function (i) {
-            $data.push({name:i.attributes.name,total_difference:i.attributes.total_difference, description:i.attributes.description});
-        });
-        $data.sort(function(a, b) {
-            return parseFloat(a.total_difference) - parseFloat(b.total_difference);
-        });
-        $data.reverse();
-        d3.select("#compare--overview_chart")
-            .datum($data)
-            .call(columnChart()
-            .width($('#compare--overview_chart').width())
-            .height(500)
-            .x(function(d, i) { return d.name; })
-            .y(function(d, i) { return d.total_difference; }));
 
-        $data.forEach(function (i) {
-          $("#compare--overview_list").append(
-            template({name:i.name, total_difference:i.total_difference, description:i.description})
-          );
-        });
-    },
+  render: function (el) {
+    var data = this.collection.models;
+    var $data = [];
+    data.forEach(function (i) {
+      $data.push({name:i.attributes.name,total_difference:i.attributes.total_difference, description:i.attributes.description});
+    });
+    $data.sort(function(a, b) {
+      return parseFloat(a.total_difference) - parseFloat(b.total_difference);
+    });
+    $data.reverse();
+    d3.select("#compare--overview_chart")
+      .datum($data)
+      .call(columnChart()
+      .width($('#compare--overview_chart').width())
+      .height(300)
+      .x(function(d, i) { return d.name; })
+      .y(function(d, i) { return d.total_difference; }));
+
+    $data.forEach(function (i) {
+      $("#compare--overview_list").append(
+        template({name:i.name, total_difference:i.total_difference, description:i.description})
+      );
+    });
+  },
+
 });
 
 
 function columnChart() {
-  var margin = {top: 30, right: 20, bottom: 30, left: 20},
+  var margin = {top: 20, right: 20, bottom: 60, left: 20},
       width = 100,
-      height = 400,
-      xRoundBands = 0.05,
+      height = 300,
+      xRoundBands = 0.15,
       xValue = function(d) { return d[0]; },
       yValue = function(d) { return d[1]; },
       xScale = d3.scale.ordinal(),
       yScale = d3.scale.linear(),
       yAxis = d3.svg.axis().scale(yScale).orient("left"),
-      xAxis = d3.svg.axis().scale(xScale);
-  
+      xAxis = d3.svg.axis().scale(xScale),
+      tt = d3.tip()
+        .attr('class', 'bar--tip')
+        .offset([-20, 0])
+        .html(d => d[0] + '<br/>' + d[1] + '%');
+
+
+
   function chart(selection) {
+    
     selection.each(function(data) {
 
       // Convert data to standard representation greedily;
@@ -55,18 +64,18 @@ function columnChart() {
       data = data.map(function(d, i) {
         return [xValue.call(data, d, i), yValue.call(data, d, i)];
       });
-    
+
       // Update the x-scale.
       xScale
           .domain(data.map(function(d) { return d[0];} ))
           .rangeRoundBands([0, width - margin.left - margin.right], xRoundBands);
-         
+
       // Update the y-scale.
       yScale
           .domain(d3.extent(data.map(function(d) { return d[1];} )))
           .range([height - margin.top - margin.bottom, 0])
           .nice();
-          
+
       // Select the svg element, if it exists.
       var svg = d3.select(this).selectAll("svg").data([data]);
 
@@ -78,8 +87,8 @@ function columnChart() {
       gEnter.append("g").attr("class", "x axis zero");
 
       // Update the outer dimensions.
-      svg .attr("width", width)
-          .attr("height", height);
+      svg.attr("width", width)
+         .attr("height", height);
 
       // Update the inner dimensions.
       var g = svg.select("g")
@@ -90,15 +99,22 @@ function columnChart() {
       bar.enter().append("rect");
       bar.exit().remove();
       bar.attr("class", function(d, i) { return d[1] < 0 ? "bar negative" : "bar positive"; })
-          .attr("x", function(d) { return X(d); })
-          .attr("y", function(d, i) { return d[1] < 0 ? Y0() : Y(d); })
-          .attr("width", xScale.rangeBand())
-          .attr("height", function(d, i) { return Math.abs( Y(d) - Y0() ); });
+        .attr("x", function(d) { return X(d); })
+        .attr("y", Y0())
+        .attr("width", xScale.rangeBand())
+        .attr("height", 0)
+        .on('mouseover', tt.show)
+        .on('mouseout', tt.hide);
+
+      bar.transition()
+        .duration(2000)
+        .attr('y', function(d, i) { return d[1] < 0 ? Y0() : Y(d); })
+        .attr('height', function(d, i) { return Math.abs( Y(d) - Y0() ); });
 
       // Update legend rect
       bar.enter().append("rect");
       bar.exit().remove();
-      bar.attr("class", function(d, i) { 
+      bar.attr("class", function(d, i) {
           var $class = 'zero';
           if( d[1] == 0 ) $class = 'legend legend--zero';
           else if ( d[1] < 0 ) $class = 'legend legend--negative';
@@ -114,7 +130,7 @@ function columnChart() {
       bar.enter().append("text");
       bar.exit().remove();
       bar.attr("class", "rank")
-        .attr("x", function(d) { return X(d) + 22; })
+        .attr("x", function(d) { return X(d) + 20; })
         .attr("y", function(d, i) { return d[1] >= 0 ? Y(d) - 10 : Y(d) + 20; })
         .attr("width", xScale.rangeBand())
         .attr("height", 20)
@@ -126,18 +142,16 @@ function columnChart() {
         .attr("transform", "translate(0," + Y0() + ")")
         .call(xAxis.tickSize(0))
         .selectAll('text')
-        .attr('x', '0')
-        .attr('y', '0')
+        .attr('x', function(d, i) { return data[i][1] < 0 ? '10' : '-10' })
+        .attr('y', function(d, i) { return data[i][1] < 0 ? '-5' : '-3' })
         .style('text-anchor', function(d, i) { return data[i][1] < 0 ? 'start' : 'end' })
         .attr('class', 'company--name')
-        .attr('transform', function(d, i) { return data[i][1] < 0 ? 'rotate(-45), translate(10, -10)' : 'rotate(-45), translate(-5, 5)' });
+        .attr('transform', 'rotate(-45)');
 
-      // Update the y-axis.
-      // g.select(".y.axis").call(yAxis);
+      svg.call(tt);
 
     });
   }
-
 
 // The x-accessor for the path generator; xScale ∘ xValue.
   function X(d) {

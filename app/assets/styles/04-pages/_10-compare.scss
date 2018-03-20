@@ -160,6 +160,10 @@
 }
 
 #compare--overview_chart {
+  padding: 0;
+  @include media(medium-up){
+    // padding: 0 2em;
+  }
 
   .chart rect {
     fill: #D0DBCB;
@@ -175,18 +179,26 @@
     stroke: #DFD8CE;
     shape-rendering: crispEdges;
   }
+
+
   .company--name {
-    font-size: 14px;
-    transform: rotate(-90deg) translate(0px,-5px)!important;
-    -webkit-transform: rotate(-90deg) translate(0px,-5px)!important;
-    -moz-transform: rotate(-90deg) translate(0px,-5px)!important;
-    -ms-transform: rotate(-90deg) translate(0px,-5px)!important;
-    @include media(medium-up){
+    transform: rotate(-90deg);
+    font-size: 10px;           
+    @include media(small-up) {
+      transform: rotate(-90deg) !important;
+      font-size: 10px !important; 
+    }
+    @include media(medium-up) {
       transform: rotate(-45deg) !important;
-      -webkit-transform: rotate(-45deg) !important;
-      -moz-transform: rotate(-45deg) !important;
-      -ms-transform: rotate(-45deg) !important;
-      font-size: 16px;
+      font-size: inherit !important;           
+    }
+    @include media(large-up) {
+      transform: rotate(-45deg) !important;
+      font-size: inherit !important;           
+    }
+    @include media(xlarge-up) {
+      transform: rotate(-45deg) !important;
+      font-size: inherit !important;           
     }
   }
 
@@ -194,6 +206,20 @@
     border-radius: 2px;
     color: #FFFFFF;
     font-weight: bold;
+    display: none !important;
+    @include media(small-up) {
+      display: none !important;
+    }
+    @include media(medium-up) {
+      display: none !important;
+    }
+    @include media(large-up) {
+      display: block !important;
+    }
+    @include media(xlarge-up) {
+      display: block !important;
+    }
+
   }
   .legend--zero {
     fill: #787878;
@@ -209,9 +235,18 @@
     font-size: 13px;
     font-weight: bold;
     position: relative;
-    display: inline-block;
-    @include media(medium-up){
-
+    display: none !important;
+    @include media(small-up) {
+      display: none !important;
+    }
+    @include media(medium-up) {
+      display: none !important;
+    }
+    @include media(large-up) {
+      display: block !important;
+    }
+    @include media(xlarge-up) {
+      display: block !important;
     }
   }
 
