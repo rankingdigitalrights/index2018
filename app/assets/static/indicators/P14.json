@@ -67,10 +67,10 @@
                             "value": "4. (For mobile ecosystems) Does the company clearly disclose that software updates, security patches, add-ons, or extensions are downloaded over an encrypted channel?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -106,10 +106,10 @@
                             "value": "7. (For mobile ecosystems) Does the company clearly disclose the date through which it will continue to provide security updates for the device/OS?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -119,10 +119,10 @@
                             "value": "8. (For mobile ecosystems) Does the company commit to provide security updates for the operating system and other critical software for a minimum of five years after release?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -157,13 +157,13 @@
             ],
             "average": [
                 {
-                    "value": "17"
+                    "value": "16.6666666667"
                 },
                 {
-                    "value": "33"
+                    "value": "33.3333333333"
                 },
                 {
-                    "value": "33"
+                    "value": "33.3333333333"
                 }
             ],
             "rows": [
@@ -224,10 +224,10 @@
                             "value": "0"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -237,13 +237,13 @@
                             "value": "5. (For mobile ecosystems and telecommunications companies) Does the company clearly disclose what, if any, modifications it has made to a mobile operating system?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -253,13 +253,13 @@
                             "value": "6. (For mobile ecosystems and telecommunications companies) Does the company clearly disclose what, if any, effect such modifications have on the company’s ability to send security updates to users?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -272,10 +272,10 @@
                             "value": "0"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -288,10 +288,10 @@
                             "value": "0"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -301,13 +301,13 @@
                             "value": "9. (For mobile ecosystems and telecommunications companies) If the company uses an operating system adapted from an existing system, does the company commit to provide security patches within one month of a vulnerability being announced to the public?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 }
@@ -329,13 +329,13 @@
             ],
             "average": [
                 {
-                    "value": "17"
+                    "value": "16.6666666667"
                 },
                 {
-                    "value": "17"
+                    "value": "16.6666666667"
                 },
                 {
-                    "value": "17"
+                    "value": "16.6666666667"
                 }
             ],
             "rows": [
@@ -393,13 +393,13 @@
                             "value": "4. (For mobile ecosystems) Does the company clearly disclose that software updates, security patches, add-ons, or extensions are downloaded over an encrypted channel?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -441,13 +441,13 @@
                             "value": "7. (For mobile ecosystems) Does the company clearly disclose the date through which it will continue to provide security updates for the device/OS?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -457,13 +457,13 @@
                             "value": "8. (For mobile ecosystems) Does the company commit to provide security updates for the operating system and other critical software for a minimum of five years after release?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -550,10 +550,10 @@
                             "value": "4. (For mobile ecosystems) Does the company clearly disclose that software updates, security patches, add-ons, or extensions are downloaded over an encrypted channel?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -589,10 +589,10 @@
                             "value": "7. (For mobile ecosystems) Does the company clearly disclose the date through which it will continue to provide security updates for the device/OS?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -602,10 +602,10 @@
                             "value": "8. (For mobile ecosystems) Does the company commit to provide security updates for the operating system and other critical software for a minimum of five years after release?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -640,13 +640,13 @@
             ],
             "average": [
                 {
-                    "value": "33"
+                    "value": "33.3333333333"
                 },
                 {
-                    "value": "33"
+                    "value": "33.3333333333"
                 },
                 {
-                    "value": "33"
+                    "value": "33.3333333333"
                 }
             ],
             "rows": [
@@ -704,13 +704,13 @@
                             "value": "4. (For mobile ecosystems) Does the company clearly disclose that software updates, security patches, add-ons, or extensions are downloaded over an encrypted channel?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -720,13 +720,13 @@
                             "value": "5. (For mobile ecosystems and telecommunications companies) Does the company clearly disclose what, if any, modifications it has made to a mobile operating system?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -736,13 +736,13 @@
                             "value": "6. (For mobile ecosystems and telecommunications companies) Does the company clearly disclose what, if any, effect such modifications have on the company’s ability to send security updates to users?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -752,13 +752,13 @@
                             "value": "7. (For mobile ecosystems) Does the company clearly disclose the date through which it will continue to provide security updates for the device/OS?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -768,13 +768,13 @@
                             "value": "8. (For mobile ecosystems) Does the company commit to provide security updates for the operating system and other critical software for a minimum of five years after release?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -784,13 +784,13 @@
                             "value": "9. (For mobile ecosystems and telecommunications companies) If the company uses an operating system adapted from an existing system, does the company commit to provide security patches within one month of a vulnerability being announced to the public?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 }
@@ -876,13 +876,13 @@
                             "value": "4. (For mobile ecosystems) Does the company clearly disclose that software updates, security patches, add-ons, or extensions are downloaded over an encrypted channel?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -924,13 +924,13 @@
                             "value": "7. (For mobile ecosystems) Does the company clearly disclose the date through which it will continue to provide security updates for the device/OS?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -940,13 +940,13 @@
                             "value": "8. (For mobile ecosystems) Does the company commit to provide security updates for the operating system and other critical software for a minimum of five years after release?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1048,13 +1048,13 @@
                             "value": "4. (For mobile ecosystems) Does the company clearly disclose that software updates, security patches, add-ons, or extensions are downloaded over an encrypted channel?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1096,13 +1096,13 @@
                             "value": "7. (For mobile ecosystems) Does the company clearly disclose the date through which it will continue to provide security updates for the device/OS?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1112,13 +1112,13 @@
                             "value": "8. (For mobile ecosystems) Does the company commit to provide security updates for the operating system and other critical software for a minimum of five years after release?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1159,16 +1159,16 @@
             ],
             "average": [
                 {
-                    "value": "67"
+                    "value": "66.6666666667"
                 },
                 {
-                    "value": "67"
+                    "value": "66.6666666667"
                 },
                 {
-                    "value": "67"
+                    "value": "66.6666666667"
                 },
                 {
-                    "value": "67"
+                    "value": "66.6666666667"
                 }
             ],
             "rows": [
@@ -1235,16 +1235,16 @@
                             "value": "4. (For mobile ecosystems) Does the company clearly disclose that software updates, security patches, add-ons, or extensions are downloaded over an encrypted channel?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1254,16 +1254,16 @@
                             "value": "5. (For mobile ecosystems and telecommunications companies) Does the company clearly disclose what, if any, modifications it has made to a mobile operating system?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1273,16 +1273,16 @@
                             "value": "6. (For mobile ecosystems and telecommunications companies) Does the company clearly disclose what, if any, effect such modifications have on the company’s ability to send security updates to users?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1292,16 +1292,16 @@
                             "value": "7. (For mobile ecosystems) Does the company clearly disclose the date through which it will continue to provide security updates for the device/OS?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1311,16 +1311,16 @@
                             "value": "8. (For mobile ecosystems) Does the company commit to provide security updates for the operating system and other critical software for a minimum of five years after release?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1330,16 +1330,16 @@
                             "value": "9. (For mobile ecosystems and telecommunications companies) If the company uses an operating system adapted from an existing system, does the company commit to provide security patches within one month of a vulnerability being announced to the public?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 }
@@ -1364,16 +1364,16 @@
             ],
             "average": [
                 {
-                    "value": "33"
+                    "value": "33.3333333333"
                 },
                 {
-                    "value": "33"
+                    "value": "33.3333333333"
                 },
                 {
-                    "value": "33"
+                    "value": "33.3333333333"
                 },
                 {
-                    "value": "42"
+                    "value": "41.6666666667"
                 }
             ],
             "rows": [
@@ -1440,13 +1440,13 @@
                             "value": "4. (For mobile ecosystems) Does the company clearly disclose that software updates, security patches, add-ons, or extensions are downloaded over an encrypted channel?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
                             "value": "0"
@@ -1459,16 +1459,16 @@
                             "value": "5. (For mobile ecosystems and telecommunications companies) Does the company clearly disclose what, if any, modifications it has made to a mobile operating system?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1478,16 +1478,16 @@
                             "value": "6. (For mobile ecosystems and telecommunications companies) Does the company clearly disclose what, if any, effect such modifications have on the company’s ability to send security updates to users?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1497,13 +1497,13 @@
                             "value": "7. (For mobile ecosystems) Does the company clearly disclose the date through which it will continue to provide security updates for the device/OS?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
                             "value": "100"
@@ -1516,13 +1516,13 @@
                             "value": "8. (For mobile ecosystems) Does the company commit to provide security updates for the operating system and other critical software for a minimum of five years after release?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
                             "value": "0"
@@ -1535,16 +1535,16 @@
                             "value": "9. (For mobile ecosystems and telecommunications companies) If the company uses an operating system adapted from an existing system, does the company commit to provide security patches within one month of a vulnerability being announced to the public?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 }
@@ -1566,13 +1566,13 @@
             ],
             "average": [
                 {
-                    "value": "0"
+                    "value": "16.6666666667"
                 },
                 {
-                    "value": "0"
+                    "value": "16.6666666667"
                 },
                 {
-                    "value": "0"
+                    "value": "16.6666666667"
                 }
             ],
             "rows": [
@@ -1582,13 +1582,13 @@
                             "value": "1. the company clearly disclose that it has a mechanism through which security researchers can submit vulnerabilities they discover?"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         }
                     ]
                 },
@@ -1630,13 +1630,13 @@
                             "value": "4. (For mobile ecosystems) Does the company clearly disclose that software updates, security patches, add-ons, or extensions are downloaded over an encrypted channel?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1646,13 +1646,13 @@
                             "value": "5. (For mobile ecosystems and telecommunications companies) Does the company clearly disclose what, if any, modifications it has made to a mobile operating system?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1662,13 +1662,13 @@
                             "value": "6. (For mobile ecosystems and telecommunications companies) Does the company clearly disclose what, if any, effect such modifications have on the company’s ability to send security updates to users?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1678,13 +1678,13 @@
                             "value": "7. (For mobile ecosystems) Does the company clearly disclose the date through which it will continue to provide security updates for the device/OS?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1694,13 +1694,13 @@
                             "value": "8. (For mobile ecosystems) Does the company commit to provide security updates for the operating system and other critical software for a minimum of five years after release?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1710,13 +1710,13 @@
                             "value": "9. (For mobile ecosystems and telecommunications companies) If the company uses an operating system adapted from an existing system, does the company commit to provide security patches within one month of a vulnerability being announced to the public?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 }
@@ -1738,13 +1738,13 @@
             ],
             "average": [
                 {
-                    "value": "33"
+                    "value": "33.3333333333"
                 },
                 {
-                    "value": "67"
+                    "value": "66.6666666667"
                 },
                 {
-                    "value": "67"
+                    "value": "66.6666666667"
                 }
             ],
             "rows": [
@@ -1802,13 +1802,13 @@
                             "value": "4. (For mobile ecosystems) Does the company clearly disclose that software updates, security patches, add-ons, or extensions are downloaded over an encrypted channel?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1818,13 +1818,13 @@
                             "value": "5. (For mobile ecosystems and telecommunications companies) Does the company clearly disclose what, if any, modifications it has made to a mobile operating system?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1834,13 +1834,13 @@
                             "value": "6. (For mobile ecosystems and telecommunications companies) Does the company clearly disclose what, if any, effect such modifications have on the company’s ability to send security updates to users?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1850,13 +1850,13 @@
                             "value": "7. (For mobile ecosystems) Does the company clearly disclose the date through which it will continue to provide security updates for the device/OS?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1866,13 +1866,13 @@
                             "value": "8. (For mobile ecosystems) Does the company commit to provide security updates for the operating system and other critical software for a minimum of five years after release?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1882,13 +1882,13 @@
                             "value": "9. (For mobile ecosystems and telecommunications companies) If the company uses an operating system adapted from an existing system, does the company commit to provide security patches within one month of a vulnerability being announced to the public?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 }
@@ -1974,13 +1974,13 @@
                             "value": "4. (For mobile ecosystems) Does the company clearly disclose that software updates, security patches, add-ons, or extensions are downloaded over an encrypted channel?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -1990,13 +1990,13 @@
                             "value": "5. (For mobile ecosystems and telecommunications companies) Does the company clearly disclose what, if any, modifications it has made to a mobile operating system?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -2006,13 +2006,13 @@
                             "value": "6. (For mobile ecosystems and telecommunications companies) Does the company clearly disclose what, if any, effect such modifications have on the company’s ability to send security updates to users?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -2022,13 +2022,13 @@
                             "value": "7. (For mobile ecosystems) Does the company clearly disclose the date through which it will continue to provide security updates for the device/OS?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -2038,13 +2038,13 @@
                             "value": "8. (For mobile ecosystems) Does the company commit to provide security updates for the operating system and other critical software for a minimum of five years after release?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -2054,13 +2054,13 @@
                             "value": "9. (For mobile ecosystems and telecommunications companies) If the company uses an operating system adapted from an existing system, does the company commit to provide security patches within one month of a vulnerability being announced to the public?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 }
@@ -2079,10 +2079,10 @@
             ],
             "average": [
                 {
-                    "value": "8"
+                    "value": "8.3333333333"
                 },
                 {
-                    "value": "8"
+                    "value": "8.3333333333"
                 }
             ],
             "rows": [
@@ -2131,10 +2131,10 @@
                             "value": "4. (For mobile ecosystems) Does the company clearly disclose that software updates, security patches, add-ons, or extensions are downloaded over an encrypted channel?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -2170,10 +2170,10 @@
                             "value": "7. (For mobile ecosystems) Does the company clearly disclose the date through which it will continue to provide security updates for the device/OS?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -2183,10 +2183,10 @@
                             "value": "8. (For mobile ecosystems) Does the company commit to provide security updates for the operating system and other critical software for a minimum of five years after release?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -2285,13 +2285,13 @@
                             "value": "4. (For mobile ecosystems) Does the company clearly disclose that software updates, security patches, add-ons, or extensions are downloaded over an encrypted channel?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -2333,13 +2333,13 @@
                             "value": "7. (For mobile ecosystems) Does the company clearly disclose the date through which it will continue to provide security updates for the device/OS?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -2349,13 +2349,13 @@
                             "value": "8. (For mobile ecosystems) Does the company commit to provide security updates for the operating system and other critical software for a minimum of five years after release?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -2457,13 +2457,13 @@
                             "value": "4. (For mobile ecosystems) Does the company clearly disclose that software updates, security patches, add-ons, or extensions are downloaded over an encrypted channel?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -2505,13 +2505,13 @@
                             "value": "7. (For mobile ecosystems) Does the company clearly disclose the date through which it will continue to provide security updates for the device/OS?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -2521,13 +2521,13 @@
                             "value": "8. (For mobile ecosystems) Does the company commit to provide security updates for the operating system and other critical software for a minimum of five years after release?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -2554,7 +2554,7 @@
             "name": "Samsung",
             "headers": [
                 {
-                    "text": "Samsung "
+                    "text": "Samsung"
                 }
             ],
             "average": [
@@ -2735,13 +2735,13 @@
                             "value": "4. (For mobile ecosystems) Does the company clearly disclose that software updates, security patches, add-ons, or extensions are downloaded over an encrypted channel?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -2783,13 +2783,13 @@
                             "value": "7. (For mobile ecosystems) Does the company clearly disclose the date through which it will continue to provide security updates for the device/OS?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -2799,13 +2799,13 @@
                             "value": "8. (For mobile ecosystems) Does the company commit to provide security updates for the operating system and other critical software for a minimum of five years after release?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -2843,13 +2843,13 @@
             ],
             "average": [
                 {
-                    "value": "67"
+                    "value": "66.6666666667"
                 },
                 {
-                    "value": "67"
+                    "value": "66.6666666667"
                 },
                 {
-                    "value": "67"
+                    "value": "66.6666666667"
                 }
             ],
             "rows": [
@@ -2907,13 +2907,13 @@
                             "value": "4. (For mobile ecosystems) Does the company clearly disclose that software updates, security patches, add-ons, or extensions are downloaded over an encrypted channel?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -2923,13 +2923,13 @@
                             "value": "5. (For mobile ecosystems and telecommunications companies) Does the company clearly disclose what, if any, modifications it has made to a mobile operating system?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -2939,13 +2939,13 @@
                             "value": "6. (For mobile ecosystems and telecommunications companies) Does the company clearly disclose what, if any, effect such modifications have on the company’s ability to send security updates to users?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -2955,13 +2955,13 @@
                             "value": "7. (For mobile ecosystems) Does the company clearly disclose the date through which it will continue to provide security updates for the device/OS?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -2971,13 +2971,13 @@
                             "value": "8. (For mobile ecosystems) Does the company commit to provide security updates for the operating system and other critical software for a minimum of five years after release?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -2987,13 +2987,13 @@
                             "value": "9. (For mobile ecosystems and telecommunications companies) If the company uses an operating system adapted from an existing system, does the company commit to provide security patches within one month of a vulnerability being announced to the public?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 }
@@ -3064,10 +3064,10 @@
                             "value": "4. (For mobile ecosystems) Does the company clearly disclose that software updates, security patches, add-ons, or extensions are downloaded over an encrypted channel?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -3077,10 +3077,10 @@
                             "value": "5. (For mobile ecosystems and telecommunications companies) Does the company clearly disclose what, if any, modifications it has made to a mobile operating system?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -3090,10 +3090,10 @@
                             "value": "6. (For mobile ecosystems and telecommunications companies) Does the company clearly disclose what, if any, effect such modifications have on the company’s ability to send security updates to users?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -3103,10 +3103,10 @@
                             "value": "7. (For mobile ecosystems) Does the company clearly disclose the date through which it will continue to provide security updates for the device/OS?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -3116,10 +3116,10 @@
                             "value": "8. (For mobile ecosystems) Does the company commit to provide security updates for the operating system and other critical software for a minimum of five years after release?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -3129,10 +3129,10 @@
                             "value": "9. (For mobile ecosystems and telecommunications companies) If the company uses an operating system adapted from an existing system, does the company commit to provide security patches within one month of a vulnerability being announced to the public?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 }
@@ -3218,13 +3218,13 @@
                             "value": "4. (For mobile ecosystems) Does the company clearly disclose that software updates, security patches, add-ons, or extensions are downloaded over an encrypted channel?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -3266,13 +3266,13 @@
                             "value": "7. (For mobile ecosystems) Does the company clearly disclose the date through which it will continue to provide security updates for the device/OS?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -3282,13 +3282,13 @@
                             "value": "8. (For mobile ecosystems) Does the company commit to provide security updates for the operating system and other critical software for a minimum of five years after release?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -3326,13 +3326,13 @@
             ],
             "average": [
                 {
-                    "value": "67"
+                    "value": "66.6666666667"
                 },
                 {
-                    "value": "67"
+                    "value": "66.6666666667"
                 },
                 {
-                    "value": "33"
+                    "value": "33.3333333333"
                 }
             ],
             "rows": [
@@ -3390,13 +3390,13 @@
                             "value": "4. (For mobile ecosystems) Does the company clearly disclose that software updates, security patches, add-ons, or extensions are downloaded over an encrypted channel?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -3406,13 +3406,13 @@
                             "value": "5. (For mobile ecosystems and telecommunications companies) Does the company clearly disclose what, if any, modifications it has made to a mobile operating system?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -3422,13 +3422,13 @@
                             "value": "6. (For mobile ecosystems and telecommunications companies) Does the company clearly disclose what, if any, effect such modifications have on the company’s ability to send security updates to users?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -3438,13 +3438,13 @@
                             "value": "7. (For mobile ecosystems) Does the company clearly disclose the date through which it will continue to provide security updates for the device/OS?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -3454,13 +3454,13 @@
                             "value": "8. (For mobile ecosystems) Does the company commit to provide security updates for the operating system and other critical software for a minimum of five years after release?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -3470,13 +3470,13 @@
                             "value": "9. (For mobile ecosystems and telecommunications companies) If the company uses an operating system adapted from an existing system, does the company commit to provide security patches within one month of a vulnerability being announced to the public?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 }
@@ -3498,13 +3498,13 @@
             ],
             "average": [
                 {
-                    "value": "67"
+                    "value": "66.6666666667"
                 },
                 {
-                    "value": "67"
+                    "value": "66.6666666667"
                 },
                 {
-                    "value": "67"
+                    "value": "66.6666666667"
                 }
             ],
             "rows": [
@@ -3562,13 +3562,13 @@
                             "value": "4. (For mobile ecosystems) Does the company clearly disclose that software updates, security patches, add-ons, or extensions are downloaded over an encrypted channel?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -3578,13 +3578,13 @@
                             "value": "5. (For mobile ecosystems and telecommunications companies) Does the company clearly disclose what, if any, modifications it has made to a mobile operating system?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -3594,13 +3594,13 @@
                             "value": "6. (For mobile ecosystems and telecommunications companies) Does the company clearly disclose what, if any, effect such modifications have on the company’s ability to send security updates to users?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -3610,13 +3610,13 @@
                             "value": "7. (For mobile ecosystems) Does the company clearly disclose the date through which it will continue to provide security updates for the device/OS?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -3626,13 +3626,13 @@
                             "value": "8. (For mobile ecosystems) Does the company commit to provide security updates for the operating system and other critical software for a minimum of five years after release?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 },
@@ -3642,13 +3642,13 @@
                             "value": "9. (For mobile ecosystems and telecommunications companies) If the company uses an operating system adapted from an existing system, does the company commit to provide security patches within one month of a vulnerability being announced to the public?"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         },
                         {
-                            "value": "N/A"
+                            "value": "exclude"
                         }
                     ]
                 }
