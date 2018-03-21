@@ -88,19 +88,18 @@ module.exports = function generateIndicator (indicatorName) {
             template_bar_chart({indicator_type:$indicator_type, display_i:$display_i, display_t:$display_t})
         );
 
-        setTimeout( function() { 
-            
-            if($indicator_type == 'g')
-            {
-                var barchart = new Barchart({
-                    width: $('#bar--container').width(),
-                    height: 340,
-                    data: $data,
-                });
-                barchart.render('#bar--container');
-            }
-            else 
-            {   
+        if($indicator_type == 'g')
+        {
+            var barchart = new Barchart({
+                width: $('#bar--container').width(),
+                height: 340,
+                data: $data,
+            });
+            barchart.render('#bar--container');
+        }
+        else 
+        {   
+            setTimeout( function(){ 
                 if(!$display_i){
                     var barchart = new Barchart({
                         width: $('#bar--container--internet').width(),
@@ -117,10 +116,11 @@ module.exports = function generateIndicator (indicatorName) {
                         data: $telco,
                     });
                     barchart.render('#bar--container--telco');
-                }         
-            }
+                } 
+            }, 1000);
+
             
-        }, 100);
+        }
     };
 
     var successOverview = function(){
