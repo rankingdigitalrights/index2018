@@ -435,3 +435,50 @@ $maincolor:  #231f20;
 
   }
 }
+
+
+.commitment { 
+  .indicator-content {
+    .bar--default {
+      fill: $cat-commitment !important;
+    }
+    .bar--zero {
+      fill: #9B2523 !important;
+    }
+    .chapter-title {
+      h1 {
+        color: $cat-commitment !important;
+      }
+    }
+  }
+}
+.freedom-of-expression { 
+  .indicator-content {
+    .bar--default {
+      fill: $cat-freedom !important;
+    }
+    .bar--zero {
+      fill: #9B2523 !important;
+    }
+    .chapter-title {
+      h1 {
+        color: $cat-freedom !important;
+      }
+    }
+  }
+}
+.privacy { 
+  .indicator-content {
+    .bar--default {
+      fill: $cat-privacy !important;
+    }
+    .bar--zero {
+      fill: #9B2523 !important;
+    }
+    .chapter-title {
+      h1 {
+        color: $cat-privacy !important;
+      }
+    }
+  }
+}

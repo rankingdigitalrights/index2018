@@ -17,7 +17,7 @@ module.exports = Backbone.View.extend({
       total: this.model.t + '%',
       text: this.model.text,
       rank: this.model.rank,
-      difference: this.model.difference,
+      difference: Math.round(this.model.difference)
     }));
 
     return this.$el;
