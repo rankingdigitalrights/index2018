@@ -2,6 +2,7 @@ var Backbone = require('backbone');
 var Datamap = require('datamaps');
 var d3 = require('d3');
 var d3GeoProjection = require("d3-geo-projection")(d3);
+var baseurl = require('../util/base-url');
 
 
 module.exports = Backbone.View.extend({
@@ -110,7 +111,7 @@ module.exports = Backbone.View.extend({
                 }
         });
 
-        $.getJSON("bubbles.json", function(points) {
+        $.getJSON(baseurl + "/assets/static/companies.json", function(points) {
           map.bubbles(points, {
             borderWidth: 0,
             popupOnHover: false,
