@@ -1,7 +1,7 @@
 [
     {
         "Company": "Google",
-        "Description": "Gmail is an email service developed for limited release in 2004 and fully launched in 2009 by Google.",
+        "Description": "Description Text",
         "Difference": "-2",
         "FoE": "51",
         "G": "72",
@@ -12,7 +12,7 @@
     },
     {
         "Company": "Microsoft",
-        "Description": "Outlook.com is an email service connected to a web-based suite of contacts, tasks, and calendaring services. It was founded in 1996 as Hotmail, re-launched as MSN Hotmail after Microsoft acquired it in 1997, later rebranded to Windows Live Hotmail, then re-launched as Outlook.com in 2013.",
+        "Description": "Description Text",
         "Difference": "-2",
         "FoE": "54",
         "G": "88",
@@ -22,8 +22,8 @@
         "rank": "2"
     },
     {
-        "Company": "Yahoo",
-        "Description": "Yahoo Mail is a web-based email service operated by Oath.",
+        "Company": "Oath",
+        "Description": "Description Text",
         "Difference": "1",
         "FoE": "36",
         "G": "88",
@@ -34,7 +34,7 @@
     },
     {
         "Company": "Kakao",
-        "Description": "Daum Mail is the main email service of Kakao, a South Korean internet company established in 2014 following the merger of Daum Communications and Kakao.",
+        "Description": "Description Text",
         "Difference": "-2",
         "FoE": "69",
         "G": "35",
@@ -45,7 +45,7 @@
     },
     {
         "Company": "Yandex",
-        "Description": "Yandex.Mail is an email service offered by the Russian company Yandex N.V.",
+        "Description": "Description Text",
         "Difference": "-1",
         "FoE": "22",
         "G": "6",
@@ -56,7 +56,7 @@
     },
     {
         "Company": "Mail.ru",
-        "Description": "Mail.Ru is an email service started in 1998 by the Russian internet company Mail.Ru Group Limited.",
+        "Description": "Description Text",
         "Difference": "0",
         "FoE": "38",
         "G": "7",

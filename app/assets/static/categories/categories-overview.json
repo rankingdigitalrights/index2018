@@ -90,7 +90,7 @@
     {
         "id": "yahoo",
         "name": "yahoo",
-        "display": "Yahoo",
+        "display": "Oath",
         "telco": "false",
         "total": {
             "val": "53.12",
