@@ -23,7 +23,7 @@
             "TenCent": "25",
             "Twitter": "100",
             "Vodafone": "100",
-            "Yahoo": "100",
+            "Oath": "100",
             "Yandex": "0"
         }
     },
@@ -51,7 +51,7 @@
             "TenCent": "0",
             "Twitter": "66.67",
             "Vodafone": "100",
-            "Yahoo": "33.33",
+            "Oath": "33.33",
             "Yandex": "0"
         }
     },
@@ -79,7 +79,7 @@
             "TenCent": "0",
             "Twitter": "12.5",
             "Vodafone": "100",
-            "Yahoo": "100",
+            "Oath": "100",
             "Yandex": "12.5"
         }
     },
@@ -107,7 +107,7 @@
             "TenCent": "0",
             "Twitter": "5.56",
             "Vodafone": "47.22",
-            "Yahoo": "100",
+            "Oath": "100",
             "Yandex": "5.56"
         }
     },
@@ -135,7 +135,7 @@
             "TenCent": "0",
             "Twitter": "50",
             "Vodafone": "100",
-            "Yahoo": "100",
+            "Oath": "100",
             "Yandex": "0"
         }
     },
@@ -163,7 +163,7 @@
             "TenCent": "16.67",
             "Twitter": "32.5",
             "Vodafone": "60",
-            "Yahoo": "33.33",
+            "Oath": "33.33",
             "Yandex": "23.33"
         }
     },
@@ -191,7 +191,7 @@
             "TenCent": "72.22",
             "Twitter": "83.33",
             "Vodafone": "83.33",
-            "Yahoo": "83.33",
+            "Oath": "83.33",
             "Yandex": "72.22"
         }
     },
@@ -219,7 +219,7 @@
             "TenCent": "0",
             "Twitter": "31.25",
             "Vodafone": "34.38",
-            "Yahoo": "41.67",
+            "Oath": "41.67",
             "Yandex": "25"
         }
     },
@@ -247,7 +247,7 @@
             "TenCent": "59.05",
             "Twitter": "64.29",
             "Vodafone": "51.43",
-            "Yahoo": "61.43",
+            "Oath": "61.43",
             "Yandex": "41.67"
         }
     },
@@ -275,7 +275,7 @@
             "TenCent": "0",
             "Twitter": "41.67",
             "Vodafone": "0",
-            "Yahoo": "0",
+            "Oath": "0",
             "Yandex": "0"
         }
     },
@@ -303,7 +303,7 @@
             "TenCent": "2.78",
             "Twitter": "56.25",
             "Vodafone": "70.83",
-            "Yahoo": "45.83",
+            "Oath": "45.83",
             "Yandex": "23.61"
         }
     },
@@ -331,7 +331,7 @@
             "TenCent": "0",
             "Twitter": "52.5",
             "Vodafone": "0",
-            "Yahoo": "31.67",
+            "Oath": "31.67",
             "Yandex": "0"
         }
     },
@@ -359,7 +359,7 @@
             "TenCent": "0",
             "Twitter": "66.67",
             "Vodafone": "0",
-            "Yahoo": "24.07",
+            "Oath": "24.07",
             "Yandex": "7.41"
         }
     },
@@ -387,7 +387,7 @@
             "TenCent": "0",
             "Twitter": "56.25",
             "Vodafone": "8.33",
-            "Yahoo": "20.83",
+            "Oath": "20.83",
             "Yandex": "4.17"
         }
     },
@@ -415,7 +415,7 @@
             "TenCent": "N/A",
             "Twitter": "N/A",
             "Vodafone": "100",
-            "Yahoo": "N/A",
+            "Oath": "N/A",
             "Yandex": "N/A"
         }
     },
@@ -443,7 +443,7 @@
             "TenCent": "N/A",
             "Twitter": "N/A",
             "Vodafone": "50",
-            "Yahoo": "N/A",
+            "Oath": "N/A",
             "Yandex": "N/A"
         }
     },
@@ -471,7 +471,7 @@
             "TenCent": "0",
             "Twitter": "100",
             "Vodafone": "50",
-            "Yahoo": "33.33",
+            "Oath": "33.33",
             "Yandex": "0"
         }
     },
@@ -499,7 +499,7 @@
             "TenCent": "88.89",
             "Twitter": "83.33",
             "Vodafone": "100",
-            "Yahoo": "88.89",
+            "Oath": "88.89",
             "Yandex": "83.33"
         }
     },
@@ -527,7 +527,7 @@
             "TenCent": "33.33",
             "Twitter": "43.75",
             "Vodafone": "0",
-            "Yahoo": "50",
+            "Oath": "50",
             "Yandex": "25"
         }
     },
@@ -555,7 +555,7 @@
             "TenCent": "66.67",
             "Twitter": "66.67",
             "Vodafone": "33.33",
-            "Yahoo": "66.67",
+            "Oath": "66.67",
             "Yandex": "66.67"
         }
     },
@@ -583,7 +583,7 @@
             "TenCent": "50",
             "Twitter": "62.5",
             "Vodafone": "50",
-            "Yahoo": "62.5",
+            "Oath": "62.5",
             "Yandex": "50"
         }
     },
@@ -611,7 +611,7 @@
             "TenCent": "54.17",
             "Twitter": "62.5",
             "Vodafone": "25",
-            "Yahoo": "45.83",
+            "Oath": "45.83",
             "Yandex": "25"
         }
     },
@@ -639,7 +639,7 @@
             "TenCent": "0",
             "Twitter": "60",
             "Vodafone": "0",
-            "Yahoo": "36.67",
+            "Oath": "36.67",
             "Yandex": "0"
         }
     },
@@ -667,7 +667,7 @@
             "TenCent": "33.33",
             "Twitter": "50",
             "Vodafone": "25",
-            "Yahoo": "29.17",
+            "Oath": "29.17",
             "Yandex": "37.5"
         }
     },
@@ -695,7 +695,7 @@
             "TenCent": "25",
             "Twitter": "37.5",
             "Vodafone": "50",
-            "Yahoo": "62.5",
+            "Oath": "62.5",
             "Yandex": "0"
         }
     },
@@ -723,7 +723,7 @@
             "TenCent": "0",
             "Twitter": "50",
             "Vodafone": "N/A",
-            "Yahoo": "36.67",
+            "Oath": "36.67",
             "Yandex": "0"
         }
     },
@@ -751,7 +751,7 @@
             "TenCent": "0",
             "Twitter": "50",
             "Vodafone": "54.17",
-            "Yahoo": "58.33",
+            "Oath": "58.33",
             "Yandex": "8.33"
         }
     },
@@ -779,7 +779,7 @@
             "TenCent": "0",
             "Twitter": "77.27",
             "Vodafone": "40.91",
-            "Yahoo": "50",
+            "Oath": "50",
             "Yandex": "0"
         }
     },
@@ -807,7 +807,7 @@
             "TenCent": "0",
             "Twitter": "66.67",
             "Vodafone": "0",
-            "Yahoo": "66.67",
+            "Oath": "66.67",
             "Yandex": "0"
         }
     },
@@ -835,7 +835,7 @@
             "TenCent": "5.56",
             "Twitter": "50",
             "Vodafone": "66.67",
-            "Yahoo": "11.11",
+            "Oath": "11.11",
             "Yandex": "16.67"
         }
     },
@@ -863,7 +863,7 @@
             "TenCent": "66.67",
             "Twitter": "50",
             "Vodafone": "0",
-            "Yahoo": "55.56",
+            "Oath": "55.56",
             "Yandex": "66.67"
         }
     },
@@ -891,7 +891,7 @@
             "TenCent": "0",
             "Twitter": "0",
             "Vodafone": "16.67",
-            "Yahoo": "0",
+            "Oath": "0",
             "Yandex": "0"
         }
     },
@@ -919,7 +919,7 @@
             "TenCent": "8.33",
             "Twitter": "25",
             "Vodafone": "N/A",
-            "Yahoo": "29.17",
+            "Oath": "29.17",
             "Yandex": "66.67"
         }
     },
@@ -947,7 +947,7 @@
             "TenCent": "44.44",
             "Twitter": "50",
             "Vodafone": "N/A",
-            "Yahoo": "94.44",
+            "Oath": "94.44",
             "Yandex": "66.67"
         }
     },
@@ -975,7 +975,7 @@
             "TenCent": "100",
             "Twitter": "50",
             "Vodafone": "100",
-            "Yahoo": "100",
+            "Oath": "100",
             "Yandex": "100"
         }
     }
