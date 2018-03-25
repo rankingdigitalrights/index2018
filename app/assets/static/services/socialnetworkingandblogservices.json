@@ -1,7 +1,7 @@
 [
     {
         "Company": "Twitter",
-        "Description": "Description Text",
+        "Description": "Twitter is an online news and social networking service where users post and interact with 'tweets', restricted to 280 characters.",
         "Difference": "-1",
         "FoE": "71",
         "G": "46",
@@ -12,7 +12,7 @@
     },
     {
         "Company": "Oath",
-        "Description": "Description Text",
+        "Description": "Tumblr is a microblogging and social networking service, now part of Oath. The service allows users to post multimedia and other content to a short-form blog.",
         "Difference": "-1",
         "FoE": "62",
         "G": "89",
@@ -23,7 +23,7 @@
     },
     {
         "Company": "Facebook",
-        "Description": "Description Text",
+        "Description": "Facebook is the social networking service operated by Facebook Inc.",
         "Difference": "3",
         "FoE": "46",
         "G": "80",
@@ -34,7 +34,7 @@
     },
     {
         "Company": "Mail.ru",
-        "Description": "Description",
+        "Description": "VKontakte is an online social media and social networking service, owned by the Russian internet company Mail.Ru.",
         "Difference": "-2",
         "FoE": "16",
         "G": "7",
@@ -45,7 +45,7 @@
     },
     {
         "Company": "Tencent",
-        "Description": "Description Text",
+        "Description": "Qzone is a social networking service developed by Tencent Holding Limited in 2005. It allows users to write blogs, keep diaries, send photos, listen to music, and watch videos",
         "Difference": "-2",
         "FoE": "12",
         "G": "7",
@@ -56,7 +56,7 @@
     },
     {
         "Company": "Baidu",
-        "Description": "Description Text",
+        "Description": "Baidu PostBar is a communication platform tied to search results operated by the Chinese company Baidu.",
         "Difference": "4",
         "FoE": "13",
         "G": "7",
