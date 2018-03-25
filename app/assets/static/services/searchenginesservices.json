@@ -1,7 +1,7 @@
 [
     {
         "Company": "Google",
-        "Description": "Description Text",
+        "Description": "Google Search is a web search engine originally developed in 1997 and the flagship service operated by Google.",
         "Difference": "0",
         "FoE": "69",
         "G": "74",
@@ -12,7 +12,7 @@
     },
     {
         "Company": "Microsoft",
-        "Description": "Description Text",
+        "Description": "Bing is a web search engine operated by Microsoft, and launched in 2009. The service evolved from Microsoft's previous search engines: MSN Search, Windows Live Search, and Live Search.",
         "Difference": "-1",
         "FoE": "66",
         "G": "88",
@@ -23,7 +23,7 @@
     },
     {
         "Company": "Kakao",
-        "Description": "Description Text",
+        "Description": "Daum Search is a search engine operated by Kakao, a South Korean internet company.",
         "Difference": "-1",
         "FoE": "50",
         "G": "35",
@@ -34,7 +34,7 @@
     },
     {
         "Company": "Yandex",
-        "Description": "Description Text",
+        "Description": "Yandex Search is a web search engine and the flagship service of the Russian internet company  Yandex.",
         "Difference": "-1",
         "FoE": "21",
         "G": "8",
@@ -45,7 +45,7 @@
     },
     {
         "Company": "Baidu",
-        "Description": "Description Text",
+        "Description": "Baidu Search is a search engine and flagship service operated by the Chinese web services company Baidu, Inc., which was incorporated in 2000.",
         "Difference": "3",
         "FoE": "8",
         "G": "4",
