@@ -3,11 +3,11 @@ layout: narrative
 header: Narrative  
 ---
 
-# 1. Index Metodology
+# 1. 2018 Index Methodology
 
 The 2017 Index measures if and how companies disclose their commitments, policies, and practices that affect users’ freedom of expression and privacy across 35 indicators in three main categories: [Governance](http://google.com), [Freedom of Expression](), and [Privacy](). Each category contains indicators measuring company disclosure for that category; each indicator is comprised of a series of elements that measure company disclosure for that indicator.
 
-## 1.1. Index Categories ## {#index-categories}
+## 1.1. Index categories ## {#index-categories}
 
 - **Governance (G)**: This category contains six indicators measuring company disclosure of commitments to freedom of expression and privacy principles along with measures taken to implement those commitments across the ompany’s global operations. 
 
@@ -15,7 +15,7 @@ The 2017 Index measures if and how companies disclose their commitments, policie
 
 - **Privacy (P)**: This category contains 18 indicators measuring company disclosure of policies and practices that affect users’ privacy rights.
 
-## 1.2. Company Types ## {#company-type}
+## 1.2. Company types ## {#company-type}
 
 While every company we examined has attributes that make it unique, for the purpose of research and scoring, we divided the 22 companies into two groups.
 
@@ -41,7 +41,7 @@ While every company we examined has attributes that make it unique, for the purp
 
 - Tencent (China) — QZone, QQ, WeChat
 
-## 1.3. What the Index measures ## {#index-measures}
+## 1.3. What the index measures ## {#index-measures}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
