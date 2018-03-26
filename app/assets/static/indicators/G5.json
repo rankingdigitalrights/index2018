@@ -1494,13 +1494,13 @@
         },
         {
             "id": "yahoo",
-            "name": "Oath (Yahoo)",
+            "name": "Oath",
             "headers": [
                 {
-                    "text": "Group - Oath (Yahoo) - Freedom of Expression "
+                    "text": "Group - Oath - Freedom of Expression "
                 },
                 {
-                    "text": "Group - Oath (Yahoo) - Privacy"
+                    "text": "Group - Oath - Privacy"
                 }
             ],
             "average": [

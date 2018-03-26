@@ -1,7 +1,7 @@
 [
     {
         "Company": "Google",
-        "Description": "Gmail is an email service developed for limited release in 2004 and fully launched in 2009 by Google.",
+        "Description": "Gmail is an email service developed for limited release in 2004 and fully launched in 2009 by Google. ",
         "Difference": "-2",
         "FoE": "51",
         "G": "72",
@@ -22,7 +22,7 @@
         "rank": "2"
     },
     {
-        "Company": "Yahoo",
+        "Company": "Oath",
         "Description": "Yahoo Mail is a web-based email service operated by Oath.",
         "Difference": "1",
         "FoE": "36",
@@ -45,7 +45,7 @@
     },
     {
         "Company": "Yandex",
-        "Description": "Yandex.Mail is an email service offered by the Russian company Yandex N.V.",
+        "Description": "Yandex.Mail is an email service offered by the Russian company Yandex N.V. ",
         "Difference": "-1",
         "FoE": "22",
         "G": "6",

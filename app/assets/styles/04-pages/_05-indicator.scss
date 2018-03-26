@@ -12,6 +12,7 @@ $maincolor:  #231f20;
     margin: 0 5%;
   }
 
+
   ul,ol{
     margin: 0 0 0 20px;
     padding: 0;
@@ -249,10 +250,31 @@ $maincolor:  #231f20;
       display: flex;
       justify-content: space-between;
       h1{
-        color: $base-color;
+        //color: $base-color;
         margin-bottom: 20px;
         font-size: 2.8em;
         text-transform: none;
+      }
+      .chapter-title{
+
+      }
+      .governance {
+        color: $cat-commitment !important;
+        h1{
+          color: $cat-commitment !important;
+        }
+      }
+      .freedom {
+        color: $cat-freedom !important;
+        h1{
+          color: $cat-freedom !important;
+        }
+      }
+      .privacy {
+        color: $cat-privacy !important;
+        h1{
+          color: $cat-freedom !important;
+        }
       }
       a{
         padding-top: 14px;
@@ -411,5 +433,52 @@ $maincolor:  #231f20;
       }
     }
 
+  }
+}
+
+
+.commitment { 
+  .indicator-content {
+    .bar--default {
+      fill: $cat-commitment !important;
+    }
+    .bar--zero {
+      fill: #9B2523 !important;
+    }
+    .chapter-title {
+      h1 {
+        color: $cat-commitment !important;
+      }
+    }
+  }
+}
+.freedom-of-expression { 
+  .indicator-content {
+    .bar--default {
+      fill: $cat-freedom !important;
+    }
+    .bar--zero {
+      fill: #9B2523 !important;
+    }
+    .chapter-title {
+      h1 {
+        color: $cat-freedom !important;
+      }
+    }
+  }
+}
+.privacy { 
+  .indicator-content {
+    .bar--default {
+      fill: $cat-privacy !important;
+    }
+    .bar--zero {
+      fill: #9B2523 !important;
+    }
+    .chapter-title {
+      h1 {
+        color: $cat-privacy !important;
+      }
+    }
   }
 }

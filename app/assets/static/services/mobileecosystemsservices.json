@@ -6,7 +6,7 @@
         "FoE": "47",
         "G": "71",
         "P": "58",
-        "Service": "Google Android",
+        "Service": "Android mobile ecosystem",
         "Total": "57",
         "rank": "1"
     },
@@ -17,18 +17,18 @@
         "FoE": "27",
         "G": "34",
         "P": "53",
-        "Service": "iOS",
+        "Service": "iOS mobile ecosystem",
         "Total": "42",
         "rank": "2"
     },
     {
         "Company": "Samsung",
-        "Description": "The Samsung implementation of Android encompasses aspects that are unique to using Android OS devices sold by Samsung, a South Korean conglomerate. Android is a mobile operating system developed by Google, based on the Linux kernel and designed primarily for touchscreen mobile devices such as smartphones and tablets.",
+        "Description": "The Samsung implementation of Android encompasses aspects that are unique to using Android OS devices sold by Samsung, a South Korean conglomerate. Android is a mobile operating system developed by Google, based on the Linux kernel and designed primarily for touchscreen mobile devices such as smartphones and tablets. ",
         "Difference": "2",
         "FoE": "22",
         "G": "32",
         "P": "29",
-        "Service": "Samsung Android",
+        "Service": "Samsung implementation of Android",
         "Total": "28",
         "rank": "3"
     }

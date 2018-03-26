@@ -99,23 +99,27 @@ module.exports = function generateIndicator (indicatorName) {
         }
         else 
         {   
-            if(!$display_i){
-                var barchart = new Barchart({
-                    width: $('#bar--container--internet').width(),
-                    height: 340,
-                    data: $internet,
-                });
-                barchart.render('#bar--container--internet');
-            }
+            setTimeout( function(){ 
+                if(!$display_i){
+                    var barchart = new Barchart({
+                        width: $('#bar--container--internet').width(),
+                        height: 340,
+                        data: $internet,
+                    });
+                    barchart.render('#bar--container--internet');
+                }
 
-            if(!$display_t){
-                var barchart = new Barchart({
-                    width: $('#bar--container--telco').width(),
-                    height: 340,
-                    data: $telco,
-                });
-                barchart.render('#bar--container--telco');
-            } 
+                if(!$display_t){
+                    var barchart = new Barchart({
+                        width: $('#bar--container--telco').width(),
+                        height: 340,
+                        data: $telco,
+                    });
+                    barchart.render('#bar--container--telco');
+                } 
+            }, 1000);
+
+            
         }
     };
 

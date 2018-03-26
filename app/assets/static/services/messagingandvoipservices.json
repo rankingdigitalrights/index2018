@@ -1,7 +1,7 @@
 [
     {
         "Company": "Microsoft",
-        "Description": "Skype is an application that provides video chat and voice call services, acquired by Microsoft in 2011. ",
+        "Description": "Skype is an application that provides video chat and voice call services, acquired by Microsoft in 2011.",
         "Difference": "-2",
         "FoE": "38",
         "G": "88",
@@ -12,7 +12,7 @@
     },
     {
         "Company": "Facebook",
-        "Description": "Facebook Messenger is a free instant messaging service and software application which provides text and voice communication via mobile device and on the main Facebook website. ",
+        "Description": "Facebook Messenger is a free instant messaging service and software application which provides text and voice communication via mobile device and on the main Facebook website.",
         "Difference": "0",
         "FoE": "43",
         "G": "81",
@@ -56,7 +56,7 @@
     },
     {
         "Company": "Tencent",
-        "Description": "WeChat is a free, cross-platform instant messaging application developed by Tencent and released in January 2011. ",
+        "Description": "DWeChat is a free, cross-platform instant messaging application developed by Tencent and released in January 2011.",
         "Difference": "2",
         "FoE": "16",
         "G": "8",
@@ -67,7 +67,7 @@
     },
     {
         "Company": "Tencent",
-        "Description": "Tencent QQ, popularly known as QQ, is an instant messaging service developed by Tencent Holdings Limited. It also offers a variety of services, including online social games, music, shopping, microblogging, movies, and group and voice chat. ",
+        "Description": "Tencent QQ, popularly known as QQ, is an instant messaging service developed by Tencent Holdings Limited. It also offers a variety of services, including online social games, music, shopping, microblogging, movies, and group and voice chat.",
         "Difference": "1",
         "FoE": "15",
         "G": "6",
@@ -83,7 +83,7 @@
         "FoE": "25",
         "G": "7",
         "P": "20",
-        "Service": "Mail.ru Agent",
+        "Service": "Mail.ru Agent messaging",
         "Total": "19",
         "rank": "8"
     }

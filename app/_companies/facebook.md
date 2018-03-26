@@ -5,7 +5,7 @@ layout: company
 name: facebook
 id: faceboo
 
-company_type: Internet and mobile companies
+company_type: Internet and Mobile Ecosystems Companies
 display: Facebook, Inc.
 headquarters: USA
 link: https://facebook.com/

@@ -5,7 +5,7 @@ layout: company
 name: mailru
 id: mailru
 
-company_type: Internet and mobile companies
+company_type: Internet and Mobile Ecosystems Companies
 display: Mail.Ru Group Limited
 headquarters: Russia
 link: http://corp.mail.ru
@@ -50,36 +50,12 @@ analysis_stock_symbol: "LSE: MAIL"
 governance_text: "Mail.Ru scored poorly in the Governance category, tying with Yandex and Tencent for the second-lowest score among internet and mobile ecosystem companies. The company received some credit on just two of the six indicators in this category. It disclosed a whistleblower program, but not specifically for reporting freedom of expression and privacy concerns (G3), and disclosed a grievance mechanism for complaints related to freedom of expression, but not for privacy issues (G6)."
 
 summary_of_changes_governance:
-  - item:
-    change: positive
-    title: F1. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
-  - item:
-    change: negative
-    title: F4. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
 
 freedom_text: "Mail.Ru disclosed little about policies affecting users’ freedom of expression, tying with Samsung for the fourth-lowest score of internet and mobile ecosystem companies, ahead of Yandex, Tencent, and Baidu.<br /><br /><strong>Content and account restrictions:</strong> Mail.Ru disclosed more than Yandex but less than other internet and mobile ecosystem companies about what the rules are and how they are enforced (F3). Like most companies in the Index, Mail.Ru disclosed no data about the volume and nature of content or accounts it restricts for terms of service violations (F4). Unlike Yandex, Mail.Ru did not disclose if it notifies users when it restricts content or their accounts (F8).<br /><br /><strong>Content and account restriction requests:</strong>Mail.Ru disclosed almost nothing about its process for handling government and private requests to block content or user accounts (F5-F7). The company provided only minimal information about its processes for responding to these types of requests (F5), and offered no data about the number of requests from governments or private parties it receives or complies with (F6, F7), although there are no laws prohibiting Mail.Ru from doing so.<br /><br /><strong>Identity policy:</strong> Mail.Ru’s VKontakte, the social networking service, disclosed a requirement for users to provide a mobile phone number and to verify a user’s real identity in case a user needs tech support. <a href=\"http://www.consultant.ru/document/cons_doc_LAW_43224/f7a7810cf56882f4ac05d0b11af4fc4a2d3c9d23/\" target=\"_blank\">Internet service providers, telecommunications companies</a>, and <a href=\"http://www.consultant.ru/document/cons_doc_LAW_43224/f7a7810cf56882f4ac05d0b11af4fc4a2d3c9d23/\" target=\"_blank\">instant messaging services</a> in Russia are legally required to verify the identities of their users, but it is unclear if the regulations apply to social network platforms like VKontakte."
 
 summary_of_changes_freedom:
-  - item:
-    change: positive
-    title: F1. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
-  - item:
-    change: negative
-    title: F4. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
-
-privacy_text: "Mail.Ru received the second-lowest privacy score of the 12 internet and mobile ecosystem companies, scoring better than only Baidu. <br /><br /><strong>Handling of user information:</strong>Mail.Ru disclosed less than all other internet and mobile ecosystem companies, including Yandex, about its handling of user information (P3-P9). While the company disclosed some information about what types of user data it collects (P3), shares (P4), and for what purpose (P5), it revealed little about for how long user information is retained (P6). Mail.Ru also lacked clarity about what options users have to control the company’s collection of their data, including options to control how their information is used for targeted advertising (P7), or whether the company tracks users across the internet with cookies or widgets (P9). <br /><br /><strong>Requests for user information:</strong> Mail.Ru was one of three internet and mobile ecosystem companies that failed to disclose any information about its processes for handling government and private requests for user information (P10, P11). Like many of its peers, the company also disclosed nothing about whether it notifies users when their data has been requested (P12). However, since <a href=\"http://www.theguardian.com/world/2015/sep/08/red-web-book-russia-internet/\" target=\"_blank\">Russian authorities may have direct access to communications data through SORM</a>, Russian companies may not be aware of when government authorities access user information.<br /><br /><strong>Security:</strong> Mail.Ru disclosed little about its security policies, but more than four other internet and mobile companies, including Twitter (P13-P18). Like most companies, it offered no information about its process for responding to data breaches (P15). It also disclosed little about its encryption policies, particularly in comparison to Yandex, the other Russian internet company evaluated (P16)."
+ 
+privacy_text: "Mail.Ru received the second-lowest privacy score of the 12 internet and mobile ecosystem companies, scoring better than only Baidu. <br /><br /><strong>Handling of user information:</strong>Mail.Ru disclosed less than all other internet and mobile ecosystem companies, including Yandex, about its handling of user information (P3-P9). While the company disclosed some information about what types of user data it collects (P3), shares (P4), and for what purpose (P5), it revealed little about for how long user information is retained (P6). Mail.Ru also lacked clarity about what options users have to control the company’s collection of their data, including options to control how their information is used for targeted advertising (P7), or whether the company tracks users across the internet with cookies or widgets (P9). <br /><br /><strong>Requests for user information:</strong> Mail.Ru was one of three internet and mobile ecosystem companies that failed to disclose any information about its processes for handling government and private requests for user information (P10, P11). Like many of its peers, the company also disclosed nothing about whether it notifies users when their data has been requested (P12). However, since <a href=\"http://www.theguardian.com/world/2015/sep/08/red-web-book-russia-internet/\" target=\"_blank\">Russian authorities may have direct access to communications data through SORM</a>, Russian companies may not be aware of when government authorities access user information.<br /><br /><strong>Security:</strong> Mail.Ru disclosed little about its security policies, but more than four other internet and mobile ecosystem companies, including Twitter (P13-P18). Like most companies, it offered no information about its process for responding to data breaches (P15). It also disclosed little about its encryption policies, particularly in comparison to Yandex, the other Russian internet company evaluated (P16)."
 
 summary_of_changes_privacy:
-  - item:
-    change: positive
-    title: F1. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
-  - item:
-    change: positive
-    title: F4. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
 ---

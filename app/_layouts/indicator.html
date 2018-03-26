@@ -5,7 +5,7 @@
 
   {% include head.html %}
 
-  <body id="page--indicator" class="non-highlihted-bg">
+  <body id="page--indicator" class="non-highlihted-bg {{ page.category_ref }}">
 
     <!--[if lt IE 10]>
       <div id="nocando">
@@ -27,7 +27,7 @@
           </div>
 
           <div class="indicator-content">
-            <div class="chapter-title privacy">
+            <div class="chapter-title">
               <h1>{{ page.name }}</h1>
               <a><i class="fa fa-link" aria-hidden="true"></i></a>
             </div>

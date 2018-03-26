@@ -201,10 +201,10 @@
     },
     {
         "commitment": "88.24074074",
-        "display": "Oath (Yahoo)",
+        "display": "Oath",
         "freedom": "48.3377425",
         "id": "yahoo",
-        "name": "oath (yahoo)",
+        "name": "Oath",
         "privacy": "54.42480359",
         "telco": "false",
         "total": "58.91304823"

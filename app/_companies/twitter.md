@@ -5,7 +5,7 @@ layout: company
 name: twitter
 id: twitter
 
-company_type: Internet and mobile companies
+company_type: Internet and Mobile Ecosystems Companies
 display: Twitter, Inc.
 headquarters: USA
 link: https://www.twitter.com

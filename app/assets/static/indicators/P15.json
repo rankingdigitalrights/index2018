@@ -79,13 +79,13 @@
             ],
             "average": [
                 {
-                    "value": "0"
+                    "value": "50"
                 },
                 {
-                    "value": "0"
+                    "value": "50"
                 },
                 {
-                    "value": "0"
+                    "value": "50"
                 }
             ],
             "rows": [
@@ -95,13 +95,13 @@
                             "value": "1. Does the company clearly disclose that it will notify the relevant authorities without undue delay when a data breach occurs?"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         }
                     ]
                 },
@@ -111,13 +111,13 @@
                             "value": "2. Does the company clearly disclose its process for notifying data subjects who might be affected by a data breach?"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         }
                     ]
                 },
@@ -127,13 +127,13 @@
                             "value": "3. Does the company clearly disclose what kinds of steps it will take to address the impact of a data breach on its users?"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         }
                     ]
                 }
@@ -155,13 +155,13 @@
             ],
             "average": [
                 {
-                    "value": "17"
+                    "value": "16.6666666667"
                 },
                 {
-                    "value": "17"
+                    "value": "16.6666666667"
                 },
                 {
-                    "value": "17"
+                    "value": "16.6666666667"
                 }
             ],
             "rows": [
@@ -1132,7 +1132,7 @@
             "name": "Samsung",
             "headers": [
                 {
-                    "text": "Samsung "
+                    "text": "Samsung"
                 }
             ],
             "average": [
@@ -1402,13 +1402,13 @@
             ],
             "average": [
                 {
-                    "value": "17"
+                    "value": "100"
                 },
                 {
-                    "value": "17"
+                    "value": "100"
                 },
                 {
-                    "value": "17"
+                    "value": "100"
                 }
             ],
             "rows": [
@@ -1418,13 +1418,13 @@
                             "value": "1. Does the company clearly disclose that it will notify the relevant authorities without undue delay when a data breach occurs?"
                         },
                         {
-                            "value": "0"
+                            "value": "100"
                         },
                         {
-                            "value": "0"
+                            "value": "100"
                         },
                         {
-                            "value": "0"
+                            "value": "100"
                         }
                     ]
                 },
@@ -1434,13 +1434,13 @@
                             "value": "2. Does the company clearly disclose its process for notifying data subjects who might be affected by a data breach?"
                         },
                         {
-                            "value": "0"
+                            "value": "100"
                         },
                         {
-                            "value": "0"
+                            "value": "100"
                         },
                         {
-                            "value": "0"
+                            "value": "100"
                         }
                     ]
                 },
@@ -1450,13 +1450,13 @@
                             "value": "3. Does the company clearly disclose what kinds of steps it will take to address the impact of a data breach on its users?"
                         },
                         {
-                            "value": "50"
+                            "value": "100"
                         },
                         {
-                            "value": "50"
+                            "value": "100"
                         },
                         {
-                            "value": "50"
+                            "value": "100"
                         }
                     ]
                 }
@@ -1464,7 +1464,7 @@
         },
         {
             "id": "yahoo",
-            "name": "Oath (Yahoo)",
+            "name": "Oath",
             "headers": [
                 {
                     "text": "Yahoo Mail"

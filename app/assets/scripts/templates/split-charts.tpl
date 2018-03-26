@@ -1,6 +1,6 @@
 <div id="category--overview_chart_left">
     <div class="graph-title">
-        <p><i class="fa fa-circle" aria-hidden="true"></i> Internet and mobile companies</p>
+        <p><i class="fa fa-circle" aria-hidden="true"></i> Internet and Mobile Ecosystems Companies</p>
     </div>
 </div>
 <div id="category--overview_chart_right">

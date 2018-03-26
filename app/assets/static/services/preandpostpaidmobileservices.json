@@ -12,7 +12,7 @@
     },
     {
         "Company": "AT&T",
-        "Description": "AT&T offers pre-paid and post-paid mobile services in the United States through its Wireless segment. AT&T, Inc. provides telecommunications services in the United States and internationally.",
+        "Description": "AT&T offers pre-paid and post-paid mobile services in the United States through its Wireless segment. AT&T, Inc. provides telecommunications services in the United States and internationally. ",
         "Difference": "-1",
         "FoE": "41",
         "G": "61",
@@ -23,7 +23,7 @@
     },
     {
         "Company": "Telefónica",
-        "Description": "Movistar is a fixed broadband service operated in Spain by Telefónica de España, a subsidiary company of Telefónica, a multinational telecommunications company that also operates in many Latin American countries.",
+        "Description": "Movistar is a fixed broadband service operated in Spain by Telefónica de España, a subsidiary company of Telefónica, a multinational telecommunications company that also operates in many Latin American countries. ",
         "Difference": "7",
         "FoE": "34",
         "G": "77",
@@ -39,7 +39,7 @@
         "FoE": "16",
         "G": "76",
         "P": "29",
-        "Service": "Orange France",
+        "Service": "orange france",
         "Total": "33",
         "rank": "4"
     },
@@ -72,7 +72,7 @@
         "FoE": "12",
         "G": "5",
         "P": "18",
-        "Service": "Celcom",
+        "Service": "Telcel",
         "Total": "14",
         "rank": "7"
     },
@@ -100,7 +100,7 @@
     },
     {
         "Company": "Ooredoo",
-        "Description": "Ooredoo Qatar offers pre-paid and post-paid mobile services in Qatar. It is a subsidiary of Ooredoo Q.S.C. (formerly Qtel), an international telecommunications company headquartered in Qatar with operations across the Middle East, North Africa, and Asia. ",
+        "Description": "Ooredoo Qatar offers pre-paid and post-paid mobile services in Qatar. It is a subsidiary of Ooredoo Q.S.C. (formerly Qtel), an international telecommunications company headquartered in Qatar with operations across the Middle East, North Africa, and Asia.",
         "Difference": "0",
         "FoE": "14",
         "G": "2",

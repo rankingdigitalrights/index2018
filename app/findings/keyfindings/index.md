@@ -21,15 +21,15 @@ Company disclosure is inadequate across the board. Similar to the 2015 results, 
 </ul>
 <p></p>
 <ul>
-<li><a href="https://rankingdigitalrights.org/index2017/companies/apple"><strong>Apple</strong></a> ranked seventh among the 12 internet and mobile companies evaluated. A major reason for this relatively low score was poor disclosure about the company's commitments and policies affecting users' freedom of expression. Next to its peers, Apple also disclosed little information about how it has institutionalized its commitments to users' rights through corporate governance, oversight, and accountability mechanisms. </li>
+<li><a href="https://rankingdigitalrights.org/index2017/companies/apple"><strong>Apple</strong></a> ranked seventh among the 12 Internet and Mobile Ecosystems Companies evaluated. A major reason for this relatively low score was poor disclosure about the company's commitments and policies affecting users' freedom of expression. Next to its peers, Apple also disclosed little information about how it has institutionalized its commitments to users' rights through corporate governance, oversight, and accountability mechanisms. </li>
 </ul>
 <p></p>
 <ul>
-<li><a href="https://rankingdigitalrights.org/index2017/companies/samsung"><strong>Samsung</strong></a>, the world's second largest smartphone manufacturer, headquartered in South Korea, ranked ninth among 12 internet and mobile companies. It placed just above two Chinese companies and a Russian company. </li>
+<li><a href="https://rankingdigitalrights.org/index2017/companies/samsung"><strong>Samsung</strong></a>, the world's second largest smartphone manufacturer, headquartered in South Korea, ranked ninth among 12 Internet and Mobile Ecosystems Companies. It placed just above two Chinese companies and a Russian company. </li>
 </ul>
 <p></p>
 <ul>
-<li><a href="https://rankingdigitalrights.org/index2017/companies/kakao"><strong>Kakao</strong></a>, a South Korean company that offers internet search, email, and mobile chat services, ranked fifth among the 12 internet and mobile companies and notably earned high scores on 10 of the 35 indicators across the Index.</li>
+<li><a href="https://rankingdigitalrights.org/index2017/companies/kakao"><strong>Kakao</strong></a>, a South Korean company that offers internet search, email, and mobile chat services, ranked fifth among the 12 Internet and Mobile Ecosystems Companies and notably earned high scores on 10 of the 35 indicators across the Index.</li>
 </ul>
 <p></p>
 <ul>
