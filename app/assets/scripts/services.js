@@ -28,7 +28,7 @@ module.exports = function generateService (serviceType) {
       compare.fetch({
         async: false,
         success: function(){
-          var retval = compare.findWhere({name:name});
+          var retval = compare.findWhere({id:name.toLowerCase()});
           total_difference = retval.attributes.total_difference;
         },
       });

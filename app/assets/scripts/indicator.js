@@ -70,6 +70,8 @@ module.exports = function generateIndicator (indicatorName) {
             }
         });
 
+        // console.info($internet.sort(barsort));
+
         var $exclude_i = ["f9", "f10"];
         var $exc_i = $.inArray(indicatorName, $exclude_i);
         var $display_i = true;
@@ -98,13 +100,13 @@ module.exports = function generateIndicator (indicatorName) {
             barchart.render('#bar--container');
         }
         else 
-        {   
+        {
             setTimeout( function(){ 
                 if(!$display_i){
                     var barchart = new Barchart({
                         width: $('#bar--container--internet').width(),
                         height: 340,
-                        data: $internet,
+                        data: $internet.sort(barsort),
                     });
                     barchart.render('#bar--container--internet');
                 }
@@ -113,7 +115,7 @@ module.exports = function generateIndicator (indicatorName) {
                     var barchart = new Barchart({
                         width: $('#bar--container--telco').width(),
                         height: 340,
-                        data: $telco,
+                        data: $telco.sort(barsort),
                     });
                     barchart.render('#bar--container--telco');
                 } 
