@@ -81,4 +81,5 @@ summary_of_changes_privacy:
     change: positive
     title: F4. data about terms of service enforcement
     body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+
 ---
