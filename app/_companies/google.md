@@ -9,17 +9,18 @@ company_type: Internet and Mobile Ecosystems Companies
 display: Google Inc.
 headquarters: USA
 link: https://google.com
+download: https://google.com
 
 telco: false
 
+rank: 1
+
 key_findings:
-  - Google was the top-ranked company of the 2017 Index, due to its strong disclosure of policies affecting freedom of expression and privacy relative to its peers.
-  - Google disclosed less evidence that it has implemented its commitments to freedom of expression and privacy at the corporate level than in 2015, and in comparison to several of its U.S. peers.
-  - While earning top marks for disclosure of privacy-related policies, Google could improve its disclosure of what user information it collects, shares, and retains.
+  - Google disclosed more about policies affecting freedom of expression and privacy than other internet and mobile ecosystem companies in the Index, although it still falls short in key areas.
+  - The company disclosed less than its Global Network Initiative (GNI) peers about company-wide implementation and oversight of its commitments to users’ rights, and lacked clear grievance and remedy mechanisms.
+  - Google improved disclosure of options users have to control their own information, and of how it tracks users across the internet. It disclosed options for users to opt out of targeted advertising, suggesting that targeted advertising is on by default.
 
-
-
-services_evaluated:
+  services_evaluated:
   - item:
     key: search engine
     key_href: search
@@ -37,21 +38,52 @@ services_evaluated:
     key_href: mobileeco
     name: android
 
-total: 65
-analysis_text_left: "Google ranked first in the 2017 Index. A founding member of the Global Network Initiative (GNI), Google outperformed all Internet and Mobile Ecosystems Companies and received the highest score overall. For the first time, this year’s evaluation included Google’s Android <a href=\"/findings/mobileecosystems\" target=\"_blank\">mobile ecosystem</a>, which outperformed Apple’s iOS and Samsung’s implementation of Android. But there is much room for improvement. <br /><br />While Google bested all other companies in the Freedom of Expression and Privacy categories, it fell noticeably short in the Governance category, especially next to other GNI member companies. In addition, Google could significantly improve public disclosures about policies affecting its Android mobile ecosystem. Poor disclosure on the Android mobile ecosystem, relative to the other Google services evaluated, pulled down the company’s overall score. In addition, while Google performed well across most privacy indicators, the company could improve its disclosure related to how it collects, shares, and retains user information."
+analysis_text: 'Google earned the highest score among internet and mobile ecosystem companies, disclosing more information about policies and practices affecting users’ freedom of expression and privacy than its peers. A member of the Global Network Initiative (GNI), Google made clear commitments to freedom of expression and privacy, despite gaps in implementation and oversight. The company improved disclosure of privacy-related policies by clarifying options users have to control what information the company collects about them, including whether the company tracks users across third-party websites. However, there is much room for improvement. Google could improve grievance and remedy options, in line with its GNI peers. It could disclose more comprehensive data about its terms of service enforcement. While Google disclosed more than any company in the Index about how it handles government requests for user information, <a href=\"https://www.congress.gov/bill/114th-congress/house-bill/2048\" target=\"_blank\">U.S. law prohibiting</a> companies from disclosing the exact number of government requests for stored and real-time user information prevented the company from being fully transparent about these types of requests.'
 
-analysis_text_right: "<strong>Google Inc.</strong> (a subsidiary of Alphabet Inc. since October 2015) is a global technology company that develops a range of products and services that facilitate discovery and management of information. Alongside its significant suite of consumer applications and devices, Google also provides advertising services, consumer hardware products, and systems software, like its open-source mobile operating system, Android."
+key_recommendation_paragraph: '<strong>Google Inc.</strong> (a subsidiary of Alphabet Inc.) is a global technology company with services that include the Google search engine; Gmail, an email service; and YouTube, a video-sharing platform. It also provides consumer hardware products, and systems software, like its open-source mobile operating system, Android.'
+
+key_recommendation_list:
+  - <strong>Do more to protect privacy.</strong> Google should can do more to protect privacy by clarifying what information it collects, shares, and for what purpose, and committing to not share users’ information for advertising unless they opt in.
+  - <strong>Be transparent about policing of content.</strong> The company should disclose comprehensive data on content and account removals due to violations of the company’s terms of service.
+  - <strong>Provide better avenues for redress.</strong> The company should improve mechanisms for how users can submit complaints when they believe the company has violated their rights.
 
 analysis_industry: Internet Software and Services
-analysis_market_cap: USD 569,884 million (Alphabet Inc.)
-analysis_stock_symbol: NasdaqGS GOOGL
+analysis_market_cap: USD 783.9 billion (Alphabet Inc.)
+analysis_stock_symbol: "NasdaqGS: GOOGL"
 
-governance: 71
-governance_text: "Google ranked sixth out of the 22 companies evaluated in the Governance category. While Google articulated a <a href=\"https://abc.xyz/\" target=\"_blank\">clear commitment to upholding users’ freedom of expression and privacy rights</a> (G1), it did not disclose evidence of board-level or even executive-level oversight over these issues within the company (G2). This marked a decline in clarity of disclosure about governance and accountability mechanisms across Google’s global operations since the company’s corporate restructuring under Alphabet. In addition, although Google committed to conduct human rights risk assessments when entering new markets, we found no evidence that it conducts assessments of risks associated with the processes and mechanisms used to enforce its terms of service (G4). It also had notably weak remedy and grievance mechanisms enabling users to submit complaints about infringements to their freedom of expression or privacy (G6)."
+governance_text: 'Google ranked fourth among internet and mobile ecosystem companies in the Governance category, disclosing less than all of its GNI peers. While it articulated a clear commitment to uphold users’ freedom of expression and privacy rights (G1), Google did not disclose evidence of board- or executive-level oversight over these issues (G2). The company committed to conduct human rights due diligence when entering new markets, but researchers were not able to locate evidence that it conducts assessments of risks associated with the processes and mechanisms used to enforce its terms of service (G4). There is also significant room for improvement in terms of the company’s grievance and remedy mechanisms when users believe their freedom of expression or privacy rights have been violated (G6).'
 
-freedom: 60
-freedom_text: "Google was the top-performing internet and mobile company in the Freedom of Expression category.<br /><br/><strong>Content and account restrictions:</strong> Google disclosed less than Twitter, Kakao, and Microsoft but more than the rest of its peers (F3, F4, F8). It provided detailed information about what types of content and activities are prohibited, including some information about its internal processes for identifying content and activities that violate the company’s terms of service (F3). Google was one of only three companies evaluated to disclose any information about content or accounts it restricts for terms of service violations (F4). In 2015, Google reported  <a href=\"https://youtube.googleblog.com/2016/09/why-flagging-matters.html\" target=\"_blank\">removing 92 million videos from YouTube</a> for terms of services violations, but there has been no follow-up disclosure since or evidence of similar disclosures for other Google services evaluated.<br /><br/><strong>Content and account restriction requests:</strong> Google disclosed more than any other company in the Index about how it handles government and private requests to restrict content and accounts (F5-F7). Its transparency report included detailed data about government requests to restrict content or accounts (F6). Notably, Google’s transparency report includes data on government requests to remove apps from Google Play. Google’s disclosure of private requests was significantly less detailed than that of Kakao, Twitter, Microsoft, and Yahoo (F7).<br /><br/><strong>Identity policy:</strong> Google lost points on F11, which evaluates whether companies require users to verify their identity in order to use its services. While for Gmail, YouTube, and Google Play, users are not required to confirm their identity, app developers are required to do so (by making a small commercial transaction)."
+summary_of_changes_governance:
+  - item:
+    change: positive
+    title: F1. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+  - item:
+    change: negative
+    title: F4. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
 
-privacy: 65
-privacy_text: "Google earned the highest score among Internet and Mobile Ecosystems Companies in the Privacy category.<br /><br/><strong>Handling of user information:</strong> Google performed poorly on a number of indicators related to disclosure of how it handles user information. The company provided some information about the user information it collects (P3), but was less transparent about what it shares and for how long it retains it (P4, P6). Laudably, Google disclosed more than any other company about options users have to obtain the information the company holds about them (P8).<br /><br/><strong>Requests for user information:</strong> Google disclosed less than Microsoft and on par with Twitter about how it handles government and private requests for user information (P10, P11). It demonstrated a clear commitment to complying with government and private requests for user information only when prescribed by law, as well as to challenging overbroad requests.<br /><br/><strong>Security:</strong> Google tied with Kakao and received full credit for disclosing internal security measures that limit access to user data (P13), and received the second-highest score for clear policies addressing security vulnerabilities, including having a bug bounty program (P14). Similar to most companies evaluated, Google disclosed nothing about how the company notifies users and other affected parties about data breaches and steps taken to mitigate damage (P15). But it earned the top score for clearly disclosing its encryption policies for each service, ahead of the second-best scoring companies on this indicator, Apple and Yandex (P16)."
+freedom_text: 'Google placed second in this category, disclosing more about policies affecting freedom of expression than all other internet and mobile ecosystem companies, apart from Twitter. <br /><br /><strong> Content and account restrictions:</strong> Google disclosed less than Twitter, Kakao, and Microsoft but more than the rest of its peers about its content moderation policies and practices (F3, F4, F8). It provided detailed information about what types of content and activities it prohibits, including some information about its processes for identifying content and activities that violate the company’s terms of service (F3). Google was one of four companies evaluated to disclose any data about content or accounts it restricted for terms of service violations, but this <a href=\"https://youtube.googleblog.com/2016/09/why-flagging-matters.html\" target=\"_blank\">data</a> is not comprehensive (F4). <br /><br /><strong>Content and account restriction requests:</strong> Google disclosed more than any other internet and mobile ecosystem companies about how it handles government and private requests to restrict content and accounts (F5-F7). Its transparency report included detailed data about government requests to restrict content or accounts (F6). However, Google’s disclosure of data about private requests was significantly less detailed than that of Kakao, Twitter, Microsoft, and Oath (F7).<br /><br /><strong>Identity policy:</strong> While for Gmail, YouTube, and Google Play, users are not required to confirm their identity, app developers are required to do so (by making a small commercial transaction).'
+
+summary_of_changes_freedom:
+  - item:
+    change: positive
+    title: F1. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+  - item:
+    change: negative
+    title: F4. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+
+privacy_text: 'Google earned the highest privacy score among internet and mobile ecosystem companies, though it did not lead on all indicators.  <br /><br /><strong>Handling of user information:</strong> Google disclosed more than most of its peers other than Twitter about how it handles user information, but fell short in key areas. The company provided some information about what user information it collects (P3) but was less transparent than most of its peers about what it shares (P4). It improved disclosure of options users have to control information the company collects about them, including for the purposes of targeted advertising, which suggested that targeted advertising is on by default (P7). The company also clarified options users have to control whether and how it tracks users across third-party websites (P9). <br /><br /><strong>Requests for user information:</strong> TGoogle disclosed as much as Microsoft about how it handles government and private requests for user information (P10, P11). It demonstrated a clear commitment to challenge overbroad government requests, and provided clear examples and guidance of how it handles these requests. The company disclosed it notifies users when government officials request their information, but it was not clear about whether it does so in the case of private requests for user information (P12). <br /><br /><strong>Security:</strong> Google disclosed more than any other internet and mobile ecosystem company about its security measures (P13-P18). It received full credit for disclosing that it has internal mechanisms in place to secure user information from unauthorized access (P13), and earned the highest score for disclosure of its encryption policies (P16). Like most companies, Google disclosed nothing about its notification and remedy policies in the event of a data breach (P15).'
+
+summary_of_changes_privacy:
+  - item:
+    change: positive
+    title: F1. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+  - item:
+    change: positive
+    title: F4. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
 ---
