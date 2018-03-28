@@ -5,7 +5,7 @@ header: Narrative
 
 # 2. Introduction
 
-The information and communication technology (ICT) sector faces a global crisis of confidence. As this report goes to press, Facebook is under fire for how user data was accessed and used by people whose goal was to manipulate democratic elections.[1](1) A major global travel website has had its systems broken into and customer data stolen. A growing number of governments are shutting down internet access to entire regions for days on end to stop transmission of speech they do not like. Blanket, pervasive surveillance in many countries makes it dangerous for activists and investigative journalists to work online.
+The information and communication technology (ICT) sector faces a global crisis of confidence. As this report goes to press, Facebook is under fire for how user data was accessed and used by people whose goal was to manipulate democratic elections.[[1]](#footnotes) A major global travel website has had its systems broken into and customer data stolen. A growing number of governments are shutting down internet access to entire regions for days on end to stop transmission of speech they do not like. Blanket, pervasive surveillance in many countries makes it dangerous for activists and investigative journalists to work online.
 
 The 2018 Edelman Trust Barometer, which surveys public trust in a range of institutions across the world, notes “a significant drop in trust in platforms, notably search engines and social media.” The internet has transformed billions of lives in so many positive ways in the span of a generation that internet access is now considered essential to economic opportunity, education, and political participation. Yet the Internet Society now warns that a decline of trust in networked technologies could deter some people from connecting at all, or cause them to engage with technologies much less than they would have otherwise.
 
@@ -29,4 +29,4 @@ The raw data can also be downloaded at: https://rankingdigitalrights.org/index20
 
 ### Footnotes
 
-[1]: Julia Carrie Wong, “Mark Zuckerberg Apologises for Facebook’s ‘mistakes’ over Cambridge Analytica,” the Guardian, March 22, 2018, https://www.theguardian.com/technology/2018/mar/21/mark-zuckerberg-response-facebook-cambridge-analytica.
+[1]: Julia Carrie Wong, "Mark Zuckerberg Apologises for Facebook's ‘mistakes’ over Cambridge Analytica,"" the Guardian, March 22, 2018, https://www.theguardian.com/technology/2018/mar/21/mark-zuckerberg-response-facebook-cambridge-analytica.

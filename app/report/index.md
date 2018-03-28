@@ -5,7 +5,7 @@ header: Narrative
 
 # 1. 2018 Index Methodology
 
-The 2018 Index measures company disclosure of policies and practices affecting users’ freedom of expression and privacy. The Index methodology applies 35 indicators in three main categories: **[Governance](/categories/governance)**, [Freedom of Expression](categories/freedom-of-expression), and [Privacy](/categories/privacy). Each category contains **indicators** measuring company disclosure for that category; each indicator is comprised of a series of **elements** that measure company disclosure for that indicator.[1][1]
+The 2018 Index measures company disclosure of policies and practices affecting users’ freedom of expression and privacy. The Index methodology applies 35 indicators in three main categories: **[Governance](/categories/governance)**, [Freedom of Expression](/categories/freedom-of-expression), and [Privacy](/categories/privacy). Each category contains **indicators** measuring company disclosure for that category; each indicator is comprised of a series of **elements** that measure company disclosure for that indicator.[[1]](#footnotes)
 
 ## 1.1. Index categories ## {#index-categories}
 
@@ -107,6 +107,6 @@ Companies receive a cumulative score of their performance across all Index categ
 
 (For more information on company selection, and evaluation and scoring, see the Appendix, in Chapter 11 of this report).
 
-### Footnotes
+### Footnotes ###
 
-[1]: For the full set of indicators, definitions, and research guidance please visit: “2018 Indicators,” Ranking Digital Rights, https://rankingdigitalrights.org/2018-indicators/.
+[1]: For the full set of indicators, definitions, and research guidance please visit: "2018 Indicators," Ranking Digital Rights, https://rankingdigitalrights.org/2018-indicators/.
