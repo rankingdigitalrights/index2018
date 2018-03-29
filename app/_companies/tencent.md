@@ -20,19 +20,19 @@ key_findings:
   - Tencent received one of the lowest privacy scores in the Index, although it improved its disclosure of how it handles user information for WeChat.
   - The company tied with Facebook and Yandex for the highest score for its disclosure of how it addresses security vulnerabilities, but lacked transparency about other internal security measures it takes to keep user information secure.
 
-  services_evaluated:
-    - item:
-      key: social network
-      key_href: socialnetworkblog
-      name: QZone
-    - item:
-      key: messaging and voip
-      key_href: messagingvoip
-      name: QQ
-    - item:
-      key: messaging and voip
-      key_href: messagingvoip
-      name: WeChat
+services_evaluated:
+  - item:
+    key: social network
+    key_href: socialnetworkblog
+    name: QZone
+  - item:
+    key: messaging and voip
+    key_href: messagingvoip
+    name: QQ
+  - item:
+    key: messaging and voip
+    key_href: messagingvoip
+    name: WeChat
 
 analysis_text: 'Tencent ranked 10th out of the 12 internet and mobile ecosystem companies evaluated, disclosing little about its policies and practices affecting freedom of expression and privacy. The <a href=\"https://freedomhouse.org/report/freedom-net/2017/china\" target=\"_blank\">Chinese internet environment</a> is one of the most restrictive in the world, which accounts for Tencent’s poor performance in some areas. Its score nonetheless increased slightly in the 2018 Index for improved disclosure of its terms of service enforcement for WeChat and for clarifying how that service handles user information. However, there are still areas in which Tencent could improve its disclosure without regulatory change, particularly regarding how it handles and secures user information. Tencent offered different versions of its terms of service and privacy policies for mainland Chinese users than for users outside of China. Versions in English and traditional Chinese characters (applied to non-Chinese users outside of the People’s Republic of China) contained different substantive content and commitments in some areas, generally with more detail and better disclosure. In addition, China’s surveillance-friendly legal environment does not fully excuse Tencent’s lack of basic information about its security practices.'
 
