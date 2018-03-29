@@ -34,55 +34,55 @@ module.exports = Backbone.View.extend({
                 data: {
                    "USA":{
                       "fillColor":"#5DA0CA",
-                      "hoverColor":"#224c68"
+                      "hoverColor":"#5DA0CA"
                    },
                    "MEX":{
                       "fillColor":"#5DA0CA",
-                      "hoverColor":"#224c68"
+                      "hoverColor":"#5DA0CA"
                    },
                    "GBR":{
                       "fillColor":"#5DA0CA",
-                      "hoverColor":"#224c68"
+                      "hoverColor":"#5DA0CA"
                    },
                    "FRA":{
                       "fillColor":"#5DA0CA",
-                      "hoverColor":"#224c68"
+                      "hoverColor":"#5DA0CA"
                    },
                    "ESP":{
                       "fillColor":"#5DA0CA",
-                      "hoverColor":"#224c68"
+                      "hoverColor":"#5DA0CA"
                    },
                    "RUS":{
                       "fillColor":"#5DA0CA",
-                      "hoverColor":"#224c68"
+                      "hoverColor":"#5DA0CA"
                    },
                    "CHN":{
                       "fillColor":"#5DA0CA",
-                      "hoverColor":"#224c68"
+                      "hoverColor":"#5DA0CA"
                    },
                    "KOR":{
                       "fillColor":"#5DA0CA",
-                      "hoverColor":"#224c68"
+                      "hoverColor":"#5DA0CA"
                    },
                    "MYS":{
                       "fillColor":"#5DA0CA",
-                      "hoverColor":"#224c68"
+                      "hoverColor":"#5DA0CA"
                    },
                    "IND":{
                       "fillColor":"#5DA0CA",
-                      "hoverColor":"#224c68"
+                      "hoverColor":"#5DA0CA"
                    },
                    "QAT":{
                       "fillColor":"#5DA0CA",
-                      "hoverColor":"#224c68"
+                      "hoverColor":"#5DA0CA"
                    },
                    "ARE":{
                       "fillColor":"#5DA0CA",
-                      "hoverColor":"#224c68"
+                      "hoverColor":"#5DA0CA"
                    },
                    "ZAF":{
                       "fillColor":"#5DA0CA",
-                      "hoverColor":"#224c68"
+                      "hoverColor":"#5DA0CA"
                    }
                 },
                 geographyConfig: {
@@ -137,7 +137,7 @@ module.exports = Backbone.View.extend({
             var coords = self.latLngToXY(datum.latitude, datum.longitude)
 
               layer.append("a")
-                .attr("xlink:href", "https://rankingdigitalrights.org/index2017/companies/")
+                .attr("xlink:href", baseurl + '/companies/' + datum.compURL)
                 .append("text")
                 .attr("x", coords[0] - parseInt(datum.compPosX))
                 .attr("y", coords[1] - parseInt(datum.compPosY))
