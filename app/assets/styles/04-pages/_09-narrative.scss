@@ -190,119 +190,114 @@ $maincolor:  #231f20;
           }
         }
     }
+    h1 {
+      border-bottom: 2px solid #e2dad1;
+      padding-bottom: 15px;
+      margin-bottom: 40px;
+    }
+    h2{
+      color: $base-color;
+      margin-bottom: 0;
+      font-size: 2em;
+      text-transform: none;
+      margin: 30px 0;
+    }
+    h3{
+      font-size: 2em;
+      text-transform: none;
+      margin: 30px 0;
+    }
+    blockquote {
+      background-color: #F7F7F7;
+      padding: 2.8em;
+      margin: 1.875em 0;
 
-        h1 {
-          border-bottom: 2px solid #e2dad1;
-          padding-bottom: 15px;
-          margin-bottom: 40px;
-        }
-    
-        h2{
-          color: $base-color;
-          margin-bottom: 0;
-          font-size: 2em;
-          text-transform: none;
-          margin: 30px 0;
-        }
+      h3 {
+        color: #4D9ECF;
+        text-transform: none;
+        font-family: "Simplon-Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 2em;
+      }
 
-        h3{
-          font-size: 2em;
-          text-transform: none;
-          margin: 30px 0;
-        }
+      p{
+        margin: 0;
+      }
 
-        blockquote {
-          background-color: #F7F7F7;
-          padding: 2.8em;
-          margin: 1.875em 0;
-          
-          h3 {
-            color: #4D9ECF;
-            text-transform: none;
-            font-family: "Simplon-Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
-            font-size: 2em;
-          }
-
-          p{
-            margin: 0;
-          }
-
-        }
-    
-        a{
-            color: $link-color;
-            cursor: pointer;
-            &:hover{
-                text-decoration: underline;
-            }
-        }
-      .ref-number{
-        color: $black;
+    }
+    a{
+        color: $link-color;
+        cursor: pointer;
         &:hover{
-          text-decoration: none;
+            text-decoration: underline;
         }
-      }
-      .bold{
-          font-weight: bold;
-      }
-      .quote{
-        font-size: 1.25em;
-        padding-left: 1em;
-        border-left: 3px solid $base-color;
-        margin: 1em;
-        line-height: 1.2em;
-        @include media(small-up) {
-          font-size: 1em;
-        }
-        @include media(medium-up) {
-          font-size: 1.25em;
-        }
-        @include media(large-up) {
-          font-size: 1.75em;
-        }
-        @include media(xlarge-up) {
-          font-size: 1.75em;
-        }
-        span{
-          font-size: 1.75em;
-        }
-      }
-      .highlihted-section-div{
-        background-color: #F7F7F7;
-        padding: 2.8em;
-        margin: 1.875em 0;
-        h3{
-          color: $base-color;
-          text-transform: none;
-          font-family: "Simplon-Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
-          font-size: 2em;
-        }
-      }
-      ul > li, p{
+    }
+    p{
+      font-size: 1em;
+      line-height: 1.4em;
+      font-family: $simplon-light;
+      color: $black-narrative;
+      @include media(small-up) {
         font-size: 1em;
-        line-height: 1.4em;
-        font-family: $simplon-light;
-        color: $black-narrative;
-        @include media(small-up) {
-          font-size: 1em;
-          margin-bottom: 10px;
-        }
-        @include media(medium-up) {
-          font-size: 1em;
-          margin-bottom: 10px;
-        }
-        @include media(large-up) {
-          font-size: 1.250em;
-          margin-bottom: 15px;
-        }
-        @include media(xlarge-up) {
-          font-size: 1.250em;
-        }
-        span{
-          font-size: inherit;
-        }
+        margin-bottom: 10px;
       }
-      .firstcharacter {
+      @include media(medium-up) {
+        font-size: 1em;
+        margin-bottom: 10px;
+      }
+      @include media(large-up) {
+        font-size: 1.250em;
+        margin-bottom: 15px;
+      }
+      @include media(xlarge-up) {
+        font-size: 1.250em;
+      }
+      span{
+        font-size: inherit;
+      }
+    }
+    .ref-number{
+      color: $black;
+      &:hover{
+        text-decoration: none;
+      }
+    }
+    .bold{
+        font-weight: bold;
+    }
+    .quote{
+      font-size: 1.25em;
+      padding-left: 1em;
+      border-left: 3px solid $base-color;
+      margin: 1em;
+      line-height: 1.2em;
+      @include media(small-up) {
+        font-size: 1em;
+      }
+      @include media(medium-up) {
+        font-size: 1.25em;
+      }
+      @include media(large-up) {
+        font-size: 1.75em;
+      }
+      @include media(xlarge-up) {
+        font-size: 1.75em;
+      }
+      span{
+        font-size: 1.75em;
+      }
+    }
+    .highlihted-section-div{
+      background-color: #F7F7F7;
+      padding: 2.8em;
+      margin: 1.875em 0;
+      h3{
+        color: $base-color;
+        text-transform: none;
+        font-family: "Simplon-Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 2em;
+      }
+    }
+    .firstcharacter {
         color:$base-color;
         float: left;
         font-size: 4.5em;
@@ -312,21 +307,35 @@ $maincolor:  #231f20;
         padding-left: 3px;
         font-weight: bold;
       }
-      //p:first-child:first-letter {
-      //  initial-letter: 2;
-      //}
 
-      ul{
+    ul{
         margin-left: 20px;
         li{
           list-style: disc;
           p{
-            line-height: 1.3em;
+            font-size: 1em;
+            line-height: 1.4em;
+            font-family: $simplon-light;
+            color: $black-narrative;
+            @include media(small-up) {
+              font-size: 1em;
+              margin-bottom: 10px;
+            }
+            @include media(medium-up) {
+              font-size: 1em;
+              margin-bottom: 10px;
+            }
+            @include media(large-up) {
+              font-size: 1.250em;
+              margin-bottom: 15px;
+            }
+            @include media(xlarge-up) {
+              font-size: 1.250em;
+            }
           }
         }
       }
-
-      ol{
+    ol{
         margin-left: 20px;
         li{
           list-style-type: number;
@@ -335,7 +344,6 @@ $maincolor:  #231f20;
           }
         }
       }
-    
     .introduction{
       margin-top: 44px;
         p {
@@ -382,6 +390,10 @@ $maincolor:  #231f20;
           margin: 0 0 20px 0;
         }
       }
+    }
+    .footnote-paragraph{
+      font-size: 0.85em;
+      margin: 0 0 20px 0;
     }
 
   }
