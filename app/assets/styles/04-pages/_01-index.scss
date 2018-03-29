@@ -403,7 +403,7 @@
 				text-decoration: none;
 				transition: color .2s ease-out;
 				display: block;
-					text-align: left;
+					text-align: center;
 					@include media(small-up) {
 					font-size: 18px;
 					}
@@ -434,11 +434,11 @@
 				}
 
 			  &.vis--row_title {
-			  font-size: 15px;
-			  font-weight: 500;
-			  line-height: 1;
-			  padding: 5px 0;
-				text-align: right;
+			  	font-size: 15px;
+			  	font-weight: 500;
+			  	line-height: 1;
+			  	padding: 5px 0;
+				text-align: left;
 				@include media(small-up) {
 				font-size: 18px;
 				padding: 5px 0;	
@@ -510,7 +510,7 @@
 			  text-decoration: none;
 			  transition: color .2s ease-out;
 			  display: block;
-				text-align: right;
+				text-align: left;
 		     	@include media(small-up) {
 				font-size: 13px;
 				}
