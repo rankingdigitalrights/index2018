@@ -58,12 +58,14 @@ $maincolor:  #231f20;
         text-rendering: optimizeLegibility;
         letter-spacing: .5px;
       a{
-        line-height: 1.5em;
-        color: $black-lighter;
-        font-weight: normal;
+        line-height: 1.4em;
+        color: $black-narrative;
+        font-weight: bold;
         font-size: 1.1em;
         font-family: $simplon-light;
         position: relative;
+        display: flex;
+        justify-content: start;
         &:hover{
           text-decoration: none;
           color: $maincolor;
@@ -71,9 +73,9 @@ $maincolor:  #231f20;
         i{
           color: $black-lighter;
           font-size: 12px;
-          position: absolute;
-          right: -30px;
-          top: 0px;
+          position: relative;
+          left: 5px;
+          top: 3px;
         }
       }
     }
@@ -276,18 +278,22 @@ $maincolor:  #231f20;
           font-size: 2em;
         }
       }
-      p{
+      ul > li, p{
         font-size: 1em;
-        line-height: 1.5em;
+        line-height: 1.4em;
         font-family: $simplon-light;
+        color: $black-narrative;
         @include media(small-up) {
           font-size: 1em;
+          margin-bottom: 10px;
         }
         @include media(medium-up) {
           font-size: 1em;
+          margin-bottom: 10px;
         }
         @include media(large-up) {
           font-size: 1.250em;
+          margin-bottom: 15px;
         }
         @include media(xlarge-up) {
           font-size: 1.250em;
