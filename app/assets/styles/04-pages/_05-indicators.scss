@@ -126,8 +126,9 @@
 						background-color: white;
 						border-bottom: 2px solid $border-gray-color;
 						th{
-							padding: 10px 0;
+							padding: 10px 5px;
 							vertical-align: middle;
+							font-size: 0.9em;
 						}
 						th:nth-child(2n+2) {
 							background: #f1f1f3;

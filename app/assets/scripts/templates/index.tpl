@@ -8,25 +8,25 @@
 
     <div class="vis--row_bar bar--count_0 vis--header_item">
       <a title="Sort by total score" class="total sort sort-desc" data-category="total">
-        Total<span class="collecticon"></span>
+        <span>Total</span><span class="collecticon"></span>
       </a>
     </div>
 
     <div class="vis--row_bar bar--count_1 vis--header_item">
       <a title="Sort by commitment score" class="governance sort sort-none" data-category="commitment">
-        Governance<span class="collecticon"></span>
+        <span>Governance</span><span class="collecticon"></span>
       </a>
     </div>
 
     <div class="vis--row_bar bar--count_2 vis--header_item">
       <a title="Sort by freedom of expression score" class="freedom sort sort-none" data-category="freedom">
-        Freedom of Expression<span class="collecticon"></span>
+        <span>Freedom of Expression</span><span class="collecticon"></span>
       </a>
     </div>
 
     <div class="vis--row_bar bar--count_3 vis--header_item">
       <a title="Sort by privacy score" class="sort sort-none privacy" data-category="privacy">
-        Privacy<span class="collecticon"></span>
+        <span>Privacy</span><span class="collecticon"></span>
       </a>
     </div>
 

@@ -326,6 +326,15 @@
 
 			/* Horizontal chart (index)*/
 
+
+
+		.vis--row_title {
+			@media only screen and (min-width: 1200px){
+				width: 15%;
+			}
+
+		}
+
 			.vis--row {
 			width: 100%;
 			display: inline-flex;
@@ -499,6 +508,7 @@
 				}
 				@include media(xlarge-up) {
 				font-size: 14px;
+				width: 15%;
 				}
 			  > a {
 			  font-family: $simplon-regular;
@@ -588,6 +598,11 @@
 			  @include media(medium-up) {
 			    width: 22%;
 			  }
+				a{
+					display: flex;
+					justify-content: center;
+					align-items: center;
+				}
 			}
 
 			.vis--category_score_value,
@@ -600,9 +615,7 @@
 			letter-spacing: 1px;
 			text-transform: uppercase;
 			overflow: hidden;
-
 			background: transparent;
-
 			padding-top: .5em;
 			padding-bottom: .5em;
 				@include media(small-up) {
@@ -617,6 +630,7 @@
 				@include media(xlarge-up) {
 				font-size: 16px;
 				}
+
 			
 			}
 
