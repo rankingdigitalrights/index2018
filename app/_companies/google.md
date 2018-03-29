@@ -20,7 +20,7 @@ key_findings:
   - The company disclosed less than its Global Network Initiative (GNI) peers about company-wide implementation and oversight of its commitments to users’ rights, and lacked clear grievance and remedy mechanisms.
   - Google improved disclosure of options users have to control their own information, and of how it tracks users across the internet. It disclosed options for users to opt out of targeted advertising, suggesting that targeted advertising is on by default.
 
-  services_evaluated:
+services_evaluated:
   - item:
     key: search engine
     key_href: search

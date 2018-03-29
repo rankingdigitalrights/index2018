@@ -16,7 +16,7 @@ module.exports = Backbone.View.extend({
 
         var difference = collection.findWhere({id: companyName});
 
-        alert(companyName);
+        // alert(companyName);
 
         // Overall score
         var total_2018 = difference.attributes.total_2018;
