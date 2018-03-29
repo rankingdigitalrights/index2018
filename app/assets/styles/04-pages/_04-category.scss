@@ -112,7 +112,7 @@
 						fill: $black;
 						font-weight: 600;
 						font-family: $simplon-regular;
-						text-transform: uppercase;                 
+						text-transform: capitalize;
 						font-size: 9px;
 							@include media(small-up) {
 							font-size: 9px;
