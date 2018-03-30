@@ -85,7 +85,11 @@
               </div> <!-- comp--rank -->
 
               <div class="comp--among">
-                <label id="comp--position_among_label" >Rank among {{ page.company_type }}</label>
+                <label id="comp--position_among_label" >Rank among
+                  {% if page.company_type_page == 'internet-and-mobile-companies' %}12{% endif %}
+                  {% if page.company_type_page == 'telecommunications-companies' %}10{% endif %}
+                  {{ page.company_type }}
+                </label>
                 <div id="total--dot_chart" class="comp--dot_chart"></div>
               </div> <!-- position among other companies -->
 
@@ -284,7 +288,7 @@
             </div>
             <div class="container--right">
               <div class="company-indicators">
-                <label> Summary of changes</label>
+                <label>Indicators</label>
                 <div id="indicators--freedom"  class="company-line-chart"></div>
               </div>
               
@@ -355,7 +359,7 @@
             <div class="container--right">
 
               <div class="company-indicators">
-                <label> Summary of changes</label>
+                <label>Indicators</label>
                 <div id="indicators--privacy"  class="company-line-chart"></div>
               </div>
               

@@ -5,7 +5,7 @@ layout: company
 name: mailru
 id: mailru
 
-company_type: Internet and Mobile Ecosystems Companies
+company_type: Internet and Mobile Ecosystem Companies
 display: Mail.Ru Group Limited
 headquarters: Russia
 link: http://corp.mail.ru

@@ -5,7 +5,7 @@ layout: company
 name: google
 id: google
 
-company_type: Internet and Mobile Ecosystems Companies
+company_type: Internet and Mobile Ecosystem Companies
 display: Google Inc.
 headquarters: USA
 link: https://google.com

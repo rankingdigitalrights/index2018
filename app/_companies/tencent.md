@@ -5,7 +5,7 @@ layout: company
 name: tencent
 id: tencent
 
-company_type: Internet and Mobile Ecosystems Companies
+company_type: Internet and Mobile Ecosystem Companies
 display: Tencent Holdings Limited
 headquarters: China
 link: https://www.tencent.com
