@@ -97,7 +97,7 @@ $maincolor:  #231f20;
     .submenu {
           color: darken($maincolor,30%);
           font-size: 1em;
-          display: block;
+          display: none;
           &:last-child {
               border-bottom: 0;
           }
