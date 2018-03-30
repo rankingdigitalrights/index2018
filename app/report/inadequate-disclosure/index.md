@@ -15,14 +15,15 @@ The Ranking Digital Rights Corporate Accountability Index measures the minimum d
 
 3. **Privacy: Companies offer weak disclosure of how user information is handled: what is collected and shared, with whom, and under what circumstances.** Companies do not adequately disclose how user information is shared for targeted advertising. Such opacity makes it easier for digital platforms and services to be abused and manipulated by a range of state and non-state actors including those seeking to attack not only individual users but also institutions and communities.
 
-4. **Expression: Companies keep the public in the dark about how content and information flows are policed and shaped through their platforms and services.** Despite revelations that the world’s most powerful social media platforms have been used to spread disinformation and manipulate political outcomes in a range of countries, companies’ efforts to police content lack accountability and transparency.  
+4. **Expression: Companies keep the public in the dark about how content and information flows are policed and shaped through their platforms and services.** Despite revelations that the world’s most powerful social media platforms have been used to spread disinformation and manipulate political outcomes in a range of countries, companies’ efforts to police content lack accountability and transparency.
 
 The average score for all 22 companies evaluated in the 2018 Index was just 34 percent. The highest score of any company was 63 percent. It is an understatement to say there is room for improvement: Even companies with higher scores have significant shortcomings in their policies and disclosures.
 
 > Research for the 2018 Index was conducted between January 13, 2017 and January 12, 2018. New information published by companies after January 12, 2018 was not evaluated in this Index. Note that some of the 2017 Index scores were adjusted to align with the 2018 evaluation, please see [Section 1.4 of this report for more information](/report/#evaluation).
 
 ## 3.1. The 2018 Index ranking ## {#subsection-31}
-FIGURE 1 GOES HERE
+
+![figure1](/assets/graphics/content/Figure 1. The 2018 Corporate Accountability Index ranking.png){:height="574px" width="949px" align="left"}
 
 **Google and Microsoft kept their lead among internet and mobile ecosystem companies, although the gap is narrowing.** Google and Microsoft were the only companies in the entire Index to score more than 60 percent overall, but they made relatively few changes in the past year. These companies’ leading positions are due to the fact that they disclose more information about more policies than all other companies in the Index. Neither company led the pack on every indicator, and both had particular areas in which their poor performance stood out. Microsoft’s overall score actually declined slightly due to a reorganization of some of its information related to Skype (see Figure 2). Google underperformed on governance and ranked near the bottom on one indicator examining disclosure of what user information the company shares and with whom.
 
@@ -38,7 +39,7 @@ Most companies evaluated in the Index made progress over the last year: 17 of th
 
 **Apple saw the greatest score increase among internet and mobile ecosystem companies, gaining eight percentage points in the 2018 Index.** Much of this was due to improved transparency reporting. Apple also published information about policies and practices that were already known by industry insiders and experts but had not been disclosed on the official company website. Nonetheless, Apple still lagged behind most of its peers due to weak disclosure of corporate governance and accountability mechanisms, as well as poor disclosure of policies affecting freedom of expression.
 
-FIGURE 2 GOES HERE
+<img src="/assets/graphics/content/Figure 2. Year-on-year score changes (2017 to 2018).png" alt="figure2" title="figure2" align="left" />
 
 **Baidu and Tencent, the Chinese internet companies in the Index, both made meaningful improvements.** Baidu made notable improvements to its disclosure of what user information it collects, shares, and retains. Tencent (which kept its substantial lead over Baidu) also made improvements to its disclosure of privacy, security, and terms of service policies. In the 2017 Index, we published an analysis of the Chinese company results and identified areas where these companies can improve even within their home country’s challenging regulatory and political environment.[[1]](#footnotes) The 2018 Index results showed that Chinese companies can and indeed do compete with one another to show respect for users’ rights in areas that do not involve government censorship and surveillance requirements.
 
@@ -58,7 +59,7 @@ Strong governance and oversight are vital if companies are to anticipate and mit
 
 The Governance category of the Index evaluates whether companies demonstrate that they have processes and mechanisms in place to ensure that commitments to respect human rights, specifically freedom of expression and privacy, are made and implemented across their global business operations. In order to perform well in this section, a company’s disclosed commitments and measures taken to implement those commitments should at least follow, and ideally surpass, the UN Guiding Principles on Business and Human Rights[[2]](#footnotes) and other industry-specific human rights standards focused on freedom of expression and privacy such as the Global Network Initiative Principles.[[3]](#footnotes) Specifically, measures should include board and corporate-level oversight, internal accountability mechanisms, risk assessment, and grievance mechanisms.
 
-FIGURE 3 GOES HERE
+<img src="/assets/graphics/content/Figure 3. Governance scores.png" alt="figure3" title="figure3" align="left" />
 
 Companies with governance scores of higher than 70 percent were all members of the Global Network Initiative (GNI), a multistakeholder initiative focused on upholding principles of freedom of expression and privacy in relation to government requests. GNI member companies commit to a set of principles and Implementation Guidelines, which include due diligence processes as well as transparency and accountability mechanisms.[[4]](#footnotes) GNI also requires members to undergo an independent third-party assessment to verify whether they are implementing commitments in a satisfactory manner. The assessment results must then be approved by a multi-stakeholder governing board that includes human rights organizations, responsible investors, and academics, in addition to company representatives.
 
@@ -70,7 +71,7 @@ Companies with the most improved governance scores were **Telefónica**, **Orang
 
 ## 3.4. Spotlight: Human rights impact assessments
 
-The greatest disparity in governance scores between GNI and non-GNI companies could be seen on Indicator G4. This indicator examines whether companies carry out regular, comprehensive, and credible due diligence, such as human rights impact assessments, to identify how all aspects of their business affect freedom of expression and privacy and to mitigate any risks posed by those impacts. There is a precipitous drop in disclosure from the top seven companies on this indicator, all GNI members who have made due diligence commitments, and Apple, the highest scoring non-GNI member with only 17 percent.  
+The greatest disparity in governance scores between GNI and non-GNI companies could be seen on Indicator G4. This indicator examines whether companies carry out regular, comprehensive, and credible due diligence, such as human rights impact assessments, to identify how all aspects of their business affect freedom of expression and privacy and to mitigate any risks posed by those impacts. There is a precipitous drop in disclosure from the top seven companies on this indicator, all GNI members who have made due diligence commitments, and Apple, the highest scoring non-GNI member with only 17 percent.
 
 FIGURE 4 GOES HERE
 
@@ -90,7 +91,7 @@ The 2018 Index did not look for disclosure about HRIAs on other aspects of compa
 
 Governments compel companies to take actions for reasons of public order and national security that can sometimes clash with international human rights norms. Some governments also impose legal requirements, such as data protection laws, that bolster corporate protection and respect for users’ rights when coherently implemented and enforced.
 
-Companies evaluated in the Index operate across a global patchwork of regulatory and political regimes. Most national governments fall short, to varying degrees, of their duty to protect citizens’ human rights. All companies in the Index face some legal or regulatory requirement in their home jurisdiction that prevents them from earning a perfect score on at least one indicator.  
+Companies evaluated in the Index operate across a global patchwork of regulatory and political regimes. Most national governments fall short, to varying degrees, of their duty to protect citizens’ human rights. All companies in the Index face some legal or regulatory requirement in their home jurisdiction that prevents them from earning a perfect score on at least one indicator.
 
 The companies at the bottom end of the Index face the greatest legal and regulatory obstacles in the jurisdictions where they are headquartered. In more restrictive or authoritarian regimes, one can find many legal barriers to disclosing the volume and nature of government requests to shut down networks, or to block or delete content. Yet laws that prevent clear public disclosure about the policing of online speech and denial of internet access can also be found in democracies and OECD countries, despite the fact that most such prohibitions are clearly inconsistent with basic principles of accountable governance. For example, in the UK, under limited circumstances, the law may prevent telecommunications operators from disclosing certain government requests to shut down a network.[[9]](#footnotes)
 
