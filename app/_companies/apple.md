@@ -5,7 +5,7 @@ layout: company
 name: apple
 id: apple
 
-company_type: Internet and Mobile Ecosystems Companies
+company_type: Internet and Mobile Ecosystem Companies
 display: Apple, Inc.
 headquarters: USA
 link: https://www.apple.com

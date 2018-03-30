@@ -560,12 +560,12 @@
           }
           .comp--name{
             margin: 0 5px 0 0;
-          font-family: $simplon-bold;
-          color: $black;
-          font-size: 1.12em;
-          line-height: 1.3; 
-          letter-spacing: 1px;
-          text-transform: capitalize;
+            font-family: $simplon-bold;
+            color: $black;
+            font-size: 1.12em;
+            line-height: 1.3;
+            letter-spacing: 1px;
+            // text-transform: capitalize;
             display: inline;
             float: left;
             @include media(small-up) {

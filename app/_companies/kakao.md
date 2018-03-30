@@ -5,7 +5,7 @@ layout: company
 name: kakao
 id: kakao
 
-company_type: Internet and Mobile Ecosystems Companies
+company_type: Internet and Mobile Ecosystem Companies
 display: Kakao Corp.
 headquarters: South Korea
 link: https://www.kakao.com

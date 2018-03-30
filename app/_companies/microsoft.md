@@ -5,7 +5,7 @@ layout: company
 name: microsoft
 id: microsoft
 
-company_type: Internet and Mobile Ecosystems Companies
+company_type: Internet and Mobile Ecosystem Companies
 display: Microsoft Corp.
 headquarters: USA
 link: https://microsoft.com

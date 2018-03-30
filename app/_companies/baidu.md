@@ -5,7 +5,7 @@ layout: company
 name: baidu
 id: baidu
 
-company_type: Internet and Mobile Ecosystems Companies
+company_type: Internet and Mobile Ecosystem Companies
 display: Baidu, Inc.
 headquarters: China
 link: https://www.baidu.com

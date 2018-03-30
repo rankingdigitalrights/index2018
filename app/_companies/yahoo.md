@@ -5,7 +5,7 @@ layout: company
 name: yahoo
 id: yahoo
 
-company_type: Internet and Mobile Ecosystems Companies
+company_type: Internet and Mobile Ecosystem Companies
 display: Yahoo! Inc.
 headquarters: USA
 link: https://yahoo.com
