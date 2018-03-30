@@ -230,7 +230,13 @@ $maincolor:  #231f20;
             transform: rotate(-45deg);
           }           
         }
-      }                             
+      }
+      .bar--axis_x {
+        text:hover {
+          cursor: pointer;
+          text-decoration: underline;
+        }
+      }
 
     }
 

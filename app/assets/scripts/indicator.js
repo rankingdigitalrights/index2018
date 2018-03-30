@@ -135,12 +135,12 @@ module.exports = function generateIndicator (indicatorName) {
                 $internet.push(item);
             }
         });
-        $telco.forEach(function (item) {
+        $internet.forEach(function (item) {
             $("#company--list").append(
                 template({display:item.attributes.display, id:item.attributes.id, type:item.attributes.telco})
             );
         });
-        $internet.forEach(function (item) {
+        $telco.forEach(function (item) {
             $("#company--list").append(
                 template({display:item.attributes.display, id:item.attributes.id, type:item.attributes.telco})
             );
