@@ -112,23 +112,23 @@
           margin-top: -6px;
         }
         .positive {
-          background-color: #00A65A;
-          border: 1px solid #00A65A;
+          background-color: #8BC43F;
+          border: 1px solid #8BC43F;
           &:after{
-            border-left-color: #00A65A;
+            border-left-color: #8BC43F;
           }
           &:before{
-            border-left-color: #00A65A;
+            border-left-color: #8BC43F;
           }
         }
         .negative {
-          background-color: #B7000D;
-          border: 1px solid #B7000D;
+          background-color: #F05A28;
+          border: 1px solid #F05A28;
           &:after{
-            border-left-color: #B7000D;
+            border-left-color: #F05A28;
           }
           &:before{
-            border-left-color: #B7000D;
+            border-left-color: #F05A28;
           }
         }
         .zero {
@@ -200,6 +200,11 @@
       transform: rotate(-45deg) !important;
       font-size: inherit !important;           
     }
+  }
+
+  .company--name:hover {
+    cursor: pointer;
+    text-decoration: underline;
   }
 
   .legend {
