@@ -151,7 +151,7 @@ $maincolor:  #231f20;
 
 
   .narrative-content{
-    width: auto;
+    width: 75%;
     margin-left: 25%;
     h1, h2,h3,h4,h5,h6{
       font-family: "Simplon-Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -254,6 +254,11 @@ $maincolor:  #231f20;
       span{
         font-size: inherit;
       }
+    }
+    img{
+      height: auto;
+      width: 100%;
+      margin: 10px auto 20px;
     }
     .ref-number{
       color: $black;
