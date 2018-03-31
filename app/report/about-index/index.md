@@ -13,8 +13,8 @@ In 2015, RDR launched its inaugural Index, which ranked 16 internet and telecomm
 
 ### Footnotes ###
 
-[4]: “Guiding Principles on Business and Human Rights” (United Nations, 2011), http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf.
-[5]: “Principles,” Global Network Initiative, accessed February 27, 2017, https://globalnetworkinitiative.org/principles/index.php.
-[6]: “Implementation Guidelines,” Global Network Initiative, accessed February 28, 2017, http://globalnetworkinitiative.org/implementationguidelines/index.php.
-[7]: “RDR Launches 2017 Corporate Accountability Index Research Cycle,” Ranking Digital Rights, September 15, 2016, https://rankingdigitalrights.org/2016/09/15/rdr-launches-2017-research/.
-[8]: “2018 Companies,” Ranking Digital Rights, https://rankingdigitalrights.org/2018-companies/.
+[4] “Guiding Principles on Business and Human Rights” (United Nations, 2011), [http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf](http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf).
+[5] “Principles,” Global Network Initiative, accessed February 27, 2017, [https://globalnetworkinitiative.org/principles/index.php](https://globalnetworkinitiative.org/principles/index.php).
+[6] “Implementation Guidelines,” Global Network Initiative, accessed February 28, 2017, [http://globalnetworkinitiative.org/implementationguidelines/index.php](http://globalnetworkinitiative.org/implementationguidelines/index.php).
+[7] “RDR Launches 2017 Corporate Accountability Index Research Cycle,” Ranking Digital Rights, September 15, 2016, [https://rankingdigitalrights.org/2016/09/15/rdr-launches-2017-research/](https://rankingdigitalrights.org/2016/09/15/rdr-launches-2017-research/).
+[8] “2018 Companies,” Ranking Digital Rights, [https://rankingdigitalrights.org/2018-companies/](https://rankingdigitalrights.org/2018-companies/).
