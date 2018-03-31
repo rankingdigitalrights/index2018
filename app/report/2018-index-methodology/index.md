@@ -5,15 +5,15 @@ header: Narrative
 
 # 1. 2018 Index Methodology
 
-The 2018 Index measures company disclosure of policies and practices affecting users’ freedom of expression and privacy. The Index methodology applies 35 indicators in three main categories: **[Governance](/categories/governance)**, [Freedom of Expression](/categories/freedom-of-expression), and [Privacy](/categories/privacy). Each category contains **indicators** measuring company disclosure for that category; each indicator is comprised of a series of **elements** that measure company disclosure for that indicator.[[1]](#footnotes)
+The 2018 Index measures company disclosure of policies and practices affecting users’ freedom of expression and privacy. The Index methodology applies 35 indicators in three main categories: **[Governance](/categories/governance)**, **[Freedom of Expression](/categories/freedom-of-expression)**, and **[Privacy](/categories/privacy)**. Each category contains **indicators** measuring company disclosure for that category; each indicator is comprised of a series of **elements** that measure company disclosure for that indicator.[[9]](#footnotes)
 
 ## 1.1. Index categories ## {#index-categories}
 
-- **Governance (G)**: This category contains six indicators measuring company disclosure of commitments to freedom of expression and privacy principles along with measures taken to implement those commitments across the company’s global operations.
+- **Governance (G)**: This category contains six indicators measuring company disclosure of commitments to freedom of expression and privacy principles along with measures taken to implement those commitments across the company’s global operations.[[10]](#footnotes)
 
-- **Freedom of Expression (F)**: This category contains 11 indicators measuring company disclosure of policies that affect users’ freedom of expression.
+- **Freedom of Expression (F)**: This category contains 11 indicators measuring company disclosure of policies that affect users’ freedom of expression.[[11]](#footnotes)
 
-- **Privacy (P)**: This category contains 18 indicators measuring company disclosure of policies and practices that affect users’ privacy rights.
+- **Privacy (P)**: This category contains 18 indicators measuring company disclosure of policies and practices that affect users’ privacy rights.[[12]](#footnotes)
 
 ## 1.2. Company types ## {#company-type}
 
@@ -23,51 +23,51 @@ While every company we examined has attributes that make it unique, for the purp
 
 For each internet and mobile ecosystem company we examined up to four services, as follows:
 
-- Apple (U.S.) — iOS mobile ecosystem, iMessage, iCloud
+- **Apple (U.S.)** — iOS mobile ecosystem, iMessage, iCloud
 
-- Baidu (China) — Baidu Search, Baidu Cloud, Baidu PostBar
+- **Baidu (China)** — Baidu Search, Baidu Cloud, Baidu PostBar
 
-- Facebook (U.S.) — Facebook, Instagram, WhatsApp, Messenger
+- **Facebook (U.S.)** — Facebook, Instagram, WhatsApp, Messenger
 
-- Google (U.S.) — Search, Gmail, YouTube,Android mobile ecosystem
+- **Google (U.S.)** — Search, Gmail, YouTube,Android mobile ecosystem
 
-- Kakao (South Korea) — Daum Search, DaumMail, KakaoTalk
+- **Kakao (South Korea)** — Daum Search, DaumMail, KakaoTalk
 
-- Mail.Ru (Russia) — VKontakte, Mail.Ru email, Mail.Ru Agent
+- **Mail.Ru (Russia)** — VKontakte, Mail.Ru email, Mail.Ru Agent
 
-- Microsoft (U.S.) — Bing, Outlook.com, Skype
+- **Microsoft (U.S.)** — Bing, Outlook.com, Skype
 
-- Oath (U.S.) — Yahoo Mail, Flickr, Tumblr
+- **Oath (U.S.)** — Yahoo Mail, Flickr, Tumblr
 
-- Samsung (South Korea) — Samsungimplementation of Android
+- **Samsung (South Korea)** — Samsung implementation of Android
 
-- Tencent (China) — QZone, QQ, WeChat
+- **Tencent (China)** — QZone, QQ, WeChat
 
-- Twitter (U.S.) — Twitter, Periscope
+- **Twitter (U.S.)** — Twitter, Periscope
 
-- Yandex (Russia) — Yandex Mail, Yandex Search, Yandex Disk
+- **Yandex (Russia)** — Yandex Mail, Yandex Search, Yandex Disk
 
-Telecommunications companies: For these companies, we evaluated global group- level policies for relevant indicators, plus the home-country operating subsidiary’s pre-paid and post-paid mobile services, and fixed-line broadband service, where offered, as follows:
+**Telecommunications companies:** For these companies, we evaluated global group- level policies for relevant indicators, plus the home-country operating subsidiary’s pre-paid and post-paid mobile services, and fixed-line broadband service, where offered, as follows:
 
-- América Móvil (Mexico) — Telcel
+- **América Móvil (Mexico)** — Telcel
 
-- AT&T (U.S.) — AT&T Mobile, AT&T Broadband
+- **AT&T (U.S.)** — AT&T Mobile, AT&T Broadband
 
-- Axiata (Malaysia) — Celcom
+- **Axiata (Malaysia)** — Celcom
 
-- Bharti Airtel (India) — India Airtel Mobile, India Airtel Broadband
+- **Bharti Airtel (India)** — India Airtel Mobile, India Airtel Broadband
 
-- Etisalat (UAE) — Etisalat UAE Mobile, Etisalat UAE Broadband
+- **Etisalat (UAE)** — Etisalat UAE Mobile, Etisalat UAE Broadband
 
-- MTN (South Africa) — MTN South Africa Mobile
+- **MTN (South Africa)** — MTN South Africa Mobile
 
-- Ooredoo (Qatar) — Ooredoo Qatar Mobile, Ooredoo Qatar Broadband
+- **Ooredoo (Qatar)** — Ooredoo Qatar Mobile, Ooredoo Qatar Broadband
 
-- Orange (France) — Orange France Mobile, Orange France Broadband
+- **Orange (France)** — Orange France Mobile, Orange France Broadband
 
-- Telefónica (Spain) — Movistar Mobile, Movistar Broadband
+- **Telefónica (Spain)** — Movistar Mobile, Movistar Broadband
 
-- Vodafone (UK) — Vodafone UK Mobile, Vodafone UK Broadband
+- **Vodafone (UK)** — Vodafone UK Mobile, Vodafone UK Broadband
 
 
 ## 1.3. What the index measures ## {#index-measures}
@@ -98,15 +98,22 @@ Telecommunications companies: For these companies, we evaluated global group- le
 
 Companies receive a cumulative score of their performance across all Index categories, and results show how companies performed in each category and indicator. Scores for the Freedom of Expression and Privacy categories are calculated by averaging scores for each service. Scores for the Governance category indicators include parent- and operating-level performance (depending on company type).
 
-**Points** 
+**Points**
 - Full disclosure = 100
+
 - Partial = 50
+
 - No disclosure found = 0
+
 - No = 0
+
 - N/A excluded from the score and averages
 
 (For more information on company selection, and evaluation and scoring, see the Appendix, in Chapter 11 of this report).
 
 ### Footnotes ###
 
-[1]: For the full set of indicators, definitions, and research guidance please visit: "2018 Indicators," Ranking Digital Rights, https://rankingdigitalrights.org/2018-indicators/.
+[9] For the full set of indicators, definitions, and research guidance please visit: “2018 Indicators,” Ranking Digital Rights, [https://rankingdigitalrights.org/2018-indicators/](https://rankingdigitalrights.org/2018-indicators/).
+[10] “2018 Indicators: Governance,” Ranking Digital Rights, [https://rankingdigitalrights.org/2018-indicators/#G](https://rankingdigitalrights.org/2018-indicators/#G).
+[11] “2018 Indicators: Freedom of Expression,” Ranking Digital Rights, [https://rankingdigitalrights.org/2018-indicators/#F](https://rankingdigitalrights.org/2018-indicators/#F)
+[12] “2018 Indicators: Privacy,” Ranking Digital Rights, [https://rankingdigitalrights.org/2018-indicators/#P](https://rankingdigitalrights.org/2018-indicators/#P).
