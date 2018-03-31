@@ -7,13 +7,13 @@ header: Narrative
 
 The Ranking Digital Rights 2018 Corporate Accountability Index evaluated 22 of the world’s most powerful internet, mobile, and telecommunications companies on their disclosed commitments and policies affecting freedom of expression and privacy. These companies held a combined market capitalization of approximately USD 4.7 trillion.[[1]](#footnotes) Their products and services are used by a majority of the world’s 4.2 billion internet users.[[2]](#footnotes) There is good news and bad news:
 
-__***The good news:***__ **More than half of the companies evaluated in the 2018 Index improved disclosure in multiple areas affecting users’ freedom of expression and privacy.** In all, 17 of the 22 companies improved scores on at least one indicator. Even companies headquartered in the world’s toughest regulatory environments are making efforts to improve. Positive trends included:
+**The good news: More than half of the companies evaluated in the 2018 Index improved disclosure in multiple areas affecting users’ freedom of expression and privacy.** In all, 17 of the 22 companies improved scores on at least one indicator. Even companies headquartered in the world’s toughest regulatory environments are making efforts to improve. Positive trends included:
 
-- **Transparency reporting continues to improve and expand.** More companies disclosed more information and data related to their policies and processes for responding to government or other third party requests to restrict content, as well as to share user information with authorities.   
+- **Transparency reporting continues to improve and expand.** More companies disclosed more information and data related to their policies and processes for responding to government or other third party requests to restrict content, as well as to share user information with authorities.
 
 - **Telecommunications companies that joined the Global Network Initiative (GNI) pulled ahead of others in the sector.** In 2017, three European telecommunications companies evaluated by the Index (Orange, Telefónica, and Vodafone) joined GNI, a multi-stakeholder initiative that works with companies to advance human rights principles in the face of government censorship and surveillance demands. All three strengthened disclosure about governance, oversight, due diligence, and internal accountability mechanisms.
 
-__***The bad news:***__ **Companies are not transparent enough about the design, management, and governance of digital platforms and services that affect human rights.** If people lack the information necessary to understand how state and non-state actors exert power through digital platforms and services, it is impossible not only to protect human rights—but to sustain open and democratic societies. Transparency is essential in order for people to even know when users’ freedom of expression or privacy rights are violated either directly by—or indirectly through—companies’ platforms and services, let alone identify who should be held responsible. There are four areas of particularly urgent concern:
+**The bad news: Companies are not transparent enough about the design, management, and governance of digital platforms and services that affect human rights.** If people lack the information necessary to understand how state and non-state actors exert power through digital platforms and services, it is impossible not only to protect human rights—but to sustain open and democratic societies. Transparency is essential in order for people to even know when users’ freedom of expression or privacy rights are violated either directly by—or indirectly through—companies’ platforms and services, let alone identify who should be held responsible. There are four areas of particularly urgent concern:
 
 - **Governance: Too few companies make users’ expression and privacy rights a central priority for corporate oversight and risk assessment.** Companies do not have adequate processes and mechanisms in place to identify and mitigate the full range of expression and privacy risks to users that may be caused not only by government censorship or surveillance, and by malicious non-state actors, but also by practices related to their own business models.
 
@@ -51,13 +51,14 @@ Corporate transparency and accountability is incomplete without transparent and 
 
 4. **Be transparent and accountable:** Companies should publish regular information and data on their official websites that helps users and other stakeholders understand the circumstances under which personal information is accessed by third parties, speech is censored or restricted, and access to a service is blocked or restricted.
 
-5. Strengthen privacy: Companies should clearly inform users about what happens to their information, minimize collection and use of data to what is necessary for provision and service, and provide users with maximum control over what information they provide and with whom it is shared.
+5. **Strengthen privacy:** Companies should clearly inform users about what happens to their information, minimize collection and use of data to what is necessary for provision and service, and provide users with maximum control over what information they provide and with whom it is shared.
 
-6. Strengthen security: Companies should disclose credible evidence of their efforts to secure users’ information. Specifically, they should show that they maintain industry standards of strong encryption and security, conduct security audits, monitor employee access to information, and have an established process for handling data breaches.  
+6. **Strengthen security:** Companies should disclose credible evidence of their efforts to secure users’ information. Specifically, they should show that they maintain industry standards of strong encryption and security, conduct security audits, monitor employee access to information, and have an established process for handling data breaches.
 
-7. Innovate for human rights: Collaborate with government and civil society. Invest in the development of new technologies and business models that strengthen human rights, and maximize individual control and ownership over personal data and content. 
+7. **Innovate for human rights:** Collaborate with government and civil society. Invest in the development of new technologies and business models that strengthen human rights, and maximize individual control and ownership over personal data and content.
 
 ### Footnotes ###
-[1]: Figures as of March 8, 2018. Bloomberg Markets, https://www.bloomberg.com/markets.
-[2]: Figures as of December 31, 2017. “World Internet Users Statistics and 2018 World Population Stats,” Internet World Stats, accessed March 19, 2018, https://www.internetworldstats.com/stats.htm.
-[3]: “Guiding Principles on Business and Human Rights” (United Nations, 2011), http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf.
+
+[1] Figures as of March 8, 2018. Bloomberg Markets, [https://www.bloomberg.com/markets](https://www.bloomberg.com/markets).
+[2] Figures as of December 31, 2017. “World Internet Users Statistics and 2018 World Population Stats,” Internet World Stats, accessed March 19, 2018, [https://www.internetworldstats.com/stats.htm](https://www.internetworldstats.com/stats.htm).
+[3] “Guiding Principles on Business and Human Rights” (United Nations, 2011), [http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf](http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf).
