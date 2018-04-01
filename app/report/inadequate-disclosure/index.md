@@ -73,7 +73,7 @@ Companies with the most improved governance scores were **Telefónica**, **Orang
 
 The greatest disparity in governance scores between GNI and non-GNI companies could be seen on Indicator G4. This indicator examines whether companies carry out regular, comprehensive, and credible due diligence, such as human rights impact assessments, to identify how all aspects of their business affect freedom of expression and privacy and to mitigate any risks posed by those impacts. There is a precipitous drop in disclosure from the top seven companies on this indicator, all GNI members who have made due diligence commitments, and Apple, the highest scoring non-GNI member with only 17 percent.
 
-FIGURE 4 GOES HERE
+<img src="/assets/graphics/content/Figure 4. Comprehensiveness of human rights impact assessments (G4).png" alt="figure4" title="figure4" align="left" />
 
 Human rights impact assessments (HRIAs) are a systematic approach to due diligence. A company carries out these assessments to determine how its products, services, and business practices affect the freedom of expression and privacy of its users. Such assessments should be carried out regularly. More targeted assessments should also be conducted to inform decisions related to new products, features, and entry into new markets.
 
