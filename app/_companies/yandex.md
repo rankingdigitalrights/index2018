@@ -25,15 +25,15 @@ services_evaluated:
 - item:
   key: email
   key_href: emailservice
-  name: yandex mail
+  name: Yandex Mail
 - item:
   key: search engine
   key_href: search
-  name: yandex search
+  name: Yandex Search
 - item:
   key: cloud storage
   key_href: cloudservices
-  name: yandex disk
+  name: Yandex Disk
 
 analysis_text: "Yandex ranked ninth out of the 12 internet and mobile ecosystem companies evaluated, disclosing little about its policies and practices affecting freedom of expression and privacy. The company made no substantive improvements in the 2018 Index. Notably, Yandex <a href=\"https://rankingdigitalrights.org/index2017/findings/russia\" target=\"_blank\">continued to disclose more than Mail.Ru</a> about policies related to users’ privacy. While Yandex operates in an <a href=\"https://freedomhouse.org/report/freedom-net/2017/russia\" target=\"_blank\">increasingly restrictive internet environment</a> that discourages companies from publicly committing to protect human rights, the company could still be more transparent about key policies affecting users’ freedom of expression and privacy. It could disclose more about its processes for handling government and private demands to restrict content or to hand over user information, as there are no legal obstacles preventing the company from doing so. Yandex could also improve its commitments to users’ privacy by clarifying its handling of user information, and giving users clear options to control what information the company collects and shares, and for how long it retains it, so that people can better understand the privacy, security, and human rights risks associated with Yandex services."
 
