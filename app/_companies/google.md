@@ -24,19 +24,19 @@ services_evaluated:
   - item:
     key: search engine
     key_href: search
-    name: google search
+    name: Google Search
   - item:
     key: email
     key_href: emailservice
-    name: gmail
+    name: Gmail
   - item:
     key: video sharing
     key_href: videophoto
-    name: youtube
+    name: YouTube
   - item:
     key: mobile ecosystem
     key_href: mobileeco
-    name: android
+    name: Android
 
 analysis_text: 'Google earned the highest score among internet and mobile ecosystem companies, disclosing more information about policies and practices affecting users’ freedom of expression and privacy than its peers. A member of the Global Network Initiative (GNI), Google made clear commitments to freedom of expression and privacy, despite gaps in implementation and oversight. The company improved disclosure of privacy-related policies by clarifying options users have to control what information the company collects about them, including whether the company tracks users across third-party websites. However, there is much room for improvement. Google could improve grievance and remedy options, in line with its GNI peers. It could disclose more comprehensive data about its terms of service enforcement. While Google disclosed more than any company in the Index about how it handles government requests for user information, <a href=\"https://www.congress.gov/bill/114th-congress/house-bill/2048\" target=\"_blank\">U.S. law prohibiting</a> companies from disclosing the exact number of government requests for stored and real-time user information prevented the company from being fully transparent about these types of requests.'
 
