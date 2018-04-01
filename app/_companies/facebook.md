@@ -24,19 +24,19 @@ services_evaluated:
   - item:
     key: Social network
     key_href: socialnetworkblog
-    name: facebook
+    name: Facebook
   - item:
     key: Photo sharing
     key_href: videophoto
-    name: instagram
+    name: Instagram
   - item:
     key: Messaging & VoIP
     key_href: messagingvoip
-    name: messenger
+    name: Messenger
   - item:
     key: Messaging & VoIP
     key_href: messagingvoip
-    name: whatsapp
+    name: Whatsapp
 
 analysis_text: 'Facebook ranked fourth out of 12 internet and mobile ecosystem companies evaluated, below Google, Microsoft, and Oath, but above Twitter and Apple. As a member of the Global Network Initiative (GNI), Facebook publicly committed to respect human rights, but disclosed less about its policies and practices affecting freedom of expression and privacy than many of its peers. It improved its disclosure of its terms of service enforcement, security measures for WhatsApp and Instagram, and how it handles government requests for user information. <a href=\"https://www.congress.gov/bill/114th-congress/house-bill/2048\" target=\"_blank\">U.S. law prohibits</a> companies from disclosing the exact number of government requests for stored and real-time user information they receive, which prevented Facebook from being fully transparent in that area. However, Facebook disclosed less than several of its peers about its handling of user information and options users have to control the data it collects and shares, including for purposes of targeted advertising. Facebook disclosed options for users to opt out of targeted advertising, suggesting that targeted advertising is on by default.'
 
