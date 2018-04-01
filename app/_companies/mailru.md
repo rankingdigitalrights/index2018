@@ -24,15 +24,15 @@ services_evaluated:
 - item:
   key: email
   key_href: emailservice
-  name: mail.ru
+  name: Mail.Ru
 - item:
   key: messaging & voip
   key_href: messagingvoip
-  name: mail.ru agent
+  name: Mail.Ru Agent
 - item:
   key: social network
   key_href: socialnetworkblog
-  name: vkontakte
+  name: VKontakte
 
 analysis_text: "Mail.Ru ranked 11th of the 12 internet and mobile ecosystem companies evaluated, disclosing little about policies affecting freedom of expression and privacy. It made no improvements in the 2018 Index. Notably, the company disclosed significantly less about its privacy policies than Yandex, the other <a href=\"https://rankingdigitalrights.org/index2017/findings/russia/\" target=\"_blank\">Russian company</a> evaluated. While operating in an <a href=\"https://freedomhouse.org/report/freedom-net/2017/russia/\" target=\"_blank\">increasingly restrictive internet environment</a> that discourages companies from publicly committing to protect human rights, the company could be more transparent about key policies and practices affecting freedom of expression and privacy. It could disclose more about its processes for handling government and private demands to restrict content or to hand over user information, as there are no legal obstacles preventing the company from doing so. Mail.Ru could also improve disclosure about its handling of user information—an area in which Yandex was more transparent—and give users clear options to control what information the company collects and shares, including for the use of targeted advertising."
 
