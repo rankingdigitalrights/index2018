@@ -12,7 +12,7 @@
   <% if ( !display_t ) { %>
   <div class="col-6 container--right">
     <div class="company-type">
-      <i class="fa fa-circle"></i> Telecomunications companies
+      <i class="fa fa-circle"></i> Telecommunications companies
     </div>
     <div id="bar--container--telco"></div>
   </div>
