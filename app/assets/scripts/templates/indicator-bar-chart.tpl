@@ -4,7 +4,7 @@
   <% if ( !display_i ) { %>
   <div class="col-6 container--left">
     <div class="company-type">
-      <i class="fa fa-circle"></i> Internet and Mobile Ecosystems Companies
+      <i class="fa fa-circle"></i> Internet and Mobile Ecosystem Companies
     </div>
     <div id="bar--container--internet"></div>
   </div>
