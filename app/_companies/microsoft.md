@@ -24,15 +24,15 @@ services_evaluated:
   - item:
     key: search engine
     key_href: search
-    name: bing
+    name: Bing
   - item:
     key: email
     key_href: emailservice
-    name: outlook
+    name: Outlook
   - item:
     key: messaging & voip
     key_href: messagingvoip
-    name: skype
+    name: Skype
 
 analysis_text: "Microsoft earned the second-highest score among internet and mobile ecosystem companies, just two points behind Google. A member of the Global Network Initiative (GNI), Microsoft disclosed a strong commitment to freedom of expression and privacy. Despite its overall strong performance, its score declined slightly as a result of policies for notifying Skype users if the company restricts their accounts being no longer available. In addition, Microsoft could be more transparent about its process for enforcing its terms of service and could clarify how it handles user information, including options users have to control what information about them is collected and shared. U.S. law prevents companies from disclosing the exact number of government requests for stored and real-time user information they receive, which prevented Microsoft from being fully transparent in that area. However, Microsoft still disclosed more data on government and private requests for user information than most companies in the Index."
 
