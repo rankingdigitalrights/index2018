@@ -25,7 +25,7 @@ services_evaluated:
 - item:
   key: mobile ecosystem
   key_href: mobileeco
-  name: samsung implementation of android
+  name: Samsung implementation of Android
 
 analysis_text: "Samsung ranked eighth out of the 12 internet and mobile ecosystem companies evaluated, disclosing less than most of its peers about policies affecting users’ freedom of expression and privacy. Despite some improvements in the 2018 Index, the company continued to lag behind Kakao, the other South Korean company evaluated. Samsung improved its disclosure of senior leadership oversight over how policies and practices may affect freedom of expression and privacy, and disclosed new information about its human rights impact assessments. It also improved its disclosure of options users have to control how their information is used for targeted advertising. While South Korea has one of the strongest data protection regimes in the world—for instance, it requires companies to obtain consent from users when collecting and sharing user information—Samsung still lacked clarity about these policies and practices in its public disclosure. Companies are also legally required to offer grievance mechanisms, but Samsung did not publicly disclose clear options for users to submit freedom of expression and privacy-related complaints."
 
