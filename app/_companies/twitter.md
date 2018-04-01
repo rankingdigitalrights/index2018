@@ -25,11 +25,11 @@ services_evaluated:
   - item:
     key: social network
     key_href: socialnetworkblog
-    name: twitter
+    name: Twitter
   - item:
     key: video sharing
     key_href: videophoto
-    name: periscope
+    name: Periscope
 
 analysis_text: "Twitter ranked fifth out of 12 internet and mobile ecosystem companies, disclosing less about its policies affecting privacy than most of its U.S. peers. The company’s score improved in the 2018 Index due to improved public commitments to users’ freedom of expression and greater clarity in its transparency reporting on content removal requests. However, Twitter’s privacy score declined due to a change in its privacy policy stating that the company no longer responds to “Do Not Track” signals, and a lack of clear examples about how it implements its process for responding to government or private requests for user information. In addition,<a href=\"https://www.congress.gov/bill/114th-congress/house-bill/2048\" target=\"_blank\">U.S. law</a> prevents companies from disclosing the exact number of government requests for stored and real-time user information they receive, which prevented Twitter from being fully transparent in that area."
 
