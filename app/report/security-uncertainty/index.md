@@ -86,7 +86,7 @@ Figure 7 illustrates a wide range in companies’ disclosure about security over
 
 - While most companies disclosed some information about internal security audits they conduct on their products and services, just four companies—**AT&T, Google, Kakao,** and **Twitter**—reported commissioning third-party security audits.
 
-## 4.4. Identifying and addressing vulnerabilities - Spotlight: “Bug bounties” and reporting vulnerabilities ## {#subsection-44}
+## 4.4. Identifying and addressing vulnerabilities ## {#subsection-44}
 
 **Companies lacked adequate information about how they address security vulnerabilities when they are discovered.**
 
@@ -106,7 +106,7 @@ Telecommunications companies and mobile phone manufacturers can make updates to 
 
 As noted in the 2017 Index report, the timely delivery of security updates is not only a security issue, but also a social equity issue, as newer and more expensive smartphones are more likely to be up-to-date than older and less expensive models, which means lower income populations can face greater security risks.[[44]](#footnotes) It is therefore crucial that companies commit to provide security patches within one month of a vulnerability being announced to the public.
 
-## Spotlight: “Bug bounties” and reporting vulnerabilities
+## 4.5. Spotlight: “Bug bounties” and reporting vulnerabilities ##
 
 Companies can benefit from the knowledge and skills of others, including security researchers and ethical hackers, who can identify security vulnerabilities that a company may not be aware of. If unknown to the company, security vulnerabilities can be exploited by criminals or oppressive governments seeking to spy on their citizens. In August 2016, for example, researchers at Citizen Lab identified and alerted Apple to a security vulnerability in its software that had been used to target journalists and activists in the UAE, Mexico, and elsewhere.[[45]](#footnotes) Security vulnerability reporting mechanisms are a valuable way for companies to add an extra layer of security review for their products and to demonstrate a strong commitment to user security.
 
@@ -123,7 +123,7 @@ Index data showed that all internet and mobile ecosystem companies in the 2018 I
 
 Some companies provided only an email address for researchers to submit vulnerability reports, while others offered more robust bug bounty programs that included monetary rewards and public recognition for reports submitted within the scope of the program. **Facebook** was the only company to commit not to pursue legal action against researchers who report vulnerabilities through its reporting mechanism. **AT&T** was the only telecommunications company to disclose a bug bounty program, although it did not clearly disclose a timeframe in which the company will review reports, or commit to refrain from pursuing legal action against those who submit such reports.
 
-## 4.5. Recommendations for companies ## {#subsection-45}
+## 4.6. Recommendations for companies ## {#subsection-45}
 
 **Disclose how data breaches are handled:** Companies should disclose policies for responding to data breaches. This includes making a commitment to notify the authorities without undue delay, explaining how they will notify individuals who may have been impacted, and outlining what kind of steps they will take to address and minimize the breach’s impact.
 
