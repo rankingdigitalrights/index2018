@@ -33,7 +33,7 @@ As we found in the 2017 Index, companies in the 2018 index still tended to discl
 
 While some companies made improvements, all internet and mobile ecosystem companies evaluated still lacked sufficient information about what data they collect (P3) and share (P4), for what purpose they collect and share it (P5), and for how long they retain it (P6) (see Section 5.2). Notably, internet and mobile ecosystem companies disclosed little about their data retention policies. While in some jurisdictions they are legally required to retain user information for specific periods, companies should disclose what that time frame is and whether they retain user information for longer than is legally required. Companies also lacked sufficient information about how users can control what companies collect, and targeted advertising continues to be the default setting (P7) (see Section 5.3).
 
-FIGURE 9 GOES HERE
+<img src="/assets/graphics/content/Figure 9. How transparent are internet and mobile ecosystem companies about how they handle user information_.png" alt="figure9" title="figure9" align="left" />
 
 - Two companies—Chinese internet companies **Baidu** and **Tencent**—improved their disclosure of reasons for collecting and sharing information (P5), but companies on average scored poorly on this indicator.
 
@@ -53,13 +53,13 @@ The Index includes two indicators that evaluate how transparent companies are ab
 
 As shown in Figure 10, most internet and mobile ecosystem companies did not sufficiently disclose what types of information they share and with whom, with only two of the 12 companies scoring more than 50 percent on this indicator (P4). **Kakao’s** disclosure on this indicator far surpassed all others. Notably, **Google** and **Apple** disclosed less about their data-sharing practices than most internet and mobile ecosystem companies evaluated, only scoring higher on this indicator than **Mail.Ru** and **Baidu**, which were among the lowest scoring companies in the Index overall.
 
-FIGURE 10 GOES HERE
+<img src="/assets/graphics/content/Figure 10. How transparent are internet and mobile ecosystem companies about what user data they share and with whom (P4)_ .png" alt="figure10" title="figure10" align="left" />
 
 An examination of element-level data for this indicator (P4) revealed that while all internet and mobile ecosystem companies disclosed a policy of sharing user information with government authorities if requested, they were less transparent about what other types of third parties they share information with and what types of user information they share. Only a handful of companies disclosed the actual names of third parties with whom they share user information, and no company disclosed all the types of user information they share. Likewise, mobile ecosystem companies did not sufficiently disclose whether they review the data-sharing practices of the apps hosted in their app stores.
 
-Internet and mobile ecosystem companies disclosed even less about why they collect and share user information, with an average score of 46 percent on this indicator (P5, Figure 11). However, the order of the ranking on this indicator looks very different than for Indicator P4, with Google and Twitter tied at the top. But their top score of 63 percent leaves much room for improvement. Notably, Facebook disclosed substantially less about reasons for collecting and sharing user information than its U.S.-based peers.  
+Internet and mobile ecosystem companies disclosed even less about why they collect and share user information, with an average score of 46 percent on this indicator (P5, Figure 11). However, the order of the ranking on this indicator looks very different than for Indicator P4, with Google and Twitter tied at the top. But their top score of 63 percent leaves much room for improvement. Notably, Facebook disclosed substantially less about reasons for collecting and sharing user information than its U.S.-based peers.
 
-FIGURE 11 GOES HERE
+<img src="/assets/graphics/content/Figure 11. How transparent are internet and mobile ecosystem companies about the purpose for collecting and sharing user information (P5)_.png" alt="figure11" title="figure11" align="left" />
 
 An analysis of element-level disclosure on this indicator shows that while many companies disclosed whether they combine user information from different services and the reasons for doing so, fewer disclosed their reasons for collecting and sharing user information. Companies were particularly hesitant to make a clear commitment to using information only for the purposes for which it was collected.
 
@@ -99,7 +99,7 @@ The 2018 Index data showed that most companies failed to disclose clear options 
 
 - **Twitter** disclosed less than Google on this indicator, but was on par with Apple’s disclosure. Twitter disclosed that it allowed users to control the collection of some of their information and delete some of this information, but did not disclose whether this was the case for all types of user information the company collects. Like most other internet and mobile ecosystem companies evaluated, Twitter explained how users can control whether their information is used for advertising purposes, but it did not indicate that interest-based advertising was off by default.
 
-FIGURE 12 GOES HERE
+<img src="/assets/graphics/content/Figure 12. How transparent are internet and mobile ecosystem companies about options users have to control their own data (P7)_.png" alt="figure12" title="figure12" align="left" />
 
 **User privacy is not the default.**
 
@@ -137,9 +137,9 @@ For these reasons, we expect companies to disclose that users can control geoloc
 
 Internet and mobile ecosystem companies not only collect information about what people do when using their services, but they also track users’ web browsing activities. Indicator P9 evaluates how transparent internet and mobile ecosystem companies are about these practices, looking for companies to disclose if, how, and why they track people across third-party websites.[[57]](#footnotes) We expect companies to disclose what types of information they collect via cookies, widgets, and other types of trackers, the purposes for doing so, and how long they retain this information. We also expect companies to disclose if they respect “Do Not Track” signals, which allow users to tell companies not to collect or store information about their visits to or activities on third-party websites.[[58]](#footnotes)
 
-Results of the 2018 Index show that all companies other than **Apple** lacked sufficient disclosure regarding whether and how they track users across the internet (Figure 13). **Apple was the only company that clearly stated it does not track users on third-party websites.** The remaining 11 internet and mobile ecosystem companies in the Index either lacked clear disclosure about their tracking practices or provided no information at all.  
+Results of the 2018 Index show that all companies other than **Apple** lacked sufficient disclosure regarding whether and how they track users across the internet (Figure 13). **Apple was the only company that clearly stated it does not track users on third-party websites.** The remaining 11 internet and mobile ecosystem companies in the Index either lacked clear disclosure about their tracking practices or provided no information at all.
 
-FIGURE 13 GOES HERE
+<img src="/assets/graphics/content/Figure 13. How transparent are internet and mobile ecosystem companies about tracking users across the internet (P9)_.png" alt="figure13" title="figure13" align="left" />
 
 - **Google** made slight improvements to its disclosure by more clearly explaining how it tracks users of the Android mobile ecosystem. It clarified that it may use tools similar to cookies to present users with targeted advertising, and it explained reasons for doing so.
 
