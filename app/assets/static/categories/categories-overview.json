@@ -287,8 +287,8 @@
     },
     {
         "id": "tencent",
-        "name": "tencent",
-        "display": "TenCent",
+        "name": "Tencent",
+        "display": "Tencent",
         "telco": "false",
         "total": {
             "val": "22.61784512",
