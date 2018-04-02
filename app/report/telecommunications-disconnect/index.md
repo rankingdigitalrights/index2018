@@ -9,7 +9,7 @@ header: Narrative
 
 In March 2017, Orange, Telefónica, and Vodafone joined the Global Network Initiative (GNI), along with four other members of the now-disbanded Telecommunications Industry Dialogue (TID).[[84]](#footnotes) As Figure 17 illustrates, over the past year those three GNI companies implemented substantial and meaningful changes to their disclosed policies affecting users’ freedom of expression and privacy. Other telecommunications companies evaluated for the Index remained largely static over the past year—including AT&T, which was previously a member of the TID and held GNI observer status for one year, but did not join GNI along with its European peers.
 
-FIGURE 17 GOES HERE
+<img src="assets/graphics/content/Figure 17. Year-on-year score changes (2017 to 2018), telecommunications companies.png" alt="figure17" title="figure17" align="left" />
 
 Improvements by these companies occurred in the absence of significant legal and regulatory change, with the exception of Europe’s new data protection regulations that come into force in May 2018 (hence, requirements for greater disclosure and more responsible data handling practices under these regulations, discussed in Chapter 3, were not yet fully implemented by companies when Index research ended in January 2018).[[85]](#footnotes) It appears that GNI membership was the main driver of the improvements by Orange, Telefónica, and Vodafone in the 2018 Index—and that it is a catalyst and framework for multinational telecommunications companies to improve their commitments, policies, and disclosures affecting users’ freedom of expression and privacy rights, at least in relation to corporate governance and responses to government demands.
 
@@ -25,7 +25,7 @@ Telecommunications companies provide the fixed-line and mobile internet service 
 
 In a 2017 report, David Kaye, U.N. Special Rapporteur on the promotion and protection of the right to freedom of opinion and expression, noted that governments increasingly exercise power over telecommunications companies in ways that violate human rights norms by being over-broad, non-transparent, unaccountable, and lacking due process.[[86]](#footnotes) Unlike internet and mobile ecosystem companies which can serve users remotely, telecommunications companies must be present on the ground and are obliged to uphold domestic laws as well as the terms of their license agreements with the host government. These companies can also face “extra legal intimidation, such as threats to the safety of their employees and infrastructure in the event of non-compliance.”[[87]](#footnotes)
 
-Telecommunications companies in this Index are under pressure to comply with an increasing number of government demands to shut down networks or block access to websites, combined with pressure from civil society to be more accountable about when and why they do so. Laws—and regulatory ambiguity—in many countries prevent telecommunications companies from performing well in the Index. Individual company report cards identify specific ways that the law hinders each company from respecting users’ rights. Yet we have also identified ways that all telecommunications companies in the Index can improve their commitment and disclosure, even under current regulatory and legal realities.  
+Telecommunications companies in this Index are under pressure to comply with an increasing number of government demands to shut down networks or block access to websites, combined with pressure from civil society to be more accountable about when and why they do so. Laws—and regulatory ambiguity—in many countries prevent telecommunications companies from performing well in the Index. Individual company report cards identify specific ways that the law hinders each company from respecting users’ rights. Yet we have also identified ways that all telecommunications companies in the Index can improve their commitment and disclosure, even under current regulatory and legal realities.
 
 ## 7.1. Chokepoints for global information flows ## {#subsection-71}
 
@@ -37,7 +37,7 @@ The 2018 Index includes eight indicators evaluating how transparent telecommunic
 
 Results of the 2018 Index show that these companies reveal little about their content-blocking activities—whether as a result of enforcing their own rules, or demands from governments and other external entities to block websites or shut down networks (Figure 18).
 
-FIGURE 18 GOES HERE
+<img src="assets/graphics/content/Figure 18. How transparent are telecommunications companies about blocking content and access (F3-F10)_.png" alt="figure18" title="figure18" align="left" />
 
 As Figure 18 shows, there were few improvements. **Telefónica** demonstrated the most improvements of any telecommunications company, clarifying reasons it may not comply with government requests (F5), and disclosing more detail about the number of government requests that it received to restrict content or accounts that it received and the number of those requests with which it complied (F6). The company, along with **AT&T**, **Orange**, and **Vodafone**, also improved disclosure of its handling of government demands to shut down networks (F10).
 
@@ -57,7 +57,7 @@ While telecommunications companies cannot stop governments from demanding shutdo
 
 There is a long way to go: the average score on this indicator was just 18.75 percent, with all companies failing to provide sufficient information about how they respond to such demands.[[94]](#footnotes) While four telecommunications companies—**AT&T**, **Orange**, **Telefónica**, and **Vodafone**—improved their disclosure of how they deal with government requests to shut down networks, all companies still lacked transparency.
 
-FIGURE 19 GOES HERE
+<img src="assets/graphics/content/Figure 19. How transparent are telecommunications companies about policies for responding to government shutdown orders (F10)_.png" alt="figure19" title="figure19" align="left" />
 
 An examination of company disclosure reveals the following:
 
@@ -87,9 +87,9 @@ Just four companies—**AT&T**, **Etisalat**, **Telefónica**, and **Vodafone**�
 
 **Vodafone** disclosed more than its peers about its process for handling third-party requests, but then disclosed no data about its compliance with these requests. No telecommunications company provided any data about private requests it received to restrict content or accounts.
 
-FIGURE 20 GOES HERE
+<img src="assets/graphics/content/Figure 20. How transparent are tc about handling external demands to censor content and restrict accounts (F5-F7)_.png" alt="figure20" title="figure20" align="left" />
 
-**While most telecommunications companies disclosed some information about what types of content or activities are prohibited on their services, none disclosed any information about what actions they take to enforce these terms.**  
+**While most telecommunications companies disclosed some information about what types of content or activities are prohibited on their services, none disclosed any information about what actions they take to enforce these terms.**
 
 Telecommunications companies have the ability to block content or access to their services, according to their own internal rules and in line with the regulations of the country in which they operate.
 
@@ -97,7 +97,7 @@ Most telecommunications companies provide some information about their rules in 
 
 No telecommunications company made any improvement on indicators related to terms of service enforcement in the 2018 Index. None published any data about the volume of content or URLs it blocks or user accounts it otherwise restricts or suspends, as a result of breaches to those terms.
 
-FIGURE 21 GOES HERE
+<img src="assets/graphics/content/Figure 21. How transparent are telecommunications companies about their rules and how they are enforced (F3, F4)_.png" alt="figure21" title="figure21" align="left" />
 
 While every telecommunications company in the Index disclosed some information about the policies for enforcing its terms of service, disclosure is inadequate across the board, with some companies disclosing very little. As Figure 21 shows, **Orange France** disclosed more than any other telecommunications company, followed by **Telefónica Spain**, **AT&T**, and **Vodafone UK**.
 
@@ -125,9 +125,9 @@ Given the amount of sensitive information telecommunications providers may have 
 
 Our researchers did not identify any legal or regulatory reasons why all of the telecommunications companies in the Index should not earn full credit for publicly disclosing clear and accessible privacy policies, and for notifying users of changes to those policies. Yet as Figure 22 shows, even such basic disclosure is a challenge for many.
 
-FIGURE 22 GOES HERE
+<img src="assets/graphics/content/Figure 22. Access to and notification about privacy policies (telecommunications companies).png" alt="figure22" title="figure22" align="left" />
 
-The privacy policies for **Telcel (América Móvil)**, **Celcom (Axiata)**, and **Telefónica Spain** were easy to find and available in the primary languages of their home markets, but these policies were not presented in a way that would be easy for most consumers to understand. The privacy policy for **Airtel India (Bharti Airtel)** was easy to find, but was not available in languages other than English and was divided across several separate documents, making it difficult for users to comprehend the scope of the terms. **MTN South Africa’s** privacy policy was presented in a more easily read manner than Bharti Airtel’s, but was not as straightforward to find on the company’s website, and was not available in the primary languages (other than English) of MTN’s home market.  
+The privacy policies for **Telcel (América Móvil)**, **Celcom (Axiata)**, and **Telefónica Spain** were easy to find and available in the primary languages of their home markets, but these policies were not presented in a way that would be easy for most consumers to understand. The privacy policy for **Airtel India (Bharti Airtel)** was easy to find, but was not available in languages other than English and was divided across several separate documents, making it difficult for users to comprehend the scope of the terms. **MTN South Africa’s** privacy policy was presented in a more easily read manner than Bharti Airtel’s, but was not as straightforward to find on the company’s website, and was not available in the primary languages (other than English) of MTN’s home market.
 
 **AT&T** was the only telecommunications company to commit to notify users of changes to its privacy policy. It provided users with a timeframe for notice, but failed to disclose that it would directly notify users of these changes, instead opting to post them on its website, which is not considered a form of direct notification.
 
@@ -141,11 +141,11 @@ The privacy policies for **Telcel (América Móvil)**, **Celcom (Axiata)**, and 
 
 **Surveillance accountability: Companies fail to provide maximum, legally permissible transparency about how they handle third-party requests for user information.**
 
-Many countries have over-broad surveillance laws that do not require basic transparency and accountability on the part of government authorities. These laws also often prevent telecommunications companies from disclosing even general information about the companies’ processes for complying with demands and what information is shared with authorities. Thus, some companies have their home governments—and laws that breach international human rights standards—to blame for their lack of transparency regarding how they handle government requests for user information. Nonetheless, there are ways that each and every one of the telecommunications companies in this Index can improve their scores on these indicators.  
+Many countries have over-broad surveillance laws that do not require basic transparency and accountability on the part of government authorities. These laws also often prevent telecommunications companies from disclosing even general information about the companies’ processes for complying with demands and what information is shared with authorities. Thus, some companies have their home governments—and laws that breach international human rights standards—to blame for their lack of transparency regarding how they handle government requests for user information. Nonetheless, there are ways that each and every one of the telecommunications companies in this Index can improve their scores on these indicators.
 
 Index data shows that of the 10 telecommunications companies evaluated, seven disclosed some information about their process for evaluating and responding to requests to hand over user information—and only four of these companies provided any data on the number of such requests they received, or the number with which they complied (Figure 23).
 
-FIGURE 23 GOES HERE
+<img src="assets/graphics/content/Figure 23. How transparent are telecommunications companies are about government and private requests for user information (P10, P11, P12)_.png" alt="figure23" title="figure23" align="left" />
 
 Results revealed the following:
 
@@ -167,7 +167,7 @@ Results of the 2018 Index show that telecommunications companies were generally 
 
 As in the 2017 Index, **AT&T** disclosed more than any other telecommunication company, including the three European companies (Orange, Telefónica, and Vodafone) about its handling of user information (Figure 24).
 
-FIGURE 24 GOES HERE
+<img src="app/assets/graphics/content/Figure 24. How transparent are telecommunications companies about their handling of user information (P3-P8)_.png" alt="figure24" title="figure24" align="left" />
 
 There was little improvement across these indicators for the 2018 Index: two companies—**AT&T** and **Orange**—improved disclosure of options users have to access their information (although none disclosed that users can access all of the information a company holds on them). Telecommunications companies disclosed particularly little about data retention policies: only two companies, **AT&T** and **Vodafone**, disclosed any information, and what they did disclose is scant.
 
