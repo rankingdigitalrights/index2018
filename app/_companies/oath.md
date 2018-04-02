@@ -1,9 +1,9 @@
 ---
 company_type_page: internet-and-mobile-companies
-entity: yahoo
+entity: oath
 layout: company
-name: yahoo
-id: yahoo
+name: oath
+id: oath
 
 company_type: Internet and Mobile Ecosystem Companies
 display: Yahoo! Inc.

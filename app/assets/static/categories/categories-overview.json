@@ -44,8 +44,8 @@
         }
     },
     {
-        "id": "yahoo",
-        "name": "yahoo",
+        "id": "oath",
+        "name": "oath",
         "display": "Oath",
         "telco": "false",
         "total": {
