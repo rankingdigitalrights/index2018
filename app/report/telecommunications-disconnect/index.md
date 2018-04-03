@@ -167,7 +167,7 @@ Results of the 2018 Index show that telecommunications companies were generally 
 
 As in the 2017 Index, **AT&T** disclosed more than any other telecommunication company, including the three European companies (Orange, Telefónica, and Vodafone) about its handling of user information (Figure 24).
 
-<img src="/app/assets/graphics/content/Figure 24. How transparent are telecommunications companies about their handling of user information (P3-P8)_.png" alt="figure24" title="figure24" align="left" />
+<img src="/assets/graphics/content/Figure 24. How transparent are telecommunications companies about their handling of user information (P3-P8)_.png" alt="figure24" title="figure24" align="left" />
 
 There was little improvement across these indicators for the 2018 Index: two companies—**AT&T** and **Orange**—improved disclosure of options users have to access their information (although none disclosed that users can access all of the information a company holds on them). Telecommunications companies disclosed particularly little about data retention policies: only two companies, **AT&T** and **Vodafone**, disclosed any information, and what they did disclose is scant.
 
