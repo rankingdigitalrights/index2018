@@ -356,8 +356,8 @@ $maincolor:  #231f20;
         }
     }
     .pagination{
+      font-size: 20px;
       margin: 40px 0;
-
       	a{
           cursor: pointer;
           color: $black-lighter ;
@@ -376,10 +376,13 @@ $maincolor:  #231f20;
           i{
             padding: 0 5px;
             position: relative;
-            top: -2px;
+            //top: -2px;
           }
 
       	}
+        a:hover {
+          border-bottom: 2px solid #E5DCD2;
+        }
       	.next{
       		float:right;
       	}
@@ -395,8 +398,10 @@ $maincolor:  #231f20;
           margin: 0 0 20px 0;
         }
       }
+      font-size: 0.85em;
+      margin: 0 0 20px 0;
     }
-    .footnote-paragraph{
+    .footnote-paragraph {
       font-size: 0.85em;
       margin: 0 0 20px 0;
     }

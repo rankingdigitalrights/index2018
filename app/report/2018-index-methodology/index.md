@@ -1,6 +1,13 @@
 ---
 layout: narrative
 header: Narrative
+
+prev:
+  href: about-index
+  text: About the Index
+next:
+  href: introduction
+  text: Introduction
 ---
 
 # 1. 2018 Index Methodology

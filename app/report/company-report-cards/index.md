@@ -1,6 +1,13 @@
 ---
 layout: narrative
 header: Narrative
+
+prev:
+  href: questions-for-investors-to-ask
+  text: Questions for investors to ask
+next:
+  href: appendix
+  text: Appendix
 ---
 
 # 10. Company Report Cards

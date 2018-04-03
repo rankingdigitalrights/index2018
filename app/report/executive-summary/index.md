@@ -1,6 +1,10 @@
 ---
 layout: narrative
 header: Narrative
+
+next:
+  href: about-index
+  text: About the Index
 ---
 
 # Executive summary

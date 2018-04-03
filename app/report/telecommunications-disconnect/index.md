@@ -1,6 +1,13 @@
 ---
 layout: narrative
 header: Narrative
+
+prev:
+  href: policing-speech
+  text: Policing speech
+next:
+  href: recommendations-for-governments
+  text: Recommendations for governments
 ---
 
 # 7. Telecommunications disconnect

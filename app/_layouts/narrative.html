@@ -117,6 +117,16 @@
 
         <div class="narrative-content">
           {{content}}
+
+          <div class="pagination">
+            {% if page.prev %}
+            <a href="{{ site.baseurl }}/report/{{ page.prev.href }}"><i class="fa fa-angle-double-left"></i>{{ page.prev.text }}</a>
+            {% endif %}
+            {% if page.next %}
+            <a class="next" href="{{ site.baseurl }}/report/{{ page.next.href }}">{{ page.next.text }}<i class="fa fa-angle-double-right"></i></a>
+            {% endif %}
+          </div>
+
         </div>
 
       </div><!--end of #narrative-page-content-->

@@ -1,6 +1,13 @@
 ---
 layout: narrative
 header: Narrative
+
+prev:
+  href: recommendations-for-governments
+  text: Recommendations for governments
+next:
+  href: company-report-cards
+  text: Company Report Cards
 ---
 
 # 9. Questions for investors to ask

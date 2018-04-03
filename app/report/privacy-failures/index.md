@@ -1,6 +1,14 @@
 ---
 layout: narrative
 header: Narrative
+
+prev:
+  href: security-uncertainty
+  text: Security uncertainty
+next:
+  href: policing-speech
+  text: Policing speech
+
 ---
 
 # 5. Privacy failures

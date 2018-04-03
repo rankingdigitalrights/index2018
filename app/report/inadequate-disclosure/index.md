@@ -1,6 +1,13 @@
 ---
 layout: narrative
 header: Narrative
+
+prev:
+  href: introduction
+  text: Introduction
+next:
+  href: security-uncertainty
+  text: Security uncertainty
 ---
 
 # 3. Inadequate disclosure

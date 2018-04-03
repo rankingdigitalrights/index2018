@@ -1,6 +1,10 @@
 ---
 layout: narrative
 header: Narrative
+
+prev:
+  href: company-report-cards
+  text: Company Report Cards
 ---
 
 # 11. Appendix

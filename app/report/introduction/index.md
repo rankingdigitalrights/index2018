@@ -1,6 +1,13 @@
 ---
 layout: narrative
 header: Narrative
+
+prev:
+  href: 2018-index-methodology
+  text: 2018 Index Methodology
+next:
+  href: inadequate-disclosure
+  text: Inadequate disclosure
 ---
 
 # 2. Introduction

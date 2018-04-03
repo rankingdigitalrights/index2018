@@ -1,6 +1,13 @@
 ---
 layout: narrative
 header: Narrative
+
+prev:
+  href: privacy-failures
+  text: Privacy failures
+next:
+  href: telecommunications-disconnect
+  text: Telecommunications disconnect
 ---
 
 # 6. Policing speech

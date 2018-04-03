@@ -1,6 +1,13 @@
 ---
 layout: narrative
 header: Narrative
+
+prev:
+  href: telecommunications-disconnect
+  text: Telecommunications disconnect
+next:
+  href: questions-for-investors-to-ask
+  text: Questions for investors to ask 
 ---
 
 # 8. Recommendations for governments

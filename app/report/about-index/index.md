@@ -1,6 +1,13 @@
 ---
 layout: narrative
 header: Narrative
+
+prev:
+  href: executive-summary
+  text: Executive summary
+next:
+  href: 2018-index-methodology
+  text: 2018 Index Methodology 
 ---
 
 # About the Ranking Digital Rights Corporate Accountability Index

@@ -1,6 +1,13 @@
 ---
 layout: narrative
 header: Narrative
+
+prev:
+  href: inadequate-disclosure
+  text: Inadequate disclosure
+next:
+  href: privacy-failures
+  text: Privacy failures
 ---
 
 # 4. Security uncertainty
