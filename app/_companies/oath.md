@@ -6,10 +6,10 @@ name: oath
 id: oath
 
 company_type: Internet and Mobile Ecosystem Companies
-display: Yahoo! Inc.
+display: Oath Inc.
 headquarters: USA
-link: https://yahoo.com
-download: https://www.yahoo.com
+link: https://www.oath.com
+download: https://www.oath.com
 
 telco: false
 
@@ -24,15 +24,15 @@ services_evaluated:
   - item:
     key: email
     key_href: emailservice
-    name: yahoo mail
+    name: Yahoo Mail
   - item:
-    key: photo sharing
+    key: Video & photo sharing
     key_href: videophoto
-    name: flickr
+    name: Flickr
   - item:
-    key: blog
+    key: Social networking & blog
     key_href: socialnetworkblog
-    name: tumblr
+    name: Tumblr
 
 analysis_text: "Oath ranked third out of the 12 internet and mobile ecosystem companies evaluated, behind Google and Microsoft. A member of the Global Network Initiative (GNI), Oath has continued to implement many of the human rights commitments and policies previously established by Yahoo, following Verizon’s acquisition of Yahoo and the establishment of Oath in June 2017. The company made several improvements in the 2018 Index, including incorporating Tumblr into Oath’s more detailed transparency reporting. While Oath disclosed a strong commitment to respect human rights at the governance level, it could still improve its disclosure of key policies affecting users’ freedom of expression and privacy. It could be more transparent about how it polices content on its services and could be more clear about its security practices. Oath disclosed less data than all other U.S. internet and mobile ecosystem companies about the government and private requests it received for user information. <a href=\"https://www.congress.gov/bill/114th-congress/house-bill/2048\" target=\"_blank\">U.S. law prohibits companies</a> from disclosing exact numbers of government requests for stored and real-time user information they receive, which prevented Oath from being fully transparent in that area."
 
