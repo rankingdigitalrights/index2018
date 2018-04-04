@@ -51,7 +51,7 @@
                 {
                     "cells": [
                         {
-                            "value": "3. Are the terms of service are presented in an understandable manner?"
+                            "value": "3. are the terms of service presented in an understandable manner?"
                         },
                         {
                             "value": "50"
@@ -124,7 +124,7 @@
                 {
                     "cells": [
                         {
-                            "value": "3. Are the terms of service are presented in an understandable manner?"
+                            "value": "3. are the terms of service presented in an understandable manner?"
                         },
                         {
                             "value": "50"
@@ -200,7 +200,7 @@
                 {
                     "cells": [
                         {
-                            "value": "3. Are the terms of service are presented in an understandable manner?"
+                            "value": "3. are the terms of service presented in an understandable manner?"
                         },
                         {
                             "value": "50"
@@ -264,7 +264,7 @@
                 {
                     "cells": [
                         {
-                            "value": "3. Are the terms of service are presented in an understandable manner?"
+                            "value": "3. are the terms of service presented in an understandable manner?"
                         },
                         {
                             "value": "50"
@@ -337,7 +337,7 @@
                 {
                     "cells": [
                         {
-                            "value": "3. Are the terms of service are presented in an understandable manner?"
+                            "value": "3. are the terms of service presented in an understandable manner?"
                         },
                         {
                             "value": "50"
@@ -413,7 +413,7 @@
                 {
                     "cells": [
                         {
-                            "value": "3. Are the terms of service are presented in an understandable manner?"
+                            "value": "3. are the terms of service presented in an understandable manner?"
                         },
                         {
                             "value": "0"
@@ -489,7 +489,7 @@
                 {
                     "cells": [
                         {
-                            "value": "3. Are the terms of service are presented in an understandable manner?"
+                            "value": "3. are the terms of service presented in an understandable manner?"
                         },
                         {
                             "value": "100"
@@ -577,7 +577,7 @@
                 {
                     "cells": [
                         {
-                            "value": "3. Are the terms of service are presented in an understandable manner?"
+                            "value": "3. are the terms of service presented in an understandable manner?"
                         },
                         {
                             "value": "100"
@@ -668,7 +668,7 @@
                 {
                     "cells": [
                         {
-                            "value": "3. Are the terms of service are presented in an understandable manner?"
+                            "value": "3. are the terms of service presented in an understandable manner?"
                         },
                         {
                             "value": "100"
@@ -747,7 +747,7 @@
                 {
                     "cells": [
                         {
-                            "value": "3. Are the terms of service are presented in an understandable manner?"
+                            "value": "3. are the terms of service presented in an understandable manner?"
                         },
                         {
                             "value": "50"
@@ -823,7 +823,7 @@
                 {
                     "cells": [
                         {
-                            "value": "3. Are the terms of service are presented in an understandable manner?"
+                            "value": "3. are the terms of service presented in an understandable manner?"
                         },
                         {
                             "value": "50"
@@ -899,7 +899,7 @@
                 {
                     "cells": [
                         {
-                            "value": "3. Are the terms of service are presented in an understandable manner?"
+                            "value": "3. are the terms of service presented in an understandable manner?"
                         },
                         {
                             "value": "100"
@@ -963,7 +963,7 @@
                 {
                     "cells": [
                         {
-                            "value": "3. Are the terms of service are presented in an understandable manner?"
+                            "value": "3. are the terms of service presented in an understandable manner?"
                         },
                         {
                             "value": "50"
@@ -976,28 +976,28 @@
             ]
         },
         {
-            "id": "orange",
-            "name": "Orange",
+            "id": "oath",
+            "name": "Oath",
             "headers": [
                 {
-                    "text": "Prepaid Mobile"
+                    "text": "Yahoo Mail"
                 },
                 {
-                    "text": "Postpaid Mobile"
+                    "text": "Flickr"
                 },
                 {
-                    "text": "Fixed Line Broadband"
+                    "text": "Tumblr"
                 }
             ],
             "average": [
                 {
-                    "value": "67"
+                    "value": "83"
                 },
                 {
-                    "value": "67"
+                    "value": "83"
                 },
                 {
-                    "value": "67"
+                    "value": "83"
                 }
             ],
             "rows": [
@@ -1029,23 +1029,23 @@
                             "value": "100"
                         },
                         {
-                            "value": "100"
+                            "value": "50"
                         }
                     ]
                 },
                 {
                     "cells": [
                         {
-                            "value": "3. Are the terms of service are presented in an understandable manner?"
+                            "value": "3. are the terms of service presented in an understandable manner?"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
-                            "value": "0"
+                            "value": "100"
                         }
                     ]
                 }
@@ -1112,7 +1112,7 @@
                 {
                     "cells": [
                         {
-                            "value": "3. Are the terms of service are presented in an understandable manner?"
+                            "value": "3. are the terms of service presented in an understandable manner?"
                         },
                         {
                             "value": "100"
@@ -1122,6 +1122,82 @@
                         },
                         {
                             "value": "100"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "orange",
+            "name": "Orange",
+            "headers": [
+                {
+                    "text": "Prepaid Mobile"
+                },
+                {
+                    "text": "Postpaid Mobile"
+                },
+                {
+                    "text": "Fixed Line Broadband"
+                }
+            ],
+            "average": [
+                {
+                    "value": "67"
+                },
+                {
+                    "value": "67"
+                },
+                {
+                    "value": "67"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Are the company’s terms of service easy to find?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Are the terms of service available in the language(s) most commonly spoken by the company’s users?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. are the terms of service presented in an understandable manner?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
                         }
                     ]
                 }
@@ -1164,7 +1240,7 @@
                 {
                     "cells": [
                         {
-                            "value": "3. Are the terms of service are presented in an understandable manner?"
+                            "value": "3. are the terms of service presented in an understandable manner?"
                         },
                         {
                             "value": "0"
@@ -1234,7 +1310,7 @@
                 {
                     "cells": [
                         {
-                            "value": "3. Are the terms of service are presented in an understandable manner?"
+                            "value": "3. are the terms of service presented in an understandable manner?"
                         },
                         {
                             "value": "50"
@@ -1251,7 +1327,7 @@
         },
         {
             "id": "tencent",
-            "name": "TenCent",
+            "name": "Tencent",
             "headers": [
                 {
                     "text": "QZone"
@@ -1310,7 +1386,7 @@
                 {
                     "cells": [
                         {
-                            "value": "3. Are the terms of service are presented in an understandable manner?"
+                            "value": "3. are the terms of service presented in an understandable manner?"
                         },
                         {
                             "value": "50"
@@ -1374,7 +1450,7 @@
                 {
                     "cells": [
                         {
-                            "value": "3. Are the terms of service are presented in an understandable manner?"
+                            "value": "3. are the terms of service presented in an understandable manner?"
                         },
                         {
                             "value": "100"
@@ -1447,7 +1523,7 @@
                 {
                     "cells": [
                         {
-                            "value": "3. Are the terms of service are presented in an understandable manner?"
+                            "value": "3. are the terms of service presented in an understandable manner?"
                         },
                         {
                             "value": "100"
@@ -1462,88 +1538,13 @@
                 }
             ]
         },
-        {
-            "id": "yahoo",
-            "name": "Oath",
-            "headers": [
-                {
-                    "text": "Yahoo Mail"
-                },
-                {
-                    "text": "Flickr"
-                },
-                {
-                    "text": "Tumblr"
-                }
-            ],
-            "average": [
-                {
-                    "value": "83"
-                },
-                {
-                    "value": "83"
-                },
-                {
-                    "value": "83"
-                }
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "1. Are the company’s terms of service easy to find?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Are the terms of service available in the language(s) most commonly spoken by the company’s users?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Are the terms of service are presented in an understandable manner?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                }
-            ]
-        },
+
         {
             "id": "yandex",
             "name": "Yandex",
             "headers": [
                 {
-                    "text": "Yandex Mail ecosystem"
+                    "text": "Yandex Mail"
                 },
                 {
                     "text": "Yandex Search"
@@ -1599,7 +1600,7 @@
                 {
                     "cells": [
                         {
-                            "value": "3. Are the terms of service are presented in an understandable manner?"
+                            "value": "3. are the terms of service presented in an understandable manner?"
                         },
                         {
                             "value": "50"

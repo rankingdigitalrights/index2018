@@ -1181,6 +1181,98 @@
             ]
         },
         {
+            "id": "oath",
+            "name": "Oath",
+            "headers": [
+                {
+                    "text": "Yahoo Mail"
+                },
+                {
+                    "text": "Flickr"
+                },
+                {
+                    "text": "Tumblr"
+                }
+            ],
+            "average": [
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "66.6666666667"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Are the company’s privacy policies easy to find?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Are the privacy policies available in the language(s) most commonly spoken by the company’s users?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Are the policies presented in an understandable manner?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. (For mobile ecosystems): Does the company disclose that it requires apps made available through its app store to provide users with a privacy policy?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "ooredoo",
             "name": "Ooredoo",
             "headers": [
@@ -1514,7 +1606,7 @@
         },
         {
             "id": "tencent",
-            "name": "TenCent",
+            "name": "Tencent",
             "headers": [
                 {
                     "text": "QZone"
@@ -1771,103 +1863,11 @@
             ]
         },
         {
-            "id": "yahoo",
-            "name": "Oath",
-            "headers": [
-                {
-                    "text": "Yahoo Mail"
-                },
-                {
-                    "text": "Flickr"
-                },
-                {
-                    "text": "Tumblr"
-                }
-            ],
-            "average": [
-                {
-                    "value": "100"
-                },
-                {
-                    "value": "100"
-                },
-                {
-                    "value": "66.6666666667"
-                }
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "1. Are the company’s privacy policies easy to find?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Are the privacy policies available in the language(s) most commonly spoken by the company’s users?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Are the policies presented in an understandable manner?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "4. (For mobile ecosystems): Does the company disclose that it requires apps made available through its app store to provide users with a privacy policy?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "id": "yandex",
             "name": "Yandex",
             "headers": [
                 {
-                    "text": "Yandex Mail ecosystem"
+                    "text": "Yandex mail"
                 },
                 {
                     "text": "Yandex Search"

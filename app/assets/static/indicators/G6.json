@@ -2184,6 +2184,177 @@
             ]
         },
         {
+            "id": "oath",
+            "name": "Oath",
+            "headers": [
+                {
+                    "text": "Yahoo Mail - Freedom of Expression"
+                },
+                {
+                    "text": "Yahoo Mail - Privacy"
+                },
+                {
+                    "text": "Flickr - Freedom of Expression"
+                },
+                {
+                    "text": "Flickr - Privacy"
+                },
+                {
+                    "text": "Tumblr - Freedom of Expression"
+                },
+                {
+                    "text": "Tumblr - Privacy"
+                }
+            ],
+            "average": [
+                {
+                    "value": "40"
+                },
+                {
+                    "value": "30"
+                },
+                {
+                    "value": "30"
+                },
+                {
+                    "value": "30"
+                },
+                {
+                    "value": "50"
+                },
+                {
+                    "value": "30"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose its processes for receiving complaints?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose that its process includes complaints related to freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose its process for responding to complaints?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company report on the number of complaints received related to freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Does the company provide clear evidence that it is responding to complaints?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "ooredoo",
             "name": "Ooredoo",
             "headers": [
@@ -2785,7 +2956,7 @@
         },
         {
             "id": "tencent",
-            "name": "TenCent",
+            "name": "Tencent",
             "headers": [
                 {
                     "text": "QZone - Freedom of Expression"
@@ -3255,185 +3426,14 @@
             ]
         },
         {
-            "id": "yahoo",
-            "name": "Oath",
-            "headers": [
-                {
-                    "text": "Yahoo Mail - Freedom of Expression"
-                },
-                {
-                    "text": "Yahoo Mail - Privacy"
-                },
-                {
-                    "text": "Flickr - Freedom of Expression"
-                },
-                {
-                    "text": "Flickr - Privacy"
-                },
-                {
-                    "text": "Tumblr - Freedom of Expression"
-                },
-                {
-                    "text": "Tumblr - Privacy"
-                }
-            ],
-            "average": [
-                {
-                    "value": "40"
-                },
-                {
-                    "value": "30"
-                },
-                {
-                    "value": "30"
-                },
-                {
-                    "value": "30"
-                },
-                {
-                    "value": "50"
-                },
-                {
-                    "value": "30"
-                }
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "1. Does the company clearly disclose its processes for receiving complaints?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company clearly disclose that its process includes complaints related to freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Does the company clearly disclose its process for responding to complaints?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "4. Does the company report on the number of complaints received related to freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "5. Does the company provide clear evidence that it is responding to complaints?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "id": "yandex",
             "name": "Yandex",
             "headers": [
                 {
-                    "text": "Yandex Mail ecosystem - Freedom of Expression"
+                    "text": "Yandex mail - Freedom of Expression"
                 },
                 {
-                    "text": "Yandex Mail ecosystem - Privacy"
+                    "text": "Yandex mail - Privacy"
                 },
                 {
                     "text": "Yandex Search - Freedom of Expression"

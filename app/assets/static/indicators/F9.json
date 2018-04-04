@@ -771,8 +771,68 @@
             ]
         },
         {
-            "id": "orange",
-            "name": "Orange",
+            "id": "oath",
+            "name": "Oath",
+            "headers": [
+                {
+                    "text": "Yahoo Mail"
+                },
+                {
+                    "text": "Flickr"
+                },
+                {
+                    "text": "Tumblr"
+                }
+            ],
+            "average": [
+                {
+                    "value": "N/A"
+                },
+                {
+                    "value": "N/A"
+                },
+                {
+                    "value": "N/A"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it does not prioritize, block, or delay certain types of traffic, applications, protocols, or content for reasons beyond assuring quality of service and reliability of the network?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. If the company does engage in these practices, does it clearly disclose its purpose for doing so?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ooredoo",
+            "name": "Ooredoo",
             "headers": [
                 {
                     "text": "Prepaid Mobile"
@@ -831,8 +891,8 @@
             ]
         },
         {
-            "id": "ooredoo",
-            "name": "Ooredoo",
+            "id": "orange",
+            "name": "Orange",
             "headers": [
                 {
                     "text": "Prepaid Mobile"
@@ -988,7 +1048,7 @@
         },
         {
             "id": "tencent",
-            "name": "TenCent",
+            "name": "Tencent",
             "headers": [
                 {
                     "text": "QZone"
@@ -1155,71 +1215,11 @@
             ]
         },
         {
-            "id": "yahoo",
-            "name": "Oath",
-            "headers": [
-                {
-                    "text": "Yahoo Mail"
-                },
-                {
-                    "text": "Flickr"
-                },
-                {
-                    "text": "Tumblr"
-                }
-            ],
-            "average": [
-                {
-                    "value": "N/A"
-                },
-                {
-                    "value": "N/A"
-                },
-                {
-                    "value": "N/A"
-                }
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "1. Does the company clearly disclose that it does not prioritize, block, or delay certain types of traffic, applications, protocols, or content for reasons beyond assuring quality of service and reliability of the network?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. If the company does engage in these practices, does it clearly disclose its purpose for doing so?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "id": "yandex",
             "name": "Yandex",
             "headers": [
                 {
-                    "text": "Yandex Mail ecosystem"
+                    "text": "Yandex Mail"
                 },
                 {
                     "text": "Yandex Search"

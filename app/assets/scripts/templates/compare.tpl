@@ -1,4 +1,5 @@
 <section class="item">
+  <a id="<%= name.toLowerCase().replace('&', '').replace('.', '').replace(' ', '') %>"></a>
   <div class="main-content-with-padding">
     <div class="contain spaced-row row">
       <div class="container--score">

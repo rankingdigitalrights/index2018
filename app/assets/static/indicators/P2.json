@@ -1386,6 +1386,114 @@
             ]
         },
         {
+            "id": "oath",
+            "name": "Oath",
+            "headers": [
+                {
+                    "text": "Yahoo Mail"
+                },
+                {
+                    "text": "Flickr"
+                },
+                {
+                    "text": "Tumblr"
+                }
+            ],
+            "average": [
+                {
+                    "value": "25"
+                },
+                {
+                    "value": "25"
+                },
+                {
+                    "value": "100"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it notifies users about changes to its privacy policies?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. (For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "ooredoo",
             "name": "Ooredoo",
             "headers": [
@@ -1777,7 +1885,7 @@
         },
         {
             "id": "tencent",
-            "name": "TenCent",
+            "name": "Tencent",
             "headers": [
                 {
                     "text": "QZone"
@@ -2079,119 +2187,11 @@
             ]
         },
         {
-            "id": "yahoo",
-            "name": "Oath",
-            "headers": [
-                {
-                    "text": "Yahoo Mail"
-                },
-                {
-                    "text": "Flickr"
-                },
-                {
-                    "text": "Tumblr"
-                }
-            ],
-            "average": [
-                {
-                    "value": "25"
-                },
-                {
-                    "value": "25"
-                },
-                {
-                    "value": "100"
-                }
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "1. Does the company clearly disclose that it notifies users about changes to its privacy policies?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Does the company clearly disclose the time frame within which it provides notification prior to changes coming into effect?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "4. Does the company maintain a public archive or change log?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "5. (For mobile ecosystems): Does the company clearly disclose that it requires apps sold through its app store to notify users when the app changes its privacy policy?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "id": "yandex",
             "name": "Yandex",
             "headers": [
                 {
-                    "text": "Yandex Mail ecosystem"
+                    "text": "Yandex mail"
                 },
                 {
                     "text": "Yandex Search"

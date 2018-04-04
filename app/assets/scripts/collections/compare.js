@@ -16,6 +16,7 @@ module.exports = Backbone.Collection.extend({
             d.governance_2018 = d.governance_2018;
             d.governance_difference = d.governance_difference;
             d.name = d.name;
+            d.id = d.id; //d.name.toLowerCase();
             d.privacy_2017 = d.privacy_2017;
             d.privacy_2018 = d.privacy_2018;
             d.privacy_difference = d.privacy_difference;

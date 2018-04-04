@@ -29,11 +29,11 @@
         ],
         "freedom": [
             {
-                "value": "66.67",
+                "value": "66.6666666667",
                 "name": "F1. Access to terms of service"
             },
             {
-                "value": "37.5",
+                "value": "50",
                 "name": "F2. Changes to terms of service"
             },
             {
@@ -75,7 +75,7 @@
         ],
         "privacy": [
             {
-                "value": "83.33",
+                "value": "83.3333333333",
                 "name": "P1. Access to privacy policies"
             },
             {
@@ -83,7 +83,7 @@
                 "name": "P2. Changes to privacy policies"
             },
             {
-                "value": "16.67",
+                "value": "16.6666666667",
                 "name": "P3. Collection of user information"
             },
             {
@@ -103,7 +103,7 @@
                 "name": "P7. Users’ control over their own user information"
             },
             {
-                "value": "0",
+                "value": "12.5",
                 "name": "P8. Users’ access to their own user information"
             },
             {
@@ -111,7 +111,7 @@
                 "name": "P9. Collection of user information from third parties (Internet companies)"
             },
             {
-                "value": "8.33",
+                "value": "8.3333333333",
                 "name": "P10. Process for responding to third-party requests for user information"
             },
             {
@@ -156,29 +156,29 @@
                 "name": "G1. Policy Commitment"
             },
             {
-                "value": "41.67",
+                "value": "50",
                 "name": "G2. Governance and management oversight"
             },
             {
-                "value": "37.5",
+                "value": "50",
                 "name": "G3. Internal implementation"
             },
             {
-                "value": "0",
+                "value": "16.6666666667",
                 "name": "G4. Impact assessment"
             },
             {
-                "value": "0",
+                "value": "8.3333333333",
                 "name": "G5. Stakeholder engagement"
             },
             {
-                "value": "28.33",
+                "value": "23.3333333333",
                 "name": "G6. Remedy"
             }
         ],
         "freedom": [
             {
-                "value": "61.11",
+                "value": "61.1111111111",
                 "name": "F1. Access to terms of service"
             },
             {
@@ -186,7 +186,7 @@
                 "name": "F2. Changes to terms of service"
             },
             {
-                "value": "47.62",
+                "value": "44.2857142857",
                 "name": "F3. Process for terms of service enforcement"
             },
             {
@@ -194,11 +194,11 @@
                 "name": "F4. Data about terms of service enforcement"
             },
             {
-                "value": "63.89",
+                "value": "63.8888888889",
                 "name": "F5. Process for responding to third-party requests for content or account restriction"
             },
             {
-                "value": "36.3",
+                "value": "36.2962962963",
                 "name": "F6. Data about government requests for content or account restriction"
             },
             {
@@ -224,19 +224,19 @@
         ],
         "privacy": [
             {
-                "value": "91.67",
+                "value": "91.6666666667",
                 "name": "P1. Access to privacy policies"
             },
             {
-                "value": "11.67",
+                "value": "11.6666666667",
                 "name": "P2. Changes to privacy policies"
             },
             {
-                "value": "28.89",
+                "value": "28.8888888889",
                 "name": "P3. Collection of user information"
             },
             {
-                "value": "44.44",
+                "value": "44.4444444444",
                 "name": "P4. Sharing of user information"
             },
             {
@@ -244,15 +244,15 @@
                 "name": "P5. Purpose for collecting and sharing user information"
             },
             {
-                "value": "12.38",
+                "value": "12.380952381",
                 "name": "P6. Retention of user information"
             },
             {
-                "value": "41.67",
+                "value": "41.6666666667",
                 "name": "P7. Users’ control over their own user information"
             },
             {
-                "value": "0",
+                "value": "46.6666666667",
                 "name": "P8. Users’ access to their own user information"
             },
             {
@@ -260,15 +260,15 @@
                 "name": "P9. Collection of user information from third parties (Internet companies)"
             },
             {
-                "value": "58.33",
+                "value": "58.3333333333",
                 "name": "P10. Process for responding to third-party requests for user information"
             },
             {
-                "value": "63.64",
+                "value": "63.6363636364",
                 "name": "P11. Data about third-party requests for user information"
             },
             {
-                "value": "66.67",
+                "value": "66.6666666667",
                 "name": "P12. User notification about third-party requests for user information"
             },
             {
@@ -276,19 +276,19 @@
                 "name": "P13. Security oversight"
             },
             {
-                "value": "27.78",
+                "value": "27.7777777778",
                 "name": "P14. Addressing security vulnerabilities"
             },
             {
-                "value": "0",
+                "value": "50",
                 "name": "P15. Data breaches"
             },
             {
-                "value": "58.33",
+                "value": "58.3333333333",
                 "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)"
             },
             {
-                "value": "72.22",
+                "value": "72.2222222222",
                 "name": "P17. Account Security (Internet, software, and device companies)"
             },
             {
@@ -313,11 +313,11 @@
                 "name": "G3. Internal implementation"
             },
             {
-                "value": "11.11",
+                "value": "11.1111111111",
                 "name": "G4. Impact assessment"
             },
             {
-                "value": "33.33",
+                "value": "33.3333333333",
                 "name": "G5. Stakeholder engagement"
             },
             {
@@ -327,7 +327,7 @@
         ],
         "freedom": [
             {
-                "value": "83.33",
+                "value": "83.3333333333",
                 "name": "F1. Access to terms of service"
             },
             {
@@ -355,7 +355,7 @@
                 "name": "F7. Data about private requests for content or account restriction"
             },
             {
-                "value": "33.33",
+                "value": "33.3333333333",
                 "name": "F8. User notification about content and account restriction"
             },
             {
@@ -367,7 +367,7 @@
                 "name": "F10. Network shutdown (telecommunications companies)"
             },
             {
-                "value": "25",
+                "value": "100",
                 "name": "F11. Identity policy"
             }
         ],
@@ -409,11 +409,11 @@
                 "name": "P9. Collection of user information from third parties (Internet companies)"
             },
             {
-                "value": "58.33",
+                "value": "58.3333333333",
                 "name": "P10. Process for responding to third-party requests for user information"
             },
             {
-                "value": "63.64",
+                "value": "63.6363636364",
                 "name": "P11. Data about third-party requests for user information"
             },
             {
@@ -425,11 +425,11 @@
                 "name": "P13. Security oversight"
             },
             {
-                "value": "16.67",
+                "value": "16.6666666667",
                 "name": "P14. Addressing security vulnerabilities"
             },
             {
-                "value": "16.67",
+                "value": "16.6666666667",
                 "name": "P15. Data breaches"
             },
             {
@@ -454,7 +454,7 @@
                 "name": "G1. Policy Commitment"
             },
             {
-                "value": "16.67",
+                "value": "16.6666666667",
                 "name": "G2. Governance and management oversight"
             },
             {
@@ -476,7 +476,7 @@
         ],
         "freedom": [
             {
-                "value": "58.33",
+                "value": "58.3333333333",
                 "name": "F1. Access to terms of service"
             },
             {
@@ -522,7 +522,7 @@
         ],
         "privacy": [
             {
-                "value": "83.33",
+                "value": "83.3333333333",
                 "name": "P1. Access to privacy policies"
             },
             {
@@ -530,7 +530,7 @@
                 "name": "P2. Changes to privacy policies"
             },
             {
-                "value": "33.33",
+                "value": "33.3333333333",
                 "name": "P3. Collection of user information"
             },
             {
@@ -570,7 +570,7 @@
                 "name": "P12. User notification about third-party requests for user information"
             },
             {
-                "value": "58.33",
+                "value": "58.3333333333",
                 "name": "P13. Security oversight"
             },
             {
@@ -625,7 +625,7 @@
         ],
         "freedom": [
             {
-                "value": "72.22",
+                "value": "72.2222222222",
                 "name": "F1. Access to terms of service"
             },
             {
@@ -633,7 +633,7 @@
                 "name": "F2. Changes to terms of service"
             },
             {
-                "value": "40.24",
+                "value": "40.2380952381",
                 "name": "F3. Process for terms of service enforcement"
             },
             {
@@ -671,7 +671,7 @@
         ],
         "privacy": [
             {
-                "value": "77.78",
+                "value": "77.7777777778",
                 "name": "P1. Access to privacy policies"
             },
             {
@@ -679,7 +679,7 @@
                 "name": "P2. Changes to privacy policies"
             },
             {
-                "value": "66.67",
+                "value": "66.6666666667",
                 "name": "P3. Collection of user information"
             },
             {
@@ -707,7 +707,7 @@
                 "name": "P9. Collection of user information from third parties (Internet companies)"
             },
             {
-                "value": "2.78",
+                "value": "2.7777777778",
                 "name": "P10. Process for responding to third-party requests for user information"
             },
             {
@@ -723,7 +723,7 @@
                 "name": "P13. Security oversight"
             },
             {
-                "value": "33.33",
+                "value": "33.3333333333",
                 "name": "P14. Addressing security vulnerabilities"
             },
             {
@@ -735,7 +735,7 @@
                 "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)"
             },
             {
-                "value": "33.33",
+                "value": "33.3333333333",
                 "name": "P17. Account Security (Internet, software, and device companies)"
             },
             {
@@ -764,7 +764,7 @@
                 "name": "G4. Impact assessment"
             },
             {
-                "value": "16.67",
+                "value": "16.6666666667",
                 "name": "G5. Stakeholder engagement"
             },
             {
@@ -782,7 +782,7 @@
                 "name": "F2. Changes to terms of service"
             },
             {
-                "value": "17.14",
+                "value": "17.1428571429",
                 "name": "F3. Process for terms of service enforcement"
             },
             {
@@ -820,7 +820,7 @@
         ],
         "privacy": [
             {
-                "value": "33.33",
+                "value": "33.3333333333",
                 "name": "P1. Access to privacy policies"
             },
             {
@@ -828,7 +828,7 @@
                 "name": "P2. Changes to privacy policies"
             },
             {
-                "value": "33.33",
+                "value": "33.3333333333",
                 "name": "P3. Collection of user information"
             },
             {
@@ -856,7 +856,7 @@
                 "name": "P9. Collection of user information from third parties (Internet companies)"
             },
             {
-                "value": "4.17",
+                "value": "4.1666666667",
                 "name": "P10. Process for responding to third-party requests for user information"
             },
             {
@@ -923,7 +923,7 @@
         ],
         "freedom": [
             {
-                "value": "83.33",
+                "value": "83.3333333333",
                 "name": "F1. Access to terms of service"
             },
             {
@@ -931,7 +931,7 @@
                 "name": "F2. Changes to terms of service"
             },
             {
-                "value": "51.43",
+                "value": "51.4285714286",
                 "name": "F3. Process for terms of service enforcement"
             },
             {
@@ -939,7 +939,7 @@
                 "name": "F4. Data about terms of service enforcement"
             },
             {
-                "value": "4.17",
+                "value": "4.1666666667",
                 "name": "F5. Process for responding to third-party requests for content or account restriction"
             },
             {
@@ -951,7 +951,7 @@
                 "name": "F7. Data about private requests for content or account restriction"
             },
             {
-                "value": "16.67",
+                "value": "16.6666666667",
                 "name": "F8. User notification about content and account restriction"
             },
             {
@@ -1017,7 +1017,7 @@
                 "name": "P12. User notification about third-party requests for user information"
             },
             {
-                "value": "33.33",
+                "value": "33.3333333333",
                 "name": "P13. Security oversight"
             },
             {
@@ -1058,7 +1058,7 @@
                 "name": "G3. Internal implementation"
             },
             {
-                "value": "77.78",
+                "value": "72.5694444444",
                 "name": "G4. Impact assessment"
             },
             {
@@ -1072,35 +1072,35 @@
         ],
         "freedom": [
             {
-                "value": "91.67",
+                "value": "91.6666666667",
                 "name": "F1. Access to terms of service"
             },
             {
-                "value": "34.38",
+                "value": "37.5",
                 "name": "F2. Changes to terms of service"
             },
             {
-                "value": "72.14",
+                "value": "72.1428571429",
                 "name": "F3. Process for terms of service enforcement"
             },
             {
-                "value": "0",
+                "value": "4.1666666667",
                 "name": "F4. Data about terms of service enforcement"
             },
             {
-                "value": "79.17",
+                "value": "94.7916666667",
                 "name": "F5. Process for responding to third-party requests for content or account restriction"
             },
             {
-                "value": "31.67",
+                "value": "31.6666666667",
                 "name": "F6. Data about government requests for content or account restriction"
             },
             {
-                "value": "5.9",
+                "value": "25.3472222222",
                 "name": "F7. Data about private requests for content or account restriction"
             },
             {
-                "value": "25",
+                "value": "31.25",
                 "name": "F8. User notification about content and account restriction"
             },
             {
@@ -1118,19 +1118,19 @@
         ],
         "privacy": [
             {
-                "value": "91.67",
+                "value": "91.6666666667",
                 "name": "P1. Access to privacy policies"
             },
             {
-                "value": "34.38",
+                "value": "34.375",
                 "name": "P2. Changes to privacy policies"
             },
             {
-                "value": "58.33",
+                "value": "58.3333333333",
                 "name": "P3. Collection of user information"
             },
             {
-                "value": "53.13",
+                "value": "53.125",
                 "name": "P4. Sharing of user information"
             },
             {
@@ -1142,7 +1142,7 @@
                 "name": "P6. Retention of user information"
             },
             {
-                "value": "6.25",
+                "value": "12.5",
                 "name": "P7. Users’ control over their own user information"
             },
             {
@@ -1154,11 +1154,11 @@
                 "name": "P9. Collection of user information from third parties (Internet companies)"
             },
             {
-                "value": "58.33",
+                "value": "58.3333333333",
                 "name": "P10. Process for responding to third-party requests for user information"
             },
             {
-                "value": "77.27",
+                "value": "72.7272727273",
                 "name": "P11. Data about third-party requests for user information"
             },
             {
@@ -1166,11 +1166,11 @@
                 "name": "P12. User notification about third-party requests for user information"
             },
             {
-                "value": "16.67",
+                "value": "16.6666666667",
                 "name": "P13. Security oversight"
             },
             {
-                "value": "66.67",
+                "value": "66.6666666667",
                 "name": "P14. Addressing security vulnerabilities"
             },
             {
@@ -1178,11 +1178,11 @@
                 "name": "P15. Data breaches"
             },
             {
-                "value": "56.25",
+                "value": "62.5",
                 "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)"
             },
             {
-                "value": "62.5",
+                "value": "66.6666666667",
                 "name": "P17. Account Security (Internet, software, and device companies)"
             },
             {
@@ -1199,7 +1199,7 @@
                 "name": "G1. Policy Commitment"
             },
             {
-                "value": "33.33",
+                "value": "33.3333333333",
                 "name": "G2. Governance and management oversight"
             },
             {
@@ -1207,7 +1207,7 @@
                 "name": "G3. Internal implementation"
             },
             {
-                "value": "66.67",
+                "value": "72.2222222222",
                 "name": "G4. Impact assessment"
             },
             {
@@ -1215,13 +1215,13 @@
                 "name": "G5. Stakeholder engagement"
             },
             {
-                "value": "26.25",
+                "value": "28.75",
                 "name": "G6. Remedy"
             }
         ],
         "freedom": [
             {
-                "value": "83.33",
+                "value": "83.3333333333",
                 "name": "F1. Access to terms of service"
             },
             {
@@ -1229,23 +1229,23 @@
                 "name": "F2. Changes to terms of service"
             },
             {
-                "value": "67.8",
+                "value": "67.7976190476",
                 "name": "F3. Process for terms of service enforcement"
             },
             {
-                "value": "4.17",
+                "value": "4.1666666667",
                 "name": "F4. Data about terms of service enforcement"
             },
             {
-                "value": "71.88",
+                "value": "95.8333333333",
                 "name": "F5. Process for responding to third-party requests for content or account restriction"
             },
             {
-                "value": "62.22",
+                "value": "82.962962963",
                 "name": "F6. Data about government requests for content or account restriction"
             },
             {
-                "value": "21.88",
+                "value": "29.1666666667",
                 "name": "F7. Data about private requests for content or account restriction"
             },
             {
@@ -1261,7 +1261,7 @@
                 "name": "F10. Network shutdown (telecommunications companies)"
             },
             {
-                "value": "62.5",
+                "value": "83.3333333333",
                 "name": "F11. Identity policy"
             }
         ],
@@ -1271,7 +1271,7 @@
                 "name": "P1. Access to privacy policies"
             },
             {
-                "value": "59.38",
+                "value": "59.375",
                 "name": "P2. Changes to privacy policies"
             },
             {
@@ -1279,15 +1279,15 @@
                 "name": "P3. Collection of user information"
             },
             {
-                "value": "45.83",
+                "value": "45.8333333333",
                 "name": "P4. Sharing of user information"
             },
             {
-                "value": "75",
+                "value": "62.5",
                 "name": "P5. Purpose for collecting and sharing user information"
             },
             {
-                "value": "27.86",
+                "value": "27.8571428571",
                 "name": "P6. Retention of user information"
             },
             {
@@ -1303,15 +1303,15 @@
                 "name": "P9. Collection of user information from third parties (Internet companies)"
             },
             {
-                "value": "66.67",
+                "value": "66.6666666667",
                 "name": "P10. Process for responding to third-party requests for user information"
             },
             {
-                "value": "72.73",
+                "value": "68.1818181818",
                 "name": "P11. Data about third-party requests for user information"
             },
             {
-                "value": "66.67",
+                "value": "66.6666666667",
                 "name": "P12. User notification about third-party requests for user information"
             },
             {
@@ -1319,7 +1319,7 @@
                 "name": "P13. Security oversight"
             },
             {
-                "value": "35.42",
+                "value": "35.4166666667",
                 "name": "P14. Addressing security vulnerabilities"
             },
             {
@@ -1331,7 +1331,7 @@
                 "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)"
             },
             {
-                "value": "70.83",
+                "value": "94.4444444444",
                 "name": "P17. Account Security (Internet, software, and device companies)"
             },
             {
@@ -1348,7 +1348,7 @@
                 "name": "G1. Policy Commitment"
             },
             {
-                "value": "33.33",
+                "value": "33.3333333333",
                 "name": "G2. Governance and management oversight"
             },
             {
@@ -1356,11 +1356,11 @@
                 "name": "G3. Internal implementation"
             },
             {
-                "value": "13.89",
+                "value": "13.8888888889",
                 "name": "G4. Impact assessment"
             },
             {
-                "value": "66.67",
+                "value": "66.6666666667",
                 "name": "G5. Stakeholder engagement"
             },
             {
@@ -1370,11 +1370,11 @@
         ],
         "freedom": [
             {
-                "value": "83.33",
+                "value": "83.3333333333",
                 "name": "F1. Access to terms of service"
             },
             {
-                "value": "95.83",
+                "value": "95.8333333333",
                 "name": "F2. Changes to terms of service"
             },
             {
@@ -1386,19 +1386,19 @@
                 "name": "F4. Data about terms of service enforcement"
             },
             {
-                "value": "33.33",
+                "value": "50",
                 "name": "F5. Process for responding to third-party requests for content or account restriction"
             },
             {
-                "value": "25.93",
+                "value": "38.8888888889",
                 "name": "F6. Data about government requests for content or account restriction"
             },
             {
-                "value": "33.33",
+                "value": "50",
                 "name": "F7. Data about private requests for content or account restriction"
             },
             {
-                "value": "45.83",
+                "value": "54.1666666667",
                 "name": "F8. User notification about content and account restriction"
             },
             {
@@ -1420,19 +1420,19 @@
                 "name": "P1. Access to privacy policies"
             },
             {
-                "value": "83.33",
+                "value": "83.3333333333",
                 "name": "P2. Changes to privacy policies"
             },
             {
-                "value": "88.89",
+                "value": "88.8888888889",
                 "name": "P3. Collection of user information"
             },
             {
-                "value": "79.17",
+                "value": "79.1666666667",
                 "name": "P4. Sharing of user information"
             },
             {
-                "value": "50",
+                "value": "37.5",
                 "name": "P5. Purpose for collecting and sharing user information"
             },
             {
@@ -1444,7 +1444,7 @@
                 "name": "P7. Users’ control over their own user information"
             },
             {
-                "value": "33.33",
+                "value": "33.3333333333",
                 "name": "P8. Users’ access to their own user information"
             },
             {
@@ -1452,11 +1452,11 @@
                 "name": "P9. Collection of user information from third parties (Internet companies)"
             },
             {
-                "value": "41.67",
+                "value": "41.6666666667",
                 "name": "P10. Process for responding to third-party requests for user information"
             },
             {
-                "value": "59.09",
+                "value": "59.0909090909",
                 "name": "P11. Data about third-party requests for user information"
             },
             {
@@ -1468,7 +1468,7 @@
                 "name": "P13. Security oversight"
             },
             {
-                "value": "0",
+                "value": "16.6666666667",
                 "name": "P14. Addressing security vulnerabilities"
             },
             {
@@ -1476,11 +1476,11 @@
                 "name": "P15. Data breaches"
             },
             {
-                "value": "33.33",
+                "value": "33.3333333333",
                 "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)"
             },
             {
-                "value": "50",
+                "value": "75",
                 "name": "P17. Account Security (Internet, software, and device companies)"
             },
             {
@@ -1519,7 +1519,7 @@
         ],
         "freedom": [
             {
-                "value": "72.22",
+                "value": "72.2222222222",
                 "name": "F1. Access to terms of service"
             },
             {
@@ -1527,7 +1527,7 @@
                 "name": "F2. Changes to terms of service"
             },
             {
-                "value": "56.67",
+                "value": "56.6666666667",
                 "name": "F3. Process for terms of service enforcement"
             },
             {
@@ -1535,7 +1535,7 @@
                 "name": "F4. Data about terms of service enforcement"
             },
             {
-                "value": "4.17",
+                "value": "6.25",
                 "name": "F5. Process for responding to third-party requests for content or account restriction"
             },
             {
@@ -1559,13 +1559,13 @@
                 "name": "F10. Network shutdown (telecommunications companies)"
             },
             {
-                "value": "66.67",
+                "value": "66.6666666667",
                 "name": "F11. Identity policy"
             }
         ],
         "privacy": [
             {
-                "value": "27.78",
+                "value": "27.7777777778",
                 "name": "P1. Access to privacy policies"
             },
             {
@@ -1577,11 +1577,11 @@
                 "name": "P3. Collection of user information"
             },
             {
-                "value": "29.17",
+                "value": "29.1666666667",
                 "name": "P4. Sharing of user information"
             },
             {
-                "value": "45.83",
+                "value": "45.8333333333",
                 "name": "P5. Purpose for collecting and sharing user information"
             },
             {
@@ -1589,7 +1589,7 @@
                 "name": "P6. Retention of user information"
             },
             {
-                "value": "16.67",
+                "value": "16.6666666667",
                 "name": "P7. Users’ control over their own user information"
             },
             {
@@ -1613,11 +1613,11 @@
                 "name": "P12. User notification about third-party requests for user information"
             },
             {
-                "value": "16.67",
+                "value": "16.6666666667",
                 "name": "P13. Security oversight"
             },
             {
-                "value": "55.56",
+                "value": "55.5555555556",
                 "name": "P14. Addressing security vulnerabilities"
             },
             {
@@ -1629,7 +1629,7 @@
                 "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)"
             },
             {
-                "value": "77.78",
+                "value": "77.7777777778",
                 "name": "P17. Account Security (Internet, software, and device companies)"
             },
             {
@@ -1654,7 +1654,7 @@
                 "name": "G3. Internal implementation"
             },
             {
-                "value": "86.11",
+                "value": "88.8888888889",
                 "name": "G4. Impact assessment"
             },
             {
@@ -1668,11 +1668,11 @@
         ],
         "freedom": [
             {
-                "value": "88.89",
+                "value": "94.4444444444",
                 "name": "F1. Access to terms of service"
             },
             {
-                "value": "54.17",
+                "value": "54.1666666667",
                 "name": "F2. Changes to terms of service"
             },
             {
@@ -1680,23 +1680,23 @@
                 "name": "F3. Process for terms of service enforcement"
             },
             {
-                "value": "27.78",
+                "value": "27.7777777778",
                 "name": "F4. Data about terms of service enforcement"
             },
             {
-                "value": "27.78",
+                "value": "39.5833333333",
                 "name": "F5. Process for responding to third-party requests for content or account restriction"
             },
             {
-                "value": "16.67",
+                "value": "25",
                 "name": "F6. Data about government requests for content or account restriction"
             },
             {
-                "value": "25",
+                "value": "37.5",
                 "name": "F7. Data about private requests for content or account restriction"
             },
             {
-                "value": "16.67",
+                "value": "16.6666666667",
                 "name": "F8. User notification about content and account restriction"
             },
             {
@@ -1708,7 +1708,7 @@
                 "name": "F10. Network shutdown (telecommunications companies)"
             },
             {
-                "value": "66.67",
+                "value": "100",
                 "name": "F11. Identity policy"
             }
         ],
@@ -1734,11 +1734,11 @@
                 "name": "P5. Purpose for collecting and sharing user information"
             },
             {
-                "value": "36.67",
+                "value": "36.6666666667",
                 "name": "P6. Retention of user information"
             },
             {
-                "value": "41.67",
+                "value": "41.6666666667",
                 "name": "P7. Users’ control over their own user information"
             },
             {
@@ -1750,15 +1750,15 @@
                 "name": "P9. Collection of user information from third parties (Internet companies)"
             },
             {
-                "value": "70.83",
+                "value": "70.8333333333",
                 "name": "P10. Process for responding to third-party requests for user information"
             },
             {
-                "value": "63.64",
+                "value": "63.6363636364",
                 "name": "P11. Data about third-party requests for user information"
             },
             {
-                "value": "66.67",
+                "value": "66.6666666667",
                 "name": "P12. User notification about third-party requests for user information"
             },
             {
@@ -1774,11 +1774,11 @@
                 "name": "P15. Data breaches"
             },
             {
-                "value": "41.67",
+                "value": "41.6666666667",
                 "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)"
             },
             {
-                "value": "66.67",
+                "value": "91.6666666667",
                 "name": "P17. Account Security (Internet, software, and device companies)"
             },
             {
@@ -1795,7 +1795,7 @@
                 "name": "G1. Policy Commitment"
             },
             {
-                "value": "83.33",
+                "value": "83.3333333333",
                 "name": "G2. Governance and management oversight"
             },
             {
@@ -1803,7 +1803,7 @@
                 "name": "G3. Internal implementation"
             },
             {
-                "value": "11.11",
+                "value": "11.1111111111",
                 "name": "G4. Impact assessment"
             },
             {
@@ -1811,21 +1811,21 @@
                 "name": "G5. Stakeholder engagement"
             },
             {
-                "value": "0",
+                "value": "35",
                 "name": "G6. Remedy"
             }
         ],
         "freedom": [
             {
-                "value": "33.33",
+                "value": "33.3333333333",
                 "name": "F1. Access to terms of service"
             },
             {
-                "value": "37.5",
+                "value": "31.25",
                 "name": "F2. Changes to terms of service"
             },
             {
-                "value": "20",
+                "value": "10",
                 "name": "F3. Process for terms of service enforcement"
             },
             {
@@ -1845,7 +1845,7 @@
                 "name": "F7. Data about private requests for content or account restriction"
             },
             {
-                "value": "16.67",
+                "value": "25",
                 "name": "F8. User notification about content and account restriction"
             },
             {
@@ -1863,7 +1863,7 @@
         ],
         "privacy": [
             {
-                "value": "33.33",
+                "value": "33.3333333333",
                 "name": "P1. Access to privacy policies"
             },
             {
@@ -1871,7 +1871,7 @@
                 "name": "P2. Changes to privacy policies"
             },
             {
-                "value": "33.33",
+                "value": "33.3333333333",
                 "name": "P3. Collection of user information"
             },
             {
@@ -1899,7 +1899,7 @@
                 "name": "P9. Collection of user information from third parties (Internet companies)"
             },
             {
-                "value": "4.17",
+                "value": "4.1666666667",
                 "name": "P10. Process for responding to third-party requests for user information"
             },
             {
@@ -1911,11 +1911,11 @@
                 "name": "P12. User notification about third-party requests for user information"
             },
             {
-                "value": "16.67",
+                "value": "16.6666666667",
                 "name": "P13. Security oversight"
             },
             {
-                "value": "8.33",
+                "value": "8.3333333333",
                 "name": "P14. Addressing security vulnerabilities"
             },
             {
@@ -1932,6 +1932,155 @@
             },
             {
                 "value": "50",
+                "name": "P18. Inform and educate users about potential risks"
+            }
+        ]
+    },
+    {
+        "id": "oath",
+        "commitment": [
+            {
+                "value": "100",
+                "name": "G1. Policy Commitment"
+            },
+            {
+                "value": "100",
+                "name": "G2. Governance and management oversight"
+            },
+            {
+                "value": "100",
+                "name": "G3. Internal implementation"
+            },
+            {
+                "value": "94.4444444444",
+                "name": "G4. Impact assessment"
+            },
+            {
+                "value": "100",
+                "name": "G5. Stakeholder engagement"
+            },
+            {
+                "value": "35",
+                "name": "G6. Remedy"
+            }
+        ],
+        "freedom": [
+            {
+                "value": "83.3333333333",
+                "name": "F1. Access to terms of service"
+            },
+            {
+                "value": "41.6666666667",
+                "name": "F2. Changes to terms of service"
+            },
+            {
+                "value": "61.4285714286",
+                "name": "F3. Process for terms of service enforcement"
+            },
+            {
+                "value": "0",
+                "name": "F4. Data about terms of service enforcement"
+            },
+            {
+                "value": "87.5",
+                "name": "F5. Process for responding to third-party requests for content or account restriction"
+            },
+            {
+                "value": "50",
+                "name": "F6. Data about government requests for content or account restriction"
+            },
+            {
+                "value": "36.1111111111",
+                "name": "F7. Data about private requests for content or account restriction"
+            },
+            {
+                "value": "41.6666666667",
+                "name": "F8. User notification about content and account restriction"
+            },
+            {
+                "value": "N/A",
+                "name": "F9. Network management (telecommunications companies)"
+            },
+            {
+                "value": "N/A",
+                "name": "F10. Network shutdown (telecommunications companies)"
+            },
+            {
+                "value": "33.3333333333",
+                "name": "F11. Identity policy"
+            }
+        ],
+        "privacy": [
+            {
+                "value": "88.8888888889",
+                "name": "P1. Access to privacy policies"
+            },
+            {
+                "value": "50",
+                "name": "P2. Changes to privacy policies"
+            },
+            {
+                "value": "66.6666666667",
+                "name": "P3. Collection of user information"
+            },
+            {
+                "value": "54.1666666667",
+                "name": "P4. Sharing of user information"
+            },
+            {
+                "value": "45.8333333333",
+                "name": "P5. Purpose for collecting and sharing user information"
+            },
+            {
+                "value": "36.6666666667",
+                "name": "P6. Retention of user information"
+            },
+            {
+                "value": "37.5",
+                "name": "P7. Users’ control over their own user information"
+            },
+            {
+                "value": "62.5",
+                "name": "P8. Users’ access to their own user information"
+            },
+            {
+                "value": "36.6666666667",
+                "name": "P9. Collection of user information from third parties (Internet companies)"
+            },
+            {
+                "value": "58.3333333333",
+                "name": "P10. Process for responding to third-party requests for user information"
+            },
+            {
+                "value": "59.0909090909",
+                "name": "P11. Data about third-party requests for user information"
+            },
+            {
+                "value": "66.6666666667",
+                "name": "P12. User notification about third-party requests for user information"
+            },
+            {
+                "value": "33.3333333333",
+                "name": "P13. Security oversight"
+            },
+            {
+                "value": "55.5555555556",
+                "name": "P14. Addressing security vulnerabilities"
+            },
+            {
+                "value": "0",
+                "name": "P15. Data breaches"
+            },
+            {
+                "value": "33.3333333333",
+                "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)"
+            },
+            {
+                "value": "94.4444444444",
+                "name": "P17. Account Security (Internet, software, and device companies)"
+            },
+            {
+                "value": "100",
                 "name": "P18. Inform and educate users about potential risks"
             }
         ]
@@ -1974,7 +2123,7 @@
                 "name": "F2. Changes to terms of service"
             },
             {
-                "value": "34.29",
+                "value": "34.2857142857",
                 "name": "F3. Process for terms of service enforcement"
             },
             {
@@ -2101,7 +2250,7 @@
                 "name": "G3. Internal implementation"
             },
             {
-                "value": "50",
+                "value": "44.4444444444",
                 "name": "G4. Impact assessment"
             },
             {
@@ -2115,7 +2264,7 @@
         ],
         "freedom": [
             {
-                "value": "66.67",
+                "value": "66.6666666667",
                 "name": "F1. Access to terms of service"
             },
             {
@@ -2123,7 +2272,7 @@
                 "name": "F2. Changes to terms of service"
             },
             {
-                "value": "63.57",
+                "value": "63.5714285714",
                 "name": "F3. Process for terms of service enforcement"
             },
             {
@@ -2143,7 +2292,7 @@
                 "name": "F7. Data about private requests for content or account restriction"
             },
             {
-                "value": "16.67",
+                "value": "16.6666666667",
                 "name": "F8. User notification about content and account restriction"
             },
             {
@@ -2151,7 +2300,7 @@
                 "name": "F9. Network management (telecommunications companies)"
             },
             {
-                "value": "12.5",
+                "value": "18.75",
                 "name": "F10. Network shutdown (telecommunications companies)"
             },
             {
@@ -2169,7 +2318,7 @@
                 "name": "P2. Changes to privacy policies"
             },
             {
-                "value": "16.67",
+                "value": "16.6666666667",
                 "name": "P3. Collection of user information"
             },
             {
@@ -2197,11 +2346,11 @@
                 "name": "P9. Collection of user information from third parties (Internet companies)"
             },
             {
-                "value": "8.33",
+                "value": "8.3333333333",
                 "name": "P10. Process for responding to third-party requests for user information"
             },
             {
-                "value": "40.91",
+                "value": "40.9090909091",
                 "name": "P11. Data about third-party requests for user information"
             },
             {
@@ -2209,7 +2358,7 @@
                 "name": "P12. User notification about third-party requests for user information"
             },
             {
-                "value": "33.33",
+                "value": "50",
                 "name": "P13. Security oversight"
             },
             {
@@ -2242,7 +2391,7 @@
                 "name": "G1. Policy Commitment"
             },
             {
-                "value": "33.33",
+                "value": "33.3333333333",
                 "name": "G2. Governance and management oversight"
             },
             {
@@ -2250,7 +2399,7 @@
                 "name": "G3. Internal implementation"
             },
             {
-                "value": "11.11",
+                "value": "11.1111111111",
                 "name": "G4. Impact assessment"
             },
             {
@@ -2272,7 +2421,7 @@
                 "name": "F2. Changes to terms of service"
             },
             {
-                "value": "35.71",
+                "value": "35.7142857143",
                 "name": "F3. Process for terms of service enforcement"
             },
             {
@@ -2310,19 +2459,19 @@
         ],
         "privacy": [
             {
-                "value": "62.5",
+                "value": "75",
                 "name": "P1. Access to privacy policies"
             },
             {
-                "value": "40",
+                "value": "60",
                 "name": "P2. Changes to privacy policies"
             },
             {
-                "value": "40",
+                "value": "60",
                 "name": "P3. Collection of user information"
             },
             {
-                "value": "41.67",
+                "value": "50",
                 "name": "P4. Sharing of user information"
             },
             {
@@ -2330,11 +2479,11 @@
                 "name": "P5. Purpose for collecting and sharing user information"
             },
             {
-                "value": "14.29",
+                "value": "21.4285714286",
                 "name": "P6. Retention of user information"
             },
             {
-                "value": "20",
+                "value": "40",
                 "name": "P7. Users’ control over their own user information"
             },
             {
@@ -2374,7 +2523,7 @@
                 "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)"
             },
             {
-                "value": "33.33",
+                "value": "33.3333333333",
                 "name": "P17. Account Security (Internet, software, and device companies)"
             },
             {
@@ -2391,15 +2540,15 @@
                 "name": "G1. Policy Commitment"
             },
             {
-                "value": "50",
+                "value": "66.6666666667",
                 "name": "G2. Governance and management oversight"
             },
             {
-                "value": "75",
+                "value": "100",
                 "name": "G3. Internal implementation"
             },
             {
-                "value": "30.56",
+                "value": "30.5555555556",
                 "name": "G4. Impact assessment"
             },
             {
@@ -2407,13 +2556,13 @@
                 "name": "G5. Stakeholder engagement"
             },
             {
-                "value": "45",
+                "value": "65",
                 "name": "G6. Remedy"
             }
         ],
         "freedom": [
             {
-                "value": "66.67",
+                "value": "66.6666666667",
                 "name": "F1. Access to terms of service"
             },
             {
@@ -2429,11 +2578,11 @@
                 "name": "F4. Data about terms of service enforcement"
             },
             {
-                "value": "29.17",
+                "value": "33.3333333333",
                 "name": "F5. Process for responding to third-party requests for content or account restriction"
             },
             {
-                "value": "5",
+                "value": "25",
                 "name": "F6. Data about government requests for content or account restriction"
             },
             {
@@ -2441,7 +2590,7 @@
                 "name": "F7. Data about private requests for content or account restriction"
             },
             {
-                "value": "0",
+                "value": "33.3333333333",
                 "name": "F8. User notification about content and account restriction"
             },
             {
@@ -2449,7 +2598,7 @@
                 "name": "F9. Network management (telecommunications companies)"
             },
             {
-                "value": "37.5",
+                "value": "50",
                 "name": "F10. Network shutdown (telecommunications companies)"
             },
             {
@@ -2459,7 +2608,7 @@
         ],
         "privacy": [
             {
-                "value": "83.33",
+                "value": "83.3333333333",
                 "name": "P1. Access to privacy policies"
             },
             {
@@ -2483,7 +2632,7 @@
                 "name": "P6. Retention of user information"
             },
             {
-                "value": "12.5",
+                "value": "37.5",
                 "name": "P7. Users’ control over their own user information"
             },
             {
@@ -2495,11 +2644,11 @@
                 "name": "P9. Collection of user information from third parties (Internet companies)"
             },
             {
-                "value": "16.67",
+                "value": "20.8333333333",
                 "name": "P10. Process for responding to third-party requests for user information"
             },
             {
-                "value": "18.18",
+                "value": "36.3636363636",
                 "name": "P11. Data about third-party requests for user information"
             },
             {
@@ -2556,13 +2705,13 @@
                 "name": "G5. Stakeholder engagement"
             },
             {
-                "value": "16.67",
+                "value": "16.6666666667",
                 "name": "G6. Remedy"
             }
         ],
         "freedom": [
             {
-                "value": "72.22",
+                "value": "72.2222222222",
                 "name": "F1. Access to terms of service"
             },
             {
@@ -2570,7 +2719,7 @@
                 "name": "F2. Changes to terms of service"
             },
             {
-                "value": "59.05",
+                "value": "53.3333333333",
                 "name": "F3. Process for terms of service enforcement"
             },
             {
@@ -2578,7 +2727,7 @@
                 "name": "F4. Data about terms of service enforcement"
             },
             {
-                "value": "2.78",
+                "value": "2.7777777778",
                 "name": "F5. Process for responding to third-party requests for content or account restriction"
             },
             {
@@ -2608,15 +2757,15 @@
         ],
         "privacy": [
             {
-                "value": "88.89",
+                "value": "88.8888888889",
                 "name": "P1. Access to privacy policies"
             },
             {
-                "value": "33.33",
+                "value": "33.3333333333",
                 "name": "P2. Changes to privacy policies"
             },
             {
-                "value": "66.67",
+                "value": "66.6666666667",
                 "name": "P3. Collection of user information"
             },
             {
@@ -2624,7 +2773,7 @@
                 "name": "P4. Sharing of user information"
             },
             {
-                "value": "54.17",
+                "value": "54.1666666667",
                 "name": "P5. Purpose for collecting and sharing user information"
             },
             {
@@ -2632,7 +2781,7 @@
                 "name": "P6. Retention of user information"
             },
             {
-                "value": "33.33",
+                "value": "33.3333333333",
                 "name": "P7. Users’ control over their own user information"
             },
             {
@@ -2656,11 +2805,11 @@
                 "name": "P12. User notification about third-party requests for user information"
             },
             {
-                "value": "5.56",
+                "value": "5.5555555556",
                 "name": "P13. Security oversight"
             },
             {
-                "value": "66.67",
+                "value": "66.6666666667",
                 "name": "P14. Addressing security vulnerabilities"
             },
             {
@@ -2668,11 +2817,11 @@
                 "name": "P15. Data breaches"
             },
             {
-                "value": "8.33",
+                "value": "8.3333333333",
                 "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)"
             },
             {
-                "value": "44.44",
+                "value": "44.4444444444",
                 "name": "P17. Account Security (Internet, software, and device companies)"
             },
             {
@@ -2689,7 +2838,7 @@
                 "name": "G1. Policy Commitment"
             },
             {
-                "value": "66.67",
+                "value": "66.6666666667",
                 "name": "G2. Governance and management oversight"
             },
             {
@@ -2697,7 +2846,7 @@
                 "name": "G3. Internal implementation"
             },
             {
-                "value": "5.56",
+                "value": "5.5555555556",
                 "name": "G4. Impact assessment"
             },
             {
@@ -2705,13 +2854,13 @@
                 "name": "G5. Stakeholder engagement"
             },
             {
-                "value": "32.5",
+                "value": "40",
                 "name": "G6. Remedy"
             }
         ],
         "freedom": [
             {
-                "value": "83.33",
+                "value": "91.6666666667",
                 "name": "F1. Access to terms of service"
             },
             {
@@ -2719,15 +2868,15 @@
                 "name": "F2. Changes to terms of service"
             },
             {
-                "value": "64.29",
+                "value": "64.2857142857",
                 "name": "F3. Process for terms of service enforcement"
             },
             {
-                "value": "41.67",
+                "value": "41.6666666667",
                 "name": "F4. Data about terms of service enforcement"
             },
             {
-                "value": "56.25",
+                "value": "47.9166666667",
                 "name": "F5. Process for responding to third-party requests for content or account restriction"
             },
             {
@@ -2735,7 +2884,7 @@
                 "name": "F6. Data about government requests for content or account restriction"
             },
             {
-                "value": "66.67",
+                "value": "66.6666666667",
                 "name": "F7. Data about private requests for content or account restriction"
             },
             {
@@ -2757,7 +2906,7 @@
         ],
         "privacy": [
             {
-                "value": "83.33",
+                "value": "100",
                 "name": "P1. Access to privacy policies"
             },
             {
@@ -2765,7 +2914,7 @@
                 "name": "P2. Changes to privacy policies"
             },
             {
-                "value": "66.67",
+                "value": "66.6666666667",
                 "name": "P3. Collection of user information"
             },
             {
@@ -2797,11 +2946,11 @@
                 "name": "P10. Process for responding to third-party requests for user information"
             },
             {
-                "value": "77.27",
+                "value": "72.7272727273",
                 "name": "P11. Data about third-party requests for user information"
             },
             {
-                "value": "66.67",
+                "value": "66.6666666667",
                 "name": "P12. User notification about third-party requests for user information"
             },
             {
@@ -2821,7 +2970,7 @@
                 "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)"
             },
             {
-                "value": "50",
+                "value": "58.3333333333",
                 "name": "P17. Account Security (Internet, software, and device companies)"
             },
             {
@@ -2846,7 +2995,7 @@
                 "name": "G3. Internal implementation"
             },
             {
-                "value": "47.22",
+                "value": "41.6666666667",
                 "name": "G4. Impact assessment"
             },
             {
@@ -2860,15 +3009,15 @@
         ],
         "freedom": [
             {
-                "value": "83.33",
+                "value": "83.3333333333",
                 "name": "F1. Access to terms of service"
             },
             {
-                "value": "34.38",
+                "value": "34.375",
                 "name": "F2. Changes to terms of service"
             },
             {
-                "value": "51.43",
+                "value": "51.4285714286",
                 "name": "F3. Process for terms of service enforcement"
             },
             {
@@ -2876,7 +3025,7 @@
                 "name": "F4. Data about terms of service enforcement"
             },
             {
-                "value": "70.83",
+                "value": "75",
                 "name": "F5. Process for responding to third-party requests for content or account restriction"
             },
             {
@@ -2888,7 +3037,7 @@
                 "name": "F7. Data about private requests for content or account restriction"
             },
             {
-                "value": "8.33",
+                "value": "8.3333333333",
                 "name": "F8. User notification about content and account restriction"
             },
             {
@@ -2900,7 +3049,7 @@
                 "name": "F10. Network shutdown (telecommunications companies)"
             },
             {
-                "value": "50",
+                "value": "100",
                 "name": "F11. Identity policy"
             }
         ],
@@ -2914,7 +3063,7 @@
                 "name": "P2. Changes to privacy policies"
             },
             {
-                "value": "33.33",
+                "value": "33.3333333333",
                 "name": "P3. Collection of user information"
             },
             {
@@ -2926,7 +3075,7 @@
                 "name": "P5. Purpose for collecting and sharing user information"
             },
             {
-                "value": "0",
+                "value": "10",
                 "name": "P6. Retention of user information"
             },
             {
@@ -2942,11 +3091,11 @@
                 "name": "P9. Collection of user information from third parties (Internet companies)"
             },
             {
-                "value": "54.17",
+                "value": "54.1666666667",
                 "name": "P10. Process for responding to third-party requests for user information"
             },
             {
-                "value": "40.91",
+                "value": "40.9090909091",
                 "name": "P11. Data about third-party requests for user information"
             },
             {
@@ -2954,7 +3103,7 @@
                 "name": "P12. User notification about third-party requests for user information"
             },
             {
-                "value": "66.67",
+                "value": "66.6666666667",
                 "name": "P13. Security oversight"
             },
             {
@@ -2962,7 +3111,7 @@
                 "name": "P14. Addressing security vulnerabilities"
             },
             {
-                "value": "16.67",
+                "value": "100",
                 "name": "P15. Data breaches"
             },
             {
@@ -2971,155 +3120,6 @@
             },
             {
                 "value": "N/A",
-                "name": "P17. Account Security (Internet, software, and device companies)"
-            },
-            {
-                "value": "100",
-                "name": "P18. Inform and educate users about potential risks"
-            }
-        ]
-    },
-    {
-        "id": "yahoo",
-        "commitment": [
-            {
-                "value": "100",
-                "name": "G1. Policy Commitment"
-            },
-            {
-                "value": "33.33",
-                "name": "G2. Governance and management oversight"
-            },
-            {
-                "value": "100",
-                "name": "G3. Internal implementation"
-            },
-            {
-                "value": "100",
-                "name": "G4. Impact assessment"
-            },
-            {
-                "value": "100",
-                "name": "G5. Stakeholder engagement"
-            },
-            {
-                "value": "33.33",
-                "name": "G6. Remedy"
-            }
-        ],
-        "freedom": [
-            {
-                "value": "83.33",
-                "name": "F1. Access to terms of service"
-            },
-            {
-                "value": "41.67",
-                "name": "F2. Changes to terms of service"
-            },
-            {
-                "value": "61.43",
-                "name": "F3. Process for terms of service enforcement"
-            },
-            {
-                "value": "0",
-                "name": "F4. Data about terms of service enforcement"
-            },
-            {
-                "value": "45.83",
-                "name": "F5. Process for responding to third-party requests for content or account restriction"
-            },
-            {
-                "value": "31.67",
-                "name": "F6. Data about government requests for content or account restriction"
-            },
-            {
-                "value": "24.07",
-                "name": "F7. Data about private requests for content or account restriction"
-            },
-            {
-                "value": "20.83",
-                "name": "F8. User notification about content and account restriction"
-            },
-            {
-                "value": "N/A",
-                "name": "F9. Network management (telecommunications companies)"
-            },
-            {
-                "value": "N/A",
-                "name": "F10. Network shutdown (telecommunications companies)"
-            },
-            {
-                "value": "33.33",
-                "name": "F11. Identity policy"
-            }
-        ],
-        "privacy": [
-            {
-                "value": "88.89",
-                "name": "P1. Access to privacy policies"
-            },
-            {
-                "value": "50",
-                "name": "P2. Changes to privacy policies"
-            },
-            {
-                "value": "66.67",
-                "name": "P3. Collection of user information"
-            },
-            {
-                "value": "62.5",
-                "name": "P4. Sharing of user information"
-            },
-            {
-                "value": "45.83",
-                "name": "P5. Purpose for collecting and sharing user information"
-            },
-            {
-                "value": "36.67",
-                "name": "P6. Retention of user information"
-            },
-            {
-                "value": "29.17",
-                "name": "P7. Users’ control over their own user information"
-            },
-            {
-                "value": "62.5",
-                "name": "P8. Users’ access to their own user information"
-            },
-            {
-                "value": "36.67",
-                "name": "P9. Collection of user information from third parties (Internet companies)"
-            },
-            {
-                "value": "58.33",
-                "name": "P10. Process for responding to third-party requests for user information"
-            },
-            {
-                "value": "50",
-                "name": "P11. Data about third-party requests for user information"
-            },
-            {
-                "value": "66.67",
-                "name": "P12. User notification about third-party requests for user information"
-            },
-            {
-                "value": "11.11",
-                "name": "P13. Security oversight"
-            },
-            {
-                "value": "55.56",
-                "name": "P14. Addressing security vulnerabilities"
-            },
-            {
-                "value": "0",
-                "name": "P15. Data breaches"
-            },
-            {
-                "value": "29.17",
-                "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)"
-            },
-            {
-                "value": "94.44",
                 "name": "P17. Account Security (Internet, software, and device companies)"
             },
             {
@@ -3144,7 +3144,7 @@
                 "name": "G3. Internal implementation"
             },
             {
-                "value": "5.56",
+                "value": "5.5555555556",
                 "name": "G4. Impact assessment"
             },
             {
@@ -3152,13 +3152,13 @@
                 "name": "G5. Stakeholder engagement"
             },
             {
-                "value": "23.33",
+                "value": "23.3333333333",
                 "name": "G6. Remedy"
             }
         ],
         "freedom": [
             {
-                "value": "72.22",
+                "value": "72.2222222222",
                 "name": "F1. Access to terms of service"
             },
             {
@@ -3166,7 +3166,7 @@
                 "name": "F2. Changes to terms of service"
             },
             {
-                "value": "41.67",
+                "value": "41.6666666667",
                 "name": "F3. Process for terms of service enforcement"
             },
             {
@@ -3174,7 +3174,7 @@
                 "name": "F4. Data about terms of service enforcement"
             },
             {
-                "value": "23.61",
+                "value": "31.25",
                 "name": "F5. Process for responding to third-party requests for content or account restriction"
             },
             {
@@ -3182,11 +3182,11 @@
                 "name": "F6. Data about government requests for content or account restriction"
             },
             {
-                "value": "7.41",
+                "value": "11.1111111111",
                 "name": "F7. Data about private requests for content or account restriction"
             },
             {
-                "value": "4.17",
+                "value": "4.1666666667",
                 "name": "F8. User notification about content and account restriction"
             },
             {
@@ -3204,7 +3204,7 @@
         ],
         "privacy": [
             {
-                "value": "83.33",
+                "value": "83.3333333333",
                 "name": "P1. Access to privacy policies"
             },
             {
@@ -3212,7 +3212,7 @@
                 "name": "P2. Changes to privacy policies"
             },
             {
-                "value": "66.67",
+                "value": "66.6666666667",
                 "name": "P3. Collection of user information"
             },
             {
@@ -3240,7 +3240,7 @@
                 "name": "P9. Collection of user information from third parties (Internet companies)"
             },
             {
-                "value": "8.33",
+                "value": "8.3333333333",
                 "name": "P10. Process for responding to third-party requests for user information"
             },
             {
@@ -3252,11 +3252,11 @@
                 "name": "P12. User notification about third-party requests for user information"
             },
             {
-                "value": "16.67",
+                "value": "16.6666666667",
                 "name": "P13. Security oversight"
             },
             {
-                "value": "66.67",
+                "value": "66.6666666667",
                 "name": "P14. Addressing security vulnerabilities"
             },
             {
@@ -3264,11 +3264,11 @@
                 "name": "P15. Data breaches"
             },
             {
-                "value": "66.67",
+                "value": "66.6666666667",
                 "name": "P16. Encryption of user communication and private content (Internet, software, and device companies)"
             },
             {
-                "value": "66.67",
+                "value": "100",
                 "name": "P17. Account Security (Internet, software, and device companies)"
             },
             {

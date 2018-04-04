@@ -976,6 +976,82 @@
             ]
         },
         {
+            "id": "oath",
+            "name": "Oath",
+            "headers": [
+                {
+                    "text": "Yahoo Mail"
+                },
+                {
+                    "text": "Flickr"
+                },
+                {
+                    "text": "Tumblr"
+                }
+            ],
+            "average": [
+                {
+                    "value": "50"
+                },
+                {
+                    "value": "50"
+                },
+                {
+                    "value": "0"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it has systems in place to limit and monitor employee access to user information?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose that it has a security team that conducts security audits on the company’s products and services?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose that it commissions third-party security audits on its products and services?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "ooredoo",
             "name": "Ooredoo",
             "headers": [
@@ -1251,7 +1327,7 @@
         },
         {
             "id": "tencent",
-            "name": "TenCent",
+            "name": "Tencent",
             "headers": [
                 {
                     "text": "QZone"
@@ -1463,87 +1539,11 @@
             ]
         },
         {
-            "id": "yahoo",
-            "name": "Oath",
-            "headers": [
-                {
-                    "text": "Yahoo Mail"
-                },
-                {
-                    "text": "Flickr"
-                },
-                {
-                    "text": "Tumblr"
-                }
-            ],
-            "average": [
-                {
-                    "value": "50"
-                },
-                {
-                    "value": "50"
-                },
-                {
-                    "value": "0"
-                }
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "1. Does the company clearly disclose that it has systems in place to limit and monitor employee access to user information?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company clearly disclose that it has a security team that conducts security audits on the company’s products and services?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Does the company clearly disclose that it commissions third-party security audits on its products and services?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "id": "yandex",
             "name": "Yandex",
             "headers": [
                 {
-                    "text": "Yandex Mail ecosystem"
+                    "text": "Yandex mail"
                 },
                 {
                     "text": "Yandex Search"

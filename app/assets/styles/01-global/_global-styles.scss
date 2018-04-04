@@ -339,27 +339,27 @@ color: $cat-total !important;
   }
 }   
 .governance {
-color: $cat-commitment !important;
+  //color: $cat-commitment !important;
   &:hover {
-  color: $cat-commitment-hover !important;
+    //color: $cat-commitment-hover !important;
   }
   .collecticon {
-  color: $cat-commitment !important;  
+    color: $cat-commitment !important;  
   }
 }   
 .freedom {
-color: $cat-freedom !important;
+  //color: $cat-freedom !important;
   &:hover {
-  color: $cat-freedom-hover !important;
+    //color: $cat-freedom-hover !important;
   }
   .collecticon {
   color: $cat-freedom !important;  
   }
 }   
 .privacy {
-color: $cat-privacy !important;
+  //color: $cat-privacy !important;
   &:hover {
-  color: $cat-privacy-hover !important;
+    //color: $cat-privacy-hover !important;
   }
   .collecticon {
   color: $cat-privacy !important;  

@@ -146,7 +146,11 @@ function columnChart() {
         .attr('y', function(d, i) { return data[i][1] < 0 ? '-5' : '-3' })
         .style('text-anchor', function(d, i) { return data[i][1] < 0 ? 'start' : 'end' })
         .attr('class', 'company--name')
-        .attr('transform', 'rotate(-45)');
+        .attr('transform', 'rotate(-45)')
+        .on('click', function (d) {
+          var url = d.toLowerCase().replace('&', '').replace('.', '').replace(' ', '');
+          window.location.href = '#' + url;
+        });
 
       svg.call(tt);
 

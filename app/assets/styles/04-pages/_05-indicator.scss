@@ -230,7 +230,13 @@ $maincolor:  #231f20;
             transform: rotate(-45deg);
           }           
         }
-      }                             
+      }
+      .bar--axis_x {
+        text:hover {
+          cursor: pointer;
+          text-decoration: underline;
+        }
+      }
 
     }
 
@@ -424,7 +430,7 @@ $maincolor:  #231f20;
       table {
         th.cell--first {
           text-align: left;
-          width: 50%;
+          width: 40%;
         }
         thead tr,
         tfoot tr {
@@ -467,6 +473,7 @@ $maincolor:  #231f20;
     }
   }
 }
+
 .privacy { 
   .indicator-content {
     .bar--default {

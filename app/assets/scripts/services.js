@@ -23,16 +23,20 @@ module.exports = function generateService (serviceType) {
   var overviewSuccess = function () {
     var data = service.map(function (model) {
 
+      /*
       var total_difference;
       var name = model.get('Company');
       compare.fetch({
         async: false,
         success: function(){
-          var retval = compare.findWhere({name:name});
+          var retval = compare.findWhere({id:name.toLowerCase()});
           total_difference = retval.attributes.total_difference;
         },
       });
+      */
 
+      var total_difference = model.get('Difference');
+      
       return {
         company: model.get('Company'),
         service: model.get('Service'),

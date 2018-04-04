@@ -1659,6 +1659,126 @@
             ]
         },
         {
+            "id": "oath",
+            "name": "Oath",
+            "headers": [
+                {
+                    "text": "Group - Oath - Freedom of Expression "
+                },
+                {
+                    "text": "Group - Oath - Privacy"
+                },
+                {
+                    "text": "Yahoo Mail - Freedom of Expression"
+                },
+                {
+                    "text": "Yahoo Mail - Privacy"
+                },
+                {
+                    "text": "Flickr - Freedom of Expression"
+                },
+                {
+                    "text": "Flickr - Privacy"
+                },
+                {
+                    "text": "Tumblr - Freedom of Expression"
+                },
+                {
+                    "text": "Tumblr - Privacy"
+                }
+            ],
+            "average": [
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it provides employee training on freedom of expression and privacy issues?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose that it maintains an employee whistleblower program through which employees can report concerns related to how the company treats its users’ freedom of expression and privacy rights?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "ooredoo",
             "name": "Ooredoo",
             "headers": [
@@ -2164,7 +2284,7 @@
         },
         {
             "id": "tencent",
-            "name": "TenCent",
+            "name": "Tencent",
             "headers": [
                 {
                     "text": "Group - Tencent - Freedom of Expression "
@@ -2523,126 +2643,6 @@
             ]
         },
         {
-            "id": "yahoo",
-            "name": "Oath",
-            "headers": [
-                {
-                    "text": "Group - Oath - Freedom of Expression "
-                },
-                {
-                    "text": "Group - Oath - Privacy"
-                },
-                {
-                    "text": "Yahoo Mail - Freedom of Expression"
-                },
-                {
-                    "text": "Yahoo Mail - Privacy"
-                },
-                {
-                    "text": "Flickr - Freedom of Expression"
-                },
-                {
-                    "text": "Flickr - Privacy"
-                },
-                {
-                    "text": "Tumblr - Freedom of Expression"
-                },
-                {
-                    "text": "Tumblr - Privacy"
-                }
-            ],
-            "average": [
-                {
-                    "value": "100"
-                },
-                {
-                    "value": "100"
-                },
-                {
-                    "value": "100"
-                },
-                {
-                    "value": "100"
-                },
-                {
-                    "value": "100"
-                },
-                {
-                    "value": "100"
-                },
-                {
-                    "value": "100"
-                },
-                {
-                    "value": "100"
-                }
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "1. Does the company clearly disclose that it provides employee training on freedom of expression and privacy issues?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company clearly disclose that it maintains an employee whistleblower program through which employees can report concerns related to how the company treats its users’ freedom of expression and privacy rights?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "id": "yandex",
             "name": "Yandex",
             "headers": [
@@ -2653,10 +2653,10 @@
                     "text": "Group - Yandex - Privacy"
                 },
                 {
-                    "text": "Yandex Mail ecosystem - Freedom of Expression"
+                    "text": "Yandex mail - Freedom of Expression"
                 },
                 {
-                    "text": "Yandex Mail ecosystem - Privacy"
+                    "text": "Yandex mail - Privacy"
                 },
                 {
                     "text": "Yandex Search - Freedom of Expression"

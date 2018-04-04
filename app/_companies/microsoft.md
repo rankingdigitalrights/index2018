@@ -5,7 +5,7 @@ layout: company
 name: microsoft
 id: microsoft
 
-company_type: Internet and Mobile Ecosystems Companies
+company_type: Internet and Mobile Ecosystem Companies
 display: Microsoft Corp.
 headquarters: USA
 link: https://microsoft.com
@@ -24,15 +24,15 @@ services_evaluated:
   - item:
     key: search engine
     key_href: search
-    name: bing
+    name: Bing
   - item:
     key: email
     key_href: emailservice
-    name: outlook
+    name: Outlook
   - item:
     key: messaging & voip
     key_href: messagingvoip
-    name: skype
+    name: Skype
 
 analysis_text: "Microsoft earned the second-highest score among internet and mobile ecosystem companies, just two points behind Google. A member of the Global Network Initiative (GNI), Microsoft disclosed a strong commitment to freedom of expression and privacy. Despite its overall strong performance, its score declined slightly as a result of policies for notifying Skype users if the company restricts their accounts being no longer available. In addition, Microsoft could be more transparent about its process for enforcing its terms of service and could clarify how it handles user information, including options users have to control what information about them is collected and shared. U.S. law prevents companies from disclosing the exact number of government requests for stored and real-time user information they receive, which prevented Microsoft from being fully transparent in that area. However, Microsoft still disclosed more data on government and private requests for user information than most companies in the Index."
 
@@ -71,7 +71,7 @@ summary_of_changes_freedom:
     title: F4. data about terms of service enforcement
     body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
 
-privacy_text: "Microsoft disclosed more than the rest of its peers, apart from Google, about policies affecting users’ privacy.<br /><br /><strong>Handling of user information: </strong>Microsoft disclosed less than Twitter, Google, and Oath about how it handles user information (P3-P9). The company did not fully disclose the types of user information it collects, shares, or for what purpose (P3, P4, P5). Like most companies, it provided even less information about how long it retains this information (P6). It also disclosed some options users have to opt out of whether their information is collected for targeted advertising, which suggests that targeted advertising is on by default (P7). It disclosed more than most companies about options users have to obtain information the company holds about them (P8), and to control whether and how the company collects information about users across third-party websites (P9), though this disclosure still fell short.<br /><br /><strong>Requests for user information:</strong> Microsoft disclosed more than its peers about its process for handling government and private requests for user information (P10), but lagged behind Twitter, Facebook, and Google on disclosure of data on the requests it received (P11). Microsoft disclosed its policy for notifying users about government requests for their user information, but not for requests it receives through private processes (P12).<br /><br /><strong>Security:</strong> Microsoft disclosed less than Apple, Google, and Yandex about its security policies, but more than the other internet and mobile ecosystem companies evaluated (P13-P18). It disclosed it conducts internal security audits (P13), and offered a bug bounty program to address security vulnerabilities (P14). Like most companies in the Index, Microsoft failed to disclose policies for responding to data breaches (P15). It scored lower than Facebook, Apple, Yandex, and Google on disclosure of its encryption policies (P16)."
+privacy_text: "Microsoft disclosed more than the rest of its peers, apart from Google, about policies affecting users’ privacy.<br /><br /><strong>Handling of user information: </strong>Microsoft disclosed less than Twitter, Google, and Oath about how it handles user information (P3-P9). The company did not fully disclose the types of user information it collects, shares, or for what purpose (P3, P4, P5). Like most companies, it provided even less information about how long it retains this information (P6). It also disclosed some options users have to opt out of whether their information is collected for targeted advertising, which suggests that targeted advertising is on by default (P7). It disclosed more than most companies about options users have to obtain information the company holds about them (P8), and whether and how the company collects information about users across third-party websites (P9), though this disclosure still fell short.<br /><br /><strong>Requests for user information:</strong> Microsoft disclosed more than its peers about its process for handling government and private requests for user information (P10), but lagged behind Twitter, Facebook, and Google on disclosure of data on the requests it received (P11). Microsoft disclosed its policy for notifying users about government requests for their user information, but not for requests it receives through private processes (P12).<br /><br /><strong>Security:</strong> Microsoft disclosed less than Apple, Google, and Yandex about its security policies, but more than the other internet and mobile ecosystem companies evaluated (P13-P18). It disclosed it conducts internal security audits (P13), and offered a bug bounty program to address security vulnerabilities (P14). Like most companies in the Index, Microsoft failed to disclose policies for responding to data breaches (P15). It scored lower than Facebook, Apple, Yandex, and Google on disclosure of its encryption policies (P16)."
 
 summary_of_changes_privacy:
   - item:

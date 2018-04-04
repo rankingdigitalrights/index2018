@@ -5,7 +5,7 @@ layout: company
 name: apple
 id: apple
 
-company_type: Internet and Mobile Ecosystems Companies
+company_type: Internet and Mobile Ecosystem Companies
 display: Apple, Inc.
 headquarters: USA
 link: https://www.apple.com
@@ -22,17 +22,17 @@ key_findings:
 
 services_evaluated:
   - item:
-    key: messaging and voip
+    key: messaging & voip
     key_href: messagingvoip
-    name: imessage
+    name: iMessage
   - item:
     key: cloud storage
     key_href: cloudservices
-    name: icloud
+    name: iCloud
   - item:
     key: mobile ecosystem
     key_href: mobileeco
-    name: ios
+    name: iOS
 
 analysis_text: "Apple placed seventh out of the 12 internet and mobile ecosystem companies evaluated, disclosing less about policies and practices affecting freedom of expression than most of its U.S. peers. The company earned the largest score improvement in the 2018 Index, due to improved transparency reporting and disclosure of its commitments to user privacy. However, Apple still received the lowest score of all U.S. internet and mobile ecosystem companies evaluated due to its lack of disclosure of policies affecting users’ freedom of expression. Despite improvements to its transparency reporting, Apple still provided no data about government requests to remove apps from its app store, or data on content or account restrictions the company undertook to enforce its own rules. <a href=\"https://www.congress.gov/bill/114th-congress/house-bill/2048\" target=\"_blank\">U.S. law prevents companies</a> from disclosing the exact number of government requests for stored and real-time user information they receive, which prevented Apple from being fully transparent in that area."
 

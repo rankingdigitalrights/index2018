@@ -976,6 +976,82 @@
             ]
         },
         {
+            "id": "oath",
+            "name": "Oath",
+            "headers": [
+                {
+                    "text": "Yahoo Mail"
+                },
+                {
+                    "text": "Flickr"
+                },
+                {
+                    "text": "Tumblr"
+                }
+            ],
+            "average": [
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it will notify the relevant authorities without undue delay when a data breach occurs?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose its process for notifying data subjects who might be affected by a data breach?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose what kinds of steps it will take to address the impact of a data breach on its users?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "ooredoo",
             "name": "Ooredoo",
             "headers": [
@@ -1251,7 +1327,7 @@
         },
         {
             "id": "tencent",
-            "name": "TenCent",
+            "name": "Tencent",
             "headers": [
                 {
                     "text": "QZone"
@@ -1463,87 +1539,11 @@
             ]
         },
         {
-            "id": "yahoo",
-            "name": "Oath",
-            "headers": [
-                {
-                    "text": "Yahoo Mail"
-                },
-                {
-                    "text": "Flickr"
-                },
-                {
-                    "text": "Tumblr"
-                }
-            ],
-            "average": [
-                {
-                    "value": "0"
-                },
-                {
-                    "value": "0"
-                },
-                {
-                    "value": "0"
-                }
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "1. Does the company clearly disclose that it will notify the relevant authorities without undue delay when a data breach occurs?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company clearly disclose its process for notifying data subjects who might be affected by a data breach?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Does the company clearly disclose what kinds of steps it will take to address the impact of a data breach on its users?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "id": "yandex",
             "name": "Yandex",
             "headers": [
                 {
-                    "text": "Yandex Mail ecosystem"
+                    "text": "Yandex mail"
                 },
                 {
                     "text": "Yandex Search"

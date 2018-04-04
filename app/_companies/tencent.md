@@ -1,23 +1,24 @@
 ---
-
 company_type_page: internet-and-mobile-companies
 entity: tencent
 layout: company
 name: tencent
 id: tencent
 
-company_type: Internet and Mobile Ecosystems Companies
+company_type: Internet and Mobile Ecosystem Companies
 display: Tencent Holdings Limited
 headquarters: China
 link: https://www.tencent.com
+download: https://www.tencent.com
 
 telco: false
 
-key_findings:
-  - Tencent lacked sufficient disclosure of commitments and policies affecting users’ freedom of expression and privacy.  
-  - Tencent disclosed more about its policies related to privacy than Baidu, the other Chinese internet company evaluated.
-  - Chinese law makes it unrealistic to expect companies to disclose most information about government requests, but Tencent could disclose information about its handling of private requests to restrict content or accounts, and private requests for user information.
+rank: 10
 
+key_findings:
+  - Tencent disclosed little about policies affecting users’ freedom of expression and privacy, but was more transparent than Baidu, the other Chinese internet company evaluated.
+  - Tencent received one of the lowest privacy scores in the Index, although it improved its disclosure of how it handles user information for WeChat.
+  - The company tied with Facebook and Yandex for the highest score for its disclosure of how it addresses security vulnerabilities, but lacked transparency about other internal security measures it takes to keep user information secure.
 
 services_evaluated:
   - item:
@@ -33,22 +34,52 @@ services_evaluated:
     key_href: messagingvoip
     name: WeChat
 
-total: 22
-analysis_text_left: "Tencent ranked 10th of the 12 Internet and Mobile Ecosystems Companies evaluated and 14th in the Index overall. The 2016 <i>Freedom on the Net</i> report by Freedom House rated China’s internet environment as “Not Free,” with <a href=\"https://freedomhouse.org/report/freedom-net/2016/china\" target=\"_blank\">China scoring the lowest of all countries reviewed</a>. While gaps in Tencent’s commitments and disclosures can be blamed on China’s legal and regulatory environment, there are still areas in which Tencent could improve without regulatory change. <br /><br /> Tencent offered different versions of many key documents, including terms of service and privacy policies, for mainland Chinese users and all other users outside of China. Documents offered in English and traditional Chinese characters (used in Hong Kong and Taiwan) contained different substantive content and commitments in some areas, generally with more detail and better disclosure. While all versions were reviewed, only the documents in simplified Chinese (for mainland Chinese users) <a href=\"/findings/china\" target=\"_blank\">counted towards the company’s Index score</a>."
+analysis_text: 'Tencent ranked 10th out of the 12 internet and mobile ecosystem companies evaluated, disclosing little about its policies and practices affecting freedom of expression and privacy. The <a href=\"https://freedomhouse.org/report/freedom-net/2017/china\" target=\"_blank\">Chinese internet environment</a> is one of the most restrictive in the world, which accounts for Tencent’s poor performance in some areas. Its score nonetheless increased slightly in the 2018 Index for improved disclosure of its terms of service enforcement for WeChat and for clarifying how that service handles user information. However, there are still areas in which Tencent could improve its disclosure without regulatory change, particularly regarding how it handles and secures user information. Tencent offered different versions of its terms of service and privacy policies for mainland Chinese users than for users outside of China. Versions in English and traditional Chinese characters (applied to non-Chinese users outside of the People’s Republic of China) contained different substantive content and commitments in some areas, generally with more detail and better disclosure. In addition, China’s surveillance-friendly legal environment does not fully excuse Tencent’s lack of basic information about its security practices.'
 
-analysis_text_right: "<strong>Tencent Holdings Limited</strong> provides a broad range of Internet and mobile value-added services (VAS), online advertising services, and eCommerce transactions services to users in China, the United States, Europe, and elsewhere around the world. It is one of the largest Internet companies globally."
+key_recommendation_paragraph: '<strong>Tencent Holdings Limited</strong> provides a broad range of internet and mobile value-added services, online advertising services, and ecommerce transactions services to users in China and internationally. It is one of the world’s largest internet companies.'
 
+key_recommendation_list:
+  - <strong>Increase transparency about private requests.</strong> Tencent should improve its disclosure of its processes for responding to private requests to restrict content or accounts and for user information.
+  - <strong>Disclose more information about data retention.</strong> For each type of user information it collects, Tencent should disclose how long it retains that information.
+  - <strong>Improve grievance and remedy mechanisms.</strong> Tencent should disclose clear mechanisms for users to submit complaints related to freedom of expression and privacy across all services.
 
 analysis_industry: Internet Software and Services
-analysis_market_cap: USD 246,184 million
-analysis_stock_symbol: SEHK 700
+analysis_market_cap: USD 547.2 billion
+analysis_stock_symbol: "SEHK: 700"
 
-governance: 9
-governance_text: "Tencent ranked 17th out of the 22 companies in the Governance category, ahead of Baidu. The company received some credit for publicly committing <a href=\"http://www.tencent.com/zh-cn/zc/privacypolicyTraditional.shtml\" target=\"_blank\">to protect users’ privacy</a> but made no such commitment to protect users’ freedom of expression (G1). To the contrary, its terms of service for mainland Chinese users stated that users’ accounts may be terminated for <a href=\"http://www.qq.com/contract.shtml\" target=\"_blank\">“implicating Tencent in political and public events.”</a> The company did provide some information about a general complaints mechanism for users that applied to all services, with WeChat providing somewhat more detail. While Tencent scored below average on this indicator (G6) it nonetheless tied with Google and scored above several companies whose overall Index scores were much higher."
+governance_text: 'Tencent ranked ninth out of 12 internet and mobile ecosystem companies in the Governance category, ahead of Baidu. The company <a href=\"http://www.qq.com/privacy.htm\" target=\"_blank\">stated</a> that it values users’ privacy, although this was not within the context of privacy as a human right, and the company did not disclose a commitment to respect users’ freedom of expression (G1). To the contrary, its <a href=\"http://www.qq.com/contract.shtml\" target=\"_blank\">terms of service for mainland Chinese users</a> stated that users’ accounts may be terminated for using Tencent’s services for political activity. The company provided some information about a general complaints mechanism for users that applied to all services, with WeChat providing somewhat more detail than QZone and QQ. While Tencent scored below average on this indicator (G6), it nonetheless scored above Facebook.'
 
-freedom: 14
-freedom_text: "Tencent ranked 11th out of the 12 Internet and Mobile Ecosystems Companies in the Freedom of Expression category, just ahead of Baidu. <br /><br /><strong>Content and account restrictions:</strong> Tencent disclosed less than most Internet and Mobile Ecosystems Companies average on these indicators (F3, F4, F8), but more than Apple and Baidu. The company offered above-average disclosure of what types of content or activities are prohibited (F3). Notably, this indicator rewards companies for the clarity of their rules, rather than for respecting users' freedom of expression rights <i>per se</i>. The company failed to disclose the volume and nature of content or accounts restricted in enforcing these rules (F4), though all companies performed poorly on this indicator. It also failed to disclose a consistent policy to notify users when the company restricts content or accounts (F8). <br /><br /><strong>Content and account restriction requests:</strong> Tencent disclosed little about how it handles requests from governments and private parties to restrict content or user accounts, although it scored better on these indicators than Baidu and Samsung (F5-F7). It disclosed no data about government or private requests for content or account restrictions it receives or its compliance with these requests (F6, F7). <br /><br /><strong>Identity policy:</strong> The company disclosed that it may, depending on applicable laws, require users to verify their identity with a government-issued ID for all services. Network service providers offering internet access or information related services in China are <a href=\"https://chinacopyrightandmedia.wordpress.com/2012/12/28/national-peoples-congress-standing-committee-decision-concerning-strengthening-network-information-protection/\" target=\"_blank\">legally required to do so</a>. (F11)"
+summary_of_changes_governance:
+  - item:
+    change: positive
+    title: F1. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+  - item:
+    change: negative
+    title: F4. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
 
-privacy: 31
-privacy_text: "Tencent received the fourth-lowest score among Internet and Mobile Ecosystems Companies evaluated in the Privacy category, ahead of Samsung, Mail.Ru, and Baidu. <br /><br /><strong>Handling of user information:</strong> Tencent performed below the internet and mobile company average on this set of indicators (P3-P9). However, it provided strong disclosure of of what user information it collects, on par with Facebook, Twitter, Yahoo, and Yandex (P3). But it did not fully disclose the reasons it shares the information it collects (P5), and disclosed nothing about how long it retains user information (P6). The law requires retention for 60 days but does not forbid disclosure of that fact. <br /><br /><strong>Requests for user information:</strong> Tencent disclosed almost nothing about how it handles government and private requests for user information, earning equally low scores on these indicators as Baidu. (P10-P12). While Chinese law makes it unrealistic to expect companies to disclose most information about government requests, Tencent should be able to reveal if and when it shares user information with private parties and under what circumstances.<br /><br /><strong>Security:</strong> Tencent disclosed little about its security policies, scoring better than only Baidu on these indicators (P13-P18). However, the company tied with Twitter, Facebook, and Yandex for the highest score for its disclosure on how it addresses security vulnerabilities (P14)."
+freedom_text: 'Tencent ranked 11th out of the 12 internet and mobile ecosystem companies in the Freedom of Expression category, just ahead of Baidu.  <br /><br /><strong> Content and account restrictions:</strong> Tencent disclosed less than most other internet and mobile ecosystem companies about policies for moderating content and accounts on its platforms (F3, F4, F8), but more than Apple and Baidu. The company disclosed some information about the types of content or activities it prohibits, and slightly improved its disclosure for WeChat by including more detailed examples to help users understand its rules (F3). Tencent failed to disclose the volume and nature of content or accounts it restricted when enforcing its rules (F4). It also did not commit to notify affected users when the company censors content or accounts (F8). <br /><br /><strong>Content and account restriction requests:</strong> Tencent disclosed almost no information about how it handles government and private requests to censor content or user accounts, although it still scored slightly better on these indicators than Baidu and Samsung (F5-F7). It did not publish any data about government or private requests for content or account restrictions it received or with which it complied (F6, F7).<br /><br /><strong>Identity policy:</strong> The company disclosed that it may, depending on applicable laws, require users to verify their identity with a government-issued ID for all services (F11). Network service providers offering internet access or information-related services in China are <a href=\"https://www.accessnow.org/closer-look-chinas-cybersecurity-law-cybersecurity-something-else/\" target=\"_blank\">legally required to do so</a>, as are messaging apps.'
+
+summary_of_changes_freedom:
+  - item:
+    change: positive
+    title: F1. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+  - item:
+    change: negative
+    title: F4. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+
+privacy_text: 'Tencent received the fourth-lowest privacy score of the 12 internet and mobile ecosystem companies evaluated, ahead of Samsung, Mail.Ru, and Baidu. <br /><br /><strong>Handling of user information:</strong> Tencent disclosed less than most of its peers about its policies for handling user information (P3-P9). Tencent disclosed limited information on options users have to control what the company collects about them, including for the purposes of targeted advertising (P7). The company disclosed nothing about how long it retains user information (P6). <a href=\"https://www.accessnow.org/closer-look-chinas-cybersecurity-law-cybersecurity-something-else/\" target=\"_blank\">China’s Cybersecurity Law</a> requires companies to retain network logs for at least six months but does not forbid disclosure of that fact. <br /><br /><strong>Requests for user information:</strong> Tencent disclosed no information about how it handles government and private requests for user information, scoring slightly lower than Baidu on these indicators (P10-P12). While the Chinese legal and political environment makes it unrealistic to expect companies to disclose most information about government requests for user information, Tencent should be able to divulge if and when it shares user information via private requests and under what circumstances. <br /><br /><strong>Security:</strong> Tencent disclosed little about its security policies, scoring better than only Baidu and Samsung on these indicators (P13-P18). However, the company tied with Facebook and Yandex for the highest score for its disclosure on how it addresses security vulnerabilities (P14). Like most other internet and mobile ecosystem companies, Tencent did not disclose any information about how it handles data breaches (P15). It disclosed almost no information about encryption of user communications (P16). Chinese companies are <a href=\"http://news.xinhuanet.com/politics/2015-12/27/c_128571798.htm\" target=\"_blank\">required by law</a> to provide user information when requested by government authorities, effectively prohibiting them from offering end-to-end encryption or requiring that they provide decryption assistance.'
+
+summary_of_changes_privacy:
+  - item:
+    change: positive
+    title: F1. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+  - item:
+    change: positive
+    title: F4. data about terms of service enforcement
+    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
 ---

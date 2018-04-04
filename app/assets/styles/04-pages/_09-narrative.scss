@@ -58,12 +58,14 @@ $maincolor:  #231f20;
         text-rendering: optimizeLegibility;
         letter-spacing: .5px;
       a{
-        line-height: 1.5em;
-        color: $black-lighter;
-        font-weight: normal;
+        line-height: 1.4em;
+        color: $black-narrative;
+        font-weight: bold;
         font-size: 1.1em;
         font-family: $simplon-light;
         position: relative;
+        display: flex;
+        justify-content: start;
         &:hover{
           text-decoration: none;
           color: $maincolor;
@@ -71,9 +73,9 @@ $maincolor:  #231f20;
         i{
           color: $black-lighter;
           font-size: 12px;
-          position: absolute;
-          right: -30px;
-          top: 0px;
+          position: relative;
+          left: 5px;
+          top: 3px;
         }
       }
     }
@@ -95,7 +97,7 @@ $maincolor:  #231f20;
     .submenu {
           color: darken($maincolor,30%);
           font-size: 1em;
-          display: block;
+          display: none;
           &:last-child {
               border-bottom: 0;
           }
@@ -105,7 +107,7 @@ $maincolor:  #231f20;
               padding: 0;
               counter-reset: item;
               li{
-                  padding: 5px 0 0 20px;
+                  padding: 5px 0 0 0;
                   background: none;
                   color: #a5a8ab;
                   display: block;
@@ -149,7 +151,7 @@ $maincolor:  #231f20;
 
 
   .narrative-content{
-    width: auto;
+    width: 75%;
     margin-left: 25%;
     h1, h2,h3,h4,h5,h6{
       font-family: "Simplon-Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -188,115 +190,119 @@ $maincolor:  #231f20;
           }
         }
     }
+    h1 {
+      border-bottom: 2px solid #e2dad1;
+      padding-bottom: 15px;
+      margin-bottom: 40px;
+    }
+    h2{
+      color: $base-color;
+      margin-bottom: 0;
+      font-size: 2em;
+      text-transform: none;
+      margin: 30px 0;
+    }
+    h3{
+      font-size: 2em;
+      text-transform: none;
+      margin: 30px 0;
+    }
+    blockquote {
+      background-color: #F7F7F7;
+      padding: 2.8em;
+      margin: 1.875em 0;
 
-        h1 {
-          border-bottom: 2px solid #e2dad1;
-          padding-bottom: 15px;
-          margin-bottom: 40px;
-        }
-    
-        h2{
-          color: $base-color;
-          margin-bottom: 0;
-          font-size: 2em;
-          text-transform: none;
-          margin: 30px 0;
-        }
-
-        h3{
-          font-size: 2em;
-          text-transform: none;
-          margin: 30px 0;
-        }
-
-        blockquote {
-          background-color: #F7F7F7;
-          padding: 2.8em;
-          margin: 1.875em 0;
-          
-          h3 {
-            color: #4D9ECF;
-            text-transform: none;
-            font-family: "Simplon-Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
-            font-size: 2em;
-          }
-
-          p{
-            margin: 0;
-          }
-
-        }
-    
-        a{
-            color: $link-color;
-            cursor: pointer;
-            &:hover{
-                text-decoration: underline;
-            }
-        }
-      .ref-number{
-        color: $black;
-        &:hover{
-          text-decoration: none;
-        }
+      h3 {
+        color: #4D9ECF;
+        text-transform: none;
+        font-family: "Simplon-Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 2em;
       }
-      .bold{
-          font-weight: bold;
-      }
-      .quote{
-        font-size: 1.25em;
-        padding-left: 1em;
-        border-left: 3px solid $base-color;
-        margin: 1em;
-        line-height: 1.2em;
-        @include media(small-up) {
-          font-size: 1em;
-        }
-        @include media(medium-up) {
-          font-size: 1.25em;
-        }
-        @include media(large-up) {
-          font-size: 1.75em;
-        }
-        @include media(xlarge-up) {
-          font-size: 1.75em;
-        }
-        span{
-          font-size: 1.75em;
-        }
-      }
-      .highlihted-section-div{
-        background-color: #F7F7F7;
-        padding: 2.8em;
-        margin: 1.875em 0;
-        h3{
-          color: $base-color;
-          text-transform: none;
-          font-family: "Simplon-Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
-          font-size: 2em;
-        }
-      }
+
       p{
-        font-size: 1em;
-        line-height: 1.5em;
-        font-family: $simplon-light;
-        @include media(small-up) {
-          font-size: 1em;
-        }
-        @include media(medium-up) {
-          font-size: 1em;
-        }
-        @include media(large-up) {
-          font-size: 1.250em;
-        }
-        @include media(xlarge-up) {
-          font-size: 1.250em;
-        }
-        span{
-          font-size: inherit;
-        }
+        margin: 0;
       }
-      .firstcharacter {
+
+    }
+    a{
+        color: $link-color;
+        cursor: pointer;
+        &:hover{
+            text-decoration: underline;
+        }
+    }
+    p{
+      font-size: 1em;
+      line-height: 1.4em;
+      font-family: $simplon-light;
+      color: $black-narrative;
+      @include media(small-up) {
+        font-size: 1em;
+        margin-bottom: 10px;
+      }
+      @include media(medium-up) {
+        font-size: 1em;
+        margin-bottom: 10px;
+      }
+      @include media(large-up) {
+        font-size: 1.250em;
+        margin-bottom: 15px;
+      }
+      @include media(xlarge-up) {
+        font-size: 1.250em;
+      }
+      span{
+        font-size: inherit;
+      }
+    }
+    img{
+      height: auto;
+      width: 100%;
+      margin: 10px auto 20px;
+    }
+    .ref-number{
+      color: $black;
+      &:hover{
+        text-decoration: none;
+      }
+    }
+    .bold{
+        font-weight: bold;
+    }
+    .quote{
+      font-size: 1.25em;
+      padding-left: 1em;
+      border-left: 3px solid $base-color;
+      margin: 1em;
+      line-height: 1.2em;
+      @include media(small-up) {
+        font-size: 1em;
+      }
+      @include media(medium-up) {
+        font-size: 1.25em;
+      }
+      @include media(large-up) {
+        font-size: 1.75em;
+      }
+      @include media(xlarge-up) {
+        font-size: 1.75em;
+      }
+      span{
+        font-size: 1.75em;
+      }
+    }
+    .highlihted-section-div{
+      background-color: #F7F7F7;
+      padding: 2.8em;
+      margin: 1.875em 0;
+      h3{
+        color: $base-color;
+        text-transform: none;
+        font-family: "Simplon-Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 2em;
+      }
+    }
+    .firstcharacter {
         color:$base-color;
         float: left;
         font-size: 4.5em;
@@ -306,21 +312,35 @@ $maincolor:  #231f20;
         padding-left: 3px;
         font-weight: bold;
       }
-      //p:first-child:first-letter {
-      //  initial-letter: 2;
-      //}
 
-      ul{
+    ul{
         margin-left: 20px;
         li{
           list-style: disc;
           p{
-            line-height: 1.3em;
+            font-size: 1em;
+            line-height: 1.4em;
+            font-family: $simplon-light;
+            color: $black-narrative;
+            @include media(small-up) {
+              font-size: 1em;
+              margin-bottom: 10px;
+            }
+            @include media(medium-up) {
+              font-size: 1em;
+              margin-bottom: 10px;
+            }
+            @include media(large-up) {
+              font-size: 1.250em;
+              margin-bottom: 15px;
+            }
+            @include media(xlarge-up) {
+              font-size: 1.250em;
+            }
           }
         }
       }
-
-      ol{
+    ol{
         margin-left: 20px;
         li{
           list-style-type: number;
@@ -329,7 +349,6 @@ $maincolor:  #231f20;
           }
         }
       }
-    
     .introduction{
       margin-top: 44px;
         p {
@@ -337,8 +356,8 @@ $maincolor:  #231f20;
         }
     }
     .pagination{
+      font-size: 20px;
       margin: 40px 0;
-
       	a{
           cursor: pointer;
           color: $black-lighter ;
@@ -357,10 +376,13 @@ $maincolor:  #231f20;
           i{
             padding: 0 5px;
             position: relative;
-            top: -2px;
+            //top: -2px;
           }
 
       	}
+        a:hover {
+          border-bottom: 2px solid #E5DCD2;
+        }
       	.next{
       		float:right;
       	}
@@ -376,6 +398,12 @@ $maincolor:  #231f20;
           margin: 0 0 20px 0;
         }
       }
+      font-size: 0.85em;
+      margin: 0 0 20px 0;
+    }
+    .footnote-paragraph {
+      font-size: 0.85em;
+      margin: 0 0 20px 0;
     }
 
   }

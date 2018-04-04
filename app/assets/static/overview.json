@@ -130,6 +130,16 @@
         "total": "16.40190972"
     },
     {
+        "commitment": "88.24074074",
+        "display": "Oath",
+        "freedom": "48.3377425",
+        "id": "oath",
+        "name": "Oath",
+        "privacy": "54.42480359",
+        "telco": "false",
+        "total": "58.91304823"
+    },
+    {
         "commitment": "1.666666667",
         "display": "Ooredoo",
         "freedom": "13.91233766",
@@ -171,10 +181,10 @@
     },
     {
         "commitment": "6.944444444",
-        "display": "TenCent",
+        "display": "Tencent",
         "freedom": "14.25925926",
         "id": "tencent",
-        "name": "tencent",
+        "name": "Tencent",
         "privacy": "32.02160494",
         "telco": "false",
         "total": "22.61784512"
@@ -198,16 +208,6 @@
         "privacy": "43.67171717",
         "telco": "true",
         "total": "51.8503957"
-    },
-    {
-        "commitment": "88.24074074",
-        "display": "Oath",
-        "freedom": "48.3377425",
-        "id": "yahoo",
-        "name": "Oath",
-        "privacy": "54.42480359",
-        "telco": "false",
-        "total": "58.91304823"
     },
     {
         "commitment": "6.898148148",
