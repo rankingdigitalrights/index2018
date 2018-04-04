@@ -12,4 +12,4 @@ next:
 
 # 10. Company Report Cards
 
-The 2017 Index measures if and how companies disclose their commitments, policies, and practices that affect users’ freedom of expression and privacy across 35 indicators in three main categories: [Governance](http://google.com), [Freedom of Expression](), and [Privacy](). Each category contains indicators measuring company disclosure for that category; each indicator is comprised of a series of elements that measure company disclosure for that indicator.
+The 2018 Index ranks 22 internet, mobile, and telecommunications companies on their disclosed commitments and policies affecting users’ freedom of expression and privacy. For an analysis of each company’s performance in the Index, read each company’s individual report card in the [COMPANIES](/companies) section of the website.
