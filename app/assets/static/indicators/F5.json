@@ -2821,8 +2821,228 @@
             ]
         },
         {
-            "id": "orange",
-            "name": "Orange",
+            "id": "oath",
+            "name": "Oath",
+            "headers": [
+                {
+                    "text": "Yahoo Mail"
+                },
+                {
+                    "text": "Flickr"
+                },
+                {
+                    "text": "Tumblr"
+                }
+            ],
+            "average": [
+                {
+                    "value": "N/A"
+                },
+                {
+                    "value": "92"
+                },
+                {
+                    "value": "83"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose its process for responding to non-judicial government requests?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose its process for responding to court orders?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose its process for responding to government requests from foreign jurisdictions?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose its process for responding to private requests?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. Do the company’s explanations clearly disclose the legal basis under which it may comply with government requests?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "6. Do the company’s explanations clearly disclose the basis under which it may comply with private requests?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "7. Does the company clearly disclose that it carries out due diligence on government requests before deciding how to respond?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "8. Does the company clearly disclose that it carries out due diligence on private requests before deciding how to respond?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "9. Does the company commit to push back on inappropriate or overbroad requests made by governments?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "10.Does the company commit to push back on inappropriate or overbroad private requests?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "11. Does the company provide clear guidance or examples of implementation of its process of responding to government requests?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "12. Does the company provide clear guidance or examples of implementation of its process of responding to private requests?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ooredoo",
+            "name": "Ooredoo",
             "headers": [
                 {
                     "text": "Prepaid Mobile"
@@ -3041,8 +3261,8 @@
             ]
         },
         {
-            "id": "ooredoo",
-            "name": "Ooredoo",
+            "id": "orange",
+            "name": "Orange",
             "headers": [
                 {
                     "text": "Prepaid Mobile"
@@ -4229,226 +4449,6 @@
                         },
                         {
                             "value": "50"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "oath",
-            "name": "Oath",
-            "headers": [
-                {
-                    "text": "Yahoo Mail"
-                },
-                {
-                    "text": "Flickr"
-                },
-                {
-                    "text": "Tumblr"
-                }
-            ],
-            "average": [
-                {
-                    "value": "N/A"
-                },
-                {
-                    "value": "92"
-                },
-                {
-                    "value": "83"
-                }
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "1. Does the company clearly disclose its process for responding to non-judicial government requests?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company clearly disclose its process for responding to court orders?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Does the company clearly disclose its process for responding to government requests from foreign jurisdictions?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "4. Does the company clearly disclose its process for responding to private requests?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "5. Do the company’s explanations clearly disclose the legal basis under which it may comply with government requests?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "6. Do the company’s explanations clearly disclose the basis under which it may comply with private requests?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "7. Does the company clearly disclose that it carries out due diligence on government requests before deciding how to respond?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "8. Does the company clearly disclose that it carries out due diligence on private requests before deciding how to respond?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "9. Does the company commit to push back on inappropriate or overbroad requests made by governments?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "10.Does the company commit to push back on inappropriate or overbroad private requests?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "11. Does the company provide clear guidance or examples of implementation of its process of responding to government requests?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "12. Does the company provide clear guidance or examples of implementation of its process of responding to private requests?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "0"
                         }
                     ]
                 }
