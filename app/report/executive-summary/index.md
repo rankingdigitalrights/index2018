@@ -2,6 +2,9 @@
 layout: narrative
 header: Narrative
 
+prev:
+  href: acknowledgements
+  text: Acknowledgements
 next:
   href: about-index
   text: About the Index
