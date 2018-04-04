@@ -19,7 +19,7 @@ For the 2017 Index, launched in March 2017, we expanded the ranking to cover add
 
 The 2018 Index applies the same methodology to evaluate the same 22 companies as in the 2017 Index.[[108]](#footnotes) This enabled us to produce comparative analyses of each company’s performance and to track overall trends.
 
-We encourage stakeholders to read more about our methodology development:  
+We encourage stakeholders to read more about our methodology development:
 [https://rankingdigitalrights.org/methodology-development/](https://rankingdigitalrights.org/methodology-development/)
 
 To view or download the full 2018 methodology, visit: [https://rankingdigitalrights.org/2018-indicators/](https://rankingdigitalrights.org/2018-indicators/)
@@ -103,10 +103,15 @@ Proactive and open stakeholder engagement has been a critical component of the I
 - “N/A” — Not applicable. This element does not apply to the company or service. Elements marked as N/A will not be counted for or against a company in the scoring process.
 
 **Points**
+
 - Yes/full disclosure = 100
+
 - Partial = 50
+
 - No = 0
+
 - No disclosure found = 0
+
 - N/A excluded from the score and averages
 
 Companies receive a cumulative score of their performance across all Index categories, and results show how companies performed by each category and indicator. Scores for the Freedom of Expression and Privacy categories are calculated by averaging scores for each individual service. Scores for the Governance category indicators include group-, operating-, and service(s)-level performance (depending on indicator and company type, see below).
@@ -116,16 +121,19 @@ Companies receive a cumulative score of their performance across all Index categ
 - **G1 and G5:**
 
 - Internet and mobile ecosystem companies: scores were based on the “group” level scores.
+
 - Telecommunications companies: scores based on average “group” and operating company scores.
 
 - **G2, G3, G4:**
 
 - Internet and mobile ecosystem companies: scores based on average of “group”-level and services scores.
+
 - Telecommunications companies: average of group, operating, and services scores.
 
 - **G6:**
 
 - Internet and mobile ecosystem companies: average of service-level scores.
+
 - Telecommunications companies: average of service-level scores.
 
 **Indicator and element scoring**
@@ -135,33 +143,57 @@ Telecommunications companies were evaluated on 32 of the 35 indicators; internet
 The following list identifies which indicators or elements were N/A for certain companies or services:
 
 - F3, Element 2: N/A for search engines
+
 - F3, Elements 4-5: N/A for pre-paid and post-paid mobile services, Cloud services, email services, and messaging services.
+
 - F5-F7: N/A for email services
+
 - F6, Element 2: N/A for search engines
+
 - F7, Element 2: N/A for search engines
+
 - F6, Element 3: N/A for messaging services
+
 - F8, Element 1: N/A for telecommunications companies
+
 - F8, Elements 1 & 4: N/A for search engines
+
 - F8, Elements 1-3: N/A for email services
+
 - F9: N/A for internet and mobile ecosystem companies
+
 - F10: N/A for internet and mobile ecosystem companies
+
 - F11: N/A for post-paid mobile and fixed-line internet services; search engines
+
 - P9: N/A for telecommunications companies
+
 - P14, Elements 5, 6, 9: N/A for internet companies and Google and Apple mobile ecosystems
+
 - P14, Elements 4, 7, 8: N/A for internet companies and telecommunications companies
+
 - P16: N/A for telecommunications companies
+
 - P16, Elements 3-4: N/A for internet services without private messaging functions
+
 - P17: N/A for telecommunications companies; search engines
 
 The following elements apply only to mobile ecosystems:
 
 - P1, Element 4
+
 - P2, Element 5
+
 - P3, Elements 4-5
+
 - P4, Elements 5-6
+
 - P6, Elements 6-7
+
 - P7, Element 5
+
 - P8, Element 5
+
 - P14, Elements 4, 7-8
 
 ## 11.8 For further information: ## {#subsection-118}
@@ -180,28 +212,52 @@ The following elements apply only to mobile ecosystems:
 ## 11.9 Charts and tables ## {#subsection-119}
 
 - Figure 1. The 2018 Corporate Accountability Index ranking
+
 - Figure 2. Year-on-year score changes (2017 to 2018)
+
 - Figure 3. Governance scores
+
 - Figure 4. Comprehensiveness of human rights impact assessments (G4)
-- Figure 5. How transparent are companies are about their internal security measures (P13-P15)?
+
+- Figure 5. How transparent are companies are about their internal
+security measures (P13-P15)?
+
 - Figure 6. How transparent are companies about policies for responding to data breaches (P15)?
+
 - Figure 7: How transparent are companies are about their security oversight processes (P13)?
+
 - Figure 8. How transparent are companies about their policies for addressing security vulnerabilities (P14)?
+
 - Figure 9. How transparent are internet and mobile ecosystem companies about how they handle user information?
+
 - Figure 10. How transparent are internet and mobile ecosystem companies about what user data they share and with whom (P4)?
+
 - Figure 11: How transparent are internet and mobile ecosystem companies about the purpose for collecting and sharing user information (P5)?
+
 - Figure 12: How transparent are internet and mobile ecosystem companies about options users have to control their own data (P7)?
+
 - Figure 13: How transparent are internet and mobile ecosystem companies about tracking users across the internet (P9)?
+
 - Figure 14. How transparent are internet and mobile ecosystem companies about policing content (F3-F8)?
+
 - Figure 15. How transparent are internet and mobile ecosystem companies about their rules and how they are enforced (F3, F4)?
+
 - Figure 16. How transparent are internet and mobile ecosystem companies about handling external demands to censor content and restrict user accounts (F5-F7)?
+
 - Figure 17. Year-on-year score changes (2017 to 2018), telecommunications companies
+
 - Figure 18. How transparent are telecommunications companies about blocking content and access (F3-F10)?
+
 - Figure 19. How transparent are telecommunications companies about policies for responding to government shutdown orders (F10)?
+
 - Figure 20. How transparent are telecommunications companies about handling external demands to censor content and restrict accounts (F5-F7)?
+
 - Figure 21: How transparent are telecommunications companies about their rules and how they are enforced (F3, F4)?
+
 - Figure 22. Access to and notification about privacy policies (telecommunications companies)
+
 - Figure 23. How transparent are telecommunications companies are about government and private requests for user information (P10, P11, P12)?
+
 - Figure 24. How transparent are telecommunications companies about their handling of user information (P3-P8)?
 
 ### Footnotes ###
