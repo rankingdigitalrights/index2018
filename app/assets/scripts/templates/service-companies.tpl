@@ -27,14 +27,16 @@
           <div class="overall-score"><%= total  %></div>
         </div>
 
+        <!--
         <div class="difference--section">
-            <label>Difference</label>
-            <div id="total_difference" class="difference--value">
-              <% if (difference > 0) { %><i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i><% } %>
-              <% if (difference < 0) { %><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i><% } %>
-              <% if (isNaN(difference)) { %> N/A <% } else { %><%= Math.abs(Math.round(difference)) %><% } %>
-            </div>
+          <label>Difference</label>
+          <div id="total_difference" class="difference--value">
+            <% if (difference > 0) { %><i class="fa fa-chevron-up up-arrow-green" aria-hidden="true"></i><% } %>
+            <% if (difference < 0) { %><i class="fa fa-chevron-down down-arrow-red" aria-hidden="true"></i><% } %>
+            <% if (isNaN(difference)) { %> N/A <% } else { %><%= Math.abs(Math.round(difference)) %><% } %>
           </div>
+        </div>
+        -->
       </div>
       <div class="comp--mark">
         <label>Position among other services</label>
