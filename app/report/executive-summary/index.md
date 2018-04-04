@@ -27,7 +27,7 @@ The Ranking Digital Rights 2018 Corporate Accountability Index evaluated 22 of t
 
 - **Expression: Companies do not adequately inform the public about how content and information flows are policed and shaped** through their platforms and services. In light of revelations that the world’s most powerful social media platforms have been used to spread disinformation and manipulate political outcomes in a range of countries, companies’ efforts to police and manage content lack accountability without greater transparency.
 
-The 2018 Index evaluated companies on 35 indicators examining disclosed commitments and policies affecting freedom of expression and privacy, including corporate governance and accountability mechanisms. To view in-depth results and data visualizations, download full datasets, and access related resources, news, and updates, please visit: https://rankingdigitalrights.org/index2018.
+The 2018 Index evaluated companies on 35 indicators examining disclosed commitments and policies affecting freedom of expression and privacy, including corporate governance and accountability mechanisms.
 
 ## Company highlights
 
