@@ -1386,6 +1386,114 @@
             ]
         },
         {
+            "id": "oath",
+            "name": "Oath",
+            "headers": [
+                {
+                    "text": "Yahoo Mail"
+                },
+                {
+                    "text": "Flickr"
+                },
+                {
+                    "text": "Tumblr"
+                }
+            ],
+            "average": [
+                {
+                    "value": "75"
+                },
+                {
+                    "value": "75"
+                },
+                {
+                    "value": "37.5"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that users can obtain a copy of their user information?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose what user information users can obtain?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose that users can obtain their user information in a structured data format?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that users can obtain all public-facing and private user information a company holds about them?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "5. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        },
+                        {
+                            "value": "exclude"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "ooredoo",
             "name": "Ooredoo",
             "headers": [
@@ -2079,119 +2187,11 @@
             ]
         },
         {
-            "id": "oath",
-            "name": "Oath",
-            "headers": [
-                {
-                    "text": "Yahoo Mail"
-                },
-                {
-                    "text": "Flickr"
-                },
-                {
-                    "text": "Tumblr"
-                }
-            ],
-            "average": [
-                {
-                    "value": "75"
-                },
-                {
-                    "value": "75"
-                },
-                {
-                    "value": "37.5"
-                }
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "1. Does the company clearly disclose that users can obtain a copy of their user information?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company clearly disclose what user information users can obtain?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Does the company clearly disclose that users can obtain their user information in a structured data format?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "4. Does the company clearly disclose that users can obtain all public-facing and private user information a company holds about them?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "5. (For mobile ecosystems): Does the company clearly disclose that it evaluates whether the privacy policies of third-party apps made available through its app store disclose that users can obtain all of the user information about them the app holds?"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        },
-                        {
-                            "value": "exclude"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "id": "yandex",
             "name": "Yandex",
             "headers": [
                 {
-                    "text": "Yandex Mail ecosystem"
+                    "text": "yandex mail"
                 },
                 {
                     "text": "Yandex Search"
