@@ -1181,28 +1181,28 @@
             ]
         },
         {
-            "id": "orange",
-            "name": "Orange",
+            "id": "oath",
+            "name": "Oath",
             "headers": [
                 {
-                    "text": "Prepaid Mobile"
+                    "text": "Yahoo Mail"
                 },
                 {
-                    "text": "Postpaid Mobile"
+                    "text": "Flickr"
                 },
                 {
-                    "text": "Fixed Line Broadband"
+                    "text": "Tumblr"
                 }
             ],
             "average": [
                 {
-                    "value": "0"
+                    "value": "13"
                 },
                 {
-                    "value": "0"
+                    "value": "13"
                 },
                 {
-                    "value": "38"
+                    "value": "100"
                 }
             ],
             "rows": [
@@ -1218,7 +1218,7 @@
                             "value": "0"
                         },
                         {
-                            "value": "50"
+                            "value": "100"
                         }
                     ]
                 },
@@ -1228,13 +1228,13 @@
                             "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
-                            "value": "0"
+                            "value": "50"
                         },
                         {
-                            "value": "0"
+                            "value": "100"
                         }
                     ]
                 },
@@ -1266,7 +1266,7 @@
                             "value": "0"
                         },
                         {
-                            "value": "0"
+                            "value": "100"
                         }
                     ]
                 }
@@ -1343,6 +1343,98 @@
                         },
                         {
                             "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company maintain a public archive or change log?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "orange",
+            "name": "Orange",
+            "headers": [
+                {
+                    "text": "Prepaid Mobile"
+                },
+                {
+                    "text": "Postpaid Mobile"
+                },
+                {
+                    "text": "Fixed Line Broadband"
+                }
+            ],
+            "average": [
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "0"
+                },
+                {
+                    "value": "38"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that it notifies users about changes to its terms of service?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose the timeframe within which it provides notification prior to changes coming into effect?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "100"
                         }
                     ]
                 },
@@ -1765,98 +1857,6 @@
                         },
                         {
                             "value": "50"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "oath",
-            "name": "Oath",
-            "headers": [
-                {
-                    "text": "Yahoo Mail"
-                },
-                {
-                    "text": "Flickr"
-                },
-                {
-                    "text": "Tumblr"
-                }
-            ],
-            "average": [
-                {
-                    "value": "13"
-                },
-                {
-                    "value": "13"
-                },
-                {
-                    "value": "100"
-                }
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "1. Does the company clearly disclose that it notifies users about changes to its terms of service?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company clearly disclose how it will directly notify users of changes?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Does the company clearly disclose the timeframe within which it provides notification prior to changes coming into effect?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "4. Does the company maintain a public archive or change log?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "100"
                         }
                     ]
                 }
