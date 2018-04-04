@@ -974,7 +974,82 @@
                     ]
                 }
             ]
-        },
+        },        {
+                    "id": "oath",
+                    "name": "Oath",
+                    "headers": [
+                        {
+                            "text": "Yahoo Mail"
+                        },
+                        {
+                            "text": "Flickr"
+                        },
+                        {
+                            "text": "Tumblr"
+                        }
+                    ],
+                    "average": [
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "83.3333333333"
+                        }
+                    ],
+                    "rows": [
+                        {
+                            "cells": [
+                                {
+                                    "value": "1. Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
+                                },
+                                {
+                                    "value": "100"
+                                },
+                                {
+                                    "value": "100"
+                                },
+                                {
+                                    "value": "100"
+                                }
+                            ]
+                        },
+                        {
+                            "cells": [
+                                {
+                                    "value": "2. Does the company clearly disclose that users can view their recent account activity?"
+                                },
+                                {
+                                    "value": "100"
+                                },
+                                {
+                                    "value": "100"
+                                },
+                                {
+                                    "value": "100"
+                                }
+                            ]
+                        },
+                        {
+                            "cells": [
+                                {
+                                    "value": "3. Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
+                                },
+                                {
+                                    "value": "100"
+                                },
+                                {
+                                    "value": "100"
+                                },
+                                {
+                                    "value": "50"
+                                }
+                            ]
+                        }
+                    ]
+                },
         {
             "id": "ooredoo",
             "name": "Ooredoo",
@@ -1463,87 +1538,11 @@
             ]
         },
         {
-            "id": "oath",
-            "name": "Oath",
-            "headers": [
-                {
-                    "text": "Yahoo Mail"
-                },
-                {
-                    "text": "Flickr"
-                },
-                {
-                    "text": "Tumblr"
-                }
-            ],
-            "average": [
-                {
-                    "value": "100"
-                },
-                {
-                    "value": "100"
-                },
-                {
-                    "value": "83.3333333333"
-                }
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "1. Does the company clearly disclose that it deploys advanced authentication methods to prevent fraudulent access?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company clearly disclose that users can view their recent account activity?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Does the company clearly disclose that it notifies users about unusual account activity and possible unauthorized access to their account?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "id": "yandex",
             "name": "Yandex",
             "headers": [
                 {
-                    "text": "Yandex Mail ecosystem"
+                    "text": "yandex mail"
                 },
                 {
                     "text": "Yandex Search"
