@@ -2086,6 +2086,157 @@
             ]
         },
         {
+            "id": "oath",
+            "name": "Oath",
+            "headers": [
+                {
+                    "text": "Group - Oath - Freedom of Expression "
+                },
+                {
+                    "text": "Group - Oath - Privacy"
+                },
+                {
+                    "text": "Yahoo Mail - Freedom of Expression"
+                },
+                {
+                    "text": "Yahoo Mail - Privacy"
+                },
+                {
+                    "text": "Flickr - Freedom of Expression"
+                },
+                {
+                    "text": "Flickr - Privacy"
+                },
+                {
+                    "text": "Tumblr - Freedom of Expression"
+                },
+                {
+                    "text": "Tumblr - Privacy"
+                }
+            ],
+            "average": [
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                },
+                {
+                    "value": "100"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. Does the company clearly disclose that the board of directors exercises formal oversight over how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose that an executive-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. Does the company clearly disclose that a management-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "ooredoo",
             "name": "Ooredoo",
             "headers": [
@@ -3173,157 +3324,6 @@
             ]
         },
         {
-            "id": "oath",
-            "name": "Oath",
-            "headers": [
-                {
-                    "text": "Group - Oath - Freedom of Expression "
-                },
-                {
-                    "text": "Group - Oath - Privacy"
-                },
-                {
-                    "text": "Yahoo Mail - Freedom of Expression"
-                },
-                {
-                    "text": "Yahoo Mail - Privacy"
-                },
-                {
-                    "text": "Flickr - Freedom of Expression"
-                },
-                {
-                    "text": "Flickr - Privacy"
-                },
-                {
-                    "text": "Tumblr - Freedom of Expression"
-                },
-                {
-                    "text": "Tumblr - Privacy"
-                }
-            ],
-            "average": [
-                {
-                    "value": "100"
-                },
-                {
-                    "value": "100"
-                },
-                {
-                    "value": "100"
-                },
-                {
-                    "value": "100"
-                },
-                {
-                    "value": "100"
-                },
-                {
-                    "value": "100"
-                },
-                {
-                    "value": "100"
-                },
-                {
-                    "value": "100"
-                }
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "1. Does the company clearly disclose that the board of directors exercises formal oversight over how company practices affect freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company clearly disclose that an executive-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. Does the company clearly disclose that a management-level committee, team, program or officer oversees how company practices affect freedom of expression and privacy?"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "id": "yandex",
             "name": "Yandex",
             "headers": [
@@ -3334,10 +3334,10 @@
                     "text": "Group - Yandex - Privacy"
                 },
                 {
-                    "text": "Yandex Mail ecosystem - Freedom of Expression"
+                    "text": "yandex mail - Freedom of Expression"
                 },
                 {
-                    "text": "Yandex Mail ecosystem - Privacy"
+                    "text": "yandex mail - Privacy"
                 },
                 {
                     "text": "Yandex Search - Freedom of Expression"
