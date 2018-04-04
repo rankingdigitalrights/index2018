@@ -1181,6 +1181,98 @@
             ]
         },
         {
+            "id": "oath",
+            "name": "Oath",
+            "headers": [
+                {
+                    "text": "Yahoo Mail"
+                },
+                {
+                    "text": "Flickr"
+                },
+                {
+                    "text": "Tumblr"
+                }
+            ],
+            "average": [
+                {
+                    "value": "37.5"
+                },
+                {
+                    "value": "37.5"
+                },
+                {
+                    "value": "62.5"
+                }
+            ],
+            "rows": [
+                {
+                    "cells": [
+                        {
+                            "value": "1. For each type of user information the company collects, does the company clearly disclose its purpose for collection?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "2. Does the company clearly disclose whether it combines user information from various company services and if so, why?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "100"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "3. For each type of user information the company shares, does the company clearly disclose its purpose for sharing?"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        },
+                        {
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "cells": [
+                        {
+                            "value": "4. Does the company clearly disclose that it limits its use of user information to the purpose for which it was collected?"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        },
+                        {
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "ooredoo",
             "name": "Ooredoo",
             "headers": [
@@ -1771,103 +1863,11 @@
             ]
         },
         {
-            "id": "oath",
-            "name": "Oath",
-            "headers": [
-                {
-                    "text": "Yahoo Mail"
-                },
-                {
-                    "text": "Flickr"
-                },
-                {
-                    "text": "Tumblr"
-                }
-            ],
-            "average": [
-                {
-                    "value": "37.5"
-                },
-                {
-                    "value": "37.5"
-                },
-                {
-                    "value": "62.5"
-                }
-            ],
-            "rows": [
-                {
-                    "cells": [
-                        {
-                            "value": "1. For each type of user information the company collects, does the company clearly disclose its purpose for collection?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "2. Does the company clearly disclose whether it combines user information from various company services and if so, why?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "100"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "3. For each type of user information the company shares, does the company clearly disclose its purpose for sharing?"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        },
-                        {
-                            "value": "50"
-                        }
-                    ]
-                },
-                {
-                    "cells": [
-                        {
-                            "value": "4. Does the company clearly disclose that it limits its use of user information to the purpose for which it was collected?"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        },
-                        {
-                            "value": "0"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "id": "yandex",
             "name": "Yandex",
             "headers": [
                 {
-                    "text": "Yandex Mail ecosystem"
+                    "text": "yandex mail"
                 },
                 {
                     "text": "Yandex Search"
