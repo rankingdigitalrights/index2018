@@ -117,6 +117,7 @@
 
 
         <div class="narrative-content">
+
           {{content}}
 
           <div class="pagination">
@@ -127,6 +128,13 @@
             <a class="next" href="{{ site.baseurl }}/report/{{ page.next.href }}">{{ page.next.text }}<i class="fa fa-angle-double-right"></i></a>
             {% endif %}
           </div>
+
+          {% if page.footnotes %}
+          <h3>Footnotes</h3>
+          <div class="footnotes">
+            {{ page.footnotes }}
+          </div>
+          {% endif %}
 
         </div>
 
