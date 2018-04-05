@@ -263,3 +263,5 @@ security measures (P13-P15)?
 ### Footnotes ###
 [108] “2018 Companies,” Ranking Digital Rights, [https://rankingdigitalrights.org/2018-companies/](https://rankingdigitalrights.org/2018-companies/).
 [109] Figures as of December 31, 2017. “World Internet Users Statistics and 2018 World Population Stats,” Internet World Stats, accessed March 19, 2018, [https://www.internetworldstats.com/stats.htm](https://www.internetworldstats.com/stats.htm).
+[109] <p class="myclass">Figures as of December 31, 2017. “World Internet Users Statistics and 2018 World Population Stats,” Internet World Stats, accessed March 19, 2018, [https://www.internetworldstats.com/stats.htm](https://www.internetworldstats.com/stats.htm).</p>
+<p class="myclass">[109] Figures as of December 31, 2017. “World Internet Users Statistics and 2018 World Population Stats,” Internet World Stats, accessed March 19, 2018, [https://www.internetworldstats.com/stats.htm](https://www.internetworldstats.com/stats.htm).</p>
