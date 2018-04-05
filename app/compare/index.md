@@ -5,5 +5,5 @@ entity: compare
 entity_type: compare
 header: Year-on-year Comparison
 published: true
-introduction: The 2017 Ranking Digital Rights Corporate Accountability Index evaluates 22 of the world’s most powerful telecommunications, internet, and mobile companies on their public commitments and disclosed policies affecting users’ freedom of expression and privacy. 
+introduction: The 2018 Corporate Accountability Index applied the same methodology to evaluate the same 22 companies as in the 2017 Index. This enabled us to produce comparative analyses of each company’s performance and to track overall trends. See how each company’s score and Index performance changed.
 ---
