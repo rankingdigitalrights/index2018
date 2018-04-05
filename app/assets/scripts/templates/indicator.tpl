@@ -27,7 +27,12 @@
             <tr>
                 <td>Average score</td>
                 <% item.average.forEach(function(item) { %>
+                <% if (item.value == 'N/A') { %>
+                <td>N/A</td>
+                <% } else { %>
                 <td><%= Math.round(item.value*100)/100 %></td>
+                <% } %>
+
                 <% }); %>
             </tr>
         </tfoot>

@@ -21,12 +21,10 @@
                 <span><%= rank %></span>
             </div>
         </div>
-
         <div class="score--section">
           <label>Score</label>
           <div class="overall-score"><%= total  %></div>
         </div>
-
         <!--
         <div class="difference--section">
           <label>Difference</label>

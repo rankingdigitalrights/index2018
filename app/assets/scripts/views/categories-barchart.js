@@ -61,8 +61,8 @@ module.exports = BaseChart.extend({
       .attr('transform', 'translate(0,' + this.height + ')')
       .call(this.xAxis)
       .selectAll('text')
-      .attr('x', '-10')
-      .attr('y','0')
+      .attr('x','-10')
+      .attr('y','-3')
       .style('text-anchor', 'end')
       .attr('transform', 'rotate(-45),translate(-15,20)')
 

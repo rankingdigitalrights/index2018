@@ -59,7 +59,7 @@ module.exports = BaseChart.extend({
                 .range([0, width]);
 
             var y = d3.scale.ordinal()
-                .rangeRoundBands([height, 0], 0.3)
+                .rangeRoundBands([height, 0], 0.16)
                 .domain(data.map(function (d) {
                     return d.name;
                 }));
@@ -124,7 +124,7 @@ module.exports = BaseChart.extend({
                 })
 
                 .attr("y", function (d) { return y(d.name); })
-                .attr("height", 5)
+                .attr("height", 8)
                 // .attr("height", y.rangeBand())
 
                 .on('mouseover', tip.show)
@@ -146,7 +146,7 @@ module.exports = BaseChart.extend({
                     if (d.value == 0) width = 346;
                     return width - 3.5*Number(d.value);
                 })
-                .attr("height", 5)
+                .attr("height", 8)
                 // .attr("height", y.rangeBand());
         })
 
