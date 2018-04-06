@@ -52,34 +52,34 @@ governance_text: 'Baidu scored lowest of all internet and mobile ecosystem compa
 summary_of_changes_governance:
   - item:
     change: positive
-    title: F1. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+    title: G1. Policy Commitment
+    body: Baidu improved its score on this indicator by publishing a commitment to protect users' privacy, but fell short of articulating a broader commitment to human rights.
   - item:
-    change: negative
-    title: F4. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+    change: positive
+    title: G6. Remedy
+    body: Baidu improved its disclosure of how PostBar users can submit complaints about account restrictions and content removals.
 
 freedom_text: 'Baidu disclosed less about its policies affecting users’ freedom of expression than any other internet and mobile ecosystem company evaluated, including Tencent. <br /><br /><strong> Content and account restrictions:</strong> Baidu disclosed less than all other internet and mobile ecosystem companies about the rules pertaining to different services and how they are enforced (F3, F4, F8). The company received some credit for its disclosure of what types of content or activities it prohibits on its services (F3), but disclosed no data about the volume and nature of content or accounts it restricts for violating these rules. Baidu did not commit to notify users when their content or accounts have been censored (F8).<br /><br /><strong>Content and account restriction requests:</strong> Baidu was one of only two internet and mobile ecosystem companies to receive no credit on these indicators, along with Samsung (F5-F7). It did not disclose any information about its process for responding to government or private requests to restrict content or accounts (F5), nor did it publish data about the requests it received and with which it complied (F6, F7).<br /><br /><strong>Identity policy:</strong> The company disclosed it requires users to verify their identities for all services (F11). Service providers offering internet access or information-related services in China are <a href=\"https://www.accessnow.org/closer-look-chinas-cybersecurity-law-cybersecurity-something-else/\" target=\"_blank\">legally required to do so</a>, as are messaging apps.'
 
 summary_of_changes_freedom:
-  - item:
-    change: positive
-    title: F1. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
-  - item:
-    change: negative
-    title: F4. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
 
 privacy_text: 'Baidu received the lowest privacy score among all internet and mobile ecosystem companies, including Tencent, despite making some key improvements. <br /><br /><strong>Handling of user information:</strong> Baidu disclosed less than almost all other internet and mobile ecosystem companies, other than the Russian internet company Mail.Ru, about how it handles user information (P3-P9). It provided relatively strong disclosure of the types of user information it may collect, on par with Oath, Tencent, and Twitter (P3), but gave significantly less information about what it shares (P4). Baidu improved its disclosure about whether it combines user information from various services and why it does so (P5) and about the user information it retains (P6). While the company improved its disclosure of options users have to control if their information is used for targeted advertising (P7), this suggests that targeted advertising is on by default. <br /><br /><strong>Requests for user information:</strong> Baidu disclosed almost nothing about how it handles government and private requests for user information, scoring just above Tencent (P10-P12). Although the Chinese legal and political environment makes it unrealistic to expect companies to disclose most information about government requests, Baidu should be able to reveal if and when it shares user information via private requests and under what circumstances. The company did not disclose whether it notifies users when it receives government or private requests for their information (P12). <br /><br /><strong>Security:</strong> Baidu disclosed the least of all internet and mobile ecosystem companies on its security policies (P13-P18). Baidu disclosed no institutional processes to ensure the security of its products and services (P13) or address data breaches (P15). The company disclosed a bug bounty program through which security researchers can report vulnerabilities, although it did not disclose a time frame in which it will review these reports (P14). Baidu disclosed no information about encryption of user communications (P16). Chinese companies are <a href=\"http://news.xinhuanet.com/politics/2015-12/27/c_128571798.htm\" target=\"_blank\">required by law</a> to provide user information when requested by government authorities, effectively prohibiting them from offering end-to-end encryption or requiring that they provide decryption assistance.'
 
 summary_of_changes_privacy:
   - item:
     change: positive
-    title: F1. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+    title: P2. Changes to privacy policies
+    body: The company improved its disclosure of its policies for directly notifying users of changes to its privacy policy.
   - item:
     change: positive
-    title: F4. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+    title: P5. Purpose for collecting and sharing user information
+    body: Baidu improved its disclosure of the purpose for collecting and sharing user information, clarifying that it combines user information across its various services and the reasons for doing so.
+  - item:
+    change: positive
+    title: P6. Retention of user information
+    body: The company improved its disclosure of what de-identified user information the company retains.
+  - item:
+    change: positive
+    title: P7. Users’ control over their own user information
+    body: The company improved its disclosure of options users have to control how their information is used for targeted advertising. 
 ---
