@@ -50,36 +50,25 @@ governance_text: "AT&T ranked fourth in the Governance category among telecommun
 
 summary_of_changes_governance:
   - item:
-    change: positive
-    title: F1. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
-  - item:
     change: negative
-    title: F4. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+    title: G5. Stakeholder engagement
+    body: The company lost points on G5 due to its weakened commitment to engage with stakeholders on freedom of expression and privacy issues. The company did not join the Global Network Initiative (GNI) along with the rest of its European peers after the Telecommunications Industry Dialogue ceased to be active in 2017.
 
 freedom_text: "AT&T earned the second-highest freedom of expression score among telecommunications companies, after Vodafone. <br /><br /><strong>Content and account restriction requests:</strong> AT&T was one of only four telecommunications companies to receive any credit for disclosing information about its handling of government and private requests to restrict content or accounts (F5-F7). Notably, AT&T was one of three telecommunications companies to receive any credit for publishing data on government requests to restrict content or user accounts (F6), but it did not disclose any data about private requests (F7). <br /><br /><strong>Network management and shutdowns:</strong> AT&T disclosed less information than Vodafone on its policies related to network management and shutdowns, but its disclosure was on par with Telefónica. While the company revealed reasons it may engage in network management practices, it did not commit not to engage in content blocking or prioritization practices (F9). AT&T improved its disclosure by clarifying that it would report the number of government requests to shut down its networks if it received such requests (F10). <br /><br /><strong>Identity policy:</strong> AT&T did not disclose a requirement that pre-paid mobile service users verify their identity with a government issued ID, making it, along with Vodafone, one of only two telecommunications companies evaluated to receive full credit on this indicator (F11)."
 
 summary_of_changes_freedom:
   - item:
     change: positive
-    title: F1. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
-  - item:
-    change: negative
-    title: F4. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+    title: F10. Network shutdown
+    body: The company’s improved its disclosure of how it handles network shutdown demands from governments.
 
 privacy_text: "AT&T was the highest-scoring telecommunications company in the Privacy category. <br /><br /><strong>Handling of user information:</strong> AT&T disclosed more than all other telecommunications companies about how it handles user information (P3-P8). Still, it did not fully disclose what types of user information it collects (P3), shares (P4), and why (P5). The company revealed even less information about how long it retains user information (P6), although it and Vodafone were the only two telecommunications companies evaluated to score any points on this indicator. The company improved its disclosure regarding the options users have to access their own user data (P8). While options to download a copy of their data had already been available for AT&T’s post-paid mobile users, the company disclosed additional options for pre-paid mobile and fixed-line broadband users to access their data. <br /><br /><strong>Requests for user information:</strong> AT&T received the highest score of all telecommunications companies for disclosure of its process for responding to and complying with government and private requests for user information (P10, P11). Like all other telecommunications companies, AT&T did not indicate whether it notifies users about requests for their information (P12). <br /><br /><strong>Security:</strong> AT&T ranked second after Vodafone for disclosure of its security policies (P13-P18). It was the only one of its peers to receive full credit for disclosure of its internal processes for ensuring that user data is secure (P13). While AT&T was one of only four companies in the entire Index to reveal any information about how it handles data breaches, its disclosure still fell short (P15)."
 
 summary_of_changes_privacy:
   - item:
     change: positive
-    title: F1. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
-  - item:
-    change: positive
-    title: F4. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+    title: P8. Users’ access to their own user information
+    body: The company improved its disclosure of options users have to obtain copies of their information.
+
 
 ---
