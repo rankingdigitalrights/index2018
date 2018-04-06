@@ -1,56 +1,44 @@
 .footer {
-  background: $beige;
-  padding-top: 1.25em;
-  padding-bottom: 1em;
-
-  position: relative;
-  width: 100%;
-  bottom: 0;
-  left: 0;
-
-  margin-top: 2em;   
-    @include media(small-up) {
-    margin-top: 3em;  
-    }
-    @include media(medium-up) {
-    margin-top: 4em;  
-    }
-    @include media(large-up) {
-    margin-top: 5em;  
-    }
-    @include media(xlarge-up) {
-    margin-top: 6em;  
-    }    
+  background: #000000;
+  overflow: hidden;
+  padding-top: 3em;
+  padding-bottom: 2.5em;
 }
 
-.footer--links {
-  @include media(medium-up) {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
+.footer .one-third {
+  float: left;
+  margin-bottom: 0;
+  padding-left: 3%;
+  width: 31%;
 }
 
-.footer--link {
-  padding: .5em;
-  display: flex;
-  align-items: center;
-  @include media(medium-up) {
-    display: inline-flex;
-    margin-left: .75em;
-    margin-right: .75em;
-  }
-
-  .collecticon {
-    margin-right: .25em;
-    color: $base-color;
-  }
+.footer ul {
+  border-left: 1px solid #ffffff;
+  padding-left: 20px;
 }
 
-.commons {
-  width: 100px;
-  display: inline-block;
-  > img {
+.footer ul li {
+  list-style: none;
+}
+
+.footer ul li a {
+  color: #ffffff;
+}
+
+.footer ul li i {
+  margin-right: 8px;
+}
+
+@media only screen and (max-width: 600px) {
+
+  .footer .one-third {
+    float: none;
+    margin-bottom: 0;
+    padding-left: 0;
     width: 100%;
   }
+
 }
+
+@import url(https://fonts.googleapis.com/css?family=Lato:100,300,400,700);
+@import url(https://raw.github.com/FortAwesome/Font-Awesome/master/docs/assets/css/font-awesome.min.css);
