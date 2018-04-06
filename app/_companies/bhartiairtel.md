@@ -53,34 +53,23 @@ governance_text: "Bharti Airtel scored poorly in the Governance category, placin
 summary_of_changes_governance:
   - item:
     change: positive
-    title: F1. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
-  - item:
-    change: negative
-    title: F4. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+    title: G3. Internal implementation
+    body: Bharti Airtel improved its G3 score by disclosing mandatory employee training on security issues, however, it was not clear if this program covers a broader range of privacy issues which go beyond data security concerns.
 
 freedom_text: "Bharti Airtel disclosed less than any other telecommunications company about policies affecting freedom of expression. <br /><br /><strong>Content and account restrictions:</strong> Like most of its peers, Bharti Airtel disclosed nothing about how it handles and complies with government and private requests to restrict content or accounts (F5-F7). <a href=\"http://cis-india.org/internet-governance/resources/information-technology-procedure-and-safeguards-for-blocking-for-access-of-information-by-public-rules-2009\" target=\"_blank\">Indian law</a> forbids disclosure of specific government orders to block content, but nothing prevents companies from disclosing processes for handling these types of requests, or from having a clear policy of notifying users when they restrict or block content that users publish, transmit, or attempt to access (F8). <br /><br /><strong>Network management and shutdowns:</strong> Airtel India disclosed little information about its network management policies (F9) or about its policies and practices related to network shutdowns (F10). While <a href=\"http://dot.gov.in/sites/default/files/internet-licence-dated%2016-10-2007_0.pdf\" target=\"_blank\">Indian law</a> prevents companies from disclosing information about specific government shutdown orders, there is no legal obstacle to disclosing company policies for evaluating and responding to shutdown requests, or from having a policy to notify users about shutdowns.<br /><br /><strong>Identity policy:</strong> Airtel India disclosed that it requires all pre-paid users to provide government-issued identification (F11), as <a href=\"http://www.dot.gov.in/access-services/subscriber-verification\" target=\"_blank\">required by law</a>."
 
 summary_of_changes_freedom:
   - item:
-    change: positive
-    title: F1. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
-  - item:
     change: negative
-    title: F4. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+    title: F9. Network management
+    body: Airtel India lost points for disclosure of its network management practices, since its previously disclosed zero rating program was no longer in effect and researchers could not locate any updated disclosure for its post-paid mobile service.
 
 privacy_text: "Bharti Airtel disclosed little about policies affecting users’ privacy, disclosing more than only MTN, Etisalat, and Ooredoo, the lowest-scoring companies in this category.<br /><br /><strong>Handling of user information:</strong> Airtel India disclosed less than most other telecommunications companies about how it handles user information, but more than MTN South Africa, Etisalat UAE, and Ooredoo Qatar (P3-P8). It disclosed some information about what types of user information it collects, shares, and for what purpose (P3, P4, P5), but nothing about how long it retains this information (P6). The company also failed to disclose whether it enables users to control what information about them is collected and shared, or if users can obtain the information the company holds about them (P7, P8).<br /><br /><strong>Requests for user information:</strong> Like most other telecommunications companies, Bharti Airtel disclosed little about how it handles government and private requests for user information (P10-P11). Indian law prevents companies from publishing data on government requests for user information but does not prevent them from disclosing their processes for responding to these requests. <br /><br /><strong>Security:</strong> Airtel India scored above the telecommunications company average on these indicators, on par with América Móvil’s Telcel and Orange France (P13-P18). The company slightly improved its disclosure of policies limiting employee access to user data (P13), however it offered no information about its policies for addressing security vulnerabilities (P14) or for responding to data breaches (P15)."
 
 summary_of_changes_privacy:
   - item:
     change: positive
-    title: F1. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
-  - item:
-    change: positive
-    title: F4. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+    title: P13. Security oversight
+    body: Airtel India improved its disclosure of its internal security monitoring policies by providing more detailed information about how the company monitors and limits employees’ access to user data. 
+
 ---
