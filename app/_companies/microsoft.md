@@ -52,24 +52,16 @@ governance_text: "Microsoft tied with Oath for the highest governance score of t
 summary_of_changes_governance:
   - item:
     change: positive
-    title: F1. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+    title: G4. Impact assessment
+    body: Microsoft improved its disclosure of whether it assesses privacy risks associated with its enforcement of its terms of service.
   - item:
     change: negative
-    title: F4. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+    title: F8. User notification about content and account restriction
+    body: Microsoft’s score declined slightly due to a change in its disclosure of whether it notifies Skype users of account restrictions. The company appears to have re-organized the Skype help pages and information that was previously available could not be located.
 
 freedom_text: "Microsoft disclosed less about policies affecting freedom of expression than Twitter, Google, and Kakao.<br /><br /><strong>Content and account restrictions:</strong> Microsoft disclosed less than Twitter and Kakao but more than all other internet and mobile ecosystem companies about its rules and how they are enforced (F3, F4, F8). Its score declined slightly due to information for notifying Skype users in the event of an account restriction being no longer available on the Skype help page (F8). Microsoft was one of four companies to publish some data about its terms of service enforcement (F4), specifically on content removed from Bing for violating its policy on “non-consensual pornography.” However, the company should disclose data on other types of content it removes for terms of service violations.<br /><br /><strong>Content and account restriction requests:</strong> Microsoft disclosed more than most internet and mobile ecosystem companies about how it responds to government and private requests to remove content or restrict accounts, but provided less information than Google, Oath, Kakao, Twitter, and Facebook (F5-F7). It disclosed some information about the company’s process for responding to government and private requests to remove content (F5), and some data about the number of these requests it received and with which it complied (F6, F7). <br /><br /><strong>Identity policy:</strong> Microsoft and Twitter were the only two internet and mobile ecosystem companies to disclose that they do not require users to verify their identity with a form of government-issued ID (F11)."
 
 summary_of_changes_freedom:
-  - item:
-    change: positive
-    title: F1. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
-  - item:
-    change: negative
-    title: F4. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
 
 privacy_text: "Microsoft disclosed more than the rest of its peers, apart from Google, about policies affecting users’ privacy.<br /><br /><strong>Handling of user information: </strong>Microsoft disclosed less than Twitter, Google, and Oath about how it handles user information (P3-P9). The company did not fully disclose the types of user information it collects, shares, or for what purpose (P3, P4, P5). Like most companies, it provided even less information about how long it retains this information (P6). It also disclosed some options users have to opt out of whether their information is collected for targeted advertising, which suggests that targeted advertising is on by default (P7). It disclosed more than most companies about options users have to obtain information the company holds about them (P8), and whether and how the company collects information about users across third-party websites (P9), though this disclosure still fell short.<br /><br /><strong>Requests for user information:</strong> Microsoft disclosed more than its peers about its process for handling government and private requests for user information (P10), but lagged behind Twitter, Facebook, and Google on disclosure of data on the requests it received (P11). Microsoft disclosed its policy for notifying users about government requests for their user information, but not for requests it receives through private processes (P12).<br /><br /><strong>Security:</strong> Microsoft disclosed less than Apple, Google, and Yandex about its security policies, but more than the other internet and mobile ecosystem companies evaluated (P13-P18). It disclosed it conducts internal security audits (P13), and offered a bug bounty program to address security vulnerabilities (P14). Like most companies in the Index, Microsoft failed to disclose policies for responding to data breaches (P15). It scored lower than Facebook, Apple, Yandex, and Google on disclosure of its encryption policies (P16)."
 
