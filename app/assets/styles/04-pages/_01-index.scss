@@ -72,6 +72,41 @@
 			display: block;
 		}
 	}
+
+	#container {
+		display: none !important;
+		@include media(small-up) {
+			display: none !important;
+		}
+		@include media(medium-up) {
+			display: block !important;
+		}
+		@include media(large-up) {
+			display: block !important;
+		}
+		@include media(xlarge-up) {
+			display: block !important;
+		}	
+	}
+
+	#map_placeholder {
+		display: block !important;
+		margin-top: 20px!important;
+		@include media(small-up) {
+			display: block !important;
+		}
+		@include media(medium-up) {
+			display: none !important;
+		}
+		@include media(large-up) {
+			display: none !important;
+		}
+		@include media(xlarge-up) {
+			display: none !important;
+		}	
+	}
+	
+
 	.world-map {
 		padding-top: 0;
 		margin-top: 0em;

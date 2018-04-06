@@ -149,7 +149,8 @@ function columnChart() {
         .attr('transform', 'rotate(-45)')
         .on('click', function (d) {
           var url = d.toLowerCase().replace('&', '').replace('.', '').replace(' ', '');
-          window.location.href = baseurl + '/compare#' + url;
+          var $href = baseurl +'/compare/#'+url;
+          window.location.href = $href;
         });
 
       svg.call(tt);
