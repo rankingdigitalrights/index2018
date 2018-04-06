@@ -48,34 +48,18 @@ governance_text: "MTN received the fifth-best governance score among telecommuni
 summary_of_changes_governance:
   - item:
     change: positive
-    title: F1. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
-  - item:
-    change: negative
-    title: F4. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+    title: G4. Impact assessment
+    body: The company improved its G4 score by disclosing it conducted its first human rights impact assessment.
 
 freedom_text: "MTN tied with Axiata for the second-lowest score of all telecommunications companies in the Freedom of Expression category, ahead of only Bharti Airtel.<br /><br /><strong>Content and account restriction requests:</strong> MTN was one of six telecommunications companies to disclose nothing about its process for handling government and private requests to block content or restrict user accounts (F5-F7). South African law does not prevent companies from disclosing information about how they handle these requests, nor does it prohibit them from publishing this data. <br /><br /><strong>Network management and shutdowns:</strong> MTN South Africa disclosed little about its network management and shutdown policies, on par with Airtel India and América Móvil’s Telcel (F9). The company disclosed a program enabling users to access Facebook without it counting towards their data cap, a practice known as “<a href=\"https://social.techcrunch.com/2017/04/16/wtf-is-zero-rating\" target=\"_blank\">zero rating</a>,” but disclosed no additional information about its network management practices (F9). MTN <a href=\"https://www.mtn.com/MTN%20Service%20Detail%20Report%20archive/MTN%20Group%20Sustainability%20Report%202016.pdf\" target=\"_blank\">committed</a> to notify users about network service disruptions when it is “safe and legal” to do so, and <a href=\"https://www.mtn.com/MTN%20Service%20Detail%20Report%20archive/MTN_Group_Sustainabilty_Report_2015.pdf\" target=\"_blank\">provided</a> an example of when it pushed back against a network shutdown request, though it fell short of making a clear and unequivocal commitment to push back against all such requests (F10).<br /><br /><strong>Identity policy:</strong> MTN South Africa did not disclose if it requires pre-paid mobile users to register their SIM card with the company using their government-issued identification. All mobile phone users in South Africa are <a href=\"http://www.internet.org.za/ricpci.html\" target=\"_blank\">legally required</a> to do so (F11)."
 
 summary_of_changes_freedom:
-  - item:
-    change: positive
-    title: F1. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
-  - item:
-    change: negative
-    title: F4. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
 
 privacy_text: "MTN ranked eighth out of the 10 telecommunications companies in the Privacy category, ahead of only Etisalat and Ooredoo.<br /><br /><strong>Handling of user information:</strong> MTN South Africa disclosed less than most of its peers about its handling of user information (P3-P8). It provided just minimal information about what types of user information it collects and why (P3, P5), and no information about what information it shares (P4), or for how long it retains user information (P6). It also did not disclose any options for users to control what information the company collects and uses (P7), or options for users to obtain all of the information the company holds on them (P8).<br /><br /><strong>Requests for user information:</strong> Like most telecommunications companies, MTN provided almost no information about how it handles government and private requests for user information (P10-P11). While the company <a href=\"http://www.mtn-investor.com/mtn_ar2012/gov-social.php\" target=\"_blank\">previously provided</a> information on how it carries out due diligence on government and private requests, researchers were unable to locate such information in current company disclosure. Companies in South Africa are <a href=\"http://www.internet.org.za/ricpci.html\" target=\"_blank\">prohibited</a> from publishing information about government requests for user information, including the fact that a request was made, but nothing prevents them from fully disclosing how they handle private requests and the number of these requests they receive and comply with. <br /><br /><strong>Security:</strong> MTN South Africa disclosed minimal information about its security policies, performing better than only Etisalat UAE and Ooredoo Qatar on these indicators (P13-P18). However, it was one of only two telecommunications companies (along with AT&T) to offer any disclosure on its processes for addressing security vulnerabilities (P14). Like most of its peers, MTN South Africa provided no information about its policies for responding in the event of a data breach (P15)."
 
 summary_of_changes_privacy:
   - item:
     change: positive
-    title: F1. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
-  - item:
-    change: positive
-    title: F4. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+    title: P10. Process for responding to third-party requests for user information
+    body: In the 2017 Index, MTN earned some credit on P10 for information included in its 2013 Social and Ethics report explaining the company’s process for carrying out due diligence on government and private requests for user data. That same information is not included in the 2016 Social and Ethics report, hence the company lost credit in the 2018 Index.
 ---
