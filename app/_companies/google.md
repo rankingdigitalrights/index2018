@@ -54,36 +54,20 @@ analysis_stock_symbol: "NasdaqGS: GOOGL"
 governance_text: 'Google ranked fourth among internet and mobile ecosystem companies in the Governance category, disclosing less than all of its GNI peers. While it articulated a clear commitment to uphold users’ freedom of expression and privacy rights (G1), Google did not disclose evidence of board- or executive-level oversight over these issues (G2). The company committed to conduct human rights due diligence when entering new markets, but researchers were not able to locate evidence that it conducts assessments of risks associated with the processes and mechanisms used to enforce its terms of service (G4). There is also significant room for improvement in terms of the company’s grievance and remedy mechanisms when users believe their freedom of expression or privacy rights have been violated (G6).'
 
 summary_of_changes_governance:
-  - item:
-    change: positive
-    title: F1. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
-  - item:
-    change: negative
-    title: F4. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
 
 freedom_text: 'Google placed second in this category, disclosing more about policies affecting freedom of expression than all other internet and mobile ecosystem companies, apart from Twitter. <br /><br /><strong> Content and account restrictions:</strong> Google disclosed less than Twitter, Kakao, and Microsoft but more than the rest of its peers about its content moderation policies and practices (F3, F4, F8). It provided detailed information about what types of content and activities it prohibits, including some information about its processes for identifying content and activities that violate the company’s terms of service (F3). Google was one of four companies evaluated to disclose any data about content or accounts it restricted for terms of service violations, but this <a href=\"https://youtube.googleblog.com/2016/09/why-flagging-matters.html\" target=\"_blank\">data</a> is not comprehensive (F4). <br /><br /><strong>Content and account restriction requests:</strong> Google disclosed more than any other internet and mobile ecosystem companies about how it handles government and private requests to restrict content and accounts (F5-F7). Its transparency report included detailed data about government requests to restrict content or accounts (F6). However, Google’s disclosure of data about private requests was significantly less detailed than that of Kakao, Twitter, Microsoft, and Oath (F7).<br /><br /><strong>Identity policy:</strong> While for Gmail, YouTube, and Google Play, users are not required to confirm their identity, app developers are required to do so (by making a small commercial transaction).'
 
 summary_of_changes_freedom:
-  - item:
-    change: positive
-    title: F1. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
-  - item:
-    change: negative
-    title: F4. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
 
 privacy_text: 'Google earned the highest privacy score among internet and mobile ecosystem companies, though it did not lead on all indicators.  <br /><br /><strong>Handling of user information:</strong> Google disclosed more than most of its peers other than Twitter about how it handles user information, but fell short in key areas. The company provided some information about what user information it collects (P3) but was less transparent than most of its peers about what it shares (P4). It improved disclosure of options users have to control information the company collects about them, including for the purposes of targeted advertising, which suggested that targeted advertising is on by default (P7). The company also clarified options users have to control whether and how it tracks users across third-party websites (P9). <br /><br /><strong>Requests for user information:</strong> TGoogle disclosed as much as Microsoft about how it handles government and private requests for user information (P10, P11). It demonstrated a clear commitment to challenge overbroad government requests, and provided clear examples and guidance of how it handles these requests. The company disclosed it notifies users when government officials request their information, but it was not clear about whether it does so in the case of private requests for user information (P12). <br /><br /><strong>Security:</strong> Google disclosed more than any other internet and mobile ecosystem company about its security measures (P13-P18). It received full credit for disclosing that it has internal mechanisms in place to secure user information from unauthorized access (P13), and earned the highest score for disclosure of its encryption policies (P16). Like most companies, Google disclosed nothing about its notification and remedy policies in the event of a data breach (P15).'
 
 summary_of_changes_privacy:
   - item:
     change: positive
-    title: F1. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+    title: P7. Users’ control over their own user information
+    body: Google improved its disclosure of options users have to control the collection of some user information, including their location, search history and browsing activity.
   - item:
     change: positive
-    title: F4. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+    title: P9. Collection of user information from third parties
+    body: Google improved its disclosure of how its Android mobile ecosystem tracks users across the internet and the purposes for doing so. 
 ---
