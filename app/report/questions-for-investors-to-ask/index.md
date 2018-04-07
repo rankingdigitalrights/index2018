@@ -8,6 +8,9 @@ prev:
 next:
   href: company-report-cards
   text: Company Report Cards
+footnotes: 
+  <p class="footnotes"><span>[107]</span> Ben Eisen, “Facebook Stock Decline Knocks It Out of S&P 500′s Big Five,” WSJ, March 19, 2018, <a href="https://blogs.wsj.com/moneybeat/2018/03/19/facebook-stock-decline-knocks-it-out-of-sp-500s-big-five/">https://blogs.wsj.com/moneybeat/2018/03/19/facebook-stock-decline-knocks-it-out-of-sp-500s-big-five/</a>.</p>
+
 ---
 
 # 9. Questions for investors to ask
@@ -26,7 +29,7 @@ The following ten questions can help investors evaluate whether companies are ma
 
 5. **Transparency about handling of government demands and other third party requests affecting users’ expression and privacy rights:** Does the company disclose policies for how it handles all types of third-party requests (by authorities or any other parties) to share user data, restrict content, restrict access, or shut down service (including network shutdowns by telecommunications companies)?
 
-6. **Transparency reporting:** Does the company publish data about the volume and nature of the requests it receives, and responds to, for: sharing user data, restricting content or accounts, shutting down networks? Does it also publish data about the volume and nature of content and accounts restricted in the course of enforcing its own terms of service?  
+6. **Transparency reporting:** Does the company publish data about the volume and nature of the requests it receives, and responds to, for: sharing user data, restricting content or accounts, shutting down networks? Does it also publish data about the volume and nature of content and accounts restricted in the course of enforcing its own terms of service?
 
 7. **Evidence of strong policies for addressing security vulnerabilities:** Does the company disclose clear information about policies for addressing security vulnerabilities, including the company’s practices for relaying security updates to mobile phones?
 
@@ -35,6 +38,3 @@ The following ten questions can help investors evaluate whether companies are ma
 9. **Mobile security:** Do companies that operate mobile ecosystems disclose clear policies about privacy and security requirements for third-party apps?
 
 10. **Telecommunications transparency about network management:** Do telecommunications companies disclose whether they prioritize, block, or delay applications, protocols, or content for reasons beyond assuring quality of service and reliability of the network? If yes, do they disclose the purpose for doing so?
-
-### Footnotes ###
-[107] Ben Eisen, “Facebook Stock Decline Knocks It Out of S&P 500′s Big Five,” WSJ, March 19, 2018, [https://blogs.wsj.com/moneybeat/2018/03/19/facebook-stock-decline-knocks-it-out-of-sp-500s-big-five/](https://blogs.wsj.com/moneybeat/2018/03/19/facebook-stock-decline-knocks-it-out-of-sp-500s-big-five/).
