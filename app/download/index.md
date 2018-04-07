@@ -2,14 +2,32 @@
 layout: download
 visualization: none
 entity: downloads
-header: Download the Data
+header: Download the Data and Documents
 published: true
-intro: 
+intro:
 ---
 
- - Full data [excel]({{ site.baseurl }}/assets/static/download/RDRindex2015data.xlsx) / [zipped csv]({{ site.baseurl }}/assets/static/download/RDRindex2015data.zip)
- - The report [pdf]({{ site.baseurl }}/assets/static/download/RDRindex2015report.pdf)
- - Indicators and research guidance [pdf]({{ site.baseurl }}/assets/static/download/RDRindex2015indicators.pdf)
- - 4-page highlights [pdf]({{ site.baseurl }}/assets/static/download/RDR-4pager.pdf)
- - Frequently asked questions [pdf]({{ site.baseurl }}/assets/static/download/RDR-FAQ.pdf)
+ - 2018 Full data [excel]({{ site.baseurl }}/assets/static/download/RDRindex2018data.xlsx)
+ - The 2018 report [pdf]({{ site.baseurl }}/assets/static/download/RDRindex2018report.pdf)
+ - Indicators and research guidance [pdf]({{ site.baseurl }}/assets/static/download/RDRindex2018indicators.pdf)
+ - 4-page highlights [pdf]({{ site.baseurl }}/assets/static/download/RDR-4pager2018.pdf)
+ - 
+<br />
+2017 Data and Report:
 
+ - 2017 Full data [excel]({{ site.baseurl }}/assets/static/download/RDRindex2017data.xlsx) / [zipped csv]({{ site.baseurl }}/assets/static/download/RDRindex2017data.zip)
+ - The 2017 Report [pdf]({{ site.baseurl }}/assets/static/download/RDRindex2017report.pdf)
+ - 4-page highlights [pdf]({{ site.baseurl }}/assets/static/download/RDR-4pager.pdf)
+ -    
+<br />
+Spanish Documents:
+
+ - 4-page highlights [spanish pdf]({{ site.baseurl }}/assets/static/download/4PagerSpanish_reviewed01.pdf)
+ - América Móvil [spanish pdf]({{ site.baseurl }}/assets/static/download/americamovil_sp.pdf)
+ - Telefónica [spanish pdf]({{ site.baseurl }}/assets/static/download/telefonica_sp.pdf)
+ -    
+<br />
+ 2015 Data and Report:
+
+  - 2015 Full data [excel]({{ site.baseurl }}/assets/static/download/RDRindex2015data.xlsx)
+  - The 2015 Report [pdf]({{ site.baseurl }}/assets/static/download/RDRindex2015report.pdf)
