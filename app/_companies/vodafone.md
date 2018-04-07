@@ -52,35 +52,31 @@ governance_text: "Vodafone was the highest-scoring telecommunications company in
 summary_of_changes_governance:
   - item:
     change: positive
-    title: F1. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+    title: G4. Impact assessment
+    body: Vodafone disclosed that the company takes into consideration how laws affect freedom of expression when making decisions about what products and services it offers in different markets.
   - item:
-    change: negative
-    title: F4. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+    change: positive
+    title: G5. Stakeholder engagement
+    body: The company improved its commitment to engage with stakeholders by joining the Global Network Initiative (GNI) in March 2017.
 
 freedom_text: "Vodafone was the highest-scoring telecommunications company in the Freedom of Expression category, outscoring AT&T by five percentage points and Telefónica by more than ten points. <br /><br /><strong>Content and account restriction requests:</strong> Vodafone lagged behind AT&T for its disclosure of how it handles government and private requests to restrict content and accounts, but it was one of only four telecommunications companies to receive any credit on these indicators (F5-F7). While the company had notably strong disclosure of its process for handling government requests to remove or block content or restrict user accounts, it did not fully disclose how it handles such requests it receives through private processes (F5). It also disclosed no data about the number of government or private requests it received to restrict content or accounts (F6, F7). <br /><br /><strong>Network management and shutdowns:</strong> Vodafone UK earned the highest score for its disclosure of network management policies, and it was the only company to receive full credit for clearly committing not to block or prioritize content (F9). Despite making improvements to its disclosure of network shutdowns, it did not disclose how many shutdown requests it received or with which it complied (F10). Under limited circumstances, <a href=\"http://www.legislation.gov.uk/ukpga/2016/25/section/253/enacted\" target=\"_blank\">UK law</a> may prevent telecommunications operators from disclosing certain government requests to shut down a network. The company should clearly inform users about these restrictions. <br /><br /><strong>Identity policy:</strong> Vodafone UK and AT&T were the only two telecommunications companies evaluated that did not disclose a requirement that users verify their identity with a government-issued ID for pre-paid mobile services (F11)."
 
 summary_of_changes_freedom:
   - item:
-    change: positive
-    title: F1. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
-  - item:
     change: negative
-    title: F4. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+    title: F8. User notification about content and account restriction
+    body: The company’s score declined for failing to disclose whether it notifies users who attempt to access content that it has been restricted.
+  - item:
+    change: positive
+    title: F10. Network shutdown
+    body: Vodafone improved its disclosure of why it may restrict access to specific protocols or applications, as well as its process for responding to requests to shut down a network or restrict access to a service.
 
 privacy_text: "In the Privacy category, Vodafone ranked second out of 10 telecommunications companies, behind AT&T and ahead of Telefónica.<br /><br /><strong>Handling of user information:</strong> Vodafone UK disclosed more than most of its peers about how it handles user information, but less than AT&T (P3-P8). However, it still did not sufficiently disclose what user information it collects (P3), shares (P4), and why (P5). It disclosed little about how long it retains user information (P6), but it was the only telecommunications company besides AT&T to disclose anything about these policies. Vodafone did not disclose whether users can control collection of their own information or whether users can delete some of this information. It clearly explained how users can opt out of having their information used for advertising purposes, but it failed to disclose that targeted advertising is off by default (P7). <br /><br /><strong>Requests for user information:</strong> Vodafone disclosed less than AT&T about how it handles government and private requests for user information (P10, P11), but more than any other telecommunications company evaluated. The company explained its process for responding to government requests for user data, but did not disclose how it responds to private requests (P10). <br /><br /><strong>Security:</strong> Vodafone UK disclosed more than any other telecommunications company about its security policies (P13-P18). Notably, it was the only company out of all 22 companies evaluated in the Index to provide comprehensive information on its handling of data breaches (P15). However, the company did not disclose anything about how it addresses security vulnerabilities (P14)."
 
 summary_of_changes_privacy:
   - item:
     change: positive
-    title: F1. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
-  - item:
-    change: positive
-    title: F4. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+    title: P15. Data breaches
+    body: The company improved its disclosure of its policies for responding to data breaches.
 
 ---
