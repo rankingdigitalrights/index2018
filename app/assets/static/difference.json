@@ -120,9 +120,9 @@
     },
     {
         "description": "Facebook improved its disclosure of its terms of service enforcement by providing more information about the methods it uses to identify terms of service violations (F3), and it disclosed some data on the volume and nature of actions it took to enforce its rules (F4). The company also improved its disclosure of how it handles both government and private requests to restrict content or user accounts (F5), and provided more data about its compliance with private requests to remove content (F7). In the privacy category, the company improved its disclosure of its processes for responding to government requests for user information (P10). In addition, Facebook improved its disclosure about account security by rolling out two-factor authentication for Instagram and WhatsApp (P17). <a href='https://rankingdigitalrights.org/index2018/companies/facebook/'>Read Facebook’s report card for more</a>.",
-        "freedom_of_expression_2017": 43.05,
+        "freedom_of_expression_2017": 43.20,
         "freedom_of_expression_2018": 48.73,
-        "freedom_of_expression_difference": 5.68,
+        "freedom_of_expression_difference": 5.53,
         "governance_2017": 80.43,
         "governance_2018": 80.43,
         "governance_difference": 0.0,
@@ -196,9 +196,9 @@
         "governance_difference": 0.46,
         "id": "microsoft",
         "name": "Microsoft",
-        "privacy_2017": 56.87,
+        "privacy_2017": 56.41,
         "privacy_2018": 56.41,
-        "privacy_difference": -0.46,
+        "privacy_difference": 0.0,
         "total_2017": 61.31,
         "total_2018": 60.89,
         "total_difference": -0.42
