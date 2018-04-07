@@ -51,35 +51,39 @@ governance_text: "Oath tied with Microsoft for the highest governance score amon
 
 summary_of_changes_governance:
   - item:
-    change: positive
-    title: F1. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
-  - item:
     change: negative
-    title: F4. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+    title: G4. Impact assessment
+    body: Oath lost points on G4, as it was not clear if members of the board or senior executives consider the results of human rights impact assessment in their decision-making.
 
 freedom_text: "Oath received the sixth-highest score of the 12 internet and mobile ecosystem companies evaluated in the Freedom of Expression category, behind Facebook, Google, Kakao, Microsoft, and Twitter.<br /><br /><strong>Restricting content and accounts:</strong> Oath was less transparent about its process for enforcing its terms of service (F3) than many of its peers, including Facebook, Google, Kakao, Microsoft, and Twitter. Like most companies, Oath did not disclose any data about the volume or nature of actions it took to enforce its rules, such as removing content or restricting users’ accounts (F4). The company clarified and improved policies regarding whether it notifies users of account restrictions (F8).<br /><br /><strong>Content and account restriction requests:</strong> Oath disclosed more than all of its peers other than Google about how it handles government and private requests to censor content or restrict accounts (F5-F7). It improved its disclosure due to the inclusion of Tumblr in the parent company’s transparency reports, which contained more comprehensive information than Tumblr's previous reports. Like most companies evaluated, Oath provided less thorough disclosure of its processes for content or account restriction requests filed through private processes than it did for government requests (F5).<br /><br /><strong>Identity policy:</strong> Tumblr disclosed it does not require users to verify their identities, but for Yahoo Mail and Flickr, the company disclosed that users are required to verify their account with a phone number, which in some jurisdictions can be used by law enforcement or other government officials to connect users with their offline identities (F11)."
 
 summary_of_changes_freedom:
   - item:
     change: positive
-    title: F1. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+    title: F5. Process for responding to third-party requests for content or account restriction
+    body: Oath more clearly explained its process for responding to content and account restriction requests for Tumblr, and it improved its commitment to push back on inappropriate copyright takedown requests to remove content on Flickr and Tumblr.
   - item:
     change: negative
-    title: F4. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+    title: F6. Data about government requests for content or account restriction
+    body: Oath provided less detailed information about the number of Tumblr accounts affected by government requests to remove content.
+  - item:
+    change: positive
+    title: F8. User notification about content and account restriction
+    body: Oath improved its disclosure of policies for notifying Yahoo Mail and Flickr users of account restrictions when possible.
 
 privacy_text: "Oath received the third-highest score of the 12 internet and mobile ecosystem companies evaluated in the Privacy category, behind Google and Microsoft and on par with Apple.<br /><br /><strong>Handling of user information:</strong> Oath disclosed less than Twitter and Google but more than the other internet and mobile ecosystem companies evaluated about how it handles user information (P3-P9). Oath disclosed more about what user information it collects and shares (P3, P4) than it did about its purpose for doing so (P5). While it improved its disclosure of options users have to opt out of targeted advertising (P7), this suggested that targeted advertising is on by default. Oath offered more information than most of its peers, aside from Google, about whether users can access the information that the company holds about them (P8).<br /><br /><strong>Requests for user information:</strong> Oath was less transparent than Google and Microsoft about its process for responding to government and private requests for user information (P10), but disclosed more than the rest of its peers. Oath now includes Tumblr in its transparency reporting, which contained more detailed disclosure of Tumblr’s handling of government and private requests for user information. However, Oath disclosed less data than all other U.S. internet and mobile ecosystem companies about the government and private requests it received for user data (P11). Oath did not disclose the exact number of requests received for stored or real-time user data, or what actions it took in response to these requests, because U.S. companies are  <a href=\"https://www.congress.gov/bill/114th-congress/house-bill/2048\" target=\"_blank\">prohibited by law</a> from doing so. The company disclosed clear policies for notifying users of government requests for their user information, when legally possible, similar to most U.S. companies (P12).<br /><br /><strong>Security:</strong> Oath disclosed less about its security policies than Google, Yandex, Microsoft, Kakao, and Apple (P13-P18). It disclosed nothing about its policies for handling data breaches (P15), like most companies in the Index. Oath’s disclosure of its encryption practices improved slightly due to a change in Tumblr’s disclosure in which the company stated that the transmission of data for Tumblr blogs is encrypted by default (P16)."
 
 summary_of_changes_privacy:
   - item:
     change: positive
-    title: F1. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+    title: P7. Users’ control over their own user information
+    body: The company improved its disclosure of how Tumblr users can opt out of targeted advertising.
   - item:
     change: positive
-    title: F4. data about terms of service enforcement
-    body: Apple improved its score in the 2018Index by four pouints, the second-largest score improvement of any company evaluated(after Twitter). The company improved its public commitment.
+    title: P11. Data about third-party requests for user information
+    body: Oath improved its disclosure of data about government requests for real-time and stored user information. It also included more detailed information for Tumblr about the number of accounts affected and the number of requests with which it complied.
+  - item:
+    change: positive
+    title: P16. Encryption of user communication and private content
+    body: The company improved its disclosure of its encryption policies for Tumblr.
 ---
