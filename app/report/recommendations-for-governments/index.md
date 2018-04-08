@@ -7,7 +7,15 @@ prev:
   text: Telecommunications disconnect
 next:
   href: questions-for-investors-to-ask
-  text: Questions for investors to ask 
+  text: Questions for investors to ask
+footnotes:
+  <p class="footnotes"><span>[101]</span> “Working Group 3- Privacy and Transparency” (Freedom Online Coalition, November 2015), <a href="https://www.freedomonlinecoalition.com/wp-content/uploads/2015/10/FOC-WG3-Privacy-and-Transparency-Online-Report-November-2015.pdf">https://www.freedomonlinecoalition.com/wp-content/uploads/2015/10/FOC-WG3-Privacy-and-Transparency-Online-Report-November-2015.pdf</a>.</p>
+  <p class="footnotes"><span>[102]</span> “Universal Declaration of Human Rights” (United Nations, December 10, 1948), <a href="http://www.un.org/en/universal-declaration-human-rights/">http://www.un.org/en/universal-declaration-human-rights/</a>.</p>
+  <p class="footnotes"><span>[103]</span> “International Covenant on Civil and Political Rights” (United Nations, December 16, 1966), <a href="http://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx/">http://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx/</a>.</p>
+  <p class="footnotes"><span>[104]</span> “International Principles on the Application of Human Rights to Communications Surveillance,” Necessary and Proportionate, accessed March 22, 2018, <a href="https://necessaryandproportionate.org/principles">https://necessaryandproportionate.org/principles/</a>.</p>
+  <p class="footnotes"><span>[105]</span> “Manila Principles on Intermediary Liability,” Manila Principles, accessed March 22, 2018, <a href="https://www.manilaprinciples.org/">https://www.manilaprinciples.org/</a>.</p>
+  <p class="footnotes"><span>[106]</span> Global Commission on Internet Governance, “One Internet,” Centre for International Governance Innovation, June 21, 2016, <a href="https://www.cigionline.org/publications/one-internet/">https://www.cigionline.org/publications/one-internet</a>.</p>
+  
 ---
 
 # 8. Recommendations for governments
@@ -45,11 +53,3 @@ Such laws should:
 - **Protect the right to anonymous online activity** as central to freedom of expression, privacy, and human rights. Refrain from requiring companies to document users’ identities when it is not essential to provision of service.
 
 - **Do not enact laws or policies that undermine encryption.** Strong encryption is vital not only for human rights, but also for economic and political security.
-
-### Footnotes ###
-[101] “Working Group 3: Privacy and Transparency” (Freedom Online Coalition, November 2015), [https://www.freedomonlinecoalition.com/wp-content/uploads/2015/10/FOC-WG3-Privacy-and-Transparency-Online-Report-November-2015.pdf](https://www.freedomonlinecoalition.com/wp-content/uploads/2015/10/FOC-WG3-Privacy-and-Transparency-Online-Report-November-2015.pdf).
-[102] “Universal Declaration of Human Rights” (United Nations, December 10, 1948), [http://www.un.org/en/universal-declaration-human-rights/](http://www.un.org/en/universal-declaration-human-rights/).
-[103] “International Covenant on Civil and Political Rights” (United Nations, December 16, 1966), [http://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx](http://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx).
-[104] “International Principles on the Application of Human Rights to Communications Surveillance,” Necessary and Proportionate, accessed March 22, 2018, [https://necessaryandproportionate.org/principles](https://necessaryandproportionate.org/principles).
-[105] “Manila Principles on Intermediary Liability,” Manila Principles, accessed March 22, 2018, [https://www.manilaprinciples.org/](https://www.manilaprinciples.org/).
-[106] Global Commission on Internet Governance, “One Internet,” Centre for International Governance Innovation, June 21, 2016, [https://www.cigionline.org/publications/one-internet](https://www.cigionline.org/publications/one-internet). 
