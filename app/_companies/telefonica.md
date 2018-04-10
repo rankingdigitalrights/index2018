@@ -58,15 +58,15 @@ summary_of_changes_governance:
     change: positive
     title: G3. Internal implementation
     body: Telefónica clarified that it provides employee training on issues related to freedom of expression.
-    - item:
+  - item:
     change: positive
     title: G4. Impact assessment
     body:  Telefónica improved its disclosure of human rights due diligence practices, including disclosing it conducts human rights risk assessments related to existing products and services and new activities.
-    -  item:
+  - item:
     change: positive
     title: G5. Stakeholder engagement
     body: The company improved its disclosure of stakeholder engagement after joining the Global Network Initiative in March 2017.
-    -  item:
+  - item:
     change: positive
     title: G6. Remedy
     body: Telefónica improved its disclosure of its process for responding to freedom of expression and privacy complaints.

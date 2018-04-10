@@ -58,15 +58,15 @@ summary_of_changes_governance:
     change: positive
     title: G2. Governance and management oversight
     body: Apple improved its disclosure of its oversight over privacy issues within the company.
-    - item:
+  - item:
     change: positive
     title: G3. Internal implementation
     body: The company clarified that it offers employee training on privacy and has a whistleblowing mechanism for employees to report privacy concerns.
-    - item:
+  - item:
     change: positive
     title: G4. Impact assessment
     body: Apple improved its disclosure of its privacy risk assessment practices, stating that the company considers how laws may impact user privacy, and that it conducts assessments of privacy risks associated with new and existing products and services.
-    - item:
+  - item:
     change: positive
     title: G5. Stakeholder engagement
     body: The company clarified it engages with civil society on privacy issues.
@@ -78,11 +78,11 @@ summary_of_changes_freedom:
     change: negative
     title: F2. Changes to terms of service
     body: The company’s F2 score declined due to a change in the iCloud terms of service, which made it less clear whether the company notifies iCloud users of changes to the terms and the method of notification.
-    - item:
+  - item:
     change: positive
     title: F5. Process for responding to third-party requests for content or account restriction
     body: Apple more clearly disclosed its process for responding to account restriction requests it received from non-judicial entities, via court orders and from foreign jurisdictions. The company also clarified the legal basis for responding to government requests and committed to carry out due diligence and push back on overbroad requests.
-    - item:
+  - item:
     change: positive
     title: F6. Data about government requests for content or account restriction
     body: Apple improved its disclosure of the number of account restriction requests it received per country, as well as the number of accounts affected by each request.
@@ -94,15 +94,15 @@ summary_of_changes_privacy:
     change: positive
     title: P7. Users’ control over their own user information
     body: The company improved its disclosure of options users have to control how their information is used for targeted advertising, providing them with detailed information on how they can opt out of both interest-based and location-based advertising.
-    - item:
+  - item:
     change: positive
     title: P8. Users’ access to their own user information
     body: Apple improved its disclosure of options users have to obtain a copy of the personal information the company holds about them.
-    - item:
+  - item:
     change: positive
     title: P11. Data about third-party requests for user information
     body: Apple improved its disclosure of the number of government requests it received for content and non-content data, as well as requests received through court orders in criminal and civil cases.
-    - item:
+  - item:
     change: positive
     body: Apple improved its disclosure of its policies for responding to data breaches.
 ---

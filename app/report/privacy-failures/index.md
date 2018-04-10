@@ -9,7 +9,7 @@ next:
   href: policing-speech
   text: Policing speech
 footnotes:
-  <p class="footnotes"><span>[48]</span> Ghosh, Dipayan and Ben Scott, “Digital Deceit: The Technologies Behind Precision Propaganda on the Internet,” New America, January 2018, <a href="https://www.newamerica.org/public-interest-technology/policy-papers/digitaldeceit/">https://www.newamerica.org/public-interest-technology/policy-papers/digitaldeceit/</a>.</p>
+  '<p class="footnotes"><span>[48]</span> Ghosh, Dipayan and Ben Scott, “Digital Deceit: The Technologies Behind Precision Propaganda on the Internet,” New America, January 2018, <a href="https://www.newamerica.org/public-interest-technology/policy-papers/digitaldeceit/">https://www.newamerica.org/public-interest-technology/policy-papers/digitaldeceit/</a>.</p>
   <p class="footnotes"><span>[49]</span> “Sorry Just Isn’t Enough. Businesses Must Do Better When It Comes To People’s Data,” Internet Society, March 23, 2018, <a href="https://www.internetsociety.org/news/statements/2018/sorry-just-isnt-enough-businesses-must-better-comes-peoples-data/">https://www.internetsociety.org/news/statements/2018/sorry-just-isnt-enough-businesses-must-better-comes-peoples-data/</a>.</p>
   <p class="footnotes"><span>[50]</span> See the 2018 Index methodology at: <a href="https://rankingdigitalrights.org/2018-indicators/">https://rankingdigitalrights.org/2018-indicators/</a>.</p>
   <p class="footnotes"><span>[51]</span> See Chapter 6, 2017 Corporate Accountability Index, Ranking Digital Rights, <a href="https://rankingdigitalrights.org/index2017/assets/static/download/RDRindex2017report.pdf/">https://rankingdigitalrights.org/index2017/assets/static/download/RDRindex2017report.pdf/</a>.</p>
@@ -20,7 +20,7 @@ footnotes:
   <p class="footnotes"><span>[56]</span> See more information on this Facebook help page: “How Does Facebook Decide Which Ads to Show Me and How Can I Control the Ads I See?,” Facebook Help Center, accessed March 20, 2018, <a href="https://www.facebook.com/help/562973647153813?helpref=faq_content/">https://www.facebook.com/help/562973647153813?helpref=faq_content/</a>.</p>
   <p class="footnotes"><span>[57]</span> See the 2018 Index methodology at: <a href="https://rankingdigitalrights.org/2018-indicators/#P9">https://rankingdigitalrights.org/2018-indicators/#P9</a>.</p>
   <p class="footnotes"><span>[58]</span> See the Index 2018 Index glossary at: <a href="https://rankingdigitalrights.org/2018-indicators/#DoNotTrack">https://rankingdigitalrights.org/2018-indicators/#DoNotTrack</a>.</p>
-  <p class="footnotes"><span>[59]</span> See Twitter’s disclosure: “Do Not Track,” Twitter Help Center, accessed March 26, 2018, <a href="https://help.twitter.com/en/safety-and-security/twitter-do-not-track">https://help.twitter.com/en/safety-and-security/twitter-do-not-track</a>.</p>
+  <p class="footnotes"><span>[59]</span> See Twitter’s disclosure: “Do Not Track,” Twitter Help Center, accessed March 26, 2018, <a href="https://help.twitter.com/en/safety-and-security/twitter-do-not-track">https://help.twitter.com/en/safety-and-security/twitter-do-not-track</a>.</p>'
 ---
 
 # 5. Privacy failures
