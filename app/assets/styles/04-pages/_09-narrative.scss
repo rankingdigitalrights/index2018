@@ -43,11 +43,28 @@ $maincolor:  #231f20;
     padding: 0 20px 0 0;
     border-right: 2px solid $border-gray-color;
     margin: 0;
-    width: 18%;
+    width: 30%;
     position: absolute;
     display: block;
+
+    @media(min-width: 992px){
+      width: 26%;
+    }
+    @media(min-width: 1366px){
+      width: 18%;
+    }
+
     @media(max-width: 767px){
       display: none;
+    }
+    .sidebar-image{
+      width: 180px;
+      margin: 0 0 10px 0;
+      img{
+        width: 100%;
+        height: auto;
+      }
+
     }
     .sidebar-menu {
         cursor: pointer;
@@ -60,9 +77,8 @@ $maincolor:  #231f20;
       a{
         line-height: 1.4em;
         color: $black-narrative;
-        font-weight: bold;
         font-size: 1.1em;
-        font-family: $simplon-light;
+        font-family: "Simplon", "Helvetica Neue", Helvetica, Arial, sans-serif;
         position: relative;
         display: flex;
         justify-content: start;
@@ -119,7 +135,7 @@ $maincolor:  #231f20;
                       color: $base-color;
                   }
                   a{
-                      color: #a5a8ab;
+                      color: #5d5e5f;
                       text-decoration: none;
                       width: 100%;
                       display: block;
@@ -151,15 +167,24 @@ $maincolor:  #231f20;
 
 
   .narrative-content{
-    width: 75%;
-    margin-left: 25%;
+    margin-left: 0;
+    width: 100%;
     h1, h2,h3,h4,h5,h6{
       font-family: "Simplon-Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
     }
-    @media(max-width: 767px){
-      margin-left: 0;
-      width: 100%;
+    @media(min-width: 768px){
+      width: 63%;
+      margin-left: 37%;
     }
+    @media(min-width: 992px){
+      width: 67%;
+      margin-left: 33%;
+    }
+    @media(min-width: 1366px){
+      width: 73%;
+      margin-left: 27%;
+    }
+
     .ref-number{
       color: $black;
       font-family: "Simplon-bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -194,6 +219,8 @@ $maincolor:  #231f20;
       border-bottom: 2px solid #e2dad1;
       padding-bottom: 15px;
       margin-bottom: 40px;
+      font-size: 2.5em;
+      color: $link-color;
     }
     h2{
       color: $base-color;
@@ -259,6 +286,10 @@ $maincolor:  #231f20;
       height: auto;
       width: 100%;
       margin: 10px auto 20px;
+      @media(min-width: 1920px){
+        width: 70%;
+        margin: 10px 30% 20px 0;
+      }
     }
     .ref-number{
       color: $black;
@@ -343,7 +374,7 @@ $maincolor:  #231f20;
     ol{
         margin-left: 20px;
         li{
-          list-style-type: number;
+          list-style-type: decimal;
           p{
             line-height: 1.3em;
           }
@@ -404,6 +435,16 @@ $maincolor:  #231f20;
     .footnote-paragraph {
       font-size: 0.85em;
       margin: 0 0 20px 0;
+    }
+
+    #footnotes {
+      font-size: 2em;
+      text-transform: none;
+      margin: 30px 0;
+
+      border-top: 1px solid #737373;
+      padding-top: 15px;
+      width: 50%;
     }
 
   }
