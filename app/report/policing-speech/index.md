@@ -135,7 +135,7 @@ However, **Twitter, Kakao, Microsoft**, and **Yandex** disclosed more data on pr
 
 - **Kakao** provided data about several different types of private requests, including requests to remove content due to copyright or trademark violations, or defamation. Kakao also listed the number of requests with which it complied.
 
-## 6.4 Recommendations for companies
+## 6.4 Recommendations for companies ## {#subsection-64}
 
 - **Publish transparency reports that include comprehensive data about the circumstances under which content or accounts may be restricted.** Transparency reports should ideally be published every six months. Information should include:
 
