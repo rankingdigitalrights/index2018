@@ -156,7 +156,7 @@ module.exports = BaseChart.extend({
                     pos = text.text().indexOf("."),
                     indic = text.text().slice(0, pos),
                     href = text.on('click', function () {
-                        window.location.href = baseurl + '/indicators/#' + indic;
+                        window.location.href = baseurl + '/indicators/' + indic.toLowerCase();
                     }),
                     words = text.text().split(/\s+/).reverse(),
                     word,
