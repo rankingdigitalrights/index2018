@@ -8,6 +8,10 @@ prev:
 next:
   href: about-index
   text: About the Index
+footnotes:
+        '<p class="footnotes"><span>[1]</span> Figures as of March 8, 2018. Bloomberg Markets,<a href="https://www.bloomberg.com/markets">https://www.bloomberg.com/markets</a>.</p>
+        <p class="footnotes"><span>[2]</span> Figures as of December 31, 2017. “World Internet Users Statistics and 2018 World Population Stats,” Internet World Stats, accessed March 19, 2018,<a href="https://www.internetworldstats.com/stats.htm">https://www.internetworldstats.com/stats.htm</a>.</p>
+        <p class="footnotes"><span>[1]</span> “Guiding Principles on Business and Human Rights” (United Nations, 2011),<a href="http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf">http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf</a>.</p>'
 ---
 
 # Executive summary
@@ -63,9 +67,3 @@ Corporate transparency and accountability is incomplete without transparent and 
 6. **Strengthen security:** Companies should disclose credible evidence of their efforts to secure users’ information. Specifically, they should show that they maintain industry standards of strong encryption and security, conduct security audits, monitor employee access to information, and have an established process for handling data breaches.
 
 7. **Innovate for human rights:** Collaborate with government and civil society. Invest in the development of new technologies and business models that strengthen human rights, and maximize individual control and ownership over personal data and content.
-
-### Footnotes ###
-
-[1] Figures as of March 8, 2018. Bloomberg Markets, [https://www.bloomberg.com/markets](https://www.bloomberg.com/markets).
-[2] Figures as of December 31, 2017. “World Internet Users Statistics and 2018 World Population Stats,” Internet World Stats, accessed March 19, 2018, [https://www.internetworldstats.com/stats.htm](https://www.internetworldstats.com/stats.htm).
-[3] “Guiding Principles on Business and Human Rights” (United Nations, 2011), [http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf](http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf).
