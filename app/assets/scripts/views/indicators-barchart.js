@@ -64,6 +64,7 @@ module.exports = BaseChart.extend({
       .attr('x', '-10')
       .attr('y','0')
       .style('text-anchor', 'end')
+      .style('font-weight', 'bold')
       .attr('transform', 'rotate(-45),translate(5,0)')
       .on('click', function (d) {
         var href = d.toLowerCase().replace('&', '')
