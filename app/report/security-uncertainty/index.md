@@ -155,4 +155,4 @@ Some companies provided only an email address for researchers to submit vulnerab
 
 **Where permitted by law, publicly commit to implement the highest encryption standards available.** This disclosure should include encryption in transit and at rest, end-to-end encryption, and forward secrecy. At minimum, companies should make it possible for users to encrypt their own data as securely as possible and communicate this to users clearly. Where the law prohibits strong encryption, companies should clearly say so to users, explaining the specific legal barrier and the potential consequences for user privacy and safety.
 
-<a class="numb" href="#")>[36]</a>
+
