@@ -437,14 +437,30 @@ $maincolor:  #231f20;
       margin: 0 0 20px 0;
     }
 
-    #footnotes {
+    .pagination + h3{
       font-size: 2em;
       text-transform: none;
       margin: 30px 0;
-
       border-top: 1px solid #737373;
       padding-top: 15px;
       width: 50%;
+    }
+    .footnotes{
+      font-size: 1em;
+      margin: 0 0 20px 15px;
+      color: $black;
+      position: relative;
+      span{
+        font-size: 0.75em;
+        font-family: Simplon-Bold;
+        border-bottom: 2px solid $border-gray-color;
+        position: absolute;
+        top: -5px;
+        left: -30px;
+      }
+      p,a{
+        font-family: Simplon-Regular;
+      }
     }
 
   }
