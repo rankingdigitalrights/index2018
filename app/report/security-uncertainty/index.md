@@ -9,7 +9,7 @@ next:
   href: privacy-failures
   text: Privacy failures
 footnotes:
-  '<p class="footnotes"><span>[36]</span> 2017 Corporate Accountability Index, Ranking Digital Rights, <a href="https://rankingdigitalrights.org/index2017/assets/static/download/RDRindex2017report.pdf](https://rankingdigitalrights.org/index2017/assets/static/download/RDRindex2017report.pdf)>https://rankingdigitalrights.org/index2017/assets/static/download/RDRindex2017report.pdf</a>.</p>
+  '<p class="footnotes"><span>[36]</span> 2017 Corporate Accountability Index, Ranking Digital Rights, <a href="https://rankingdigitalrights.org/index2017/assets/static/download/RDRindex2017report.pdf">https://rankingdigitalrights.org/index2017/assets/static/download/RDRindex2017report.pdf</a>.</p>
   <p class="footnotes"><span>[37]</span> 2018 Index Indictors, <a href="https://rankingdigitalrights.org/index2018/indicators/p15">https://rankingdigitalrights.org/index2018/indicators/p15</a>.</p>
   <p class="footnotes"><span>[38]</span> “Guidelines for Protection of Critical Information Infrastructure” (National Critical Information Infrastructure Protection Centre, January 16, 2015), <a href="http://nciipc.gov.in/documents/NCIIPC_Guidelines_V2.pdf">http://nciipc.gov.in/documents/NCIIPC_Guidelines_V2.pdf</a>.</p>
   <p class="footnotes"><span>[39]</span> “2017: Poor Internal Security Practices Take a Toll,” Breach Level Index (Gemalto, 2017), <a href="http://breachlevelindex.com/assets/Breach-Level-Index-Report-H1-2017-Gemalto.pdf.">http://breachlevelindex.com/assets/Breach-Level-Index-Report-H1-2017-Gemalto.pdf</a>.</p>
