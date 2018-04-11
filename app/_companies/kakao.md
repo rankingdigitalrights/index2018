@@ -23,15 +23,15 @@ services_evaluated:
   - item:
     key: search engine
     key_href: search
-    name: daum search
+    name: Daum Search
   - item:
     key: email
     key_href: emailservice
-    name: daum mail
+    name: Daum Mail
   - item:
     key: messaging & voip
     key_href: messagingvoip
-    name: kakaotalk
+    name: Kakaotalk
 
 analysis_text: "Kakao ranked sixth out of the 12 internet and mobile ecosystem companies evaluated, and failed to disclose sufficient information about policies and practices affecting freedom of expression and privacy. However, the company performed better than many companies in the Index, including Apple, and continued to outperform Samsung, the other South Korean internet and mobile ecosystem company evaluated, by roughly 21 points. Notably, South Korean law, such as requirements for grievance mechanisms, helped to boost the company’s performance. However, regulatory factors prevented disclosure in other areas. For example, laws requiring companies to remove copyrighted and defamatory content make it difficult to disclose information about certain types of lawful requests to remove or restrict content. Kakao would benefit from a clearer explanation to users about how the law affects what it does not disclose."
 
