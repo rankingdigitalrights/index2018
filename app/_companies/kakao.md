@@ -29,7 +29,7 @@ services_evaluated:
     key_href: emailservice
     name: Daum Mail
   - item:
-    key: messaging & voip
+    key: messaging & VoIP
     key_href: messagingvoip
     name: Kakaotalk
 
