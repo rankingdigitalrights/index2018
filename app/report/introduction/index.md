@@ -8,6 +8,12 @@ prev:
 next:
   href: inadequate-disclosure
   text: Inadequate disclosure
+footnotes:
+        '<p class="footnotes"><span>[13]</span> Julia Carrie Wong, "Mark Zuckerberg Apologises for Facebook's 'mistakes' over Cambridge Analytica," <i>The Guardian</i>, March 22, 2018,<a href="https://www.theguardian.com/technology/2018/mar/21/mark-zuckerberg-response-facebook-cambridge-analytica">https://www.theguardian.com/technology/2018/mar/21/mark-zuckerberg-response-facebook-cambridge-analytica</a>.</p>
+        <p class="footnotes"><span>[14]</span> Zack Whittaker, “Orbitz Says Hacker Stole Two Years’ Worth of Customer Data,” <i>ZDNet</i>, March 20, 2018,<a href="http://www.zdnet.com/article/orbitz-says-hacker-stole-customer-data/">http://www.zdnet.com/article/orbitz-says-hacker-stole-customer-data/</a>.</p>
+        <p class="footnotes"><span>[15]</span> Yarno Ritzen, “Rising Internet Shutdowns Aimed at ‘Silencing Dissent,’” <i>Al Jazeera</i>, January 29, 2018,<a href="https://www.aljazeera.com/news/2018/01/rising-internet-shutdowns-aimed-silencing-dissent-180128202743672.html">https://www.aljazeera.com/news/2018/01/rising-internet-shutdowns-aimed-silencing-dissent-180128202743672.html</a>.</p>
+        <p class="footnotes"><span>[16]</span> “2018 Edelman Trust Barometer,” Edelman, accessed March 23, 2018,<a href="https://www.edelman.com/trust-barometer">https://www.edelman.com/trust-barometer</a>.</p>
+        <p class="footnotes"><span>[17]</span> “Executive Summary - 2017 Internet Society Global Internet Report: Paths to Our Digital Future,” Internet Society, 2017, <a href="https://future.internetsociety.org/introduction/executive-summary/">https://future.internetsociety.org/introduction/executive-summary/</a>.</p>'
 ---
 
 # 2. Introduction
@@ -28,16 +34,8 @@ The Index results also highlight how government policy and regulation can either
 
 **Find more details on the website:** Despite its length, this report provides only highlights from the Index data. To view full comparative results of how every company scored on every indicator, and to see how different services within each company were evaluated, please explore the rest of the 2018 Index website.
 
-The raw data can also be downloaded at: https://rankingdigitalrights.org/index2018/download/.
+The raw data can also be downloaded at: [https://rankingdigitalrights.org/index2018/download/](https://rankingdigitalrights.org/index2018/download/).
 
-**Beyond the Index:** The 2018 Index covers 22 of the world’s most powerful internet, mobile, and telecommunications companies. But that inevitably excludes companies and services that are important to people in specific countries and regions. Because our methodology and indicators are openly available, researchers in a range of countries and cities have begun to apply RDR’s methodology to companies that are most relevant to them. We have compiled a list of the projects that have so far published their results on our website at: https://rankingdigitalrights.org/adaptations.
+**Beyond the Index:** The 2018 Index covers 22 of the world’s most powerful internet, mobile, and telecommunications companies. But that inevitably excludes companies and services that are important to people in specific countries and regions. Because our methodology and indicators are openly available, researchers in a range of countries and cities have begun to apply RDR’s methodology to companies that are most relevant to them. We have compiled a list of the projects that have so far published their results on our website at: [https://rankingdigitalrights.org/adaptations](https://rankingdigitalrights.org/adaptations).
 
-**Beyond 2018:** As technology and geopolitics evolve, we will continue to re-evaluate and adapt our methodology. In the second half of 2018, we hope to conduct research and consultations to determine what indicators may need to be added to address the need for corporate transparency around the deployment of algorithms and artificial intelligence, and how targeted advertising technologies affect users’ rights. As always, we will report on progress and invite feedback on our website at: https://rankingdigitalrights.org.
-
-### Footnotes
-
-[13] Julia Carrie Wong, "Mark Zuckerberg Apologises for Facebook's ‘mistakes’ over Cambridge Analytica,"" the Guardian, March 22, 2018, [https://www.theguardian.com/technology/2018/mar/21/mark-zuckerberg-response-facebook-cambridge-analytica](https://www.theguardian.com/technology/2018/mar/21/mark-zuckerberg-response-facebook-cambridge-analytica).
-[14] Zack Whittaker, “Orbitz Says Hacker Stole Two Years’ Worth of Customer Data,” ZDNet, March 20, 2018, [http://www.zdnet.com/article/orbitz-says-hacker-stole-customer-data/](http://www.zdnet.com/article/orbitz-says-hacker-stole-customer-data/).
-[15] Yarno Ritzen, “Rising Internet Shutdowns Aimed at ‘Silencing Dissent,’” Al Jazeera, January 29, 2018, [https://www.aljazeera.com/news/2018/01/rising-internet-shutdowns-aimed-silencing-dissent-180128202743672.html](https://www.aljazeera.com/news/2018/01/rising-internet-shutdowns-aimed-silencing-dissent-180128202743672.html).
-[16] “2018 Edelman Trust Barometer,” Edelman, accessed March 23, 2018, [https://www.edelman.com/trust-barometer](https://www.edelman.com/trust-barometer)
-[17] “Executive Summary - 2017 Internet Society Global Internet Report: Paths to Our Digital Future,” Internet Society, 2017, [https://future.internetsociety.org/introduction/executive-summary/](https://future.internetsociety.org/introduction/executive-summary/).
+**Beyond 2018:** As technology and geopolitics evolve, we will continue to re-evaluate and adapt our methodology. In the second half of 2018, we hope to conduct research and consultations to determine what indicators may need to be added to address the need for corporate transparency around the deployment of algorithms and artificial intelligence, and how targeted advertising technologies affect users’ rights. As always, we will report on progress and invite feedback on our website at: [https://rankingdigitalrights.org](https://rankingdigitalrights.org).
