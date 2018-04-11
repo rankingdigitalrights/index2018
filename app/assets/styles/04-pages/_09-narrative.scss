@@ -58,8 +58,11 @@ $maincolor:  #231f20;
       display: none;
     }
     .sidebar-image{
-      width: 180px;
+      width: 215px;
       margin: 0 0 10px 0;
+      @media(max-width: 767px){
+        width: 180px;
+      }
       img{
         width: 100%;
         height: auto;
