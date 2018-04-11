@@ -47,7 +47,7 @@ The average score for all 22 companies evaluated in the 2018 Index was just 34 p
 
 > Research for the 2018 Index was conducted between January 13, 2017 and January 12, 2018. New information published by companies after January 12, 2018 was not evaluated in this Index. Note that some of the 2017 Index scores were adjusted to align with the 2018 evaluation, please see [Section 1.4 of this report for more information](/report/#evaluation).
 
-## 3.1. The 2018 Index ranking ## {#subsection-31}
+## 3.1. The 2018 Index ranking ## {#section-31}
 
 ![figure1](/assets/graphics/content/Figure 1. The 2018 Corporate Accountability Index ranking.png){:height="574px" width="949px" align="left"}
 
@@ -59,7 +59,7 @@ The average score for all 22 companies evaluated in the 2018 Index was just 34 p
 
 > - See each company’s individual “report card” in Chapter 10 of this report.
 
-## 3.2. Notable changes ## {#subsection-32}
+## 3.2. Notable changes ## {#section-32}
 
 Most companies evaluated in the Index made progress over the last year: 17 of the 22 companies showed improvement.
 
@@ -77,7 +77,7 @@ Most companies evaluated in the Index made progress over the last year: 17 of th
 
 Despite these areas of progress, there is persistent lack of improvement in many areas. Chapters 4-7 focus on areas in which we have seen the least improvement: Chapter 4 examines the lack of transparency about security policies and practices; Chapter 5 highlights failure to disclose basic information about the collection, use, and sharing of user data by internet and mobile ecosystem companies; Chapter 6 examines continued opacity around the policing of content by internet platforms and mobile ecosystems; Chapter 7 analyzes the transparency shortfalls and challenges specific to telecommunications companies.
 
-## 3.3. Governance advances and gaps ## {#subsection-33}
+## 3.3. Governance advances and gaps ## {#section-33}
 
 **Companies are inconsistent and uneven in anticipating and mitigating risks and harms to users.**
 
@@ -95,7 +95,7 @@ Companies with the most improved governance scores were **Telefónica**, **Orang
 
 **AT&T** was the only non-GNI company with a governance score of more than 50 percent. However, the company’s score in this category declined due to its weakened commitment to engaging with stakeholders on digital rights issues as a result of its decision not to join GNI along with its European peers and other members of the now-defunct Telecommunications Industry Dialogue.[[22]](#footnotes) While **Apple** and **Twitter** made meaningful improvements in the Governance category, their disclosed oversight and due diligence mechanisms were uneven, with many more gaps in their policies than GNI-member companies.
 
-## 3.4. Spotlight: Human rights impact assessments ## {#subsection-34}
+## 3.4. Spotlight: Human rights impact assessments ## {#section-34}
 
 The greatest disparity in governance scores between GNI and non-GNI companies could be seen on Indicator G4. This indicator examines whether companies carry out regular, comprehensive, and credible due diligence, such as human rights impact assessments, to identify how all aspects of their business affect freedom of expression and privacy and to mitigate any risks posed by those impacts. There is a precipitous drop in disclosure from the top seven companies on this indicator, all GNI members who have made due diligence commitments, and Apple, the highest scoring non-GNI member with only 17 percent.
 
@@ -111,7 +111,7 @@ As discussed in Chapter 6, it is fair to expect companies to set rules prohibiti
 
 The 2018 Index did not look for disclosure about HRIAs on other aspects of companies’ business models and product design, such as how user information is shared with advertisers and marketers, how targeted advertising is managed, how algorithms are used to organize and prioritize the display of content, or how artificial intelligence is deployed. When it becomes apparent that a process or technology has the potential to cause or facilitate violation of human rights, companies should be proactive in using HRIAs to identify and mitigate that harm. One laudable example not accounted for in the 2018 Index methodology is Microsoft’s HRIA process on artificial intelligence technology, launched in 2017.[[25]](#footnotes) Adjustments to the Index methodology will be considered for future iterations so that companies which are proactive in anticipating and mitigating risks of emerging technologies will be appropriately rewarded, while failures to assess and mitigate known harms stemming from business processes and design choices may also be taken into account as appropriate.
 
-## 3.5. Regulatory factors ## {#subsection-35}
+## 3.5. Regulatory factors ## {#section-35}
 
 **Law, regulations, and political environments have a clear impact on companies’ Index performance.**
 
@@ -141,7 +141,7 @@ Without a strong commitment by companies to be more transparent about how they h
 
 Furthermore, in order for users to obtain remedy when their expression rights are violated, they need accessible and effective mechanisms to do so. The 2018 Index found no other substantive improvements in the disclosed grievance and remedy mechanisms by internet and mobile ecosystem companies, despite a steady stream of media reports of activists and journalists being censored on social media.[[34]](#footnotes)
 
-## 3.6. Recommendations for companies ## {#subsection-36}
+## 3.6. Recommendations for companies ## {#section-36}
 
 The individual company report cards pinpoint how jurisdictional factors affect each company’s scores in specific ways. Despite seriously flawed regulatory regimes across the world, Index results pinpoint many specific ways that all companies can improve even with no changes to their legal and regulatory environments.
 

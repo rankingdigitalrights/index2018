@@ -13,7 +13,7 @@ footnotes:
 
 # 11. Appendix
 
-## 11.1 Index methodology development ## {#subsection-111}
+## 11.1 Index methodology development ## {#section-111}
 
 The Ranking Digital Rights Corporate Accountability Index methodology was developed over three years of research, testing, consultation, and revision. Since its inception in 2013, the project has engaged closely with researchers around the globe. For methodology development, pilot study, and the inaugural Index we also partnered with Sustainalytics, a leading provider of ESG (environmental, social, and governance) research to investors.
 
@@ -28,7 +28,7 @@ We encourage stakeholders to read more about our methodology development:
 
 To view or download the full 2018 methodology, visit: [https://rankingdigitalrights.org/2018-indicators/](https://rankingdigitalrights.org/2018-indicators/)
 
-## 11.2 Company selection ## {#subsection-112}
+## 11.2 Company selection ## {#section-112}
 
 The 2018 Index evaluates 10 telecommunications companies and 12 internet and mobile ecosystem companies.
 
@@ -40,7 +40,7 @@ All companies evaluated in the Index are multinational corporations listed on a 
 
 - **Relevance to users’ freedom of expression and privacy rights:** Most of the companies in the Index operate in, or have a significant user base in, countries where human rights are not universally respected. This is based on relevant research from such organizations as Freedom House, the Web Foundation, and Reporters Without Borders, as well as stakeholder feedback.
 
-## 11.3 Selection of services ## {#subsection-113}
+## 11.3 Selection of services ## {#section-113}
 
 The following factors guided the selection of services:
 
@@ -52,7 +52,7 @@ The following factors guided the selection of services:
 
 For a full list of company services evaluated in the Index, see Section 1.2.
 
-## 11.4 Levels of disclosure ## {#subsection-114}
+## 11.4 Levels of disclosure ## {#section-114}
 
 The Index considered company disclosure on several levels—at the parent company level, the operating company level (for telecommunications companies), and the service level. This enabled the research team to develop as complete an understanding as possible about the level at which companies disclose or apply their policies.
 
@@ -60,7 +60,7 @@ For internet and mobile ecosystem companies, the parent company typically delive
 
 For telecommunications companies, with the exception of AT&T, the parent company did not directly provide consumer services, so researchers also examined a subsidiary or operating company based in the home market to ensure the Index captured operational policies alongside corporate commitments. Given AT&T’s external presentation of its group-level and U.S. operating company as an integrated unit, we evaluated the group-level policies for AT&T.
 
-## 11.5 Research process and steps ## {#subsection-115}
+## 11.5 Research process and steps ## {#section-115}
 
 RDR works with a network of international researchers to collect data on each company, and to evaluate company policies in the language of the company’s operating market. RDR’s external research team for the 2018 Index consisted of 28 researchers from or based in 18 countries. A list of our partners and contributors can be found at: [https://rankingdigitalrights.org/who/affiliates/](https://rankingdigitalrights.org/who/affiliates/).
 
@@ -80,7 +80,7 @@ The research process for the 2018 Index consisted of several steps involving rig
 
 - **Step 7: Final Scoring.** The RDR team calculated final scores.
 
-## 11.6 Company Engagement ## {#subsection-116}
+## 11.6 Company Engagement ## {#section-116}
 
 Proactive and open stakeholder engagement has been a critical component of the Index’s methodology. We communicated with companies throughout the research process.
 
@@ -88,7 +88,7 @@ Proactive and open stakeholder engagement has been a critical component of the I
 
 **Incorporating company feedback into the Index:** While engagement with the companies was critical to understand company positions and ensure the research reviewed relevant disclosure, the Index evaluates information that companies disclose publicly. Therefore we did not consider a score change unless companies identified publicly available documentation that supported a change. Absent that, the research team reviewed company feedback and considered it as context for potential inclusion in the narrative report, but did not use it for scoring purposes.
 
-## 11.7 Evaluation and scoring ## {#subsection-117}
+## 11.7 Evaluation and scoring ## {#section-117}
 
 **Research for the 2018 Index was based on company policies that were active between January 13, 2017 and January 12, 2018.** New information published by companies after January 12, 2018 was not evaluated.
 
@@ -200,7 +200,7 @@ The following elements apply only to mobile ecosystems:
 
 - P14, Elements 4, 7-8
 
-## 11.8 For further information: ## {#subsection-118}
+## 11.8 For further information: ## {#section-118}
 
 - For more information about RDR’s methodology development, see: [https://rankingdigitalrights.org/methodology-development/](https://rankingdigitalrights.org/methodology-development/).
 
@@ -213,7 +213,7 @@ The following elements apply only to mobile ecosystems:
 
 - For more information about the project please see our “frequently asked questions” page:  [https://rankingdigitalrights.org/who/frequently-asked-questions/](https://rankingdigitalrights.org/who/frequently-asked-questions/).
 
-## 11.9 Charts and tables ## {#subsection-119}
+## 11.9 Charts and tables ## {#section-119}
 
 - Figure 1. The 2018 Corporate Accountability Index ranking
 

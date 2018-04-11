@@ -53,7 +53,7 @@ In a 2017 report, David Kaye, U.N. Special Rapporteur on the promotion and prote
 
 Telecommunications companies in this Index are under pressure to comply with an increasing number of government demands to shut down networks or block access to websites, combined with pressure from civil society to be more accountable about when and why they do so. Laws—and regulatory ambiguity—in many countries prevent telecommunications companies from performing well in the Index. Individual company report cards identify specific ways that the law hinders each company from respecting users’ rights. Yet we have also identified ways that all telecommunications companies in the Index can improve their commitment and disclosure, even under current regulatory and legal realities.
 
-## 7.1. Chokepoints for global information flows ## {#subsection-71}
+## 7.1. Chokepoints for global information flows ## {#section-71}
 
 **Lack of transparency by telecommunications companies makes it impossible for people to understand why, how, and under whose authority, their speech and access to information is blocked or restricted through their mobile or fixed-line internet service provider.**
 
@@ -71,7 +71,7 @@ Disappointingly, **Axiata** and **Vodafone** were less transparent than in the 2
 
 No company improved disclosure about its network management policies and practices (F9). Bharti Airtel’s score even declined on that indicator (see company report card in Chapter 10 for details).
 
-## 7.2. Network shutdowns ## {#subsection-72}
+## 7.2. Network shutdowns ## {#section-72}
 
 **Despite small improvements, a lack of disclosure from companies on network shutdown policies leaves users in the dark about this human rights threat.**
 
@@ -105,7 +105,7 @@ Several companies had particularly low levels of disclosure, and made no improve
 
 - **América Móvil** disclosed no information whatsoever about its handling of network shutdown requests, even though no laws in Mexico bar such disclosure.
 
-## 7.3. Policing access to information ## {#subsection-73}
+## 7.3. Policing access to information ## {#section-73}
 
 **Telecommunications companies disclose almost nothing about how they handle or comply with government and private requests to block content or user accounts.**
 
@@ -137,7 +137,7 @@ Results also show:
 
 - The lowest scoring companies—**Celcom (Axiata)**, **Airtel India (Bharti Airtel)**, **Ooredoo Qatar**, and **MTN South Africa**—disclosed no information other than the types of content or activities they prohibit and why they may restrict a user’s account.
 
-## 7.4. Privacy problems: surveillance and data protection ## {#subsection-74}
+## 7.4. Privacy problems: surveillance and data protection ## {#section-74}
 
 **Users don’t know much about who has access to their information, for what purposes, under whose authority, and under what circumstances.**
 
@@ -203,7 +203,7 @@ It is notable that, even with Europe’s strong data protection laws, EU-based t
 
 Several jurisdictions lack adequate data protection laws, and companies headquartered in these jurisdictions tend to disclose no more than the law requires, resulting in low Index scores. In the UAE, where **Etisalat** is headquartered, there is no data protection law or general privacy law. In other places the law provides wide loopholes: in Qatar, where **Ooredoo** is headquartered, companies are exempt from complying with the data protection law if they are executing a court order, collecting information pertaining to a crime per police request, or other exceptions. (As noted previously in this chapter, privacy policies of Etisalat and Ooredoo are not made publicly available.) In South Africa, where **MTN** is headquartered, the company’s low privacy score appears related to the fact that the Protection of Personal Information Act (POPI) still has not yet entered into force, even though it was signed into law in 2013.[[99]](#footnotes) In India, the Supreme Court’s 2017 ruling that privacy is a fundamental constitutional right has become the basis for development of a new data protection law that has potential to drive improved disclosure by Indian ICT-sector companies, including **Bharti Airtel**, in the near future.
 
-## 7.5. Recommendations for telecommunications companies ## {#subsection-75}
+## 7.5. Recommendations for telecommunications companies ## {#section-75}
 
 - **Work with civil society and legislators to enact legal reforms aimed at ensuring that the law enables maximum respect for users’ privacy rights.** In particular, companies should use every opportunity available to encourage governments to move away from mass surveillance and institute meaningful oversight over national security and law enforcement authorities, in accordance with The International Principles on the Application of Human Rights to Communications Surveillance.[[100]](#footnotes)
 

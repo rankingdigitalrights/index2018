@@ -43,7 +43,7 @@ Yet 2018 Index results show that users remain largely in the dark about what inf
 >
 > RDR defines “[user information](https://rankingdigitalrights.org/2017-indicators/#userinformation)” as any information that identifies a user’s activities, including (but not limited to) personal correspondence, user-generated content, account preferences and settings, log and access data, data about a user’s activities or preferences collected from third parties, and all forms of metadata. Companies might have their own definition of user information, which can differ from RDR’s definition of user information and be narrower in scope. For example, a company may define user information as the demographic information a user voluntarily provides upon signing up for a service (e.g., age, gender), but not include automatically collected metadata or other types of information. See the 2018 Index glossary: [https://rankingdigitalrights.org/2018-indicators/#userinformation](https://rankingdigitalrights.org/2018-indicators/#userinformation).
 
-## 5.1. Transparency remains inadequate ## {#subsection-51}
+## 5.1. Transparency remains inadequate ## {#section-51}
 
 **Internet and mobile ecosystem companies have made little progress in disclosing how they handle user information, and what options people have to control what is collected and shared.**
 
@@ -65,7 +65,7 @@ While some companies made improvements, all internet and mobile ecosystem compan
 
 - Revisions in **Twitter’s** privacy policy made its policies and practices about its tracking of users across the internet less clear (P9). Notably, Twitter also disclosed it does not respect Do Not Track (DNT) signals that allow users to indicate they do not want to be tracked across the internet (see Section 5.4).
 
-## 5.2. What, whom, and why? ## {#subsection-52}
+## 5.2. What, whom, and why? ## {#section-52}
 
 **Internet and mobile ecosystem companies don’t disclose enough about what information they are sharing, with whom, or for what purpose.**
 
@@ -89,7 +89,7 @@ An analysis of element-level disclosure on this indicator shows that while many 
 >
 > - P5: [https://rankingdigitalrights.org/index2018/indicators/p5](https://rankingdigitalrights.org/index2018/indicators/p5)
 
-## 5.3. Targeted advertising and lack of user control ## {#subsection-53}
+## 5.3. Targeted advertising and lack of user control ## {#section-53}
 
 **Users lack clear options to control what companies collect and share about them, including for targeted advertising.**
 
@@ -147,7 +147,7 @@ Despite significant public concerns regarding the invasive nature of of social m
 
 Most internet and mobile ecosystem companies clearly disclose at least some options users have to control how their information is used for targeted advertising—but none of the companies disclosed that targeted advertising was *off* by default.
 
-## 5.4. Tracking users ## {#subsection-54}
+## 5.4. Tracking users ## {#section-54}
 
 **All mobile ecosystems—Apple iOS, Google Android, and Samsung’s Android—disclosed options to control location tracking.**
 
@@ -173,7 +173,7 @@ Results of the 2018 Index show that all companies other than **Apple** lacked su
 
 - **Baidu** and **Mail.Ru** were among several companies that did not provide any information on whether they track users across the web.
 
-## 5.5. Recommendations for companies ## {#subsection-55}
+## 5.5. Recommendations for companies ## {#section-55}
 
 - **Maximize user control over their own data:** Companies should not only provide clear disclosure of how they handle user information, but also give users clear options to control what information is collected and shared and with whom. This should also include user control over whether their information is combined from different company services.
 
