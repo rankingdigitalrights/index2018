@@ -17,7 +17,7 @@ rank: 8
 
 key_findings:
   - Samsung disclosed less than most internet and mobile ecosystem companies about policies affecting users’ freedom of expression and privacy.
-  - The company lacked transparency on how it polices content in its app store and about government demands for user data.
+  - The company lacked transparency on how it polices content in its app store and about how it handles government demands for user data.
   - The company improved its disclosure of options users have to control how their information is used for targeted advertising, but still lacked transparency about its handling of user information in key areas.
 
 
@@ -32,7 +32,7 @@ analysis_text: "Samsung ranked eighth out of the 12 internet and mobile ecosyste
 key_recommendation_paragraph: "<strong>Samsung Electronics Co. Ltd.</strong> sells a range of consumer electronics, home appliances, and information technology solutions worldwide. It produces products including televisions, mobile phones, network equipment, and audio and video equipment."
 
 key_recommendation_list:
-  - <strong>Provide avenues for redress.</strong> The company should provide comprehensive information on how users can file complaints if their freedom of expression or privacy rights are violated by company practices.
+  - <strong>Provide avenues for redress.</strong> The company should provide comprehensive information about how users can file complaints if their freedom of expression or privacy rights are violated by company practices.
   - <strong>Be transparent about external requests.</strong> The company should provide data on how many third party requests it received to restrict content and accounts, as well as requests received to hand over user information.
   - <strong>Clarify what user data it collects and shares.</strong> Samsung should be more clear with users about what types of data it collects, shares, and for what purpose, and whether it combines user information across different services.
 
@@ -70,5 +70,5 @@ summary_of_changes_privacy:
   - item:
     change: positive
     title: P7. Users’ control over their own user information
-    body: Samsung improved its disclosure of options users have to opt out of targeted advertising. 
+    body: Samsung improved its disclosure of options users have to opt out of targeted advertising.
 ---
