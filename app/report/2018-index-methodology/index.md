@@ -9,10 +9,10 @@ next:
   href: introduction
   text: Introduction
 footnotes:
-      '<p class="footnotes"><span>[9]</span> For the full set of indicators, definitions, and research guidance please visit: “2018 Indicators,” Ranking Digital Rights,<a href="https://rankingdigitalrights.org/2018-indicators/">https://rankingdigitalrights.org/2018-indicators/</a>.</p>
-      <p class="footnotes"><span>[10]</span> “2018 Indicators: Governance,” Ranking Digital Rights,<a href="https://rankingdigitalrights.org/2018-indicators/#G">https://rankingdigitalrights.org/2018-indicators/#G</a>.</p>
-      <p class="footnotes"><span>[11]</span> “2018 Indicators: Freedom of Expression,” Ranking Digital Rights,<a href="https://rankingdigitalrights.org/2018-indicators/#F">https://rankingdigitalrights.org/2018-indicators/#F</a>.</p>
-      <p class="footnotes"><span>[12]</span> “2018 Indicators: Privacy,” Ranking Digital Rights,<a href="https://rankingdigitalrights.org/2018-indicators/#P">https://rankingdigitalrights.org/2018-indicators/#P</a>.</p>'
+  '<p class="footnotes"><span>[9]</span> For the full set of indicators, definitions, and research guidance please visit: “2018 Indicators,” Ranking Digital Rights,<a href="https://rankingdigitalrights.org/2018-indicators/">https://rankingdigitalrights.org/2018-indicators/</a>.</p>
+  <p class="footnotes"><span>[10]</span> “2018 Indicators: Governance,” Ranking Digital Rights,<a href="https://rankingdigitalrights.org/2018-indicators/#G">https://rankingdigitalrights.org/2018-indicators/#G</a>.</p>
+  <p class="footnotes"><span>[11]</span> “2018 Indicators: Freedom of Expression,” Ranking Digital Rights,<a href="https://rankingdigitalrights.org/2018-indicators/#F">https://rankingdigitalrights.org/2018-indicators/#F</a>.</p>
+  <p class="footnotes"><span>[12]</span> “2018 Indicators: Privacy,” Ranking Digital Rights,<a href="https://rankingdigitalrights.org/2018-indicators/#P">https://rankingdigitalrights.org/2018-indicators/#P</a>.</p>'
 ---
 
 # 1. 2018 Index Methodology
