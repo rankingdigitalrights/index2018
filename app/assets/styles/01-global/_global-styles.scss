@@ -13,7 +13,7 @@ font-family: $simplon;
 position: relative;  
 @extend .antialiased;
 width: 100%;
-overflow-x: hidden;
+//overflow-x: hidden; /*because of scroll*/
 height: 100%; /* because of footer */
 }
 
