@@ -24,8 +24,8 @@ height: 100%; /* because of footer */
   top: 5px;
   position: relative;
   @include media(medium-up) {
-    padding-left: 3.7em;
-    padding-right: 3.7em;
+    padding-left: 3em;
+    padding-right: 3em;
   }
   @include media(large-up) {
     padding-left: 4em;

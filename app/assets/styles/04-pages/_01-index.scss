@@ -1105,8 +1105,12 @@
 
 	.data-stories-tabs{
 		display: flex;
-		justify-content: space-between;
+		flex-direction: column;
 		padding: 0 0 5em 0;
+		@media (min-width: 768px) {
+			justify-content: space-between;
+			flex-direction: row;
+		}
 		.icon-inadequate-disclosure{
 			background-image: url("/assets/graphics/content/index-inadequate-disclosure.svg");
 		}
@@ -1124,25 +1128,76 @@
 		}
 		.icon{
 			background-repeat: no-repeat;
+			background-size: cover;
 		}
 
 		.tab-content{
-			display: none;
+			display: block;
 			-webkit-animation-duration: 0.5s;
 			-o-animation-duration: 0.5s;
 			-moz-animation-duration: 0.5s;
 			animation-duration: 0.5s;
 			box-shadow: 0 4px 5px #ccc, 0 0 3px #ccc;
-			padding: 3em;
-			width: 60%;
+			padding: 1em;
+			width: 100%;
+			margin-bottom: 20px;
+			@media (min-width: 768px) {
+				width: 60%;
+				padding: 3em 3em 5em 3em;
+				display: none;
+				margin-bottom: 0;
+			}
+			.tab-content-title{
+				display: flex;
+				justify-content: start;
+				align-items: flex-end;
+				margin-bottom: 3em;
+			}
 			.icon{
-				width: 70px;
-				height: 70px;
+				width: 60px;
+				height: 63px;
+				float: left;
+				margin: 0 1em 0 0;
+				@media (min-width: 768px) {
+					//width: 73px;
+					//height: 70px;
+					margin: 0 0.85em 0 0;
+				}
+				@media (min-width: 1024px) {
+					margin: 0 1.5em 0 0;
+					width: 80px;
+					height: 83px;
+				}
+				@media (min-width: 1200px) {
+					margin: 0 2em 0 0;
+				}
+			}
+			.icon-telecommunications-disconnect{
+
+				@media (min-width: 768px) {
+					width: 67px;
+					height: 53px;
+				}
+				@media (min-width: 992px) {
+					height: 60px;
+				}
+				@media (min-width: 1024px) {
+					width: 80px;
+					height: 83px;
+				}
 			}
 
 			h3{
 				color: $base-color;
-				padding: 20px 0 15px;
+				padding: 0;
+				margin: 0;
+				font-size: 1.2em;
+				@media (min-width: 768px) {
+					font-size: 1.4em;
+				}
+				@media (min-width: 1024px) {
+					font-size: 1.7em;
+				}
 			}
 			p{
 				color: $dark-blue;
@@ -1150,37 +1205,79 @@
 			}
 		}
 		.tabs{
-			margin-top: 20px;
+			margin-top: 0;
+			display: none;
+			@media (min-width: 768px) {
+				display: block;
+				width: 37%;
+			}
+			@media (min-width: 992px) {
+				width: 35%;
+			}
+			@media (min-width: 1024px) {
+				width: 30%;
+			}
 		}
 		.tab-link {
-			display: block;
-			background-color: transparent;
-			margin: 0 0 10px 0;
-			padding: 10px 0;
-			text-align: left;
-			color: $dark-blue;
-			border: 1px solid transparent;
-			border-radius: 0;
-			font-size: 1.25em;
-			font-family: $simplon-medium;
-			height: 52px;
-			//-webkit-transition: all 0.2s ease-in-out;
-			//-moz-transition: all 0.2s ease-in-out;
-			//-o-transition: all 0.2s ease-in-out;
-			//transition: all 0.2s ease-in-out;
+			width: 100%;
+			//display: inline-block;
+			margin: 0 0 20px 0;
+			display: flex;
+			.icon{
+				width: 50px;
+				height: 53px;
+				float: left;
+
+				@media (min-width: 768px) {
+					margin: 0 1em 0 0;
+				}
+				@media (min-width: 992px) {
+					margin: 0 1.5em 0 0;
+				}
+
+			}
+			.icon-telecommunications-disconnect{
+				width: 61px;
+			}
+			span{
+				background-color: transparent;
+				margin: 0 0 10px 0;
+				padding: 10px 0 0 0;
+				text-align: left;
+				color: $dark-blue;
+				border: 1px solid transparent;
+				border-radius: 0;
+				font-family: $simplon-medium;
+				height: auto;
+				float: left;
+				@media (min-width: 768px) {
+					font-size: 1.1em;
+				}
+				@media (min-width: 992px) {
+					font-size: 1.25em;
+				}
+				//-webkit-transition: all 0.2s ease-in-out;
+				//-moz-transition: all 0.2s ease-in-out;
+				//-o-transition: all 0.2s ease-in-out;
+				//transition: all 0.2s ease-in-out;
+			}
 			&:hover {
 				cursor: pointer;
 			}
 		}
 		ul{
 			.current{
-				color: $dark-blue;
-				background-color: transparent;
-				display: inline;
-				margin: 0 0 10px 0;
-				border-bottom: 1px solid $dark-blue;
-				padding: 10px 0;
-				height: 52px;
+				margin: 0 0 20px 0;
+				display: flex;
+				span{
+					color: $dark-blue;
+					background-color: transparent;
+					margin: 0 0 10px 0;
+					border-bottom: 1px solid $dark-blue;
+					padding: 10px 0 0 0;
+					height: auto;
+				}
+
 			}
 		}
 
