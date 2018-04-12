@@ -43,7 +43,7 @@ analysis_text: 'Google earned the highest score among internet and mobile ecosys
 key_recommendation_paragraph: '<strong>Google Inc.</strong> (a subsidiary of Alphabet Inc.) is a global technology company with services that include the Google search engine; Gmail, an email service; and YouTube, a video-sharing platform. It also provides consumer hardware products, and systems software, like its open-source mobile operating system, Android.'
 
 key_recommendation_list:
-  - <strong>Do more to protect privacy.</strong> Google should can do more to protect privacy by clarifying what information it collects, shares, and for what purpose, and committing to not share users’ information for advertising unless they opt in.
+  - <strong>Do more to protect privacy.</strong> Google should do more to protect privacy by clarifying what information it collects, shares, and for what purpose, and committing to not share users’ information for advertising unless they opt in.
   - <strong>Be transparent about policing of content.</strong> The company should disclose comprehensive data on content and account removals due to violations of the company’s terms of service.
   - <strong>Provide better avenues for redress.</strong> The company should improve mechanisms for how users can submit complaints when they believe the company has violated their rights.
 
@@ -69,5 +69,5 @@ summary_of_changes_privacy:
   - item:
     change: positive
     title: P9. Collection of user information from third parties
-    body: Google improved its disclosure of how its Android mobile ecosystem tracks users across the internet and the purposes for doing so. 
+    body: Google improved its disclosure of how its Android mobile ecosystem tracks users across the internet and the purposes for doing so.
 ---
