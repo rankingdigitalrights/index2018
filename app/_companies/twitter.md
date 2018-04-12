@@ -36,7 +36,7 @@ analysis_text: "Twitter ranked fifth out of 12 internet and mobile ecosystem com
 key_recommendation_paragraph: "<strong>Twitter, Inc.</strong> operates a global social sharing platform with products and services that allow users to create, share, and find content on the Twitter social network and to livestream videos on Periscope. Twitter also provides advertising services and developer tools."
 
 key_recommendation_list:
-  - <strong>Institutionalize policy commitments to freedom of expression and privacy.</strong> Twitter should disclose whether and how it is implementing mechanisms such as human rights impact assessments and employee training, to demonstrate that it has institutionalized commitments to respect users’ digital rights.
+  - <strong>Institutionalize policy commitments to freedom of expression and privacy.</strong> Twitter should demonstrate that it has institutionalized comments to respect users' digital rights by disclosing whether and how it is implementing policies such as employee training and human rights impact assessments.
   - <strong>Protect users’ privacy.</strong> The company should show a stronger commitment to protect users' privacy by not sharing users' information for targeted advertising unless they opt in. It should also commit to respect signals from users to not track them across third-party websites.
   - <strong>Disclose more comprehensive information about security policies and practices.</strong> Twitter should improve its disclosure of its internal processes for keeping user data secure, including the company’s policies for responding to data breaches.
 
