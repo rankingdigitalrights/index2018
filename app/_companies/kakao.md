@@ -15,7 +15,7 @@ telco: false
 rank: 6
 
 key_findings:
-  - Kakao ranked sixth among the 12 internet and mobile ecosystem companies evaluated, but disclosed more about policies affecting freedom of expression and privacy than many of its peers.
+  - Kakao disclosed more about policies affecting freedom of expression and privacy than many of its peers, but still fell short in key areas.
   - The company disclosed more than some U.S. companies, including Apple, about policies affecting freedom of expression.
   - Kakao disclosed little about its handling of security vulnerabilities and how it addresses data breaches.
 
@@ -60,5 +60,5 @@ summary_of_changes_privacy:
   - item:
     change: positive
     title: P7. Users’ control over their own user information
-    body: The company improved its disclosure regarding the options KakaoTalk users have to opt out of targeted advertising. although this suggests that targeted advertising is on by default. 
+    body: The company improved its disclosure regarding the options KakaoTalk users have to opt out of targeted advertising. although this suggests that targeted advertising is on by default.
 ---
