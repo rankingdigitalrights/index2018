@@ -16,7 +16,7 @@ telco: false
 rank: 2
 
 key_findings:
-  - Microsoft was one of the top performers in the 2018 Index, placing second and narrowing the gap with top-ranked Google.
+  - Microsoft was one of the top performers in the 2018 Index, placing second after Google.
   - Microsoft tied with Oath for the most disclosure of governance processes aimed at ensuring the company’s respect for freedom of expression and privacy.
   - While its disclosure of how it handles government and private requests for user information was among the highest in the Index, Microsoft was less transparent than most of its peers about its processes for handling government and private requests to remove content or restrict accounts.
 
@@ -34,14 +34,14 @@ services_evaluated:
     key_href: messagingvoip
     name: Skype
 
-analysis_text: "Microsoft earned the second-highest score among internet and mobile ecosystem companies, just two points behind Google. A member of the Global Network Initiative (GNI), Microsoft disclosed a strong commitment to freedom of expression and privacy. Despite its overall strong performance, its score declined slightly as a result of policies for notifying Skype users if the company restricts their accounts being no longer available. In addition, Microsoft could be more transparent about its process for enforcing its terms of service and could clarify how it handles user information, including options users have to control what information about them is collected and shared. U.S. law prevents companies from disclosing the exact number of government requests for stored and real-time user information they receive, which prevented Microsoft from being fully transparent in that area. However, Microsoft still disclosed more data on government and private requests for user information than most companies in the Index."
+analysis_text: "Microsoft earned the second-highest score among internet and mobile ecosystem companies, after Google. A member of the Global Network Initiative (GNI), Microsoft disclosed a strong commitment to freedom of expression and privacy. Despite its overall strong performance, its score declined slightly as a result of policies for notifying Skype users if the company restricts their accounts being no longer available. In addition, Microsoft could be more transparent about its process for enforcing its terms of service and could clarify how it handles user information, including options users have to control what information about them is collected and shared. U.S. law prevents companies from disclosing the exact number of government requests for stored and real-time user information they receive, which prevented Microsoft from being fully transparent in that area. However, Microsoft still disclosed more data on government and private requests for user information than most companies in the Index."
 
 key_recommendation_paragraph: "<strong>Microsoft Corp.</strong> develops, licenses, and supports software products, services, and devices worldwide. Major offerings include Windows operating system, Microsoft Office, Windows Phone software and devices, advertising services, server products, Skype, and Office 365 cloud services."
 
 key_recommendation_list:
   - <strong>Clarify role in policing online content.</strong> Microsoft should disclose more information about how it enforces its rules, and should expand the types of content removals it covers in its transparency reporting.
   - <strong>Be more transparent about handling of user information.</strong> Microsoft should more clearly disclose what types of user information it collects, shares, retains, and for what purpose, and provide users with clear options to control collection and sharing of their information.
-  - <strong>Provide clear commitments to notify users of content or account restrictions.</strong> Microsoft should revisit its notification policies and should clearly commit to notify users when content or accounts are restricted, including the reason why.
+  - <strong>Provide clear commitments to notify users of content or account restrictions.</strong> Microsoft should clearly commit to notify users when content or accounts are restricted, including the reason why.
 
 analysis_industry: Internet Software and Services
 analysis_market_cap: USD 724.2 billion
