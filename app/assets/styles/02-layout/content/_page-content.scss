@@ -81,10 +81,20 @@
 	}
 }
 
-
+.main-content,.main-content-with-padding{
+	.page--intro{
+		margin: 0 auto;
+	}
+}
 .page--intro {
 	padding-top: 1.5em;
 	padding-bottom: 0.5em;
+
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto 160px;
+
 	@include media(small-up) {
 		padding-top: 1.5em;
 		padding-bottom: 1.5em;

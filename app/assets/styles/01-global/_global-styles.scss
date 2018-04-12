@@ -3,6 +3,7 @@
 html {
 width: 100%;
 overflow-x: hidden;
+height: 100%; /* because of footer */
 }
 
 /* Body */
@@ -13,6 +14,7 @@ position: relative;
 @extend .antialiased;
 width: 100%;
 overflow-x: hidden;
+height: 100%; /* because of footer */
 }
 
 /* Main-content */
