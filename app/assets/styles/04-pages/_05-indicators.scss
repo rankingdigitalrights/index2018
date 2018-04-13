@@ -129,18 +129,7 @@
 			.overflow-for-table{
 				overflow-x: auto;
 			}
-			.table-governance{
-				table{
-					width: 380%;
-					@media (min-width: 768px){
-						width: 275%;
-						//table-layout: fixed;
-					}
-					@media (min-width: 992px){
-						width: 200%;
-					}
-				}
-			}
+
 			table{
 				border-collapse: collapse;
 				width: 100%;
@@ -216,6 +205,20 @@
 					}
 				}
 			}
+
+		}
+		.table-governance{
+			table{
+				width: 380%;
+				@media (min-width: 768px){
+					width: 275%;
+				}
+				@media (min-width: 992px){
+					width: 160%;
+				}
+			}
 		}
 	}
+
+
 }
