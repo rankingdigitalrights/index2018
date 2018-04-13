@@ -20,7 +20,7 @@ footnotes:
   <p class="footnotes"><span>[44]</span> Nathalie Maréchal, “Global Inequality in Your Pocket: How Cheap Smartphones and Lax Policies Leave Us Vulnerable to Hacking,” <i>Global Voices Advocacy</i>, March 30, 2017, <a href="https://advox.globalvoices.org/2017/03/30/global-inequality-in-your-pocket-how-cheap-smartphones-and-lax-policies-leave-us-vulnerable-to-hacking/"> https://advox.globalvoices.org/2017/03/30/global-inequality-in-your-pocket-how-cheap-smartphones-and-lax-policies-leave-us-vulnerable-to-hacking/</a>.</p>
   <p class="footnotes"><span>[45]</span> Nicole Perlroth, “iPhone Users Urged to Update Software After Security Flaws are Found,” <i>The New York Times</i>, August 25, 2016, <a href="https://www.nytimes.com/2016/08/26/technology/apple-software-vulnerability-ios-patch.html">https://www.nytimes.com/2016/08/26/technology/apple-software-vulnerability-ios-patch.html</a>.</p>
   <p class="footnotes"><span>[46]</span> “Hungarian Hacker Arrested for Pressing F12,” <i>TechCrunch</i>, July 25, 2017, <a href="https://techcrunch.com/2017/07/25/hungarian-hacker-arrested-for-pressing-f12/">https://techcrunch.com/2017/07/25/hungarian-hacker-arrested-for-pressing-f12/</a>.</p>
-  <p class="footnotes"><span>[47]</span> Whittaker, Zack. “Lawsuits Threaten Infosec Research - Just When We Need It Most.” <i>ZDNet</i>, February 19, 2018, a href="www.zdnet.com/article/chilling-effect-lawsuits-threaten-security-research-need-it-most/">www.zdnet.com/article/chilling-effect-lawsuits-threaten-security-research-need-it-most/</a>.</p>'
+  <p class="footnotes"><span>[47]</span> Whittaker, Zack. “Lawsuits Threaten Infosec Research - Just When We Need It Most.” <i>ZDNet</i>, February 19, 2018, <a href="https://www.zdnet.com/article/chilling-effect-lawsuits-threaten-security-research-need-it-most/">https://www.zdnet.com/article/chilling-effect-lawsuits-threaten-security-research-need-it-most/</a>.</p>'
 ---
 
 # 4. Security uncertainty
@@ -68,9 +68,11 @@ Even if there is a legal requirement to notify affected individuals, the exact d
 > **Communicating about data breaches: What do we expect companies to disclose?**
 Indicator P15 contains three elements evaluating company disclosure of what policies they have in place for responding to and communicating about data breaches should they occur.
 - **Element 1: Does the company clearly disclose that it will notify the relevant authorities without undue delay when a data breach occurs?** Legally, companies are often required to notify the relevant authorities when a data breach occurs. This element does not focus on whether companies disclose the specifics of which authorities they will notify, since this may vary from jurisdiction to jurisdiction, but rather whether companies commit to notify the designated authority as soon as possible.
+
 - **Element 2: Does the company clearly disclose its process for notifying data subjects who might be affected by a data breach?** Companies should commit to notifying affected individuals as soon as possible and fully disclose what information of theirs was exposed.
+
 - **Element 3: Does the company clearly disclose what kinds of steps it will take to address the impact of a data breach on its users?** Although a company’s specific response will vary depending on the nature of the breach, the company should provide examples of what kinds of steps it will take internally to secure its data and commit to notifying affected individuals of steps they can take to mitigate risk or damage.
-See 2018 Index methodology at: https://rankingdigitalrights.org/2018-indicators/#P15.
+See 2018 Index methodology at: [https://rankingdigitalrights.org/2018-indicators/#P15](https://rankingdigitalrights.org/2018-indicators/#P15).
 
 Since the 2017 Index there has been only minor progress. **Apple** joined **AT&T, Telefónica,** and **Vodafone** as the only companies to disclose any information about their policies and practices for responding to data breaches.
 
@@ -135,9 +137,9 @@ By outlining clear processes for researchers to submit security vulnerabilities,
 > ## What is a bug bounty program?
 A bug bounty program is one example of a security vulnerability reporting mechanism that allows security researchers to submit “bugs,” or code errors, with an emphasis on reporting security vulnerabilities that can be exploited. Bug bounty programs recognize and reward researchers for submitting these vulnerabilities, including with financial compensation.
 In the absence of a clearly defined vulnerability reporting mechanism such as a bug bounty program, individuals may not know how, or if, they can report these issues to the company. This is a security liability: vulnerabilities can remain unpatched and can be exploited if discovered by malicious actors. Lack of a clear policy could also expose individuals to criminal charges of hacking or computer crimes simply for making a good faith effort to report security issues.[[46]](#footnotes)
-Lawsuits against journalists and security researchers for reporting vulnerabilities can also deter individuals from reporting security vulnerabilities to a company for fear of being sued or criminally charged.[[47]](#footnotes) If a company does not commit not to pursue legal charges, individuals may be discouraged from notifying a company of vulnerabilities, even through its disclosed reporting mechanism. 
+Lawsuits against journalists and security researchers for reporting vulnerabilities can also deter individuals from reporting security vulnerabilities to a company for fear of being sued or criminally charged.[[47]](#footnotes) If a company does not commit not to pursue legal charges, individuals may be discouraged from notifying a company of vulnerabilities, even through its disclosed reporting mechanism.
 **Further reading:**
-- Andi Wilson, Ross Schulman, Kevin Bankston, and Trey Herr, “Bugs In the System: A Primer on the Software Vulnerability Ecosystem and its Policy Implications,” Open Technology Institute, July 2016, [https://na-production.s3.amazonaws.com/documents/Bugs-in-the-System-Final.pdf](https://na-production.s3.amazonaws.com/documents/Bugs-in-the-System-Final.pdf).
+Andi Wilson, Ross Schulman, Kevin Bankston, and Trey Herr, “Bugs In the System: A Primer on the Software Vulnerability Ecosystem and its Policy Implications,” Open Technology Institute, July 2016, [https://na-production.s3.amazonaws.com/documents/Bugs-in-the-System-Final.pdf](https://na-production.s3.amazonaws.com/documents/Bugs-in-the-System-Final.pdf).
 
 Index data showed that all internet and mobile ecosystem companies in the 2018 Index disclosed some type of mechanism allowing researchers to report security vulnerabilities, although these programs ranged in their accessibility and comprehensiveness.
 
@@ -154,5 +156,3 @@ Some companies provided only an email address for researchers to submit vulnerab
 **Address security vulnerabilities when they are discovered.** Companies should clearly disclose the timeframe in which they will review reports of vulnerabilities. Mobile ecosystem companies and telecommunications companies that use operating systems adapted from other companies’ operating systems, such as Android, should commit to provide security patches within one month of a vulnerability being announced to the public.
 
 **Where permitted by law, publicly commit to implement the highest encryption standards available.** This disclosure should include encryption in transit and at rest, end-to-end encryption, and forward secrecy. At minimum, companies should make it possible for users to encrypt their own data as securely as possible and communicate this to users clearly. Where the law prohibits strong encryption, companies should clearly say so to users, explaining the specific legal barrier and the potential consequences for user privacy and safety.
-
-

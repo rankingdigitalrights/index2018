@@ -26,7 +26,7 @@ services_evaluated:
     key_href: messagingvoip
     name: iMessage
   - item:
-    key: cloud storage
+    key: cloud service
     key_href: cloudservices
     name: iCloud
   - item:
