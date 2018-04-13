@@ -129,12 +129,22 @@
 			.overflow-for-table{
 				overflow-x: auto;
 			}
-			table{
-				width: 100%;
-				border-collapse: collapse;
-				@include media(large-up) {
-					table-layout: fixed;
+			.table-governance{
+				table{
+					width: 380%;
+					@media (min-width: 768px){
+						width: 275%;
+						//table-layout: fixed;
+					}
+					@media (min-width: 992px){
+						width: 200%;
+					}
 				}
+			}
+			table{
+				border-collapse: collapse;
+				width: 100%;
+				table-layout: fixed;
 				thead{
 					tr{
 						background-color: white;
