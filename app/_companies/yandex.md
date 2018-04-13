@@ -31,7 +31,7 @@ services_evaluated:
   key_href: search
   name: Yandex Search
 - item:
-  key: cloud storage
+  key: cloud service
   key_href: cloudservices
   name: Yandex Disk
 
