@@ -7,9 +7,9 @@ next:
   text: Executive summary
 ---
 
-# Acknowledgements
+# Acknowledgments
 
-Ranking Digital Rights (RDR) staff:
+**Ranking Digital Rights (RDR) staff:**
 
 Rebecca MacKinnon, Director
 Amy Brouillette, Senior Research and Editorial Manager
