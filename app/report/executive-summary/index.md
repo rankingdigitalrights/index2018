@@ -11,7 +11,7 @@ next:
 footnotes:
         '<p class="footnotes"><span>[1]</span> Figures as of March 8, 2018. Bloomberg Markets,<a href="https://www.bloomberg.com/markets">https://www.bloomberg.com/markets</a>.</p>
         <p class="footnotes"><span>[2]</span> Figures as of December 31, 2017. “World Internet Users Statistics and 2018 World Population Stats,” Internet World Stats, accessed March 19, 2018,<a href="https://www.internetworldstats.com/stats.htm">https://www.internetworldstats.com/stats.htm</a>.</p>
-        <p class="footnotes"><span>[1]</span> “Guiding Principles on Business and Human Rights” (United Nations, 2011),<a href="http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf">http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf</a>.</p>'
+        <p class="footnotes"><span>[3]</span> “Guiding Principles on Business and Human Rights” (United Nations, 2011),<a href="http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf">http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf</a>.</p>'
 ---
 
 # Executive summary
