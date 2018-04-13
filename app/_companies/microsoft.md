@@ -28,7 +28,7 @@ services_evaluated:
   - item:
     key: email
     key_href: emailservice
-    name: Outlook
+    name: Outlook.com
   - item:
     key: messaging & voip
     key_href: messagingvoip
