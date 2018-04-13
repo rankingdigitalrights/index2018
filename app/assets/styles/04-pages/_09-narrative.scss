@@ -77,14 +77,15 @@ $maincolor:  #231f20;
         font-weight: 300;
         text-rendering: optimizeLegibility;
         letter-spacing: .5px;
+      display: flex;
+      justify-content: start;
       a{
         line-height: 1.4em;
         color: $black-narrative;
         font-size: 1.1em;
         font-family: "Simplon", "Helvetica Neue", Helvetica, Arial, sans-serif;
         position: relative;
-        display: flex;
-        justify-content: start;
+
         &:hover{
           text-decoration: none;
           color: $maincolor;
@@ -96,6 +97,9 @@ $maincolor:  #231f20;
           left: 5px;
           top: 3px;
         }
+      }
+      .sidebar-menu-link{
+        top: -5px;
       }
     }
     .sidebar-menu-active{
