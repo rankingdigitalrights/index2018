@@ -104,7 +104,7 @@ services:
           service: iOS mobile ecosystem
         - company:
           name: Samsung
-          service: Samsung's implementation of Android
+          service: Samsung implementation of Android
   - item:
     title: Pre-and post-paid mobile
     href: prepostpaidmobile
