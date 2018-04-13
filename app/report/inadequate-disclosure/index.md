@@ -57,7 +57,7 @@ The average score for all 22 companies evaluated in the 2018 Index was just 34 p
 
 **Vodafone shot ahead of AT&T among telecommunications companies after making stronger efforts to demonstrate respect for users’ rights.** Vodafone is now the only telecommunications company in the Index to score above 50 percent. The company made meaningful improvements in several areas, notably on stakeholder engagement and due diligence mechanisms, as well as to its disclosure of how it responds to network shutdown demands, and how it handles data breaches. AT&T’s score improvements were due primarily to new disclosure of how it responds to network shutdown orders from authorities, and improved disclosure of options users have to obtain their own data. Its governance score, however, dropped due to its decision not to join the Global Network Initiative (GNI) along with other former members of the Telecommunications Industry Dialogue.
 
-> - See each company’s individual “report card” in Chapter 10 of this report.
+> See each company’s individual “report card” in [Chapter 10]((/report/company-report-cards) of this report.
 
 ## 3.2. Notable changes ## {#section-32}
 
@@ -69,7 +69,7 @@ Most companies evaluated in the Index made progress over the last year: 17 of th
 
 **Baidu and Tencent, the Chinese internet companies in the Index, both made meaningful improvements.** Baidu made notable improvements to its disclosure of what user information it collects, shares, and retains. Tencent (which kept its substantial lead over Baidu) also made improvements to its disclosure of privacy, security, and terms of service policies. In the 2017 Index, we published an analysis of the Chinese company results and identified areas where these companies can improve even within their home country’s challenging regulatory and political environment.[[18]](#footnotes) The 2018 Index results showed that Chinese companies can and indeed do compete with one another to show respect for users’ rights in areas that do not involve government censorship and surveillance requirements.
 
-> - For details on year-on-year changes for each company, see: [https://rankingdigitalrights.org/index2018/compare](/compare).
+> For details on year-on-year changes for each company, see: [https://rankingdigitalrights.org/index2018/compare](/compare).
 
 **Telefónica earned the biggest score change in the telecommunications category.** The company increased its governance score by almost 20 percentage points by joining GNI and strengthening its corporate-level commitments, mechanisms, and processes for implementing those commitments across its business. Its overall score was further boosted by improvements to its transparency reporting on government and private requests to block content and for user information.
 
