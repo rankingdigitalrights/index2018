@@ -45,7 +45,7 @@ It is fair to expect companies to set rules prohibiting certain content or activ
 
 The 2018 Index therefore includes six indicators measuring corporate transparency about processes for censoring online content or restricting access to their platforms or services. Collectively, these indicators evaluate company disclosure of policies and mechanisms for compliance with government requests, court orders, and other lawful third-party requests as well as for the enforcement of private rules, set by the company, about what types of speech and activities are permissible.[[61]](#footnotes) We expect companies to clearly disclose what types of content and activities they prohibit (F3), and to publish data about the volume and nature of content and accounts they remove or restrict for violating these rules (F4). Companies should also clearly disclose policies for responding to all types of third-party requests to restrict content and user accounts (F5), and publish data about the types of such requests they receive and with which they comply (F6, F7). We expect companies to notify users when they have removed content, restricted a user’s account, or otherwise restricted access to content or a service (F8).
 
-## 6.1. Subsection ## {#section-61}
+## 6.1. Transparency and accountability ## {#section-61}
 
 **Despite some positive steps, internet and mobile ecosystem companies still don’t disclose enough about their role in policing online speech.**
 
@@ -60,7 +60,7 @@ Five companies—**Apple, Facebook, Telefónica, Twitter,** and **Oath**—impro
 For companies to be fully transparent with users about their role in policing content or restricting access, they must notify users in the event of content or account restrictions. They must also provide information to those who are attempting to access content that has been removed, and clearly disclose the reason why. As Figure 14 shows, companies overall lacked clear commitments to notify users when and why they remove content, with an average score of just 22 percent among internet and mobile ecosystem companies on this indicator. Three companies—**Facebook, Oath**, and **Twitter**—improved their disclosure of policies for notifying users when accessing content that has been removed (F8). However, **Microsoft** lost points on this indicator for removing information that was previously available about policies for notifying Skype users when their accounts have been suspended.
 
 
-## 6.2. Subsection ## {#section-62}
+## 6.2. Terms of service enforcement ## {#section-62}
 
 **Internet and mobile ecosystem companies lack transparency about what their rules are and actions they take to enforce them.**
 
@@ -105,14 +105,14 @@ Companies that host public or user-generated content may have systems in place t
 
 Users of internet and mobile platforms have a right to know if authorities from their own government (or any other government that they may want to criticize publicly) are availing themselves of such priority status, thereby enabling them to circumvent the process of serving the company with an official government request or court order, which would be included in company transparency reports and become a matter of public record in many countries. Information about the volume and nature of content being censored at the behest of government authorities—whether formally or informally—is essential for users to identify abuse of a platform’s content policing system. Without such information it is not possible to hold companies or authorities fully and appropriately accountable when users’ expression rights are violated. Yet companies keep us largely in the dark about whether governments are availing themselves, directly or indirectly, of informal flagging mechanisms.
 
-## 6.3. Subsection ## {#section-63}
+## 6.3. External requests to restrict content and accounts ## {#section-63}
 
 **Companies lack transparency about how they handle formal government and private requests to censor content or restrict accounts.**
 
 Aside from platforms’ private mechanisms for flagging terms of service violations,
 internet and mobile ecosystem companies receive a growing number of external requests to remove content or restrict user accounts via more formal and official channels. These requests come from government agencies, law enforcement, and courts, who ask companies to remove content that violates the law, infringes on someone’s privacy, or contains hate speech, extremist content, or pornography. Requests can also come from self-regulatory bodies, like the UK’s Internet Watch Foundation [[78]](#footnotes), or from individuals who can ask companies to remove content under the 2014 “Right to be Forgotten” ruling,[[79]](#footnotes) or through a notice-and-takedown system such as the U.S. Digital Millennium Copyright Act.[[80]](#footnotes)
 
-> ## How does RDR define government and private requests?
+> **How does RDR define government and private requests?**
 **Government requests** are defined differently by different companies and legal experts in different countries. For the purposes of the Index methodology, all requests from government ministries or agencies, law enforcement, and court orders in criminal and civil cases, are evaluated as “government requests.” Government requests can include requests to remove or restrict content that violates local laws, restrict users’ accounts, or to block access to entire websites or platforms. We expect companies to disclose their process for responding to these types of requests (F5), as well as data on the number and types of such requests they receive and with which they comply (F6).
 **Private requests** are considered, for the purposes of the Index methodology, to be requests made by any person or entity through processes that are not under direct governmental or court authority. Private requests can come from a self-regulatory body such as the Internet Watch Foundation, through agreements such as the EU’s Code of Conduct on countering hate speech online, from individuals requesting to remove or de-list content under the “Right to be Forgotten” ruling, or through a notice-and-takedown system such as the U.S. Digital Millennium Copyright Act (DMCA).
 **See Index glossary of terms at:** [https://rankingdigitalrights.org/2018-indicators/#Glossary](https://rankingdigitalrights.org/2018-indicators/#Glossary)
