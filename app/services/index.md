@@ -15,7 +15,7 @@ services:
           service: Baidu Cloud
         - company:
           name: Yandex
-          service: Yandex Disk 
+          service: Yandex Disk
   - item:
     title: Email service
     href: emailservice
@@ -27,8 +27,8 @@ services:
           name: Kakao
           service: Kakao Mail
         - company:
-          name: Mail.ru
-          service: Mail.ru email
+          name: Mail.Ru
+          service: Mail.Ru email
         - company:
           name: Microsoft
           service: Outlook.com
@@ -38,7 +38,7 @@ services:
         - company:
           name: Yandex
           service: Yandex Mail
-      
+
   - item:
     title: Fixed broadband
     href: fixedbroadband
@@ -51,21 +51,21 @@ services:
           service: Movistar
         - company:
           name: Orange
-          service: Orange France          
+          service: Orange France
         - company:
           name: Ooredoo
-          service: Ooredoo Qatar          
+          service: Ooredoo Qatar
         - company:
           name: Etisalat
-          service: Etisalat UAE          
+          service: Etisalat UAE
         - company:
           name: Bharti India
-          service: Airtel India          
+          service: Airtel India
         - company:
           name: AT&T
           service: AT&T
   - item:
-    title: Messaging & Voip
+    title: Messaging & VoIP
     href: messagingvoip
     companies:
         - company:
@@ -81,14 +81,14 @@ services:
           name: Kakao
           service: Kakao Talk
         - company:
-          name: Mail.ru
-          service: Mail.ru          
+          name: Mail.Ru Agent
+          service: Mail.Ru
         - company:
           name: Tencent
-          service: WeChat          
+          service: WeChat
         - company:
           name: Tencent
-          service: QQ          
+          service: QQ
         - company:
           name: Apple
           service: iMessage
@@ -97,17 +97,17 @@ services:
     href: mobileeco
     companies:
         - company:
-          name: Microsoft
+          name: Google
           service: Android mobile ecosystem
         - company:
           name: Apple
           service: iOS mobile ecosystem
         - company:
           name: Samsung
-          service: Samsung implementation of Android
+          service: Samsung's implementation of Android
   - item:
-    title: Pre-and post-Paid mobile
-    href: prepostpaidmobile  
+    title: Pre-and post-paid mobile
+    href: prepostpaidmobile
     companies:
         - company:
           name: América Móvil
@@ -123,7 +123,7 @@ services:
           service: Airtel India
         - company:
           name: Etisalat
-          service: Etisalat UAE                    
+          service: Etisalat UAE
         - company:
           name: MTN
           service: MTN SA
@@ -140,7 +140,7 @@ services:
           name: Vodafone
           service: Vodafone UK
   - item:
-    title: Search
+    title: Search engine
     href: search
     companies:
         - company:
@@ -159,7 +159,7 @@ services:
           name: Baidu
           service: Baidu Search
   - item:
-    title: Social network & blog
+    title: Social networking & blog
     href: socialnetworkblog
     companies:
         - company:
@@ -172,7 +172,7 @@ services:
           name: Facebook
           service: Facebook
         - company:
-          name: Mail.ru
+          name: Mail.Ru
           service: Vkontakte
         - company:
           name: Tencent
@@ -181,7 +181,7 @@ services:
           name: Baidu PostBar
           service: Baidu
   - item:
-    title: Video/photo
+    title: Video & photo sharing
     href: videophoto
     companies:
         - company:
@@ -196,7 +196,7 @@ services:
         - company:
           name: Google
           service: Youtube
-  
+
 intro: "The 2018 Index ranks 22 internet, mobile, and telecommunications companies on their public commitments and disclosed policies affecting users’ freedom of expression and privacy. For each company, we selected up to four services to evaluate. For telecommunications companies, we evaluate pre- and post-paid mobile, and in most cases (when offered by the company) fixed-line broadband services. For internet and mobile companies, we evaluate up to four of the following types of service depending on what the company offers: cloud, mail, messaging and VoIP, mobile ecosystems, search engines, and social networking and blog platforms. Read more about the <a href=\"https://rankingdigitalrights.org/methodology-development/\" target=\"_blank\">methodology development</a>, <a href=\"https://rankingdigitalrights.org/2017-research-process/\" target=\"_blank\">research process</a> and how we <a href=\"https://rankingdigitalrights.org/index2018/report/2018-index-methodology/#evaluation\" target=\"_blank\">score</a> each company.
 <br/><br/>
 To see how each service performed in comparison with those of other companies, click on a service category:"
