@@ -29,7 +29,7 @@ footnotes:
 
 Internet and mobile ecosystem companies collect vast amounts of information about users. This includes the personal information people give companies when signing up for a service as well as the behavioral data they collect by tracking their browsing activities and preferences, location data, and access and login activities and histories. Such information can be shared with different third parties, including governments, courts, and law enforcement, who make legal demands for user data, and with advertisers. Detailed profiles created with users’ information can be used by government agencies to identify surveillance targets, by financial service companies to determine creditworthiness, and by businesses and other organizations (including advocacy groups and political campaigns), which can target people with advertisements and marketing campaigns tailored to their profiles.[[48]](#footnotes)
 
-> Telecommunications companies also lacked disclosure of how they handle user information. See Chapter 7 for a detailed analysis.
+> Telecommunications companies also lacked disclosure of how they handle user information. See [Chapter 7](/report/telecommunications-disconnect) for a detailed analysis.
 
 While the misuse and exploitation of information people share with companies does not constitute the type of “breach” or theft discussed in the previous chapter on security (because the information was not technically stolen), the potential for harm to individuals and to vulnerable categories of people is nonetheless very real. Failure to assess and mitigate harm constitutes a betrayal of user trust and lack of respect for user rights.
 
@@ -39,7 +39,7 @@ The Index aims to do just that with seven indicators evaluating corporate transp
 
 Yet 2018 Index results show that users remain largely in the dark about what information about them is collected and shared, with whom, and for what purposes.
 
-> What do we mean by “user information”?
+> **What do we mean by “user information”?**
 >
 > RDR defines “[user information](https://rankingdigitalrights.org/2017-indicators/#userinformation)” as any information that identifies a user’s activities, including (but not limited to) personal correspondence, user-generated content, account preferences and settings, log and access data, data about a user’s activities or preferences collected from third parties, and all forms of metadata. Companies might have their own definition of user information, which can differ from RDR’s definition of user information and be narrower in scope. For example, a company may define user information as the demographic information a user voluntarily provides upon signing up for a service (e.g., age, gender), but not include automatically collected metadata or other types of information. See the 2018 Index glossary: [https://rankingdigitalrights.org/2018-indicators/#userinformation](https://rankingdigitalrights.org/2018-indicators/#userinformation).
 
@@ -179,21 +179,21 @@ Results of the 2018 Index show that all companies other than **Apple** lacked su
 
 - **Ensure transparency around handling of user information:** Companies should clearly disclose how they handle users’ information, including what information is collected and shared, as well as the purposes for doing so. Companies should disclose:
 
-- what specific types of information the company collects (P3);
+    - what specific types of information the company collects (P3);
 
-- how the company collects that information (e.g., does a company ask users to provide certain information, or does the company collect it automatically?) (P3);
+    - how the company collects that information (e.g., does a company ask users to provide certain information, or does the company collect it automatically?) (P3);
 
-- what information the company shares and with whom (P4);
+    - what information the company shares and with whom (P4);
 
-- why the company collects and shares that information (P5);
+    - why the company collects and shares that information (P5);
 
-- how long the company retains that information (P6);
+    - how long the company retains that information (P6);
 
-- whether and how the company destroys that information when users delete their accounts or cancel their service (P6);
+    - whether and how the company destroys that information when users delete their accounts or cancel their service (P6);
 
-- whether—and the extent to which—users can control what information about them is collected and used (P7); and
+    - whether—and the extent to which—users can control what information about them is collected and used (P7); and
 
-- whether users can access all public- facing and private user information a company holds about them (P8).
+    - whether users can access all public- facing and private user information a company holds about them (P8).
 
 
 - **Tell users whether and how they are tracked:** Companies should clearly disclose whether and how they collect user information from third-party sites and services.
