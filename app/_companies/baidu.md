@@ -26,7 +26,7 @@ services_evaluated:
     key_href: search
     name: Baidu Search
   - item:
-    key: cloud storage
+    key: cloud service
     key_href: cloudservices
     name: Baidu Cloud
   - item:
