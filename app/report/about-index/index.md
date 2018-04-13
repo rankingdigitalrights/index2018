@@ -9,11 +9,11 @@ next:
   href: 2018-index-methodology
   text: 2018 Index Methodology
 footnotes:
-    '<p class="footnotes"><span>[4]</span> “Guiding Principles on Business and Human Rights” (United Nations, 2011),<a href="http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf">http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf</a>.</p>
-    <p class="footnotes"><span>[5]</span> “Principles,” Global Network Initiative, accessed February 27, 2017,<a href="https://globalnetworkinitiative.org/principles/index.php">https://globalnetworkinitiative.org/principles/index.php</a>.</p>
-    <p class="footnotes"><span>[6]</span> “Implementation Guidelines,” Global Network Initiative, accessed February 28, 2017,<a href="http://globalnetworkinitiative.org/implementationguidelines/index.php">http://globalnetworkinitiative.org/implementationguidelines/index.php</a>.</p>
-    <p class="footnotes"><span>[7]</span> “RDR Launches 2017 Corporate Accountability Index Research Cycle,” Ranking Digital Rights, September 15, 2016,<a href="https://rankingdigitalrights.org/2016/09/15/rdr-launches-2017-research/">https://rankingdigitalrights.org/2016/09/15/rdr-launches-2017-research/</a>.</p>
-    <p class="footnotes"><span>[8]</span> “2018 Companies,” Ranking Digital Rights,<a href="https://rankingdigitalrights.org/2018-companies/">https://rankingdigitalrights.org/2018-companies/</a>.</p>'
+    '<p class="footnotes"><span>[4]</span> “Guiding Principles on Business and Human Rights” (United Nations, 2011), <a href="http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf">http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf</a>.</p>
+    <p class="footnotes"><span>[5]</span> “Principles,” Global Network Initiative, accessed February 27, 2017, <a href="https://globalnetworkinitiative.org/principles/index.php">https://globalnetworkinitiative.org/principles/index.php</a>.</p>
+    <p class="footnotes"><span>[6]</span> “Implementation Guidelines,” Global Network Initiative, accessed February 28, 2017, <a href="http://globalnetworkinitiative.org/implementationguidelines/index.php">http://globalnetworkinitiative.org/implementationguidelines/index.php</a>.</p>
+    <p class="footnotes"><span>[7]</span> “RDR Launches 2017 Corporate Accountability Index Research Cycle,” Ranking Digital Rights, September 15, 2016, <a href="https://rankingdigitalrights.org/2016/09/15/rdr-launches-2017-research/">https://rankingdigitalrights.org/2016/09/15/rdr-launches-2017-research/</a>.</p>
+    <p class="footnotes"><span>[8]</span> “2018 Companies,” Ranking Digital Rights, <a href="https://rankingdigitalrights.org/2018-companies/">https://rankingdigitalrights.org/2018-companies/</a>.</p>'
 ---
 
 # About the Ranking Digital Rights Corporate Accountability Index
