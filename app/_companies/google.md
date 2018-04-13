@@ -30,7 +30,7 @@ services_evaluated:
     key_href: emailservice
     name: Gmail
   - item:
-    key: video sharing
+    key: Video & photo sharing
     key_href: videophoto
     name: YouTube
   - item:
