@@ -22,11 +22,11 @@ key_findings:
 
 services_evaluated:
   - item:
-    key: Social network
+    key: Social networking & blog
     key_href: socialnetworkblog
     name: Facebook
   - item:
-    key: Photo sharing
+    key: Video & photo sharing
     key_href: videophoto
     name: Instagram
   - item:
