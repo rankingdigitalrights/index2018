@@ -15,7 +15,7 @@ footnotes:
   <p class="footnotes"><span>[104]</span> “International Principles on the Application of Human Rights to Communications Surveillance,” Necessary and Proportionate, accessed March 22, 2018, <a href="https://necessaryandproportionate.org/principles">https://necessaryandproportionate.org/principles/</a>.</p>
   <p class="footnotes"><span>[105]</span> “Manila Principles on Intermediary Liability,” Manila Principles, accessed March 22, 2018, <a href="https://www.manilaprinciples.org/">https://www.manilaprinciples.org/</a>.</p>
   <p class="footnotes"><span>[106]</span> Global Commission on Internet Governance, “One Internet,” Centre for International Governance Innovation, June 21, 2016, <a href="https://www.cigionline.org/publications/one-internet/">https://www.cigionline.org/publications/one-internet</a>.</p>
-  
+
 ---
 
 # 8. Recommendations for governments
@@ -26,11 +26,11 @@ Even in the absence of policy and regulatory reform, all companies in the Index 
 
 Such laws should:
 
-- **Require companies to clearly disclose to users the full lifecycle of their information,** from collection, to use, to sharing, to retention and deletion.
+  - **Require companies to clearly disclose to users the full lifecycle of their information,** from collection, to use, to sharing, to retention and deletion.
 
-- **Require companies to give users more control over the collection and sharing of their information,** and to clearly disclose how users can exercise such control.  
+  - **Require companies to give users more control over the collection and sharing of their information,** and to clearly disclose how users can exercise such control.  
 
-- **Require companies to implement and disclose appropriate policies and procedures for handling data breaches,** and to notify users when their data has been compromised.
+  - **Require companies to implement and disclose appropriate policies and procedures for handling data breaches,** and to notify users when their data has been compromised.
 
 **Security: Support appropriate incentives for companies to adopt industry standard security practices** and require appropriate disclosure to users.
 
@@ -46,10 +46,10 @@ Such laws should:
 
 **Legislative accountability: Carry out human rights due diligence to ensure that laws and regulations governing ICT sector companies do not have a negative impact on internet users’ freedom of expression and privacy** as defined by the Universal Declaration of Human Rights[[102]](#footnotes) and international human rights instruments, such as the International Covenant on Civil and Political Rights.[[103]](#footnotes) Where laws are not compatible with human rights standards, reform should include:
 
-- **Surveillance reform: Reform surveillance-related laws** and practices to comply with the thirteen “Necessary and Proportionate” principles,[[104]](#footnotes)  a framework for assessing whether current or proposed surveillance laws and practices are compatible with international human rights norms.
+  - **Surveillance reform: Reform surveillance-related laws** and practices to comply with the thirteen “Necessary and Proportionate” principles,[[104]](#footnotes)  a framework for assessing whether current or proposed surveillance laws and practices are compatible with international human rights norms.
 
-- **Limit legal liability imposed on companies for their users’ speech and other activities,** consistent with the Manila Principles on Intermediary Liability, a framework of baseline practices and standards to ensure that regulation of ICT sector companies does not result in the violation of users’ rights.[[105]](#footnotes)
+  - **Limit legal liability imposed on companies for their users’ speech and other activities,** consistent with the Manila Principles on Intermediary Liability, a framework of baseline practices and standards to ensure that regulation of ICT sector companies does not result in the violation of users’ rights.[[105]](#footnotes)
 
-- **Protect the right to anonymous online activity** as central to freedom of expression, privacy, and human rights. Refrain from requiring companies to document users’ identities when it is not essential to provision of service.
+  - **Protect the right to anonymous online activity** as central to freedom of expression, privacy, and human rights. Refrain from requiring companies to document users’ identities when it is not essential to provision of service.
 
-- **Do not enact laws or policies that undermine encryption.** Strong encryption is vital not only for human rights, but also for economic and political security.
+  - **Do not enact laws or policies that undermine encryption.** Strong encryption is vital not only for human rights, but also for economic and political security.
