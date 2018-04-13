@@ -4,7 +4,7 @@ header: Services
 
 services:
   - item:
-    title: Cloud services
+    title: Cloud service
     href: cloudservices
     companies:
         - company:
