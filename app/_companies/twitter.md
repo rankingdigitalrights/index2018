@@ -23,11 +23,11 @@ key_findings:
 
 services_evaluated:
   - item:
-    key: social network
+    key: social networking & blog
     key_href: socialnetworkblog
     name: Twitter
   - item:
-    key: video sharing
+    key: video & photo sharing
     key_href: videophoto
     name: Periscope
 
