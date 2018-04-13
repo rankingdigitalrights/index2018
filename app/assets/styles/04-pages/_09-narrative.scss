@@ -375,14 +375,35 @@ $maincolor:  #231f20;
         }
       }
     ol{
-        margin-left: 20px;
+      margin-left: 20px;
+      padding: 0;
+      counter-reset: item;
         li{
-          list-style-type: decimal;
+          margin: 0;
+          counter-increment: item;
+          list-style-type: none;
+          position: relative;
+
+          &::before{
+            font-weight: bold;
+            content: counter(item) ".";
+            padding-right:0.5em;
+            float: left;
+            font-size: 1em;
+            position: absolute;
+            left: -20px;
+            @include media(large-up) {
+              font-size: 1.12em;
+            }
+          }
           p{
             line-height: 1.3em;
+            font-family: "Simplon-Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
           }
+
         }
-      }
+    }
+    
     .introduction{
       margin-top: 44px;
         p {

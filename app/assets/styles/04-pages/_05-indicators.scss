@@ -9,6 +9,18 @@
 				line-height: 1em;
 				font-size: 2.8em;
 			}
+			.governance {
+				color: $cat-commitment !important;
+
+			}
+			.freedom {
+				color: $cat-freedom !important;
+
+			}
+			.privacy {
+				color: $cat-privacy !important;
+
+			}
 		}
 		ul.indicator-list {
 			li {
@@ -120,7 +132,9 @@
 			table{
 				width: 100%;
 				border-collapse: collapse;
-				table-layout: fixed;
+				@include media(large-up) {
+					table-layout: fixed;
+				}
 				thead{
 					tr{
 						background-color: white;
