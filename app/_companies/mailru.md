@@ -30,7 +30,7 @@ services_evaluated:
   key_href: messagingvoip
   name: Mail.Ru Agent
 - item:
-  key: social network
+  key: Social networking & blog
   key_href: socialnetworkblog
   name: VKontakte
 
