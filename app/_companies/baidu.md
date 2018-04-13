@@ -30,9 +30,9 @@ services_evaluated:
     key_href: cloudservices
     name: Baidu Cloud
   - item:
-    key: social network
+    key: Social networking & blog
     key_href: socialnetworkblog
-    name: Baidu Postbar
+    name: Baidu PostBar
 
 analysis_text: 'Baidu earned the lowest score of all internet and mobile ecosystem companies evaluated, disclosing almost no information about its policies and practices affecting users’ freedom of expression and privacy. The company improved its disclosure of its handling of user information, including its disclosure of options users have to control if their information is used for targeted advertising. However, the company still fell short of meeting basic benchmarks for protecting users’ freedom of expression and privacy. While the <a href=\"https://freedomhouse.org/report/freedom-net/2017/china\" target=\"_blank\">Chinese internet environment</a> is one of the most restrictive in the world, Baidu can still improve its transparency about basic policies affecting freedom of expression and privacy in key areas. The fact that Tencent outperformed Baidu on several such indicators shows that Baidu’s poor performance cannot be attributed to China’s restrictive legal and political environment alone.'
 
