@@ -228,6 +228,14 @@ $maincolor:  #231f20;
       margin-bottom: 40px;
       font-size: 2.3em;
       color: $link-color;
+        @include media(small-up) {
+          font-size: 2em;
+          line-height: 1em;
+        }
+        @include media(medium-up) {
+          font-size: 2em;
+          line-height: 1em;
+        }
     }
     h2{
       color: $base-color;
@@ -235,11 +243,28 @@ $maincolor:  #231f20;
       font-size: 2em;
       text-transform: none;
       margin: 30px 0;
+        @include media(small-up) {
+          font-size: 1.8em;
+          line-height: 1em;
+        }
+        @include media(medium-up) {
+          font-size: 1.8em;
+          line-height: 1em;
+        }
     }
     h3{
       font-size: 2em;
       text-transform: none;
       margin: 30px 0;
+          @include media(small-up) {
+          font-size: 1.8em;
+          line-height: 1em;
+        }
+        @include media(medium-up) {
+          font-size: 1.8em;
+          line-height: 1em;
+        }
+       
     }
     blockquote {
       background-color: #F7F7F7;
