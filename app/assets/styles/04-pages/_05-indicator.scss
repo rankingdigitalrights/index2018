@@ -274,6 +274,14 @@ $maincolor:  #231f20;
         margin-bottom: 20px;
         font-size: 2.8em;
         text-transform: none;
+            @include media(small-up) {
+             font-size: 2em;
+             line-height: 1em;
+           }
+           @include media(medium-up) {
+             font-size: 2em;
+             line-height: 1em;
+           }
       }
       .chapter-title{
 
