@@ -132,7 +132,7 @@
 							text {
 							transform: rotate(-90deg);
 						        @include media(small-up) {
-						        transform: rotate(-90deg);	
+						        transform: rotate(-45deg);	
 						        }
 						        @include media(medium-up) {
 								transform: rotate(-35deg) translate(-5px, 25px);				  
