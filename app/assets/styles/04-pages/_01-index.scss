@@ -10,11 +10,11 @@
 
 		text-align: center;
 		  @include media(small-up) {
-
+            padding-top: 2em;
 			text-align: center;
 		  }
 		  @include media(medium-up) {
-
+            padding-top: 2em;
 			text-align: center;
 		  }
 		  @include media(large-up) {
