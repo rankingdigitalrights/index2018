@@ -1,4 +1,4 @@
-<section class="company--table">
+<section class="company--table <%= p_name %>">
     <h2>
         <a id="<%= item.id %>"></a>
         <%= item.name %>

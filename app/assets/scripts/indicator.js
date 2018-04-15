@@ -33,7 +33,8 @@ module.exports = function generateIndicator (indicatorName) {
             var $scores = $indicators.attributes.scores;
             indicator.scores = $scores;
             var indicatorView = new IndicatorView({
-                collection: indicator
+                collection: indicator,
+                p_name: indicatorName
             });
             indicatorView.render();
         }
