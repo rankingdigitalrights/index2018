@@ -34,7 +34,7 @@ The 2018 Index evaluates 10 telecommunications companies and 12 internet and mob
 
 All companies evaluated in the Index are multinational corporations listed on a major stock exchange. The following factors influenced company selection:
 
-- **User Base:** The companies in the Index have a significant footprint in the areas where they operate. The telecommunications companies have a substantial user base in their home markets, and the internet companies have a large number of global users as identified by established global traffic rankings such as Alexa. The policies and practices of the selected companies, and their potential to improve, thus affect a large percentage of the world’s 4.2 billion internet users.[[109]](#footnotes)
+- **User base:** The companies in the Index have a significant footprint in the areas where they operate. The telecommunications companies have a substantial user base in their home markets, and the internet companies have a large number of global users as identified by established global traffic rankings such as Alexa. The policies and practices of the selected companies, and their potential to improve, thus affect a large percentage of the world’s 4.2 billion internet users.[[109]](#footnotes)
 
 - **Geographic reach and distribution:** The Index includes companies that are headquartered in North America, Europe, Africa, Asia, and the Middle East, and collectively, the companies in the Index have users in many regions around the world.
 
@@ -80,7 +80,7 @@ The research process for the 2018 Index consisted of several steps involving rig
 
 - **Step 7: Final Scoring.** The RDR team calculated final scores.
 
-## 11.6 Company Engagement ## {#section-116}
+## 11.6 Company engagement ## {#section-116}
 
 Proactive and open stakeholder engagement has been a critical component of the Index’s methodology. We communicated with companies throughout the research process.
 
@@ -92,7 +92,7 @@ Proactive and open stakeholder engagement has been a critical component of the I
 
 **Research for the 2018 Index was based on company policies that were active between January 13, 2017 and January 12, 2018.** New information published by companies after January 12, 2018 was not evaluated.
 
-**2017 Index score adjustments:** Some company scores from 2017 were adjusted for comparison with their 2018 evaluation. Scores were adjusted at the element level, in accordance with clarified evaluation standards that were applied in the 2018 Index, or to include information not located during the 2017 Index cycle, or as a result of a re-assessment of the company’s disclosure. These adjustments did not produce changes to any company position in the 2017 rankings or to any of the key findings highlighted in the 2017 Index. Each score adjustment, including a detailed explanation of the reason for each change, is recorded in each company’s final dataset, which is publicly available for download [here](https://www.rankingdigitalrights.org/index2018/download/).
+**2017 Index score adjustments:** Some company scores from 2017 were adjusted for comparison with the 2018 evaluation. Scores were adjusted at the element level, in accordance with clarified evaluation standards that were applied in the 2018 Index, or to include information not located during the 2017 Index cycle, or as a result of a re-assessment of the company’s disclosure. These adjustments did not produce changes to any company position in the 2017 rankings or to any of the key findings highlighted in the 2017 Index. Each score adjustment, including a detailed explanation of the reason for each change, is recorded in each company’s final dataset, which is publicly available for download [here](https://www.rankingdigitalrights.org/index2018/download/).
 
 **How companies are scored:** The Index evaluates company disclosure of the overarching “parent,” or “group,” level, as well as those of selected services and/or local operating companies (depending on company structure). Each indicator has a list of elements, and companies receive credit (full, partial, or no credit) for each element they fulfill. The evaluation includes an assessment of disclosure for every element of each indicator, based on one of the following possible answers:
 
