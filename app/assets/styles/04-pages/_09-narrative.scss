@@ -291,6 +291,7 @@ $maincolor:  #231f20;
     a{
         color: $link-color;
         cursor: pointer;
+        word-break: break-all;
         &:hover{
             text-decoration: underline;
         }
