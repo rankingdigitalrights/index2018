@@ -11,7 +11,7 @@ flex-direction: column;
 	}
 	@include media(medium-up) {
 	margin-top: 1em;
-	flex-direction: column;	
+	flex-direction: column;
 	}
 	@include media(large-up) {
 	margin-top: 1em;	
@@ -35,7 +35,7 @@ flex-direction: column;
 		}
 		@include media(medium-up) {
 		border-left: none;
-		border-top: 1px solid $black;		
+		border-top: 1px solid $black;
 		}
 		@include media(large-up) {
 		border-top: none;	
@@ -145,12 +145,18 @@ flex-direction: column;
 		}
 	}
 	.graph-legend-values {
-	padding: 0.5em 0.5em;	
+	padding: 0.5em 0.5em;
+		display: block;
+		margin-left: 0;
+		margin-top: 15px;
 		@include media(small-up) {
 		padding: 1em 1em;
 		}
 		@include media(medium-up) {
-		padding: 1em 1em;	
+		padding: 1em 1em;
+		display: flex;
+		margin-left: 15px;
+		margin-top: 0;
 		}
 		@include media(large-up) {
 		padding: 1em 1em; //3
@@ -265,12 +271,14 @@ flex-direction: column;
 			}
 		}
 		.graph-legend-values-item + .graph-legend-values-item {
-		margin-left: 1em;
+		margin-left: 0;
+		margin-top: 15px;
 			@include media(small-up) {
-			margin-left: 1em;	
+			margin-left: 0;
 			}
 			@include media(medium-up) {
-			margin-left: 2.5em;	
+			margin-left: 2.5em;
+			margin-top: 0;
 			}
 			@include media(large-up) {
 			margin-left: 1.5em;	
@@ -314,7 +322,8 @@ flex-direction: column;
 		}				 		
 		.graph-legend-interaction-item {
 		display: flex;	
-		background-color: $black;	
+		background-color: $black;
+
 			i {
 			color: $white-pure;	
 			font-size: 17px;    											

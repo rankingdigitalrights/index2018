@@ -237,6 +237,10 @@ $maincolor:  #231f20;
           font-size: 2em;
           line-height: 1em;
         }
+      @include media(large-up) {
+        font-size: 2.5em;
+        line-height: 1em;
+      }
     }
     h2{
       color: $base-color;
@@ -447,6 +451,17 @@ $maincolor:  #231f20;
           cursor: pointer;
           color: $black-lighter ;
           font-family: $simplon-light;
+          font-size: 15px;
+          display: flex;
+          flex-direction: row;
+          flex-wrap: wrap;
+          @include media(medium-up) {
+            display: inline-block;
+          }
+
+          @include media(large-up) {
+            font-size: 1.12em;
+          }
           &:hover{
             text-decoration: none;
             span{

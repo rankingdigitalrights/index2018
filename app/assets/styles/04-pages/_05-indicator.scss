@@ -225,11 +225,11 @@ $maincolor:  #231f20;
 
       .bar--axis_x {
         text {
-          font-size: 11px;
-          transform: rotate(-90deg);
+          font-size: 10px;
+          transform: rotate(-60deg);
           @include media(small-up) {
             font-size: 11px;
-            transform: rotate(-90deg);  
+            transform: rotate(-45deg);
           }
           @include media(medium-up) {
             font-size: 12px;
@@ -272,14 +272,15 @@ $maincolor:  #231f20;
       h1{
         //color: $base-color;
         margin-bottom: 20px;
-        font-size: 2.8em;
+        font-size: 2em;
         text-transform: none;
+        line-height: 1em;
             @include media(small-up) {
              font-size: 2em;
              line-height: 1em;
            }
            @include media(medium-up) {
-             font-size: 2em;
+             font-size: 2.5em;
              line-height: 1em;
            }
       }

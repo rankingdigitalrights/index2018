@@ -58,9 +58,11 @@
 			}
 			@include media(large-up) {
 				display: block !important;
+				transform: translate(0px,-4px);
 			}
 			@include media(xlarge-up) {
 				display: block !important;
+				transform: translate(0px, 0px);
 			}
 		}
 
@@ -105,7 +107,6 @@
 			display: none !important;
 		}	
 	}
-	
 
 	.world-map {
 		padding-top: 0;
@@ -296,7 +297,6 @@
 			}			
 		}
 	}
-
 
 	/* Company ranking */
 	.company-ranking {
@@ -726,7 +726,13 @@
 				@include media(xlarge-up) {
 				padding: 1em 0 1em 2em; 
 				} 	
-			}    	
+			}
+
+			.graph-legend-values{
+				@media (max-width: 767px){
+					display: block !important;
+				}
+			}
 		}	
 	}
 
@@ -1010,6 +1016,18 @@
 					display: flex;
 					}
 				}
+			}
+		}
+		#compare--overview_chart{
+			display: none;
+			@media (min-width: 768px){
+				display: block;
+			}
+		}
+		.services-ranking-mob-image{
+			display: block;
+			@media (min-width: 768px){
+				display: none;
 			}
 		}
 	}

@@ -209,6 +209,32 @@
 						  text-transform: capitalize;
 					  }
 					}
+
+					.bar--axis_x_company{
+						display: none;
+						@include media(large-up) {
+							display: block;
+						}
+					}
+					.bar--axis_x_percent{
+						display: none;
+						@include media(medium-up) {
+							display: block;
+						}
+					}
+					.bar--axis_x_service{
+						.tick{
+							text{
+								@media (max-width: 767px){
+									-webkit-transform: rotate(-35deg) translate(-70px, 17px);
+									-moz-transform: rotate(-35deg) translate(-70px, 17px);
+									-o-transform: rotate(-35deg) translate(-70px, 17px);
+									transform: rotate(-35deg) translate(-70px, 17px);
+								}
+
+							}
+						}
+					}
 				}
 			}				
 			.graph-legend {

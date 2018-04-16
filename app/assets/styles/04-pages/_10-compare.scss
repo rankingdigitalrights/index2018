@@ -182,10 +182,10 @@
 
 
   .company--name {
-    transform: rotate(-90deg);
+    transform: rotate(-45deg);
     font-size: 10px;           
     @include media(small-up) {
-      transform: rotate(-90deg) !important;
+      transform: rotate(-45deg) !important;
       font-size: 10px !important; 
     }
     @include media(medium-up) {
