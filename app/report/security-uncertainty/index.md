@@ -45,11 +45,11 @@ Despite the rise in data breaches reported in the media, and growing concerns ab
 
 The 2018 Index data revealed the following trends:
 
-- **Few companies communicate their policies for handling data breaches.** Most companies failed to provide any information at all about how they respond to data breaches (P15). While two of 22 companies—Apple and Vodafone—improved, and Vodafone was the only company to receive a full score on that indicator, most companies still failed to disclose even basic information about what procedures they have in place to respond to data breaches in the event that such incidents occur (see Section 4.2).
+- **Few companies communicate their policies for handling data breaches.** Most companies failed to provide any information at all about how they respond to data breaches (P15). While two of 22 companies—**[Apple](/companies/apple)** and **[Vodafone](/companies/vodafone)**—improved, and Vodafone was the only company to receive a full score on that indicator, most companies still failed to disclose even basic information about what procedures they have in place to respond to data breaches in the event that such incidents occur (see Section 4.2).
 
 - **Companies do not communicate enough information about security oversight practices.** Data showed that companies lacked transparency about their security oversight procedures, including whether they limit employee access to user information. While all companies tended to disclose some information about their oversight procedures, most still fell short of clearly communicating to users what steps they take to keep their information secure (P13) (see Section 4.3).
 
-- Nonetheless, five companies—**Airtel India (Bharti Airtel), Celcom (Axiata), Etisalat UAE, Orange France,** and **Tencent**—improved their disclosure of security oversight policies and practices (P13). Celcom (Axiata) and Orange France both made clearer commitments to conduct security audits, and Airtel India (Bharti Airtel) and Etisalat UAE published more detailed information about steps they take to limit and monitor employee access to user information. Tencent also clarified how the company limits employee access to WeChat user information, though it did not disclose any mechanisms in place to ensure these policies are enforced.
+- Nonetheless, five companies—**[Airtel India (Bharti Airtel)](/companies/bhartiairtel), [Celcom (Axiata)](/companies/axiata), [Etisalat UAE](/companies/etisalat), [Orange France](/companies/orange),** and **[Tencent](/companies/tencent)**—improved their disclosure of security oversight policies and practices (P13). Celcom (Axiata) and Orange France both made clearer commitments to conduct security audits, and Airtel India (Bharti Airtel) and Etisalat UAE published more detailed information about steps they take to limit and monitor employee access to user information. Tencent also clarified how the company limits employee access to WeChat user information, though it did not disclose any mechanisms in place to ensure these policies are enforced.
 
 - **Companies lacked clarity about how they handle security vulnerabilities.** While internet and mobile ecosystem companies were more transparent than telecommunications companies about their processes for addressing security vulnerabilities, all companies lacked clarity about their policies and processes (P14). No company made any improvements to their disclosure of their approaches to dealing with security vulnerabilities in the 2018 Index (see Section 4.4).
 
@@ -74,17 +74,17 @@ Even if there is a legal requirement to notify affected individuals, the exact d
 > - **Element 3: Does the company clearly disclose what kinds of steps it will take to address the impact of a data breach on its users?** Although a company’s specific response will vary depending on the nature of the breach, the company should provide examples of what kinds of steps it will take internally to secure its data and commit to notifying affected individuals of steps they can take to mitigate risk or damage.
 > See 2018 Index methodology at: [https://rankingdigitalrights.org/2018-indicators/#P15](https://rankingdigitalrights.org/2018-indicators/#P15).
 
-Since the 2017 Index there has been only minor progress. **Apple** joined **AT&T, Telefónica,** and **Vodafone** as the only companies to disclose any information about their policies and practices for responding to data breaches.
+Since the 2017 Index there has been only minor progress. [Apple](/companies/apple) joined [AT&T](/companies/att), [Telefónica](/companies/telefonica), and [Vodafone](/companies/vodafone) as the only companies to disclose any information about their policies and practices for responding to data breaches.
 
 <img src="/assets/graphics/content/Figure 6. How transparent are companies about policies for responding to data breaches (P15)_.png" alt="figure6" title="figure6" align="left" />
 
 As Figure 6 illustrates, most of the 22 companies in the Index failed to provide basic information about their policies for responding to data breaches:
 
-- **Vodafone** was the only company to receive full credit on this indicator. The company disclosed a policy of notifying authorities without undue delay when a data breach occurs, and of notifying data subjects who might be affected. The company also clearly explained the steps taken to address the impact of a data breach on its users.
+- [Vodafone](/companies/vodafone) was the only company to receive full credit on this indicator. The company disclosed a policy of notifying authorities without undue delay when a data breach occurs, and of notifying data subjects who might be affected. The company also clearly explained the steps taken to address the impact of a data breach on its users.
 
-- **Apple** was the only internet and mobile ecosystem company to provide any information about policies for responding to a data breach. It was the only company aside from Vodafone to disclose any information about notifying authorities.
+- [Apple](/companies/apple) was the only internet and mobile ecosystem company to provide any information about policies for responding to a data breach. It was the only company aside from Vodafone to disclose any information about notifying authorities.
 
-- All four companies—**Apple, AT&T, Telefónica,** and **Vodafone**—disclosed some information about their policies for notifying individuals affected. But only Apple, Telefónica, and Vodafone disclosed information about the steps they would take to address the impact of a data breach on users.
+- All four companies—[Apple](/companies/apple), [AT&T](/companies/att), [Telefónica](/companies/telefonica), and [Vodafone](/companies/vodafone)—disclosed some information about their policies for notifying individuals affected. But only Apple, Telefónica, and Vodafone disclosed information about the steps they would take to address the impact of a data breach on users.
 
 ## 4.3. Security oversight ## {#section-43}
 
