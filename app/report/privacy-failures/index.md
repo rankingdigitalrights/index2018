@@ -175,35 +175,35 @@ Results of the 2018 Index show that all companies other than **Apple** lacked su
 
 ## 5.5. Recommendations for companies ## {#section-55}
 
-- **Maximize user control over their own data:** Companies should not only provide clear disclosure of how they handle user information, but also give users clear options to control what information is collected and shared and with whom. This should also include user control over whether their information is combined from different company services.
+- **Maximize user control over their own data.** Companies should not only provide clear disclosure of how they handle user information, but also give users clear options to control what information is collected and shared and with whom. This should also include user control over whether their information is combined from different company services.
 
-- **Ensure transparency around handling of user information:** Companies should clearly disclose how they handle users’ information, including what information is collected and shared, as well as the purposes for doing so. Companies should disclose:
+- **Ensure transparency around handling of user information.** Companies should clearly disclose how they handle users’ information, including what information is collected and shared, as well as the purposes for doing so. Companies should disclose:
 
-    - what specific types of information the company collects (P3);
+    - what specific types of information they collect (P3);
 
-    - how the company collects that information (e.g., does a company ask users to provide certain information, or does the company collect it automatically?) (P3);
+    - how that information is collected (e.g., does a company ask users to provide certain information, or does the company collect it automatically?) (P3);
 
-    - what information the company shares and with whom (P4);
+    - what information is shared and with whom (P4);
 
-    - why the company collects and shares that information (P5);
+    - why they collect and share that information (P5);
 
-    - how long the company retains that information (P6);
+    - how long the information is retained (P6);
 
-    - whether and how the company destroys that information when users delete their accounts or cancel their service (P6);
+    - whether and how the that information is destroyed when users delete their accounts or cancel their service (P6);
 
     - whether—and the extent to which—users can control what information about them is collected and used (P7); and
 
-    - whether users can access all public- facing and private user information a company holds about them (P8).
+    - whether users can access all public- facing and private information a company holds about them (P8).
 
 
-- **Tell users whether and how they are tracked:** Companies should clearly disclose whether and how they collect user information from third-party sites and services.
+- **Tell users whether and how they are tracked.** Companies should clearly disclose whether and how they collect user information from third-party sites and services.
 
-- **Facilitate user access to their information:** Users should have the ability to obtain all the information a company holds about them, and to download it in a format that allows them to transfer some or all of this data into a new service, if they wish to do so.
+- **Facilitate user access to their information.** Users should have the ability to obtain all the information a company holds about them, and to download it in a format that allows them to transfer some or all of this data into a new service, if they wish to do so.
 
-- **User privacy should be the default:** Companies should not assume that users are aware of the connection between data collection and targeted advertising, and targeted advertising should be off by default.
+- **User privacy should be the default.** Companies should not assume that users are aware of the connection between data collection and targeted advertising, and targeted advertising should be off by default.
 
-- **Respect user preferences:** Companies should support the development of a viable system for users to indicate they do not want to be tracked across the internet, and make a clear commitment to respect these preferences.
+- **Respect user preferences.** Companies should support the development of a viable system for users to indicate they do not want to be tracked across the internet, and make a clear commitment to respect these preferences.
 
-- **Build partnerships for stronger user privacy:** Companies should proactively and systematically engage with researchers, engineers and advocates to ensure company policies and practices reflect privacy best practices.
+- **Build partnerships for stronger user privacy.** Companies should proactively and systematically engage with researchers, engineers and advocates to ensure company policies and practices reflect privacy best practices.
 
-- **Privacy innovation:** Invest in the development of technologies and business models that maximize user control over their personal information and content.
+- **Privacy innovation.** Invest in the development of technologies and business models that maximize user control over their personal information and content.
