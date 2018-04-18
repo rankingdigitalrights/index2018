@@ -18,8 +18,7 @@ rank: 5
 key_findings:
   - Twitter disclosed less than most of its U.S. peers about policies affecting users’ privacy, but disclosed more about policies affecting freedom of expression than any company in the Index.
   - Twitter improved its disclosure of how it responds to government requests to remove content and restrict accounts.
-  - Twitter disclosed ways for users to opt out of targeted advertising, which indicates that targeted advertising is on by default. It also disclosed it does not respond to “Do Not Track” signals from users asking the company not to track them across third-party websites.
-
+  - Twitter disclosed ways for users to opt out of targeted advertising, which indicates that targeted advertising is on by default. In a setback for user privacy, the company disclosed it no longer responds to “Do Not Track” signals from users asking the company not to track them across third-party websites.
 
 services_evaluated:
   - item:
@@ -44,7 +43,7 @@ analysis_industry: Internet Software and Services
 analysis_market_cap: USD 24.5 billion
 analysis_stock_symbol: "NYSE: TWTR"
 
-governance_text: "Twitter ranked fifth in the Governance category, scoring lower than most U.S. internet and mobile ecosystem companies evaluated, despite some notable improvements. The company strengthened its public commitment to respect users’ freedom of expression and privacy (G1), improved its disclosure of senior-level oversight over these issues (G2), and disclosed a commitment to conduct human rights risk assessments when launching new products or entering into new markets (G4). While it disclosed that it regularly engages with a range of stakeholders on freedom of expression and privacy issues (G5), Twitter is not a member of a multi-stakeholder initiative like the Global Network Initiative (GNI), whose members not only make commitments but also undergo independent assessments to verify whether they have implemented and institutionalized them. As a result, Twitter’s disclosure in the Governance category suffered compared to its GNI peers."
+governance_text: "Twitter ranked fifth in the Governance category, scoring lower than most U.S. internet and mobile ecosystem companies evaluated, despite some notable improvements. The company strengthened its public commitment to respect users’ freedom of expression and privacy (G1), improved its disclosure of senior-level oversight over these issues (G2), and disclosed a commitment to conduct human rights risk assessments when launching new products or entering into new markets (G4). While it disclosed that it regularly engages with a range of stakeholders on freedom of expression and privacy issues (G5), Twitter is not a member of a multi-stakeholder initiative like the Global Network Initiative (GNI), whose members not only make commitments but also undergo independent assessments to verify whether they have implemented and institutionalized them. As a result, Twitter’s disclosure in the Governance category suffered compared to its other U.S.-based peers."
 
 summary_of_changes_governance:
   - item:

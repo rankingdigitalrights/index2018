@@ -260,6 +260,6 @@ security measures (P13-P15)?
 
 - Figure 22. Access to and notification about privacy policies (telecommunications companies)
 
-- Figure 23. How transparent are telecommunications companies are about government and private requests for user information (P10, P11, P12)?
+- Figure 23. How transparent are telecommunications companies about government and private requests for user information (P10, P11, P12)?
 
 - Figure 24. How transparent are telecommunications companies about their handling of user information (P3-P8)?

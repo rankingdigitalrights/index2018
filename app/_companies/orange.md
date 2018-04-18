@@ -47,7 +47,7 @@ analysis_industry: Diversified Telecommunication Services
 analysis_market_cap: USD 45 billion
 analysis_stock_symbol: "ENXTPA ORA"
 
-governance_text: "Orange received the third-highest governance score among telecommunications companies, after Vodafone and Telefónica. Orange’s governance score improved in the 2018 Index, due to its joining the Global Network initiative (GNI), and to its improved clarity of its human rights due diligence practices. Notably, it earned the highest score among telecommunications companies for its <a href=\"https://www.orange.com/en/content/download/45336/1348812/version/7/file/Report+2016+Orange+Human+Rights+DIGITAL-VA.pdf\" target=\"_blank\">human rights due diligence commitments</a> (G4). However, the company disclosed almost nothing about its grievance and remedy mechanisms (G6), tying with Ooredoo for the second-lowest score among telecommunications companies on this indicator."
+governance_text: "Orange received the third-highest governance score among telecommunications companies, after Vodafone and Telefónica. Orange’s governance score improved in the 2018 Index due to its joining the Global Network initiative (GNI), and to its improved clarity of its human rights due diligence practices. Notably, it earned the highest score among telecommunications companies for its <a href=\"https://www.orange.com/en/content/download/45336/1348812/version/7/file/Report+2016+Orange+Human+Rights+DIGITAL-VA.pdf\" target=\"_blank\">human rights due diligence commitments</a> (G4). However, the company disclosed almost nothing about its grievance and remedy mechanisms (G6), tying with Ooredoo for the second-lowest score among telecommunications companies on this indicator."
 
 summary_of_changes_governance:
   - item:
