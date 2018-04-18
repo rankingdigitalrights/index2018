@@ -32,7 +32,7 @@
   "dependencies": {
     "backbone": "^1.2.3",
     "d3-tip": "0.6.7",
-    "d3a": "3.5.6",
+    "d3": "3.5.6",
     "datamaps": "^0.5.8",
     "gulp-install": "^0.6.0",
     "jquery": "^2.1.4",
@@ -40,7 +40,6 @@
     "spin": "0.0.1",
     "tether": "^1.1.1",
     "tether-tooltip": "^1.1.0",
-    "typeahead": "^0.11.1",
     "underscore": "^1.8.3"
   },
   "scripts": {
