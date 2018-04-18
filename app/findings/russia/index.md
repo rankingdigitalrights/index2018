@@ -8,13 +8,13 @@ published: true
 <h2>Russian internet companies can do better despite tough legal environment </h2>
 <p>The Russian internet environment has grown <a href="https://freedomhouse.org/report/freedom-net/2016/russia">increasingly restrictive</a>. Companies face serious legal, regulatory, and political challenges that limit their ability to respect users' freedom of expression and privacy rights.</p>
 <p>In 2017 the Corporate Accountability Index evaluated two Russian internet companies, <a href="https://rankingdigitalrights.org/index2017/companies/mailru">Mail.Ru</a> and <a href="https://rankingdigitalrights.org/index2017/companies/yandex">Yandex</a>. Both companies scored poorly: Yandex ranked eighth out of the 12 internet companies evaluated, and Mail.Ru performed even worse, ranking 10th. Results showed that both companies disclosed little about policies and practices affecting users' freedom of expression and privacy next to most other internet companies evaluated. </p>
-<p><img src="/assets/graphics/content/russia12.png" alt="russia1" title="russia1" align="right" /></p>
+<p><img src="{{ site.baseurl }}/assets/graphics/content/russia12.png" alt="russia1" title="russia1" align="right" /></p>
 <p><strong>While both companies failed to meet the basic benchmarks of transparency, variations in levels of disclosure indicate there is room for Russian internet companies to make different policy choices that reflect different levels of respect for users' rights, even within the country's restrictive internet environment. </strong></p>
 <h3>Legal constraints</h3>
 <p>While the Russian constitution guarantees freedom of expression, in practice that right is increasingly curtailed, <a href="https://russiadigitalrights.org/">especially online</a><a href="https://freedomhouse.org/report/freedom-net/2016/russia">.</a> However, unlike in <a href="https://rankingdigitalrights.org/index2017/findings/china">China</a>, in Russia there is relatively limited blocking of foreign platforms, with the notable exception of LinkedIn, which has been blocked since late 2016, <a href="http://www.reuters.com/article/us-russia-linkedin-idUSKBN13C0RN">in part due to non-compliance with Russia's data localization law</a>. Foreign companies like Facebook, Google, and Twitter have access to the Russian market, though it remains to be seen how long that will last, given that Russia's media regulator<a href="https://www.article19.org/resources.php/resource/38337/en/russia:-increased-internet-regulation-poses-serious-challenge-to-online-expression"> Roskomnadzor</a> stated plans to start enforcing the data localization law against international companies this year.</p>
 <p>Still, in the past few years, authorities have <a href="https://rg.ru/2014/08/06/informacia-site-dok.html">tightened control</a> over the internet, in a broader crackdown on expression both on and offline. Growing intermediary liability, mass surveillance (<a href="http://www.worldpolicy.org/journal/fall2013/Russia-surveillance">SORM</a>), and a pattern of physical and digital intimidation and retribution against regime critics and independent civil society all contribute to an environment that severely limits companies from making any public commitments to human rights. </p>
-<p><img src="/assets/graphics/content/Yandex.png" alt="russiay" title="russiay" /></p>
-<p><img src="/assets/graphics/content/mailru.png" alt="russiam" title="russiam" /></p>
+<p><img src="{{ site.baseurl }}/assets/graphics/content/Yandex.png" alt="russiay" title="russiay" /></p>
+<p><img src="{{ site.baseurl }}/assets/graphics/content/mailru.png" alt="russiam" title="russiam" /></p>
 <p>Differences in scores between Mail.Ru and Yandex shed light on specific areas in which Russian companies can reasonably be held responsible despite their challenging home environment.</p>
 <h3>Governance </h3>
 <p>The limitations created by the Russian political and regulatory environment are reflected in low scores for both Mail.Ru and Yandex in the Index's <a href="https://rankingdigitalrights.org/2017-indicators/#G">Governance</a> category, which measures if and how companies institutionalize commitments to freedom of expression and privacy, as codified in various international human rights instruments, including in the <a href="http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf">U.N. Guiding Principles on Business and Human Rights</a>.</p>
@@ -44,7 +44,7 @@ published: true
 </li>
 </ul>
 <p></p>
-<img src="/assets/graphics/content/Privacy PNG-08.jpg" alt="russiap" title="russiap" />
+<img src="{{ site.baseurl }}/assets/graphics/content/Privacy PNG-08.jpg" alt="russiap" title="russiap" />
 <h3>Privacy</h3>
 <p>The biggest difference between the Russian internet companies evaluated was found in the <a href="https://rankingdigitalrights.org/2017-indicators/#P">Privacy</a> category, where Yandex outscored Mail.Ru by more than 10 percentage points. Differences in scores highlight the following areas for improvement:</p>
 <ul>

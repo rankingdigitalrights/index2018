@@ -52,4 +52,4 @@ For more about the Open Technology Institute, please visit [https://www.newameri
 
 This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/).
 
-<img src="/assets/graphics/content/ccby.png" alt="ccby" title="ccby" align="left" style="width:150px;height:auto;" />
+<img src="{{ site.baseurl }}/assets/graphics/content/ccby.png" alt="ccby" title="ccby" align="left" style="width:150px;height:auto;" />

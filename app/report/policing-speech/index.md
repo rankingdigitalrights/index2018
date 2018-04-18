@@ -51,7 +51,7 @@ The 2018 Index therefore includes six indicators measuring corporate transparenc
 
 While companies continued to make steady improvements to transparency reporting, particularly about government requests, there is still much room for improvement. Results of the 2018 Index show limited overall improvement in the past year by internet and mobile ecosystem companies in publicly disclosing data and other information about all the ways that content is policed and managed on their platforms (Figure 14).[[62]](#footnotes)
 
-<img src="/assets/graphics/content/Figure 14. How transparent are internet and mobile ecosystem companies about policing content (F3-F8)_   2.png" alt="figure14" title="figure14" align="left" />
+<img src="{{ site.baseurl }}/assets/graphics/content/Figure 14. How transparent are internet and mobile ecosystem companies about policing content (F3-F8)_   2.png" alt="figure14" title="figure14" align="left" />
 
 As Figure 14 illustrates, most companies disclosed something about what content or activities are prohibited (F3), while few revealed anything about actions they take to enforce these rules (F4). Two companies—**Facebook** and **Tencent**—improved their disclosure of terms of service enforcement (F3), but companies across the board failed to provide enough information about these practices for users to understand what actions companies take to enforce their terms of service or how these actions affect users (see Section 6.2).
 
@@ -68,7 +68,7 @@ Internet and mobile ecosystem companies have come under growing pressure from po
 
 Results of the 2018 Index show that while internet and mobile ecosystem companies disclosed at least some information about what types of content or activities are prohibited by their terms of service, most disclosed nothing about the actions they took to enforce these rules (Figure 15).
 
-<img src="/assets/graphics/content/Figure 15. How transparent are internet and mobile ecosystem companies about their rules and how they are enforced (F3, F4)_.png" alt="figure15" title="figure15" align="left" />
+<img src="{{ site.baseurl }}/assets/graphics/content/Figure 15. How transparent are internet and mobile ecosystem companies about their rules and how they are enforced (F3, F4)_.png" alt="figure15" title="figure15" align="left" />
 
 - **Facebook** disclosed more than the rest of its peers about what content and activities it prohibits and its processes for enforcing these rules (F3). The company improved its disclosure of methods it uses to identify prohibited content, including user-flagging mechanisms, studying activity patterns, the use of artificial intelligence, and partnerships within industry and with civil society and governments.[[63]](#footnotes) These improvements since the 2017 Index put the company ahead of Microsoft and Kakao, which previously received the highest scores on F3.
 
@@ -119,7 +119,7 @@ internet and mobile ecosystem companies receive a growing number of external req
 
 Although a handful of companies made notable improvements to their transparency reporting, as Figure 16 illustrates most companies in the 2018 Index failed to disclose sufficient information about how they handle government and private requests to censor content and restrict user access (see Section 6.1).
 
-<img src="/assets/graphics/content/Figure 16. How transparent are imc companies about handling external demands to censor content and restrict user accounts (F5-F7).png" alt="figure16" title="figure16" align="left" />
+<img src="{{ site.baseurl }}/assets/graphics/content/Figure 16. How transparent are imc companies about handling external demands to censor content and restrict user accounts (F5-F7).png" alt="figure16" title="figure16" align="left" />
 
 In general, and as was also the case in the 2017 Index, most companies tended to do better at disclosing about their processes for responding to government or private requests to remove content or restrict accounts (F5), than they did at reporting actual data about the number and type of government and private requests they received and with which they complied (F6, F7).
 

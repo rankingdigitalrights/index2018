@@ -65,7 +65,7 @@ Most companies evaluated in the Index made progress over the last year: 17 of th
 
 **Apple saw the greatest score increase among internet and mobile ecosystem companies, gaining eight percentage points in the 2018 Index.** Much of this was due to improved transparency reporting. Apple also published information about policies and practices that were already known by industry insiders and experts but had not been disclosed on the official company website. Nonetheless, Apple still lagged behind most of its peers due to weak disclosure of corporate governance and accountability mechanisms, as well as poor disclosure of policies affecting freedom of expression.
 
-<img src="/assets/graphics/content/Figure 2. Year-on-year score changes (2017 to 2018).png" alt="figure2" title="figure2" align="left" />
+<img src="{{ site.baseurl }}/assets/graphics/content/Figure 2. Year-on-year score changes (2017 to 2018).png" alt="figure2" title="figure2" align="left" />
 
 **Baidu and Tencent, the Chinese internet companies in the Index, both made meaningful improvements.** Baidu made notable improvements to its disclosure of what user information it collects, shares, and retains. Tencent (which kept its substantial lead over Baidu) also made improvements to its disclosure of privacy, security, and terms of service policies. In the 2017 Index, we published an analysis of the Chinese company results and identified areas where these companies can improve even within their home country’s challenging regulatory and political environment.[[18]](#footnotes) The 2018 Index results showed that Chinese companies can and indeed do compete with one another to show respect for users’ rights in areas that do not involve government censorship and surveillance requirements.
 
@@ -85,7 +85,7 @@ Strong governance and oversight are vital if companies are to anticipate and mit
 
 The Governance category of the Index evaluates whether companies demonstrate that they have processes and mechanisms in place to ensure that commitments to respect human rights, specifically freedom of expression and privacy, are made and implemented across their global business operations. In order to perform well in this section, a company’s disclosed commitments and measures taken to implement those commitments should at least follow, and ideally surpass, the UN Guiding Principles on Business and Human Rights[[19]](#footnotes) and other industry-specific human rights standards focused on freedom of expression and privacy such as the Global Network Initiative Principles.[[20]](#footnotes) Specifically, measures should include board and corporate-level oversight, internal accountability mechanisms, risk assessment, and grievance mechanisms.
 
-<img src="/assets/graphics/content/Figure 3. Governance scores.png" alt="figure3" title="figure3" align="left" />
+<img src="{{ site.baseurl }}/assets/graphics/content/Figure 3. Governance scores.png" alt="figure3" title="figure3" align="left" />
 
 Companies with governance scores of higher than 70 percent were all members of the Global Network Initiative (GNI), a multistakeholder initiative focused on upholding principles of freedom of expression and privacy in relation to government requests. GNI member companies commit to a set of principles and Implementation Guidelines, which include due diligence processes as well as transparency and accountability mechanisms.[[21]](#footnotes) GNI also requires members to undergo an independent third-party assessment to verify whether they are implementing commitments in a satisfactory manner. The assessment results must then be approved by a multi-stakeholder governing board that includes human rights organizations, responsible investors, and academics, in addition to company representatives.
 
@@ -99,7 +99,7 @@ Companies with the most improved governance scores were **Telefónica**, **Orang
 
 The greatest disparity in governance scores between GNI and non-GNI companies could be seen on Indicator G4. This indicator examines whether companies carry out regular, comprehensive, and credible due diligence, such as human rights impact assessments, to identify how all aspects of their business affect freedom of expression and privacy and to mitigate any risks posed by those impacts. There is a precipitous drop in disclosure from the top seven companies on this indicator, all GNI members who have made due diligence commitments, and Apple, the highest scoring non-GNI member with only 17 percent.
 
-<img src="/assets/graphics/content/Figure 4. Comprehensiveness of human rights impact assessments (G4).png" alt="figure4" title="figure4" align="left" />
+<img src="{{ site.baseurl }}/assets/graphics/content/Figure 4. Comprehensiveness of human rights impact assessments (G4).png" alt="figure4" title="figure4" align="left" />
 
 Human rights impact assessments (HRIAs) are a systematic approach to due diligence. A company carries out these assessments to determine how its products, services, and business practices affect the freedom of expression and privacy of its users. Such assessments should be carried out regularly. More targeted assessments should also be conducted to inform decisions related to new products, features, and entry into new markets.
 
