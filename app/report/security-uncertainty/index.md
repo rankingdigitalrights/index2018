@@ -25,7 +25,7 @@ footnotes:
 
 # 4. Security uncertainty
 
-**Companies lack transparency about what they do to protect users’ data, which means people don’t know the security, privacy, and human rights risks they face when using a particular platform or service.**
+**Companies lack transparency about what they do to safeguard users’ data, which means people don’t know the security, privacy, and human rights risks they face when using a particular platform or service.**
 
 People entrust internet, mobile, and telecommunications companies with enormous amounts of personal information. Weak security safeguards can lead to theft or malicious exposure of this information. Companies that wish to earn and maintain user trust—and mitigate material risks to their business—should demonstrate a commitment to keeping user information secure.
 
@@ -41,7 +41,7 @@ Results of the 2017 Index showed that companies tended to communicate more about
 
 Despite the rise in data breaches reported in the media, and growing concerns about how companies keep the vast amount of data they hold on users secure, companies across the board lacked clear and consistent disclosure of steps they take to safeguard data that they collect and store. While internet and mobile ecosystem companies disclosed more than telecommunications companies about their internal security measures, all companies fell short of providing enough information for users to know what policies and practices are in place to keep their information secure (Figure 5).
 
-<img src="{{ site.baseurl }}/assets/graphics/content/Figure 5. How transparent are companies are about their internal security measures (P13-P15)_.png" alt="figure5" title="figure5" align="left" />
+<img src="/assets/graphics/content/Figure 5. How transparent are companies are about their internal security measures (P13-P15)_.png" alt="figure5" title="figure5" align="left" />
 
 The 2018 Index data revealed the following trends:
 
@@ -59,7 +59,7 @@ The 2018 Index data revealed the following trends:
 
 Data breaches not only expose users to financial crimes committed by malicious hackers and cybercriminals, but other actors can exploit such breaches against at-risk communities. For example, a data breach affecting an email-service provider can expose the communications and sources of human rights activists and investigative journalists to government authorities in repressive regimes.
 
-Companies should immediately respond to data breaches when they occur. Indicator [P15](/indicators/P15) evaluates if companies disclose a commitment to notify relevant authorities and potentially affected users in the event of a breach, and if they clearly disclose what kinds of steps they will take to address the impact on users.[[37]](#footnotes) Notifying the authorities without undue delay allows officials to immediately investigate a breach, find the perpetrators, and bring them to justice. Notifying victims of breaches can help them take the necessary precautions to protect themselves, such as by changing their passwords, warning their contacts, and securing financial accounts.
+Companies should immediately respond to data breaches when they occur. [Indicator P15](/indicators/P15) evaluates if companies disclose a commitment to notify relevant authorities and potentially affected users in the event of a breach, and if they clearly disclose what kinds of steps they will take to address the impact on users.[[37]](#footnotes) Notifying the authorities without undue delay allows officials to immediately investigate a breach, find the perpetrators, and bring them to justice. Notifying victims of breaches can help them take the necessary precautions to protect themselves, such as by changing their passwords, warning their contacts, and securing financial accounts.
 
 However, while many jurisdictions legally require companies to notify relevant authorities or take certain steps to mitigate the damage of data breaches, companies may not necessarily be legally compelled to disclose this information to the public or affected individuals. For example, telecommunications companies in India are required to notify authorities of a data breach,[[38]](#footnotes) but there is no regulatory requirement to notify victims.
 
@@ -76,7 +76,7 @@ Even if there is a legal requirement to notify affected individuals, the exact d
 
 Since the 2017 Index there has been only minor progress. [Apple](/companies/apple) joined [AT&T](/companies/att), [Telefónica](/companies/telefonica), and [Vodafone](/companies/vodafone) as the only companies to disclose any information about their policies and practices for responding to data breaches.
 
-<img src="{{ site.baseurl }}/assets/graphics/content/Figure 6. How transparent are companies about policies for responding to data breaches (P15)_.png" alt="figure6" title="figure6" align="left" />
+<img src="/assets/graphics/content/Figure 6. How transparent are companies about policies for responding to data breaches (P15)_.png" alt="figure6" title="figure6" align="left" />
 
 As Figure 6 illustrates, most of the 22 companies in the Index failed to provide basic information about their policies for responding to data breaches:
 
@@ -96,7 +96,7 @@ Good internal security practices therefore include restricting and monitoring un
 
 Indicator P13 evaluates company disclosure of security oversight policies and practices for safeguarding user data.[[41]](#footnotes) We expect companies to disclose basic information on what steps they take internally to keep user information secure, including if they limit and monitor employee access to user information, and whether they conduct internal and external security audits on products and services. While we do not expect companies to disclose sensitive information that would undermine the security of these systems, or that would expose them to attacks, we do expect each company to disclose basic information about how these oversight systems function, so it is clear that the company has strong security processes in place.
 
-<img src="{{ site.baseurl }}/assets/graphics/content/Figure 7. How transparent are companies are about their security oversight processes (P13)_.png" alt="figure7" title="figure7" align="left" />
+<img src="/assets/graphics/content/Figure 7. How transparent are companies are about their security oversight processes (P13)_.png" alt="figure7" title="figure7" align="left" />
 
 Figure 7 illustrates a wide range in companies’ disclosure about security oversight processes. Notably:
 
@@ -118,7 +118,7 @@ Indicator P14 evaluates company disclosure of how they address security vulnerab
 
 As Figure 8 illustrates, all companies lacked clear disclosure of how they address security vulnerabilities.
 
-<img src="{{ site.baseurl }}/assets/graphics/content/Figure 8. How transparent are companies about their policies for addressing security vulnerabilities (P14)_.png" alt="figure8" title="figure8" align="left" />
+<img src="/assets/graphics/content/Figure 8. How transparent are companies about their policies for addressing security vulnerabilities (P14)_.png" alt="figure8" title="figure8" align="left" />
 
 Among internet and mobile ecosystem companies, **Facebook, Yandex,** and **Tencent** disclosed more information about how they address security vulnerabilities than their peers, although all of these companies still fell short. **Google** disclosed a security vulnerabilities reward program, but did not disclose a timeframe for responding to reports submitted for Gmail, Search, or YouTube, and did not commit to not pursue legal action against security researchers. It also failed to commit to provide security updates for its Android operating system for at least five years after release. Notably, **Apple** revealed less than Chinese internet company **Baidu**—one of the least transparent companies in the Index overall—about its approach to handling vulnerabilities it discovers.
 

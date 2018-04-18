@@ -18,7 +18,7 @@ rank: 10
 key_findings:
   - Tencent disclosed little about policies affecting users’ freedom of expression and privacy, but was more transparent than Baidu, the other Chinese internet company evaluated.
   - Tencent received one of the lowest privacy scores in the Index, although it improved its disclosure of how it handles user information for WeChat.
-  - The company tied with Facebook and Yandex for the highest score for its disclosure of how it addresses security vulnerabilities, but lacked transparency about other internal security measures it takes to keep user information secure.
+  - The company tied with Facebook and Yandex for the highest score for its disclosure of how it addresses security vulnerabilities, but lacked transparency about other internal measures it takes to keep user information secure.
 
 services_evaluated:
   - item:

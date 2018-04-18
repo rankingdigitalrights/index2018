@@ -13,7 +13,7 @@ footnotes:
 
 ---
 
-# 9. Questions for investors to ask
+# 9. Questions for investors
 
 The Ranking Digital Rights Corporate Accountability Index data and methodology offer a useful framework for investors to evaluate whether companies have made best efforts to mitigate risks to their business by working to anticipate and reduce potential harms to those who use their technologies, platforms, and services. Such risks are not limited to traditional “cybersecurity” threats related to hacking and data breaches. Shareholder value is also put at risk when companies fail to identify and mitigate broader risks to user privacy across their business operations, or fail to anticipate and address content-related issues spanning from hate speech and disinformation to government censorship and network shutdowns.[[107]](#footnotes)
 

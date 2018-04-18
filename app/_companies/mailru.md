@@ -16,7 +16,7 @@ telco: false
 rank: 11
 
 key_findings:
-  - Mail.Ru disclosed less than most other internet and mobile ecosystem companies in the Index, including Yandex, the other Russian internet company evaluated, about policies affecting users’ freedom of expression and privacy.
+  - Mail.Ru disclosed less than most other internet and mobile ecosystem companies about policies affecting users’ freedom of expression and privacy.
   - The company disclosed almost nothing about how it handles government demands to remove content or hand over user data, although it is not illegal to disclose at least some information about its processes for responding to these types of requests.
   - The company lacked transparency about what user data it collects and shares, and for what purposes, including for the use of targeted advertising, as well as what measures it takes to keep this data secure.
 
