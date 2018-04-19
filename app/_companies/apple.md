@@ -9,7 +9,7 @@ company_type: Internet and Mobile Ecosystem Companies
 display: Apple, Inc.
 headquarters: USA
 link: https://www.apple.com
-download: https://www.apple.com
+download: {{ site.baseurl }}/assets/static/download/Apple.pdf
 
 telco: false
 
@@ -22,15 +22,15 @@ key_findings:
 
 services_evaluated:
   - item:
-    key: messaging & voip
+    key: Messaging & VoIP
     key_href: messagingvoip
     name: iMessage
   - item:
-    key: cloud service
+    key: Cloud service
     key_href: cloudservices
     name: iCloud
   - item:
-    key: mobile ecosystem
+    key: Mobile ecosystem
     key_href: mobileeco
     name: iOS
 
