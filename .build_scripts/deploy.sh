@@ -5,7 +5,7 @@ set -e # halt script on error
 if [ $TRAVIS_PULL_REQUEST = "false" ] && [ $TRAVIS_BRANCH = ${DEPLOY_BRANCH} ]; then
   echo "Get ready, we're copying to Bluehost!"
   # SCP to Bluehost, -rp is recursive and keeps file permissions
-  scp -i rdr -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no -rp _site/* ${BLUEHOST_USER}@${BLUEHOST_PATH}
+  scp -i rdr2018 -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no -rp _site/* ${BLUEHOST_USER}@${BLUEHOST_PATH}
 else
   echo "Not a publishable branch so we're all done here"
 fi
