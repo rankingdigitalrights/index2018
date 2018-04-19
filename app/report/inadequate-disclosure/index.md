@@ -49,7 +49,7 @@ The average score for all 22 companies evaluated in the 2018 Index was just 34 p
 
 ## 3.1 The 2018 Index ranking ## {#section-31}
 
-![figure1](/assets/graphics/content/Figure 1. The 2018 Corporate Accountability Index ranking.png){:height="574px" width="949px" align="left"}
+<img src="{{ site.baseurl }}/assets/graphics/content/Figure 1. The 2018 Corporate Accountability Index ranking.png" alt="figure1" title="figure1" align="left" />
 
 **Google and Microsoft kept their lead among internet and mobile ecosystem companies, although the gap is narrowing.** Google and Microsoft were the only companies in the entire Index to score more than 60 percent overall, but they made relatively few changes in the past year. These companies’ leading positions are due to the fact that they disclose more information about more policies than all other companies in the Index. Neither company led the pack on every indicator, and both had particular areas in which their poor performance stood out. Microsoft’s overall score actually declined slightly due to a reorganization of some of its information related to Skype (see Figure 2). Google underperformed on governance and ranked near the bottom on one indicator examining disclosure of what user information the company shares and with whom.
 
