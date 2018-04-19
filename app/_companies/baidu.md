@@ -9,7 +9,7 @@ company_type: Internet and Mobile Ecosystem Companies
 display: Baidu, Inc.
 headquarters: China
 link: https://www.baidu.com
-download: https://www.baidu.com
+download: h{{ site.baseurl }}/assets/static/download/Baidu.pdf
 
 telco: false
 
@@ -22,11 +22,11 @@ key_findings:
 
 services_evaluated:
   - item:
-    key: search engine
+    key: Search engine
     key_href: search
     name: Baidu Search
   - item:
-    key: cloud service
+    key: Cloud service
     key_href: cloudservices
     name: Baidu Cloud
   - item:
