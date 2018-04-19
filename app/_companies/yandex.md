@@ -9,7 +9,7 @@ company_type: Internet and Mobile Ecosystem Companies
 display: Yandex N. V.
 headquarters: Russia
 link: https://www.yandex.com
-download: https://www.yandex.com
+download: https://rankingdigitalrights.org/buildtest/_site/assets/static/download/Yandex.pdf
 
 telco: false
 
@@ -23,15 +23,15 @@ key_findings:
 
 services_evaluated:
 - item:
-  key: email
+  key: Email
   key_href: emailservice
   name: Yandex Mail
 - item:
-  key: search engine
+  key: Search engine
   key_href: search
   name: Yandex Search
 - item:
-  key: cloud service
+  key: Cloud service
   key_href: cloudservices
   name: Yandex Disk
 
