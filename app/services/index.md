@@ -154,7 +154,7 @@ services:
           service: Daum Search
         - company:
           name: Google
-          service: Search
+          service: Google Search
         - company:
           name: Baidu
           service: Baidu Search
