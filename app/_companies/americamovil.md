@@ -9,7 +9,8 @@ company_type: Telecommunications company
 display: América Móvil, S.A.B. de C.V.
 headquarters: Mexico
 link: https://www.americamovil.com
-operating: https://rankingdigitalrights.org/index2018/assets/static/download/AmericaMovil.pdf
+download: https://rankingdigitalrights.org/index2018/assets/static/download/AmericaMovil.pdf
+operating: Telcel
 
 telco: true
 
