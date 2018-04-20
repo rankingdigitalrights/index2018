@@ -104,5 +104,5 @@ summary_of_changes_privacy:
     body: Apple improved its disclosure of the number of government requests it received for content and non-content data, as well as requests received through court orders in criminal and civil cases.
   - item:
     change: positive
-    body: Apple improved its disclosure of its policies for responding to data breaches.
+    body: P15. Apple improved its disclosure of its policies for responding to data breaches.
 ---
