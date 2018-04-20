@@ -1,7 +1,7 @@
 # Ranking Digital Rights
 
 ## Overview
-Visualization page for the static build of the 2015 Ranking Digital Rights survey site.
+Development of the web app for 2018 Corporate Accountability Index. Ranking Digital Rights. 
 
 ## Gulp for building
 The gulpfile is based on the [gulp-webapp](https://github.com/yeoman/generator-gulp-webapp) yeoman generator. The build system currently supports:
@@ -22,22 +22,17 @@ There are two commands, both run via npm.
 
 ```
 app/assets/
+|		
++- Graphics / Images used in the report and small illustrated icons.  
 |
-+- scripts/: The user scripts
-|  |
-|  +- config/: configuration files (see configuration section)
-|
-+- styles/: The sass styles
-|
-+- vendor/: Any third-party script that can't be required()
-|
-+- graphics/: Images for the site divided in:
-|  |
-|  +- layout/: Images for layout elements (Ex: background images)
-|  +- meta/: Images for the meta tags (Mostly icons and facebook images)
-|  +- content/: Content image
-|
++- Scripts / 
+|	
++- Static / Json files.  
+|	
++- Styles / The sass styles
+
 ```
+
 
 ### Configurations and environment variables
 
@@ -61,6 +56,12 @@ The script build, which uses `browserify`, outputs two js files: `bundle.js` and
  - `vendor.js`, created by the `vendorBundle` task, contains all the external
    dependencies of the app: namely, all the packages you install using `npm
    install --save ...`.
+
+### Json's creation.
+
+- RDRIndex/2018data 2018 raw data
+- convert_all_csvs_to_json Improved data for parsing indicators.
+- master/csv_json_converters python converters, csv's to JSON  
 
 ## Travis for testing and deployment
 The .travis.yml file enables the usage of [Travis](http://travis.org) as a test and deployment system. In this particular case, Travis will be looking for any changes to the repo and when a change is made to the `master` branch, Travis will build the project and deploy it to the `gh-pages` branch.
