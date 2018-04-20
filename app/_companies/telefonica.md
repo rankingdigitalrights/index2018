@@ -9,6 +9,7 @@ company_type: Telecommunications company
 display: Telefónica, S.A.
 headquarters: Spain
 link: https://www.telefonica.com
+download: https://rankingdigitalrights.org/index2018/assets/static/download/Telefonica.pdf
 operating: Movistar
 
 telco: true
