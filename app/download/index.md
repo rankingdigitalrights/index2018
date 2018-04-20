@@ -18,14 +18,7 @@ intro:
  - 2017 Full data [excel]({{ site.baseurl }}/assets/static/download/RDRindex2017data.xlsx)
  - The 2017 Report [pdf]({{ site.baseurl }}/assets/static/download/RDRindex2017report.pdf)
  - 4-page highlights [pdf]({{ site.baseurl }}/assets/static/download/RDR-4pager.pdf)
- -    
-<br />
-Spanish Documents:
-
- - 4-page highlights [spanish pdf]({{ site.baseurl }}/assets/static/download/4PagerSpanish_reviewed01.pdf)
- - América Móvil [spanish pdf]({{ site.baseurl }}/assets/static/download/americamovil_sp.pdf)
- - Telefónica [spanish pdf]({{ site.baseurl }}/assets/static/download/telefonica_sp.pdf)
- -    
+ - 
 <br />
  2015 Data and Report:
 
