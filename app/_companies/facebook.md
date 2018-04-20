@@ -9,7 +9,7 @@ company_type: Internet and Mobile Ecosystem Companies
 display: Facebook, Inc.
 headquarters: USA
 link: https://facebook.com/
-download: https://www.facebook.com
+download: https://rankingdigitalrights.org/index2018/assets/static/download/Facebook.pdf
 
 telco: false
 
@@ -64,12 +64,12 @@ summary_of_changes_freedom:
     body: Facebook improved its disclosure of the methods it uses to identify content and activities that violate the company’s rules, such as inauthentic accounts and terrorist content.
   - item:
     change: positive
-    title: F4. data about terms of service enforcement
+    title: F4. Data about terms of service enforcement
     body: Facebook improved its disclosure of actions it has taken to enforce its terms of service, publishing some data on the volume and nature of content restricted for violating rules against hate speech and inauthentic accounts. 
   - item:
     change: positive
     title: F5. Process for responding to third-party requests for content or account restriction
-    body: Facebook improved its disclosure of how it responds to both government and private requests restrict content or user accounts.
+    body: Facebook improved its disclosure of how it responds to both government and private requests to restrict content or user accounts.
   - item:
     change: positive
     title: F7. Data about private requests for content or account restriction
