@@ -9,6 +9,7 @@ company_type: Telecommunications company
 display: Axiata Group Berhad
 headquarters: Malaysia
 link: https://www.axiata.com
+download: https://rankingdigitalrights.org/assets/static/download/Axiata.pdf
 operating: Celcom
 
 telco: true
