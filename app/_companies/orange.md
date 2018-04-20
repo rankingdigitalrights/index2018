@@ -9,6 +9,7 @@ company_type: Telecommunications company
 display: Orange
 headquarters: France
 link: https://www.orange.com
+download: https://rankingdigitalrights.org/index2018/assets/static/download/Orange.pdf
 operating: Orange France
 
 telco: true
@@ -22,15 +23,15 @@ key_findings:
 
 services_evaluated:
 - item:
-  key: pre-paid mobile
+  key: Pre-paid mobile
   key_href: prepostpaidmobile
   name: Orange France
 - item:
-  key: post-paid mobile
+  key: Post-paid mobile
   key_href: prepostpaidmobile
   name: Orange France
 - item:
-  key: fixed-line broadband
+  key: Fixed-line broadband
   key_href: fixedbroadband
   name: Orange France
 
