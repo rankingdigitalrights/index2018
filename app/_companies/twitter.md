@@ -9,7 +9,7 @@ company_type: Internet and Mobile Ecosystem Companies
 display: Twitter, Inc.
 headquarters: USA
 link: https://www.twitter.com
-download: https://www.twitter.com
+download: https://rankingdigitalrights.org/index2018/assets/static/download/Twitter.pdf
 
 telco: false
 
@@ -22,11 +22,11 @@ key_findings:
 
 services_evaluated:
   - item:
-    key: social networking & blog
+    key: Social networking & blog
     key_href: socialnetworkblog
     name: Twitter
   - item:
-    key: video & photo sharing
+    key: Video & photo sharing
     key_href: videophoto
     name: Periscope
 
@@ -101,6 +101,6 @@ summary_of_changes_privacy:
   - item:
     change: negative
     title: P10. Process for responding to third-party requests for user information
-    body: The company’s P10 score declined because Twitter no longer provide an example of how it implements its process to respond to private requests.
+    body: The company’s P10 score declined because Twitter no longer provides an example of how it implements its process to respond to private requests.
 
 ---
