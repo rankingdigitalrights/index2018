@@ -23,15 +23,15 @@ key_findings:
 
 services_evaluated:
 - item:
-  key: pre-paid mobile
+  key: Pre-paid mobile
   key_href: prepostpaidmobile
   name: Etisalat UAE
 - item:
-  key: post-paid mobile
+  key: Post-paid mobile
   key_href: prepostpaidmobile
   name: Etisalat UAE
 - item:
-  key: fixed-line broadband
+  key: Fixed-line broadband
   key_href: fixedbroadband
   name: Etisalat UAE
 
