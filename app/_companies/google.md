@@ -22,11 +22,11 @@ key_findings:
 
 services_evaluated:
   - item:
-    key: search engine
+    key: Search engine
     key_href: search
     name: Google Search
   - item:
-    key: email
+    key: Email
     key_href: emailservice
     name: Gmail
   - item:
@@ -34,7 +34,7 @@ services_evaluated:
     key_href: videophoto
     name: YouTube
   - item:
-    key: mobile ecosystem
+    key: Mobile ecosystem
     key_href: mobileeco
     name: Android
 
