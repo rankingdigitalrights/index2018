@@ -21,15 +21,15 @@ key_findings:
 
 services_evaluated:
   - item:
-    key: search engine
+    key: Search engine
     key_href: search
     name: Daum Search
   - item:
-    key: email
+    key: Email
     key_href: emailservice
     name: Daum Mail
   - item:
-    key: messaging & VoIP
+    key: Messaging & VoIP
     key_href: messagingvoip
     name: Kakaotalk
 
