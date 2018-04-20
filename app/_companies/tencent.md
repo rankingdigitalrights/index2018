@@ -9,7 +9,7 @@ company_type: Internet and Mobile Ecosystem Companies
 display: Tencent Holdings Limited
 headquarters: China
 link: https://www.tencent.com
-download: https://www.tencent.com
+download: https://www.rankingdigitalrights.org/index2018/assets/static/download/Tencent.pdf
 
 telco: false
 
@@ -22,15 +22,15 @@ key_findings:
 
 services_evaluated:
   - item:
-    key: social networking & blog
+    key: Social networking & blog
     key_href: socialnetworkblog
     name: QZone
   - item:
-    key: messaging & voip
+    key: Messaging & voip
     key_href: messagingvoip
     name: QQ
   - item:
-    key: messaging & voip
+    key: Messaging & voip
     key_href: messagingvoip
     name: WeChat
 
