@@ -9,7 +9,7 @@ company_type: Internet and Mobile Ecosystem Companies
 display: Samsung Electronics Co. Ltd.
 headquarters: South Korea
 link: https://www.samsung.com
-download: https://www.samsung.com
+download: https://rankingdigitalrights.org/index2018/assets/static/download/Samsung.pdf
 
 telco: false
 
@@ -23,7 +23,7 @@ key_findings:
 
 services_evaluated:
 - item:
-  key: Mobile ecosystem
+  key: mobile ecosystem
   key_href: mobileeco
   name: Samsung implementation of Android
 
@@ -59,6 +59,10 @@ summary_of_changes_freedom:
 privacy_text: "Samsung disclosed less about its policies affecting users’ privacy than most other internet and mobile ecosystem companies evaluated, other than Mail.Ru and Baidu.<br /><br /><strong>Handling of user information:</strong> Samsung disclosed less than most other internet and mobile ecosystem companies about its policies for handling user information, scoring higher on these indicators than only Yandex, Baidu, and Mail.Ru (P3-P9). The company was less clear in the 2018 Index about whether it combines user information across different services (P5). While Samsung improved its disclosure of options users have to opt-out of targeted advertising, but this suggests that targeted advertising is on by default (P7). It also failed to disclose if it tracks users across third-party websites using cookies, widgets, or other types of tracking tools (P9).<br /><br /><strong>Requests for user information:</strong> Samsung was one of three internet and mobile ecosystem companies, including Mail.Ru and Tencent, that disclosed no information about its process for responding to government or private requests for user information (P10). It did not publish any data about such requests it received or with which it complied (P11), and failed to disclose whether it notifies users when their information is requested (P12).<br /><br /><strong>Security:</strong> Samsung <a href=\"https://kp-cdn.samsungknox.com/b4d72b36cd0bc416d54f9d188ab381a1.pdf\" target=\"_blank\">disclosed</a> little about its security policies compared to its peers (P13-P18). It disclosed a bug bounty program but, like most companies, fell short of committing to refrain from prosecuting security researchers (P14). It disclosed that it receives security updates from Google for its Android operating system, but did not specify a timeframe for delivering updates to users (P14). It disclosed nothing about its policy for responding to data breaches (P15), or about what types of encryption are in place to protect user information in transit or on Samsung devices (P16)."
 
 summary_of_changes_privacy:
+  - item:
+    change: positive
+    title: P2. Changes to privacy policies
+    body: Samsung improved its disclosure of policies for directly notifying users of changes to its privacy policies. 
   - item:
     change: negative
     title: P5. Purpose for collecting and sharing user information
