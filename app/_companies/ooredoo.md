@@ -9,6 +9,7 @@ company_type: Telecommunications company
 display: Ooredoo Q.S.C.
 headquarters: Qatar
 link: https://www.ooredoo.qa/
+download: https://rankingdigitalrights.org/index2018/assets/static/download/Ooredoo.pdf
 operating: Ooredoo Qatar
 
 telco: true
@@ -22,15 +23,15 @@ key_findings:
 
 services_evaluated:
 - item:
-  key: pre-paid mobile
+  key: Pre-paid mobile
   key_href: prepostpaidmobile
   name: Ooredoo Qatar
 - item:
-  key: post-paid mobile
+  key: Post-paid mobile
   key_href: prepostpaidmobile
   name: Ooredoo Qatar
 - item:
-  key: fixed-line broadband
+  key: Fixed-line broadband
   key_href: fixedbroadband
   name: Ooredoo Qatar
 
