@@ -9,7 +9,7 @@ company_type: Internet and Mobile Ecosystem Companies
 display: Yandex N. V.
 headquarters: Russia
 link: https://www.yandex.com
-download: https://rankingdigitalrights.org/buildtest/_site/assets/static/download/Yandex.pdf
+download: https://rankingdigitalrights.org/index2018/assets/static/download/Yandex.pdf
 
 telco: false
 
