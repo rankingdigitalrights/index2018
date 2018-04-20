@@ -9,6 +9,7 @@ company_type: Telecommunications company
 display: Vodafone Group Plc
 headquarters: UK
 link: https://www.vodafone.com
+download: https://rankingdigitalrights.org/index2018/assets/static/download/Vodafone.pdf
 operating: Vodafone UK
 
 telco: true
@@ -22,15 +23,15 @@ key_findings:
 
 services_evaluated:
 - item:
-  key: pre-paid mobile
+  key: Pre-paid mobile
   key_href: prepostpaidmobile
   name: Vodafone UK
 - item:
-  key: post-paid mobile
+  key: Post-paid mobile
   key_href: prepostpaidmobile
   name: Vodafone UK
 - item:
-  key: fixed-line broadband
+  key: Fixed-line broadband
   key_href: fixedbroadband
   name: Vodafone UK
 
