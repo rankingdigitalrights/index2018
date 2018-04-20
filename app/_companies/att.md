@@ -9,6 +9,7 @@ company_type: Telecommunications company
 display: AT&T, Inc.
 headquarters: USA
 link: https://www.att.com
+download: https://rankingdigitalrights.org/index2018/assets/static/download/ATT.pdf
 
 telco: true
 
