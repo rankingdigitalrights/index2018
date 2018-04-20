@@ -9,7 +9,7 @@ company_type: Telecommunications company
 display: América Móvil, S.A.B. de C.V.
 headquarters: Mexico
 link: https://www.americamovil.com
-operating: Telcel
+operating: https://rankingdigitalrights.org/index2018/assets/static/download/AmericaMovil.pdf
 
 telco: true
 
@@ -22,11 +22,11 @@ key_findings:
 
 services_evaluated:
 - item:
-  key: pre-paid mobile
+  key: Pre-paid mobile
   key_href: prepostpaidmobile
   name: Telcel
 - item:
-  key: post-paid mobile
+  key: Post-paid mobile
   key_href: prepostpaidmobile
   name: Telcel
 
