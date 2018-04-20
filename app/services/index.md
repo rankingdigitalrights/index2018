@@ -25,7 +25,7 @@ services:
           service: Gmail
         - company:
           name: Kakao
-          service: Kakao Mail
+          service: Daum Mail
         - company:
           name: Mail.Ru
           service: Mail.Ru email
@@ -59,7 +59,7 @@ services:
           name: Etisalat
           service: Etisalat UAE
         - company:
-          name: Bharti India
+          name: Bharti Airtel
           service: Airtel India
         - company:
           name: AT&T
@@ -81,8 +81,8 @@ services:
           name: Kakao
           service: Kakao Talk
         - company:
-          name: Mail.Ru Agent
-          service: Mail.Ru
+          name: Mail.Ru
+          service: Mail.Ru Agent
         - company:
           name: Tencent
           service: WeChat
@@ -117,7 +117,7 @@ services:
           service: AT&T
         - company:
           name: Axiata
-          service: Telcel
+          service: Celcom
         - company:
           name: Bharti Airtel
           service: Airtel India
@@ -151,7 +151,7 @@ services:
           service: Bing
         - company:
           name: Kakao
-          service: Kakao Search
+          service: Daum Search
         - company:
           name: Google
           service: Search
@@ -178,8 +178,8 @@ services:
           name: Tencent
           service: QZone
         - company:
-          name: Baidu PostBar
-          service: Baidu
+          name: Baidu
+          service: Baidu Postbar
   - item:
     title: Video & photo sharing
     href: videophoto
@@ -195,9 +195,9 @@ services:
           service: Instagram
         - company:
           name: Google
-          service: Youtube
+          service: YouTube
 
-intro: "The 2018 Index ranks 22 internet, mobile, and telecommunications companies on their public commitments and disclosed policies affecting users’ freedom of expression and privacy. For each company, we selected up to four services to evaluate. For telecommunications companies, we evaluate pre- and post-paid mobile, and in most cases (when offered by the company) fixed-line broadband services. For internet and mobile companies, we evaluate up to four of the following types of service depending on what the company offers: cloud, mail, messaging and VoIP, mobile ecosystems, search engines, and social networking and blog platforms. Read more about the <a href=\"https://rankingdigitalrights.org/methodology-development/\" target=\"_blank\">methodology development</a>, <a href=\"https://rankingdigitalrights.org/2017-research-process/\" target=\"_blank\">research process</a> and how we <a href=\"https://rankingdigitalrights.org/index2018/report/2018-index-methodology/#evaluation\" target=\"_blank\">score</a> each company.
+intro: "The 2018 Index ranks 22 internet, mobile, and telecommunications companies on their public commitments and disclosed policies affecting users’ freedom of expression and privacy. For each company, we selected up to four services to evaluate. For telecommunications companies, we evaluate pre- and post-paid mobile, and in most cases (when offered by the company) fixed-line broadband services. For internet and mobile companies, we evaluate up to four of the following types of service depending on what the company offers: cloud, mail, messaging and VoIP, mobile ecosystems, search engines, and social networking and blog platforms. Read more about the <a href=\"https://rankingdigitalrights.org/methodology-development/\" target=\"_blank\">methodology development</a>, <a href=\"https://rankingdigitalrights.org/2018-research-process/\" target=\"_blank\">research process</a> and how we <a href=\"https://rankingdigitalrights.org/index2018/report/2018-index-methodology/#evaluation\" target=\"_blank\">score</a> each company.
 <br/><br/>
 To see how each service performed in comparison with those of other companies, click on a service category:"
 ---
