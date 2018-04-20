@@ -23,7 +23,7 @@ key_findings:
 
 services_evaluated:
 - item:
-  key: mobile ecosystem
+  key: Mobile ecosystem
   key_href: mobileeco
   name: Samsung implementation of Android
 
