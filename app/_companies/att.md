@@ -21,15 +21,15 @@ key_findings:
 
 services_evaluated:
 - item:
-  key: pre-paid mobile
+  key: Pre-paid mobile
   key_href: prepostpaidmobile
   name: AT&T
 - item:
-  key: post-paid mobile
+  key: Post-paid mobile
   key_href: prepostpaidmobile
   name: AT&T
 - item:
-  key: fixed-line broadband
+  key: Fixed-line broadband
   key_href: fixedbroadband
   name: AT&T
 
@@ -60,7 +60,7 @@ summary_of_changes_freedom:
   - item:
     change: positive
     title: F10. Network shutdown
-    body: The company’s improved its disclosure of how it handles network shutdown demands from governments.
+    body: The company improved its disclosure of how it handles network shutdown demands from governments.
 
 privacy_text: "AT&T was the highest-scoring telecommunications company in the Privacy category. <br /><br /><strong>Handling of user information:</strong> AT&T disclosed more than all other telecommunications companies about how it handles user information (P3-P8). Still, it did not fully disclose what types of user information it collects (P3), shares (P4), and why (P5). The company revealed even less information about how long it retains user information (P6), although it and Vodafone were the only two telecommunications companies evaluated to score any points on this indicator. The company improved its disclosure regarding the options users have to access their own user data (P8). While options to download a copy of their data had already been available for AT&T’s post-paid mobile users, the company disclosed additional options for pre-paid mobile and fixed-line broadband users to access their data. <br /><br /><strong>Requests for user information:</strong> AT&T received the highest score of all telecommunications companies for disclosure of its process for responding to and complying with government and private requests for user information (P10, P11). Like all other telecommunications companies, AT&T did not indicate whether it notifies users about requests for their information (P12). <br /><br /><strong>Security:</strong> AT&T ranked second after Vodafone for disclosure of its security policies (P13-P18). It was the only one of its peers to receive full credit for disclosure of its internal processes for ensuring that user data is secure (P13). While AT&T was one of only four companies in the entire Index to reveal any information about how it handles data breaches, its disclosure still fell short (P15)."
 
