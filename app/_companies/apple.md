@@ -9,7 +9,7 @@ company_type: Internet and Mobile Ecosystem Companies
 display: Apple, Inc.
 headquarters: USA
 link: https://www.apple.com
-download: {{ site.baseurl }}/assets/static/download/Apple.pdf
+download: https://rankingdigitalrights.org/index2018/assets/static/download/Apple.pdf
 
 telco: false
 
