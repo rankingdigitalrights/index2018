@@ -9,7 +9,7 @@ company_type: Internet and Mobile Ecosystem Companies
 display: Mail.Ru Group Limited
 headquarters: Russia
 link: http://corp.mail.ru
-download: http://corp.mail.ru
+download: http://rankingdigitalrights.org/index2018/assets/static/download/MailRu.pdf
 
 telco: false
 
