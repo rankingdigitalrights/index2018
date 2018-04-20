@@ -9,7 +9,7 @@ company_type: Internet and Mobile Ecosystem Companies
 display: Baidu, Inc.
 headquarters: China
 link: https://www.baidu.com
-download: {{ site.baseurl }}/assets/static/download/Baidu.pdf
+download: https://rankingdigitalrights.org/index2018/assets/static/download/Baidu.pdf
 
 telco: false
 
