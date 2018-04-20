@@ -22,11 +22,11 @@ key_findings:
 
 services_evaluated:
 - item:
-  key: email
+  key: Email
   key_href: emailservice
   name: Mail.Ru
 - item:
-  key: messaging & voip
+  key: Messaging & voip
   key_href: messagingvoip
   name: Mail.Ru Agent
 - item:
