@@ -22,15 +22,15 @@ key_findings:
 
 services_evaluated:
 - item:
-  key: pre-paid mobile
+  key: Pre-paid mobile
   key_href: prepostpaidmobile
   name: Movistar
 - item:
-  key: post-paid mobile
+  key: Post-paid mobile
   key_href: prepostpaidmobile
   name: Movistar
 - item:
-  key: fixed-line broadband
+  key: Fixed-line broadband
   key_href: fixedbroadband
   name: Movistar
 
@@ -85,7 +85,7 @@ summary_of_changes_freedom:
   - item:
     change: positive
     title: F10. Network shutdown
-    body: Telefónica improved its disclosure of how to responds to government shutdown orders, disclosing some of the reasons why it may reject such demands, as well as the number of such requests with which it complied in some of the countries in which it operates.
+    body: Telefónica improved its disclosure of how it responds to government shutdown orders, disclosing some of the reasons why it may reject such demands, as well as the number of such requests with which it complied in some of the countries in which it operates.
 
 privacy_text: "Telefónica ranked third out of the 10 telecommunications companies in the Privacy category, behind AT&T and Vodafone.<br /><br /><strong>Handling of user information:</strong> Telefónica Spain disclosed less than AT&T and Vodafone UK but slightly more than Orange France and América Móvil’s Telcel about how it handles user information (P3-P8). It had the highest score of all telecommunications companies on what user information it collects (P3), and for what purpose (P5), but disclosed nothing about what user information it shares (P4), for how long it retains it (P6), or whether users can obtain all of the information the company holds on them (P8). It disclosed some options for users to control what information it collects, including for the purposes of targeted advertising, but did not reveal if targeted advertising is off by default (P7).<br /><br /><strong>Requests for user information:</strong> Telefónica disclosed less than AT&T and Vodafone about how it handles government and private requests for user information (P10-P11). It improved its disclosure of its process for responding to government requests for user information by clarifying why it may reject a government request (P10). The company also <a href=\"https://www.telefonica.com/documents/153952/183394/Informe_Transparencia_Comunicaciones_Telefonica_EN.pdf/30519143-d3ab-50c3-1cb5-319a735fd9d3\" target=\"_blank\">provided more data</a> on government and private requests for user information, including the number of accounts affected (P11). Like the rest of its peers, Telefónica did not disclose a policy of notifying users if their information is requested (P12).<br /><br /><strong>Security:</strong> Telefónica Spain disclosed less than AT&T and Vodafone UK about is security policies and practices, but more than the rest of its peers (P13-P18). Although it disclosed it limits employee access to user information, it did not disclose it has systems in place to monitor this (P13). Like most telecommunications companies, the company did not disclose a bug bounty program allowing security researchers to submit vulnerabilities (P14). It received the second-highest score in the Index, after Vodafone UK, for disclosure of its processes for responding to data breaches (P15)."
 
