@@ -22,11 +22,11 @@ key_findings:
 
 services_evaluated:
 - item:
-  key: pre-paid mobile
+  key: Pre-paid mobile
   key_href: prepostpaidmobile
   name: MTN South Africa
 - item:
-  key: post-paid mobile
+  key: Post-paid mobile
   key_href: prepostpaidmobile
   name: MTN South Africa
 
@@ -59,7 +59,7 @@ privacy_text: "MTN ranked eighth out of the 10 telecommunications companies in t
 
 summary_of_changes_privacy:
   - item:
-    change: positive
+    change: negative
     title: P10. Process for responding to third-party requests for user information
     body: In the 2017 Index, MTN earned some credit on P10 for information included in its 2013 Social and Ethics report explaining the company’s process for carrying out due diligence on government and private requests for user data. That same information is not included in the 2016 Social and Ethics report, hence the company lost credit in the 2018 Index.
 ---
