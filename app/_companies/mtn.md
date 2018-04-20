@@ -9,6 +9,7 @@ company_type: Telecommunications company
 display: MTN Group Limited
 headquarters: South Africa
 link: https://www.mtn.com
+download: https://rankingdigitalrights.org/index2018/assets/static/download/MTN.pdf
 operating: MTN South Africa
 
 telco: true
