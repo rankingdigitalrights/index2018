@@ -9,7 +9,7 @@ company_type: Internet and Mobile Ecosystem Companies
 display: Oath Inc.
 headquarters: USA
 link: https://www.oath.com
-download: https://www.oath.com
+download: https://www.rankingdigitalrights.org/index2018/assets/static/download/Oath.pdf
 
 telco: false
 
@@ -22,7 +22,7 @@ key_findings:
 
 services_evaluated:
   - item:
-    key: email
+    key: Email
     key_href: emailservice
     name: Yahoo Mail
   - item:
