@@ -9,6 +9,7 @@ company_type: Telecommunications company
 display: Bharti Airtel Limited
 headquarters: India
 link: https://www.airtel.in
+download: https://rankingdigitalrights.org/index2018/assets/static/download/BhartiAirtel.pdf
 operating: Airtel India
 
 telco: true
@@ -22,15 +23,15 @@ key_findings:
 
 services_evaluated:
 - item:
-  key: pre-paid mobile
+  key: Pre-paid mobile
   key_href: prepostpaidmobile
   name: Airtel India
 - item:
-  key: post-paid mobile
+  key: Post-paid mobile
   key_href: prepostpaidmobile
   name: Airtel India
 - item:
-  key: fixed-line broadband
+  key: Fixed-line broadband
   key_href: fixedbroadband
   name: Airtel India
 
