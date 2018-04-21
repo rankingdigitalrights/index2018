@@ -63,23 +63,23 @@ For each internet and mobile ecosystem company we examined up to four services, 
 
 - **América Móvil (Mexico)** — Telcel
 
-- **AT&T (U.S.)** — AT&T Mobile, AT&T Broadband
+- **AT&T (U.S.)** — AT&T mobile, AT&T broadband
 
 - **Axiata (Malaysia)** — Celcom
 
-- **Bharti Airtel (India)** — India Airtel Mobile, India Airtel Broadband
+- **Bharti Airtel (India)** — India Airtel mobile, India Airtel broadband
 
-- **Etisalat (UAE)** — Etisalat UAE Mobile, Etisalat UAE Broadband
+- **Etisalat (UAE)** — Etisalat UAE mobile, Etisalat UAE broadband
 
-- **MTN (South Africa)** — MTN South Africa Mobile
+- **MTN (South Africa)** — MTN South Africa mobile
 
-- **Ooredoo (Qatar)** — Ooredoo Qatar Mobile, Ooredoo Qatar Broadband
+- **Ooredoo (Qatar)** — Ooredoo Qatar mobile, Ooredoo Qatar broadband
 
-- **Orange (France)** — Orange France Mobile, Orange France Broadband
+- **Orange (France)** — Orange France mobile, Orange France broadband
 
-- **Telefónica (Spain)** — Movistar Mobile, Movistar Broadband
+- **Telefónica (Spain)** — Movistar mobile, Movistar broadband
 
-- **Vodafone (UK)** — Vodafone UK Mobile, Vodafone UK Broadband
+- **Vodafone (UK)** — Vodafone UK mobile, Vodafone UK broadband
 
 
 ## 1.3. What the index measures ## {#index-measures}
@@ -102,7 +102,7 @@ For each internet and mobile ecosystem company we examined up to four services, 
 
 ## 1.4. Evaluation and scoring ## {#evaluation}
 
-**Research for the 2018 Index ran from January 13, 2017 to January 12, 2018. New information published by companies after January 12, 2018 was not evaluated for this Index.**
+**Research for the 2018 Index was based on company policies that were active between January 13, 2017 and January 12, 2018. New information published by companies after January 12, 2018 was not evaluated for this Index.**
 
 **2017 Index score adjustments:** Some company scores from 2017 were adjusted for comparison with the 2018 evaluation. Scores were adjusted at the element level, in accordance with clarified evaluation standards that were applied in the 2018 Index, or to include information not located during the 2017 Index cycle, or as a result of a re-assessment of the company’s disclosure. These adjustments did not produce changes to any company position in the 2017 rankings or to any of the key findings highlighted in the 2017 Index. Each score adjustment, including a detailed explanation of the reason for each change, is recorded in each company’s final dataset, which is publicly available for download at: [https://rankingdigitalrights.org/index2018/download/](https://rankingdigitalrights.org/index2018/download/).
 
