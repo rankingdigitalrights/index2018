@@ -45,11 +45,11 @@ Despite the rise in data breaches reported in the media, and growing concerns ab
 
 The 2018 Index data revealed the following trends:
 
-- **Few companies communicate their policies for handling data breaches.** Most companies failed to provide any information at all about how they respond to data breaches **[(P15)](/index2018/indicators/p15)**. While two of 22 companies—**[Apple](/index2018/companies/apple)** and **[Vodafone](/index2018/companies/vodafone)**—improved, and Vodafone was the only company to receive a full score on that indicator, most companies still failed to disclose even basic information about what procedures they have in place to respond to data breaches in the event that such incidents occur (see Section 4.2).
+- **Few companies communicate their policies for handling data breaches.** Most companies failed to provide any information at all about how they respond to data breaches **[(P15)](/index2018/indicators/p15)**. While two of 22 companies—**[Apple](/index2018/companies/apple)** and **[Vodafone](/index2018/companies/vodafone)**—improved, and Vodafone was the only company to receive a full score on that indicator, most companies still failed to disclose even basic information about what procedures they have in place to respond to data breaches in the event that such incidents occur (see [Section 4.2](#section-42)).
 
-- **Companies do not communicate enough information about security oversight practices.** Data showed that companies lacked transparency about their security oversight procedures, including whether they limit employee access to user information. While all companies tended to disclose some information about their oversight procedures, most still fell short of clearly communicating to users what steps they take to keep their information secure **[(P13)](/index2018/indicators/P13)** (see Section 4.3).
+- **Companies do not communicate enough information about security oversight practices.** Data showed that companies lacked transparency about their security oversight procedures, including whether they limit employee access to user information. While all companies tended to disclose some information about their oversight procedures, most still fell short of clearly communicating to users what steps they take to keep their information secure **[(P13)](/index2018/indicators/P13)** (see [Section 4.3](#section-43).
 
-- Nonetheless, five companies—**[Airtel India (Bharti Airtel)](/index2018/companies/bhartiairtel), [Celcom (Axiata)](/index2018/companies/axiata), [Etisalat UAE](/index2018/companies/etisalat), [Orange France](/index2018/companies/orange),** and **[Tencent](/index2018/companies/tencent)**—improved their disclosure of security oversight policies and practices **[(P13)](/index2018/indicators/p13)**. Celcom (Axiata) and Orange France both made clearer commitments to conduct security audits, and Airtel India (Bharti Airtel) and Etisalat UAE published more detailed information about steps they take to limit and monitor employee access to user information. Tencent also clarified how the company limits employee access to WeChat user information, though it did not disclose any mechanisms in place to ensure these policies are enforced.
+Nonetheless, five companies—**[Airtel India (Bharti Airtel)](/index2018/companies/bhartiairtel), [Celcom (Axiata)](/index2018/companies/axiata), [Etisalat UAE](/index2018/companies/etisalat), [Orange France](/index2018/companies/orange),** and **[Tencent](/index2018/companies/tencent)**—improved their disclosure of security oversight policies and practices **[(P13)](/index2018/indicators/p13)**. Celcom (Axiata) and Orange France both made clearer commitments to conduct security audits, and Airtel India (Bharti Airtel) and Etisalat UAE published more detailed information about steps they take to limit and monitor employee access to user information. Tencent also clarified how the company limits employee access to WeChat user information, though it did not disclose any mechanisms in place to ensure these policies are enforced.
 
 - **Companies lacked clarity about how they handle security vulnerabilities.** While internet and mobile ecosystem companies were more transparent than telecommunications companies about their processes for addressing security vulnerabilities, all companies lacked clarity about their policies and processes **[(P14)](/index2018/indicators/p14)**. No company made any improvements to their disclosure of their approaches to dealing with security vulnerabilities in the 2018 Index (see [Section 4.4](/index2018/report/security-uncertainty#section-44)).
 
@@ -66,12 +66,15 @@ However, while many jurisdictions legally require companies to notify relevant a
 Even if there is a legal requirement to notify affected individuals, the exact definition of “affected individuals” can also vary significantly in different jurisdictions. However, regardless of whether the law is clear or comprehensive, companies that respect users’ rights should clearly disclose when and how they will notify individuals who have been affected, or have likely been affected, by a data breach.
 
 > **Communicating about data breaches: What do we expect companies to disclose?**
+>                  
 >**[Indicator P15](index2018/companies/p15)** contains three elements evaluating company disclosure of policies for responding to and communicating about data breaches.
+>              
 > - **Element 1: Does the company clearly disclose that it will notify the relevant authorities without undue delay when a data breach occurs?** Legally, companies are often required to notify the relevant authorities when a data breach occurs. This element does not focus on whether companies disclose the specifics of which authorities they will notify, since this may vary from jurisdiction to jurisdiction, but rather whether companies commit to notify the designated authority as soon as possible.
 >
 > - **Element 2: Does the company clearly disclose its process for notifying data subjects who might be affected by a data breach?** Companies should commit to notifying affected individuals as soon as possible and fully disclose what information of theirs was exposed.
 >
 > - **Element 3: Does the company clearly disclose what kinds of steps it will take to address the impact of a data breach on its users?** Although a company’s specific response will vary depending on the nature of the breach, the company should provide examples of what kinds of steps it will take internally to secure its data and commit to notifying affected individuals of steps they can take to mitigate risk or damage.
+>                 
 > See 2018 Index methodology at: [https://rankingdigitalrights.org/2018-indicators/#P15](https://rankingdigitalrights.org/2018-indicators/#P15).
 
 Since the 2017 Index there has been only minor progress. **[Apple](/index2018/companies/apple)** joined **[AT&T](/index2018/companies/att)**, **[Telefónica](/index2018/companies/telefonica)**, and **[Vodafone](/index2018/companies/vodafone)** as the only companies to disclose any information about their policies and practices for responding to data breaches.
@@ -136,11 +139,11 @@ By outlining clear processes for researchers to submit security vulnerabilities,
 
 > ## What is a bug bounty program?
 > A bug bounty program is one example of a security vulnerability reporting mechanism that allows security researchers to submit “bugs,” or code errors, with an emphasis on reporting security vulnerabilities that can be exploited. Bug bounty programs recognize and reward researchers for submitting these vulnerabilities, including with financial compensation.
-> 
+>                          
 > In the absence of a clearly defined vulnerability reporting mechanism such as a bug bounty program, individuals may not know how, or if, they can report these issues to the company. This is a security liability: vulnerabilities can remain unpatched and can be exploited if discovered by malicious actors. Lack of a clear policy could also expose individuals to criminal charges of hacking or computer crimes simply for making a good faith effort to report security issues.[[46]](#footnotes)
->
+>                                    
 > Lawsuits against journalists and security researchers for reporting vulnerabilities can also deter individuals from reporting security vulnerabilities to a company for fear of > being sued or criminally charged.[[47]](#footnotes) If a company does not commit not to pursue legal charges, individuals may be discouraged from notifying a company of vulnerabilities, even through its disclosed reporting mechanism.
->
+>                                             
 > **Further reading:**
 Andi Wilson, Ross Schulman, Kevin Bankston, and Trey Herr, “Bugs In the System: A Primer on the Software Vulnerability Ecosystem and its Policy Implications,” Open Technology Institute, July 2016, [https://na-production.s3.amazonaws.com/documents/Bugs-in-the-System-Final.pdf](https://na-production.s3.amazonaws.com/documents/Bugs-in-the-System-Final.pdf).
 
