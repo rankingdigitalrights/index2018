@@ -28,7 +28,7 @@ Such laws should:
 
   - **Require companies to clearly disclose to users the full lifecycle of their information,** from collection, to use, to sharing, to retention and deletion.
 
-  - **Require companies to give users more control over the collection and sharing of their information,** and to clearly disclose how users can exercise such control.  
+  - **Require companies to give users more control over the collection and sharing of their information,** and to clearly disclose how users can exercise such control.
 
   - **Require companies to implement and disclose appropriate policies and procedures for handling data breaches,** and to notify users when their data has been compromised.
 
