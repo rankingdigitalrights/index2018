@@ -7,7 +7,7 @@ prev:
   text: Telecommunications disconnect
 next:
   href: questions-for-investors-to-ask
-  text: Questions for investors to ask
+  text: Questions for investors
 footnotes:
   <p class="footnotes"><span>[101]</span> “Working Group 3- Privacy and Transparency” (Freedom Online Coalition, November 2015), <a href="https://www.freedomonlinecoalition.com/wp-content/uploads/2015/10/FOC-WG3-Privacy-and-Transparency-Online-Report-November-2015.pdf">https://www.freedomonlinecoalition.com/wp-content/uploads/2015/10/FOC-WG3-Privacy-and-Transparency-Online-Report-November-2015.pdf</a>.</p>
   <p class="footnotes"><span>[102]</span> “Universal Declaration of Human Rights” (United Nations, December 10, 1948), <a href="http://www.un.org/en/universal-declaration-human-rights/">http://www.un.org/en/universal-declaration-human-rights/</a>.</p>
