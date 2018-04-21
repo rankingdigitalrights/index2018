@@ -1,4 +1,4 @@
-/index2018/indicators---
+indicators---
 layout: narrative
 header: Narrative
 
