@@ -41,7 +41,7 @@ Yet 2018 Index results show that users remain largely in the dark about what inf
 
 > **What do we mean by “user information”?**
 >
-> RDR defines “[user information](https://rankingdigitalrights.org/2017-indicators/#userinformation)” as any information that identifies a user’s activities, including (but not limited to) personal correspondence, user-generated content, account preferences and settings, log and access data, data about a user’s activities or preferences collected from third parties, and all forms of metadata. Companies might have their own definition of user information, which can differ from RDR’s definition of user information and be narrower in scope. For example, a company may define user information as the demographic information a user voluntarily provides upon signing up for a service (e.g., age, gender), but not include automatically collected metadata or other types of information. See the 2018 Index glossary: [https://rankingdigitalrights.org/2018-indicators/#userinformation](https://rankingdigitalrights.org/2018-indicators/#userinformation).
+> RDR defines “[user information](https://rankingdigitalrights.org/2018-indicators/#userinformation)” as any information that identifies a user’s activities, including (but not limited to) personal correspondence, user-generated content, account preferences and settings, log and access data, data about a user’s activities or preferences collected from third parties, and all forms of metadata. Companies might have their own definition of user information, which can differ from RDR’s definition of user information and be narrower in scope. For example, a company may define user information as the demographic information a user voluntarily provides upon signing up for a service (e.g., age, gender), but not include automatically collected metadata or other types of information. See the 2018 Index glossary: [https://rankingdigitalrights.org/2018-indicators/#userinformation](https://rankingdigitalrights.org/2018-indicators/#userinformation).
 
 ## 5.1. Transparency remains inadequate ## {#section-51}
 
@@ -51,7 +51,7 @@ As Figure 9 illustrates, internet and mobile ecosystem companies have taken few 
 
 As we found in the 2017 Index, companies in the 2018 index still tended to disclose more about what information they collect, and less about how they manage it. Companies in the 2018 index did not sufficiently disclose what user information they share and with whom, for what purposes they collect and share this information, for how long they retain it, and what options users have to control whether information about them is collected and shared.[[51]](#footnotes)
 
-While some companies made improvements, all internet and mobile ecosystem companies evaluated still lacked sufficient information about what data they collect **[(P3)](/indicators/p3)** and share **[(P4)](/indicators/p4)**, for what purpose they collect and share it **[(P5)](/indicators/p5)**, and for how long they retain it **[(P6)](/indicators/p6)** (see Section 5.2). Notably, internet and mobile ecosystem companies disclosed little about their data retention policies. While in some jurisdictions they are legally required to retain user information for specific periods, companies should disclose what that time frame is and whether they retain user information for longer than is legally required. Companies also lacked sufficient information about how users can control what companies collect, and targeted advertising continues to be the default setting **[(P7)](/indicators/p7)** (see Section 5.3).
+While some companies made improvements, all internet and mobile ecosystem companies evaluated still lacked sufficient information about what data they collect **[(P3)](/indicators/p3)** and share **[(P4)](/indicators/p4)**, for what purpose they collect and share it **[(P5)](/indicators/p5)**, and for how long they retain it **[(P6)](/indicators/p6)** (see [Section 5.2](/report/privacy-failures#section-52)). Notably, internet and mobile ecosystem companies disclosed little about their data retention policies. While in some jurisdictions they are legally required to retain user information for specific periods, companies should disclose what that time frame is and whether they retain user information for longer than is legally required. Companies also lacked sufficient information about how users can control what companies collect, and targeted advertising continues to be the default setting **[(P7)](/indicators/p7)** (see [Section 5.3](/report/privacy-failures#section-53)).
 
 <img src="{{ site.baseurl }}/assets/graphics/content/Figure 9. How transparent are internet and mobile ecosystem companies about how they handle user information_.png" alt="figure9" title="figure9" align="left" />
 
@@ -97,20 +97,6 @@ Recent examples of harmful content and misinformation targeted at social media u
 
 [Indicator P7](/indicators/p7) evaluates company disclosure of what options users have to control what information the company collects on them and uses, including for the purposes of targeted advertising.[[55]](#footnotes) We expect companies to allow users to control what information is collected about them, which also means enabling users to delete specific types of information without requiring them to delete their entire account. In addition, we expect companies to give users options to control how their information is used for advertising and to disclose that targeted advertising is off by default.
 
-> **Options users have to control what is collected about them**
->
-> [Indicator P7](/indicators/p7) contains four elements measuring how transparent companies are about giving users options to control what information about them is collected and used, including for targeted advertising.
->
-> - **Element 1: Does the company clearly disclose whether users can control the company’s collection of this user information?** Companies should allow users to control what information about them is collected.
->
-> - **Element 2: Does the company clearly disclose whether users can delete this user information?** Giving users control over what information about them is collected about them means companies should give users the ability to delete specific types of user information.
->
-> - **Element 3: Does the company clearly disclose that it provides users with options to control how their user information is used for targeted advertising?** Companies should clearly disclose whether users have options to control how their information is being used for these purposes.
->
-> - **Element 4: Does the company clearly disclose that targeted advertising is off by default?** Companies should clearly disclose that targeting advertising is off by default.
->
-> See the 2018 Index at: [https://rankingdigitalrights.org/2018-indicators/#P7](https://rankingdigitalrights.org/2018-indicators/#P7).
-
 The 2018 Index data showed that most companies failed to disclose clear options for users to control what data about them is collected and how it is used for the purposes of advertising (Figure 12). While a majority of internet and mobile ecosystem companies improved their disclosure on this indicator, disclosure of these options remained insufficient.
 
 - Seven companies—**[Apple](/companies/apple)**, **[Baidu](/companies/baidu)**, **[Google](/companies/google)**, **[Kakao](/companies/kakao)**, **[Samsung](/companies/samsung)**, **[Tencent](/companies/tencent)**, and **[Oath](/companies/oath)**—improved their disclosure of options users have to control their information, which includes options to control if and how their data is collected for targeted advertising [(P7)](/indicators/p7) (See company report cards for details.)
@@ -128,24 +114,22 @@ The 2018 Index data showed that most companies failed to disclose clear options 
 In order to provide users with free services, many internet and mobile ecosystem companies monetize the information they hold about their users. Advertising technologies allow companies and third parties to target users based on profiles derived from this data. Given the significant privacy implications of targeted advertising, companies should provide users with control over how their information is used for targeted advertising. Moreover, companies should not assume that all users have an understanding of the privacy concerns resulting from these advertising practices. Therefore, targeted advertising should be *off* by default.
 
 > **What is targeted advertising?**
->
+>  
 > Targeted advertising, also known as “interest-based advertising” or “personalized advertising,” refers to the practice of collecting a range of data about individual users—including demographic data, browsing history and preferences, and location information—with the goal of personalizing the ads users see online. Typically, targeted advertising relies on vast data collection practices, which can involve tracking users’ activities across the internet using cookies, widgets, and other tracking tools, in order to create detailed user profiles.
->
+> 
 > **What do we mean by opting out versus opting in?**
->
+> 
 > “Opt-in” means the company does not collect, use, or share data for a given purpose until users explicitly signal that they want this to happen. “Opt-out” means the company uses the data for a specified purpose by default, but will cease doing so once the user tells the company to stop.
->
+> 
 > **For more:**
->
-> - Ghosh, Dipayan and Ben Scott, “Digital Deceit: The Technologies Behind Precision Propaganda on the Internet,” New America, January 2018, [https://www.newamerica.org/public-interest-technology/policy-papers/digitaldeceit/](https://www.newamerica.org/public-interest-technology/policy-papers/digitaldeceit/).
->
-> - See the 2018 Index glossary at: [https://rankingdigitalrights.org/2018-indicators/#optionstocontrol](https://rankingdigitalrights.org/2018-indicators/#optionstocontrol).
+> 
+> - Dipayan Ghosh and Ben Scott, “Digital Deceit: The Technologies Behind Precision Propaganda on the Internet,” New America, January 2018, [https://www.newamerica.org/public-interest-technology/policy-papers/digitaldeceit/](https://www.newamerica.org/public-interest-technology/policy-papers/digitaldeceit/).
 
 Despite significant public concerns regarding the invasive nature of of social media platforms’ advertising tools, **[Facebook](/companies/facebook)** provided users with only limited options to control the use of their information for targeted advertising. Furthermore, for both Facebook, the social networking platform, and Facebook’s Messenger service, the company disclosed that it may always use information such as age and gender to present users with advertising.[[56]](#footnotes)
 
 **[Mail.Ru](/companies/mailru)** disclosed slightly more than Facebook regarding the options users have to control the collection of their information and to delete some of it. At the same time, the Russian company was the only internet and mobile ecosystem company not to reveal anything about how users can control the use of their information for advertising purposes.
 
-Most internet and mobile ecosystem companies clearly disclose at least some options users have to control how their information is used for targeted advertising, implying it is *on* by defauly. None disclosed that targeted advertising was *off* by default.
+Most internet and mobile ecosystem companies clearly disclosed at least some options users have to control how their information is used for targeted advertising, implying it is *on* by default. None disclosed that targeted advertising was *off* by default.
 
 ## 5.4. Tracking users ## {#section-54}
 
