@@ -6,7 +6,7 @@ prev:
   href: company-report-cards
   text: Company Report Cards
 footnotes:
-  '<p class="footnotes"><span>[108]</span> “2018 Companies,” Ranking Digital Rights, <a href="https://rankingdigitalrights.org/2018-companies/>https://rankingdigitalrights.org/2018-companies/"</a>.</p>
+  '<p class="footnotes"><span>[108]</span> “2018 Companies,” Ranking Digital Rights, <a href="https://rankingdigitalrights.org/2018-companies/">https://rankingdigitalrights.org/2018-companies/</a>.</p>
   <p class="footnotes"><span>[109]</span> Figures as of December 31, 2017. "World Internet Users Statistics and 2018 World Population Stats," Internet World Stats, accessed March 19, 2018, <a href="https://www.internetworldstats.com/stats.htm">https://www.internetworldstats.com/stats.htm</a>.</p>'
 
 ---
