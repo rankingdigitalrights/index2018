@@ -9,7 +9,7 @@ next:
 
 # Acknowledgments
 
-**Ranking Digital Rights (RDR) staff:**
+**[Ranking Digital Rights (RDR) staff:](https://rankingdigitalrights.org/who/)**
 
 Rebecca MacKinnon, Director
 Amy Brouillette, Senior Research and Editorial Manager
@@ -31,7 +31,7 @@ Shazeda Ahmed, Amanda Alemán Angelini, Opeyemi Akanbi, Riyadh Al-Balushi, Joan 
 
 **Advisory Council:** We are also grateful for the support and advice of our advisory council members, listed at [https://rankingdigitalrights.org/who/advisory-council/](https://rankingdigitalrights.org/who/advisory-council/).
 
-**Special thanks:** Matt Barg, Sustainalytics; Chris Ritzo, Senior Technologist at Open Technology Institute. Thanks also to Melissa Brown, Dipayan Ghosh, Priya Kumar, Bennett Freeman, Nathalie Maréchal, Carly Nyst, Tatevik Sargsyan, and Andi Wilson for providing valuable feedback about this report.  
+**Special thanks:** Matt Barg, Sustainalytics; Chris Ritzo, Senior Technologist at Open Technology Institute. Thanks also to Melissa Brown, Dipayan Ghosh, Priya Kumar, Bennett Freeman, Nathalie Maréchal, Carly Nyst, Tatevik Sargsyan, Liz Woolery and Andi Wilson for providing valuable feedback about this report.  
 
 **Funders**
 The 2018 Corporate Accountability Index was supported by the following funders:
