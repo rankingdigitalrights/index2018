@@ -223,8 +223,7 @@ The following elements apply only to mobile ecosystems:
 
 - Figure 4. Comprehensiveness of human rights impact assessments (G4)
 
-- Figure 5. How transparent are companies about their internal
-security measures (P13-P15)?
+- Figure 5. How transparent are companies about their internal security measures (P13-P15)?
 
 - Figure 6. How transparent are companies about policies for responding to data breaches (P15)?
 
