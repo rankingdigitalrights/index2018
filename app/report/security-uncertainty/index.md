@@ -52,7 +52,8 @@ The 2018 Index data revealed the following trends:
 Nonetheless, five companies—**[Airtel India (Bharti Airtel)](/index2018/companies/bhartiairtel), [Celcom (Axiata)](/index2018/companies/axiata), [Etisalat UAE](/index2018/companies/etisalat), [Orange France](/index2018/companies/orange),** and **[Tencent](/index2018/companies/tencent)**—improved their disclosure of security oversight policies and practices **[(P13)](/index2018/indicators/p13)**. Celcom (Axiata) and Orange France both made clearer commitments to conduct security audits, and Airtel India (Bharti Airtel) and Etisalat UAE published more detailed information about steps they take to limit and monitor employee access to user information. Tencent also clarified how the company limits employee access to WeChat user information, though it did not disclose any mechanisms in place to ensure these policies are enforced.
 
 - **Companies lacked clarity about how they handle security vulnerabilities.** While internet and mobile ecosystem companies were more transparent than telecommunications companies about their processes for addressing security vulnerabilities, all companies lacked clarity about their policies and processes **[(P14)](/index2018/indicators/p14)**. No company made any improvements to their disclosure of their approaches to dealing with security vulnerabilities in the 2018 Index (see [Section 4.4](/index2018/report/security-uncertainty#section-44)).
-&nbsp;
+
+- 
 
 ## 4.2. Handling of data breaches ## {#section-42}
 
@@ -68,7 +69,7 @@ Even if there is a legal requirement to notify affected individuals, the exact d
 
 > **Communicating about data breaches: What do we expect companies to disclose?**
 > &nbsp;                                                                                                                                                 
->**[Indicator P15](index2018/companies/p15)** contains three elements evaluating company disclosure of policies for responding to and communicating about data breaches.
+>**[Indicator P15](/index2018/companies/p15)** contains three elements evaluating company disclosure of policies for responding to and communicating about data breaches.
 > &nbsp;                                                                                                                                                            
 > - **Element 1: Does the company clearly disclose that it will notify the relevant authorities without undue delay when a data breach occurs?** Legally, companies are often required to notify the relevant authorities when a data breach occurs. This element does not focus on whether companies disclose the specifics of which authorities they will notify, since this may vary from jurisdiction to jurisdiction, but rather whether companies commit to notify the designated authority as soon as possible.
 >
