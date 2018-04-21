@@ -51,7 +51,7 @@ The 2018 Index data revealed the following trends:
 
 - Nonetheless, five companies—**[Airtel India (Bharti Airtel)](/companies/bhartiairtel), [Celcom (Axiata)](/companies/axiata), [Etisalat UAE](/companies/etisalat), [Orange France](/companies/orange),** and **[Tencent](/companies/tencent)**—improved their disclosure of security oversight policies and practices **[(P13)](/indicators/p13)**. Celcom (Axiata) and Orange France both made clearer commitments to conduct security audits, and Airtel India (Bharti Airtel) and Etisalat UAE published more detailed information about steps they take to limit and monitor employee access to user information. Tencent also clarified how the company limits employee access to WeChat user information, though it did not disclose any mechanisms in place to ensure these policies are enforced.
 
-- **Companies lacked clarity about how they handle security vulnerabilities.** While internet and mobile ecosystem companies were more transparent than telecommunications companies about their processes for addressing security vulnerabilities, all companies lacked clarity about their policies and processes **[(P14)](/indicators/p14)**. No company made any improvements to their disclosure of their approaches to dealing with security vulnerabilities in the 2018 Index (see Section 4.4).
+- **Companies lacked clarity about how they handle security vulnerabilities.** While internet and mobile ecosystem companies were more transparent than telecommunications companies about their processes for addressing security vulnerabilities, all companies lacked clarity about their policies and processes **[(P14)](/indicators/p14)**. No company made any improvements to their disclosure of their approaches to dealing with security vulnerabilities in the 2018 Index (see [Section 4.4](/report/security-uncertainty#section-44)).
 
 ## 4.2. Handling of data breaches ## {#section-42}
 
@@ -88,7 +88,7 @@ As Figure 6 illustrates, most of the 22 companies in the Index failed to provide
 
 ## 4.3. Security oversight ## {#section-43}
 
-Most companies lack transparency about their security oversight policies and practices, including whether they limit employee access to user information.
+**Most companies lack transparency about their security oversight policies and practices, including whether they limit employee access to user information.**
 
 While most data breaches can and do occur as a result of malicious actors and external threats, many also stem from poor internal security oversight.[[39]](#footnotes) Research shows that the security issues posed by so-called “insider threats” are as serious a problem as those posed by external threats.[[40]](#footnotes)
 
@@ -135,10 +135,13 @@ Companies can benefit from the knowledge and skills of others, including securit
 By outlining clear processes for researchers to submit security vulnerabilities, companies can ensure that these reports reach the right people in a timely manner. Offering positive recognition and financial rewards (“bug bounty”) is a way to further incentivize security researchers by recognizing their work, and to demonstrate that the company values these reports as part of implementing its commitment to user security.
 
 > ## What is a bug bounty program?
-A bug bounty program is one example of a security vulnerability reporting mechanism that allows security researchers to submit “bugs,” or code errors, with an emphasis on reporting security vulnerabilities that can be exploited. Bug bounty programs recognize and reward researchers for submitting these vulnerabilities, including with financial compensation.
-In the absence of a clearly defined vulnerability reporting mechanism such as a bug bounty program, individuals may not know how, or if, they can report these issues to the company. This is a security liability: vulnerabilities can remain unpatched and can be exploited if discovered by malicious actors. Lack of a clear policy could also expose individuals to criminal charges of hacking or computer crimes simply for making a good faith effort to report security issues.[[46]](#footnotes)
-Lawsuits against journalists and security researchers for reporting vulnerabilities can also deter individuals from reporting security vulnerabilities to a company for fear of being sued or criminally charged.[[47]](#footnotes) If a company does not commit not to pursue legal charges, individuals may be discouraged from notifying a company of vulnerabilities, even through its disclosed reporting mechanism.
-**Further reading:**
+> A bug bounty program is one example of a security vulnerability reporting mechanism that allows security researchers to submit “bugs,” or code errors, with an emphasis on reporting security vulnerabilities that can be exploited. Bug bounty programs recognize and reward researchers for submitting these vulnerabilities, including with financial compensation.
+> 
+> In the absence of a clearly defined vulnerability reporting mechanism such as a bug bounty program, individuals may not know how, or if, they can report these issues to the company. This is a security liability: vulnerabilities can remain unpatched and can be exploited if discovered by malicious actors. Lack of a clear policy could also expose individuals to criminal charges of hacking or computer crimes simply for making a good faith effort to report security issues.[[46]](#footnotes)
+>
+> Lawsuits against journalists and security researchers for reporting vulnerabilities can also deter individuals from reporting security vulnerabilities to a company for fear of > being sued or criminally charged.[[47]](#footnotes) If a company does not commit not to pursue legal charges, individuals may be discouraged from notifying a company of vulnerabilities, even through its disclosed reporting mechanism.
+>
+> **Further reading:**
 Andi Wilson, Ross Schulman, Kevin Bankston, and Trey Herr, “Bugs In the System: A Primer on the Software Vulnerability Ecosystem and its Policy Implications,” Open Technology Institute, July 2016, [https://na-production.s3.amazonaws.com/documents/Bugs-in-the-System-Final.pdf](https://na-production.s3.amazonaws.com/documents/Bugs-in-the-System-Final.pdf).
 
 Index data showed that all internet and mobile ecosystem companies in the 2018 Index disclosed some type of mechanism allowing researchers to report security vulnerabilities, although these programs ranged in their accessibility and comprehensiveness.
