@@ -69,7 +69,7 @@ Most companies evaluated in the Index made progress over the last year: 17 of th
 
 **[Baidu](/index2018/companies/baidu) and [Tencent](/index2018/companies/tencent), the Chinese internet companies in the Index, both made meaningful improvements.** Baidu made notable improvements to its disclosure of what user information it collects, shares, and retains. Tencent (which kept its substantial lead over Baidu) also made improvements to its disclosure of privacy, security, and terms of service policies. In the 2017 Index, we published an analysis of the Chinese company results and identified areas where these companies can improve even within their home country’s challenging regulatory and political environment.[[18]](#footnotes) The 2018 Index results showed that Chinese companies can and indeed do compete with one another to show respect for users’ rights in areas that do not involve government censorship and surveillance requirements.
 
-> For details on year-on-year changes for each company, see: [https://rankingdigitalrights.org/index2018/compare](/compare).
+> For details on year-on-year changes for each company, see: [https://rankingdigitalrights.org/index2018/compare](/index2018/compare).
 
 **[Telefónica](/index2018/companies/telefonica) earned the biggest score change in the telecommunications category.** The company increased its governance score by almost 20 percentage points by joining GNI and strengthening its corporate-level commitments, mechanisms, and processes for implementing those commitments across its business. Its overall score was further boosted by improvements to its transparency reporting on government and private requests to block content and for user information.
 
