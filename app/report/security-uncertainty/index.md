@@ -66,16 +66,15 @@ However, while many jurisdictions legally require companies to notify relevant a
 Even if there is a legal requirement to notify affected individuals, the exact definition of “affected individuals” can also vary significantly in different jurisdictions. However, regardless of whether the law is clear or comprehensive, companies that respect users’ rights should clearly disclose when and how they will notify individuals who have been affected, or have likely been affected, by a data breach.
 
 > **Communicating about data breaches: What do we expect companies to disclose?**
-> 
->                                                                                                                                                                               
+> &nbsp;                                                                                                                                                 
 >**[Indicator P15](index2018/companies/p15)** contains three elements evaluating company disclosure of policies for responding to and communicating about data breaches.
->                                                                                                                                                                       
+> &nbsp;                                                                                                                                                            
 > - **Element 1: Does the company clearly disclose that it will notify the relevant authorities without undue delay when a data breach occurs?** Legally, companies are often required to notify the relevant authorities when a data breach occurs. This element does not focus on whether companies disclose the specifics of which authorities they will notify, since this may vary from jurisdiction to jurisdiction, but rather whether companies commit to notify the designated authority as soon as possible.
 >
 > - **Element 2: Does the company clearly disclose its process for notifying data subjects who might be affected by a data breach?** Companies should commit to notifying affected individuals as soon as possible and fully disclose what information of theirs was exposed.
 >
 > - **Element 3: Does the company clearly disclose what kinds of steps it will take to address the impact of a data breach on its users?** Although a company’s specific response will vary depending on the nature of the breach, the company should provide examples of what kinds of steps it will take internally to secure its data and commit to notifying affected individuals of steps they can take to mitigate risk or damage.
->                                                                                                                                           
+> &nbsp;                                                                                                                                         
 > See 2018 Index methodology at: [https://rankingdigitalrights.org/2018-indicators/#P15](https://rankingdigitalrights.org/2018-indicators/#P15).
 
 Since the 2017 Index there has been only minor progress. **[Apple](/index2018/companies/apple)** joined **[AT&T](/index2018/companies/att)**, **[Telefónica](/index2018/companies/telefonica)**, and **[Vodafone](/index2018/companies/vodafone)** as the only companies to disclose any information about their policies and practices for responding to data breaches.
