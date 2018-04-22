@@ -4,7 +4,7 @@ header: Narrative
 
 prev:
   href: acknowledgements
-  text: Acknowledgements
+  text: Acknowledgments
 next:
   href: about-index
   text: About the Index
