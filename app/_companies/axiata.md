@@ -9,7 +9,7 @@ company_type: Telecommunications company
 display: Axiata Group Berhad
 headquarters: Malaysia
 link: https://www.axiata.com
-download: https://rankingdigitalrights.org/assets/static/download/Axiata.pdf
+download: https://rankingdigitalrights.org/index2018/assets/static/download/Axiata.pdf
 operating: Celcom
 
 telco: true
@@ -24,11 +24,11 @@ key_findings:
 
 services_evaluated:
 - item:
-  key: pre-paid mobile
+  key: Pre-paid mobile
   key_href: prepostpaidmobile
   name: Celcom
 - item:
-  key: post-paid mobile
+  key: Post-paid mobile
   key_href: prepostpaidmobile
   name: Celcom
 
