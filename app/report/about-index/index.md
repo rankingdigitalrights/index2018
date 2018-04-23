@@ -18,6 +18,8 @@ footnotes:
 
 # About the Ranking Digital Rights Corporate Accountability Index
 
+<img src="{{ site.baseurl }}/assets/graphics/content/Reportcoverweb.png" alt="cover" title="cover" align="left" />
+
 Ranking Digital Rights (RDR) produces a Corporate Accountability Index that ranks the world’s most powerful internet, mobile, and telecommunications companies on their public commitments and disclosed policies affecting users’ freedom of expression and privacy. The Index is a standard-setting tool aimed at encouraging companies to abide by international human rights principles and standards for safeguarding freedom of expression and privacy.
 
 The standards the Index uses to evaluate companies build on more than a decade of work by the human rights, privacy, and security communities. These standards include the U.N. Guiding Principles on Business and Human Rights,[[4]](#footnotes) which affirm that while governments have a duty to protect human rights, companies have a responsibility to respect human rights. The Index also builds on the Global Network Initiative principles[[5]](#footnotes) and implementation guidelines,[[6]](#footnotes) which address ICT companies’ specific responsibilities towards freedom of expression and privacy in the face of government demands to restrict content or hand over user information. The Index further draws on a body of emerging global standards and norms around data protection, security, and access to information. The Index data and analysis inform the work of human rights advocates, policymakers, and responsible investors, and are used by companies to improve their own policies and practices.
