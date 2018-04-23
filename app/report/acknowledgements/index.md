@@ -21,7 +21,7 @@ Afef Abrougui, Corporate Accountability Editor
 
 We wish to thank Nat Meysenburg at Open Technology Institute for his input on the 2018 Index methodology. We also wish to acknowledge former Ranking Digital Rights team members for their work in developing the 2015 and 2017 Index methodologies: Priya Kumar, Research Analyst; Allon Bar, Policy and Engagement Manager; Nathalie Maréchal, Senior Research Fellow; Revati Prasad, PhD candidate, Annenberg School for Communication, University of Pennsylvania.
 
-**Contributing researchers**
+**[Contributing researchers:](https://rankingdigitalrights.org/who/affiliates/)**
 
 Shazeda Ahmed, Amanda Alemán Angelini, Opeyemi Akanbi, Riyadh Al-Balushi, Joan Barata, Alex Comninos, Luis Fernando García Muñoz, Elonnai Hickok, Sergei Hovyadinov, Kelly Kim, Shabina S. Khatri, Danielle Kehl, Priya Kumar, Tetyana Lokot, Carly Nyst, Gisela Pérez de Acha, Léa Richard, Tatevik Sargsyan, Mariam Al Shafie, Mingli Shi, Jiwon Son, Ann Spanger, Hu Yong, Joseph Yoo, Benjamin Zhou.
 
