@@ -8,7 +8,7 @@ id: etisalat
 company_type: Telecommunications company
 display: Etisalat Limited
 headquarters: UAE
-link: https://www.etisalat.ae
+link: https://www.etisalat.com
 download: https://rankingdigitalrights.org/index2018/assets/static/download/Etisalat.pdf
 operating: Etisalat UAE
 
