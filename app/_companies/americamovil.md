@@ -8,7 +8,7 @@ id: americamovil
 company_type: Telecommunications company
 display: América Móvil, S.A.B. de C.V.
 headquarters: Mexico
-link: https://www.americamovil.com/
+link: https://www.americamovil.com
 download: https://rankingdigitalrights.org/index2018/assets/static/download/AmericaMovil.pdf
 operating: Telcel
 
