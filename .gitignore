@@ -7,7 +7,8 @@ node_modules
 app/assets/bower_components
 _site
 .tmp
-npm-debug.log
+*.log
+yarn.lock
 
 # Local
 .resources
