@@ -1,2 +1,7 @@
 # Dev environment overrides.
-baseurl: 
+baseurl: https://rankingdigitalrights.org/index2018-stg
+exclude:
+  - assets/scripts
+  - assets/styles
+  - assets/templates
+  - bin
