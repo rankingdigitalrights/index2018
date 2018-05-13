@@ -12,8 +12,7 @@ cache:
   - node_modules
   - bundle/cache
 before_install:
-- openssl aes-256-cbc -K $encrypted_487b6f3d6c7c_key -iv $encrypted_487b6f3d6c7c_iv
-  -in rdr2018.enc -out rdr2018 -d
+- openssl aes-256-cbc -K $encrypted_eb7688b5aa49_key -iv $encrypted_eb7688b5aa49_iv -in rdr2018.enc -out rdr2018 -d
 - chmod 400 rdr2018
 - chmod +x ./.build_scripts/deploy.sh
 - chmod +x ./.build_scripts/build.sh

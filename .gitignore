@@ -9,6 +9,7 @@ _site
 .tmp
 *.log
 yarn.lock
+rdr2018
 
 # Local
 .resources
