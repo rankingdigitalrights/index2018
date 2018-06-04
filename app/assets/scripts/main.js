@@ -152,9 +152,11 @@ $(window).load(function () {
   }
 
   // share feature
-  document.getElementById('linkToCopy').innerHTML = window.location;
-  $('#CopyToClipboard').click(function () {
-    document.getElementById('linkToCopy').select();
-    document.execCommand('copy');
-  });
+  // Christo: The copy link button is disabled in the index2018, the following
+  //          snippet throws therefore an error.
+  // document.getElementById('linkToCopy').innerHTML = window.location;
+  // $('#CopyToClipboard').click(function () {
+  //   document.getElementById('linkToCopy').select();
+  //   document.execCommand('copy');
+  // });
 });
