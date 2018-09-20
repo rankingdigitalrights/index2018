@@ -11,7 +11,7 @@ intro:
  - The 2018 report [pdf]({{ site.baseurl }}/assets/static/download/RDRindex2018report.pdf)
  - Indicators and research guidance [pdf]({{ site.baseurl }}/assets/static/download/RDRindex2018indicators.pdf)
  - 4-page highlights [pdf]({{ site.baseurl }}/assets/static/download/RDR-4Pager2018.pdf)
-<br />
+ - 
 2018 Translated Company Report Cards and 4-Pagers:
 
  - Arabic 4-Pager [pdf]({{ site.baseurl }}/assets/static/download/RDR2018_4pager_arabic.pdf)
@@ -25,8 +25,8 @@ intro:
  - Russian 4-Pager [pdf]({{ site.baseurl }}/assets/static/download/RDR2018_4pager_russian.pdf)
  - Russian Company Report Cards: [Mail.ru]({{ site.baseurl }}/assets/static/download/mail_ru_russian.pdf) and [Yandex]({{ site.baseurl }}/assets/static/download/yandex_russian.pdf)
  - Spanish 4-Pager [pdf]({{ site.baseurl }}/assets/static/download/RDR2018_4pager_spanish.pdf)
- - Spanish Company Report Cards: [América Móvil]({{ site.baseurl }}/assets/static/download/america_movil_spanish.pdf) and [Telefónica]({{ site.baseurl }}/assets/static/download/telefonica_spanish.pdf)
-<br />
+ - Spanish Company Repor Cards: [América Móvil]({{ site.baseurl }}/assets/static/download/america_movil_spanish.pdf) and [Telefónica]({{ site.baseurl }}/assets/static/download/telefonica_spanish.pdf)
+
 2017 Data and Report:
 
  - 2017 Full data [excel]({{ site.baseurl }}/assets/static/download/RDRindex2017data.xlsx)
