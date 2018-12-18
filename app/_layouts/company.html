@@ -46,12 +46,11 @@
                   {{ page.link }}
                 </a>
               </div>
-
+<!-- Download Link(s) -->
               <div class="comp--sub_download">
                 <label>Download:</label>
-                <a href="{{ page.download }}" target="_blank">
-                  Download company report
-                </a>
+                <a href="{{ page.download }}" target="_blank">Company report [EN]</a>
+                {% if page.download_native_file %}|&nbsp;<a href="{{ page.download_native_file }}" target="_blank">{{ page.download_native_label }}</a>{% endif %}
               </div>
 
               {% if page.operating %}
