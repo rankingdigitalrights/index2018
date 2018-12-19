@@ -9,7 +9,9 @@ company_type: Internet and Mobile Ecosystem Companies
 display: Kakao Corp.
 headquarters: South Korea
 link: https://www.kakao.com/
-download: https://rankingdigitalrights.org/index2018/assets/static/download/Kakao.pdf
+download: /index2018/assets/static/download/Kakao.pdf
+download_native_file: /index2018/assets/static/download/kakao_korean.pdf
+download_native_label: 한국어
 
 telco: false
 
