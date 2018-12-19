@@ -9,7 +9,10 @@ company_type: Telecommunications company
 display: Ooredoo Q.S.C.
 headquarters: Qatar
 link: https://www.ooredoo.qa/
-download: https://rankingdigitalrights.org/index2018/assets/static/download/Ooredoo.pdf
+download: /index2018/assets/static/download/Ooredoo.pdf
+download_native_file: /index2018/assets/static/download/ooredoo_arabic.pdf
+download_native_label: العربية
+
 operating: Ooredoo Qatar
 
 telco: true

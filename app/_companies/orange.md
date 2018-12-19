@@ -9,7 +9,10 @@ company_type: Telecommunications company
 display: Orange
 headquarters: France
 link: https://www.orange.com
-download: https://rankingdigitalrights.org/index2018/assets/static/download/Orange.pdf
+download: /index2018/assets/static/download/Orange.pdf
+download_native_file: /index2018/assets/static/download/orange_french.pdf
+download_native_label: Français
+
 operating: Orange France
 
 telco: true

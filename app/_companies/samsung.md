@@ -9,7 +9,9 @@ company_type: Internet and Mobile Ecosystem Companies
 display: Samsung Electronics Co. Ltd.
 headquarters: South Korea
 link: https://www.samsung.com
-download: https://rankingdigitalrights.org/index2018/assets/static/download/Samsung.pdf
+download: /index2018/assets/static/download/Samsung.pdf
+download_native_file: /index2018/assets/static/download/samsung_korean.pdf
+download_native_label: 한국어
 
 telco: false
 

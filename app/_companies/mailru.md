@@ -10,6 +10,8 @@ display: Mail.Ru Group Limited
 headquarters: Russia
 link: http://corp.mail.ru
 download: http://rankingdigitalrights.org/index2018/assets/static/download/MailRu.pdf
+download_native_file: /index2018/assets/static/download/mail_ru_russian.pdf
+download_native_label: Русский
 
 telco: false
 

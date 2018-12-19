@@ -9,7 +9,9 @@ company_type: Internet and Mobile Ecosystem Companies
 display: Tencent Holdings Limited
 headquarters: China
 link: https://www.tencent.com
-download: https://www.rankingdigitalrights.org/index2018/assets/static/download/Tencent.pdf
+download: /index2018/assets/static/download/Tencent.pdf
+download_native_file: /index2018/assets/static/download/tencent_chinese.pdf
+download_native_label: 简体中文
 
 telco: false
 
