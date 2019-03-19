@@ -123,7 +123,7 @@ gulp.task('styles', function() {
     .pipe(sass({
       outputStyle: 'nested', // libsass doesn't support expanded yet
       precision: 10,
-      includePaths: require('node-neat').includePaths,
+      includePaths: require('node-bourbon').includePaths.concat(require('node-neat').includePaths),
       onError: console.error.bind(console, 'Sass error:')
     }))
     .pipe(sourcemaps.write())
@@ -157,11 +157,22 @@ gulp.task('jekyll', function (done) {
 });
 
 ////////////////////////////////////////////////////////////////////////////////
+//------------------------- Environment tasks --------------------------------//
+//----------------------------------------------------------------------------//
+
+gulp.task('site', gulp.series('jekyll', 'javascript', 'styles'));
+gulp.task('copy', gulp.series('copy:assets'));
+
+// Main build task
+// Builds the site. Destination --> _site
+gulp.task('build', gulp.series('site', 'copy'));
+
+////////////////////////////////////////////////////////////////////////////////
 //--------------------------- Callable tasks ---------------------------------//
 //----------------------------------------------------------------------------//
 
 // Builds the website, watches for changes and starts browserSync.
-gulp.task('serve', ['build'], function() {
+gulp.task('serve', gulp.series('build', function() {
   browserSync({
     port: 3000,
     server: {
@@ -180,42 +191,36 @@ gulp.task('serve', ['build'], function() {
     runSequence('jekyll', 'copy:assets', browserReload);
   });
 
-});
-
-////////////////////////////////////////////////////////////////////////////////
-//------------------------- Environment tasks --------------------------------//
-//----------------------------------------------------------------------------//
-
-// Main build task
-// Builds the site. Destination --> _site
-gulp.task('build', function(done) {
-  runSequence(['jekyll', 'javascript', 'styles'], ['copy:assets'], done);
-});
+}));
 
 // Default task.
 // Builds the website, watches for changes and starts browserSync.
-gulp.task('default', function(done) {
-  runSequence('build', function() {
-    process.exit(0);
-    done();
-  });
-});
+gulp.task('default', gulp.series('build', function(done) {
+  done();
+  process.exit(0);
+}));
 
-gulp.task('prod', function(done) {
-  environment = 'production';
-  runSequence('build', function() {
-    process.exit(0);
+gulp.task('prod', gulp.series(
+  function(done) {
+    environment = 'production';
     done();
-  });
-});
+  },
+  'build',
+  function(done) {
+    done();
+    process.exit(0);
+  }));
 
-gulp.task('stage', function(done) {
-  environment = 'stage';
-  runSequence('build', function() {
-    process.exit(0);
+gulp.task('stage', gulp.series(
+  function(done) {
+    environment = 'stage';
     done();
-  });
-});
+  },
+  'build',
+  function(done) {
+    done();
+    process.exit(0);
+  }));
 
 gulp.task('limit', function(done) {
   if (process.argv[3] == '-n') {

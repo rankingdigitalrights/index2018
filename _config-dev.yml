@@ -1,5 +1,5 @@
 # Dev environment overrides.
-baseurl: http://localhost:3000
+baseurl: http://localhost:3000/
 
 exclude:
   - assets/scripts
