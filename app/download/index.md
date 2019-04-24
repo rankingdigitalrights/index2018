@@ -7,7 +7,7 @@ published: true
 intro:
 ---
 
- - 2018 Full data [excel]({{ site.baseurl }}/assets/static/download/RDRindex2018data.xlsx)
+ - 2018 Full data [excel]({{ site.baseurl }}/assets/static/download/RDRindex2018data.xlsx) / [zipped csv]({{ site.baseurl }}/assets/static/download/RDRindex2018data_csv.zip) 
  - The 2018 report [pdf]({{ site.baseurl }}/assets/static/download/RDRindex2018report.pdf)
  - Indicators and research guidance [pdf]({{ site.baseurl }}/assets/static/download/RDRindex2018indicators.pdf)
  - 4-page highlights [pdf]({{ site.baseurl }}/assets/static/download/RDR-4Pager2018.pdf)
