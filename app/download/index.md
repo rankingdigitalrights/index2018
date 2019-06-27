@@ -2,7 +2,7 @@
 layout: download
 visualization: none
 entity: downloads
-header: Download the Data and Documents
+header: Download the data and documents
 published: true
 intro:
 ---
