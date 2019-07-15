@@ -60,8 +60,7 @@ module.exports = BaseChart.extend({
       .style('text-anchor', 'end')
       .attr('transform', 'rotate(-35)')
       .on('click', function (d) {
-        var href = d.toLowerCase().replace('&', '')
-          .replace('.', '').replace(' ', '');
+        var href = d.toLowerCase().replace('&', '').replace('.', '').replace(' ', '').replace('ó', 'o').replace('é', 'e');
         window.location.href = baseurl + '/companies/' + href;
       });
 
