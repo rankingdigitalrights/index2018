@@ -23,6 +23,7 @@ baseurl: https://rankingdigitalrights.org/index2018
 paginate: 40
 kramdown:
   input: GFM
+plugins: [jekyll-paginate]
 
 # SEO defaults:
 name: Ranking digital rights

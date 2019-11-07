@@ -1,5 +1,6 @@
 # Dev environment overrides.
 baseurl: https://rankingdigitalrights.org/index2018-stg
+
 exclude:
   - assets/scripts
   - assets/styles
